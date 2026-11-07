@@ -41,7 +41,7 @@
     padding: 16px 16px 8px;
     border-bottom: 1px solid var(--line);
   }
-  .wrap { max-width: 900px; margin: 0 auto; }
+  .wrap { max-width: 1000px; margin: 0 auto; }
   h1 { margin: 0 0 10px; font-size: 1.6rem; }
   h1 span { color: var(--accent); }
   .row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
@@ -54,28 +54,28 @@
     font: inherit; cursor: pointer; border: none; border-radius: 10px;
     padding: 10px 14px; background: var(--accent); color: #fff; font-weight: 600;
   }
-  .chips { margin-top: 10px; display: flex; gap: 6px; overflow-x: auto; padding-bottom: 4px; }
+  .chips { margin-top: 10px; display: flex; gap: 6px; overflow-x: auto; padding-bottom: 4px; align-items: center; }
   .chip {
     background: var(--card); color: var(--text); border: 1px solid var(--line);
     font-weight: 500; white-space: nowrap; padding: 7px 12px;
   }
   .chip.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+  .toggle { display: flex; align-items: center; gap: 6px; font-size: .9rem; color: var(--muted); white-space: nowrap; margin-left: 4px; }
   main { padding: 16px; }
   .count { color: var(--muted); font-size: .9rem; margin-bottom: 10px; }
-  .grid { display: grid; gap: 14px; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); }
+  .grid { display: grid; gap: 14px; grid-template-columns: repeat(auto-fill, minmax(270px, 1fr)); }
   .card {
     background: var(--card); border: 1px solid var(--line); border-radius: var(--radius);
     padding: 16px; display: flex; flex-direction: column; gap: 8px;
   }
   .card.highlight { outline: 3px solid var(--accent); }
   .card-head { display: flex; justify-content: space-between; gap: 8px; align-items: flex-start; }
-  .card h2 { margin: 0; font-size: 1.15rem; }
-  .fav {
-    background: none; color: var(--muted); padding: 0 4px; font-size: 1.4rem; line-height: 1;
-  }
+  .card h2 { margin: 0; font-size: 1.12rem; }
+  .fav { background: none; color: var(--muted); padding: 0 4px; font-size: 1.4rem; line-height: 1; }
   .fav.on { color: var(--accent); }
   .tags { display: flex; gap: 6px; flex-wrap: wrap; }
   .tag { background: var(--accent-soft); color: var(--text); font-size: .78rem; padding: 3px 8px; border-radius: 999px; }
+  .tag.s { background: transparent; border: 1px dashed var(--accent); }
   .desc { margin: 0; }
   .material { font-size: .9rem; color: var(--muted); margin: 0; }
   .links { display: flex; gap: 8px; flex-wrap: wrap; margin-top: auto; padding-top: 6px; }
@@ -85,6 +85,7 @@
   }
   .source { font-size: .78rem; color: var(--muted); }
   .empty { text-align: center; color: var(--muted); padding: 40px 0; }
+  .more { display: block; margin: 20px auto 0; }
   footer { text-align: center; font-size: .8rem; color: var(--muted); padding: 24px 16px 40px; }
 </style>
 </head>
@@ -94,14 +95,15 @@
   <div class="wrap">
     <h1>Kreativ-<span>Games</span></h1>
     <div class="row">
-      <input type="search" id="search" placeholder="Suchen (z. B. Luftballon, Papier) …">
-      <select id="age" aria-label="Alter">
+      <input type="search" id="search" placeholder="Suchen (z. B. Luftballon, Ostern, Pappteller) …">
+      <select id="age" aria-label="Alter des Kindes">
         <option value="0">Jedes Alter</option>
-        <option value="3">ab 3</option>
-        <option value="4">ab 4</option>
-        <option value="5">ab 5</option>
-        <option value="6">ab 6</option>
-        <option value="8">ab 8</option>
+        <option value="3">für 3 Jahre</option>
+        <option value="4">für 4 Jahre</option>
+        <option value="5">für 5 Jahre</option>
+        <option value="6">für 6 Jahre</option>
+        <option value="8">für 8 Jahre</option>
+        <option value="10">für 10+ Jahre</option>
       </select>
       <button id="random">🎲 Zufallsidee</button>
     </div>
@@ -112,146 +114,23 @@
 <main class="wrap">
   <div class="count" id="count"></div>
   <div class="grid" id="grid"></div>
+  <button class="more" id="more" hidden>Mehr anzeigen</button>
 </main>
 
 <footer>
-  Beschreibungen sind eigene Texte. Anleitungen, Bilder und Videos liegen bei den jeweils verlinkten Quellen.
+  Beschreibungen sind eigene Kurztexte. Anleitungen, Bilder und Videos liegen bei den verlinkten Quellen.<br>
+  Altersangaben sind Richtwerte. Bei Kerzen, Heißkleber und Messern hilft ein Erwachsener.
 </footer>
 
+<script src="ideen.js"></script>
 <script>
-/* =========================================================
-   IDEEN – hier neue Einträge ergänzen.
-   kategorie: "Drinnen" | "Draußen" | "Basteln" | "Experiment"
-   abAlter:   Zahl (Mindestalter)
-   anleitung: Link zur Seite mit Anleitung/Bildern
-   video:     optional, Link zum Video (YouTube o. ä.)
-   quelle:    Name der Quelle
-   ========================================================= */
-const IDEEN = [
-  {
-    id: "topfschlagen",
-    name: "Topfschlagen",
-    kategorie: "Drinnen",
-    abAlter: 3,
-    spieler: "ab 2",
-    dauer: "10 Min.",
-    material: "Kochtopf, Kochlöffel, Augenbinde, kleine Überraschung",
-    beschreibung: "Unter einem umgedrehten Topf liegt eine kleine Überraschung. Ein Kind bekommt die Augen verbunden und krabbelt mit einem Kochlöffel durch den Raum. Die anderen rufen „kalt“, „warm“ oder „heiß“, je nachdem, wie nah es dem Topf ist. Wer den Topf mit dem Löffel trifft, darf die Überraschung behalten.",
-    anleitung: "https://www.kinderspiele-welt.de/kindergeburtstagsspiele-drinnen/topfschlagen.html",
-    video: "",
-    quelle: "kinderspiele-welt.de"
-  },
-  {
-    id: "rechter-platz",
-    name: "Mein rechter Platz ist leer",
-    kategorie: "Drinnen",
-    abAlter: 4,
-    spieler: "ab 5",
-    dauer: "10–15 Min.",
-    material: "Stühle (einer mehr als Mitspieler)",
-    beschreibung: "Alle sitzen im Stuhlkreis, ein Stuhl bleibt frei. Das Kind, neben dem rechts der Platz leer ist, sagt: „Mein rechter Platz ist leer, ich wünsche mir … her!“ Das gerufene Kind setzt sich auf den freien Platz. Jetzt ist an anderer Stelle ein Platz frei und das nächste Kind darf sich jemanden wünschen.",
-    anleitung: "https://www.kinderspiele-welt.de/kindergeburtstagsspiele-drinnen/mein-rechter-platz-ist-leer.html",
-    video: "",
-    quelle: "kinderspiele-welt.de"
-  },
-  {
-    id: "luftballontennis",
-    name: "Luftballontennis",
-    kategorie: "Drinnen",
-    abAlter: 4,
-    spieler: "ab 2",
-    dauer: "15 Min.",
-    material: "Luftballon, Schnur als Netz, evtl. Pappteller als Schläger",
-    beschreibung: "Quer durch den Raum wird eine Schnur als Netz gespannt. Zwei Kinder oder zwei Teams spielen sich einen Luftballon hin und her, mit der Hand oder mit Papptellern als Schläger. Fällt der Ballon auf der eigenen Seite auf den Boden, bekommt die andere Seite einen Punkt. Weil der Ballon langsam fliegt, klappt das auch schon mit Kleinen.",
-    anleitung: "https://www.kinderspiele-welt.de/mannschaftsspiele/luftballontennis.html",
-    video: "",
-    quelle: "kinderspiele-welt.de"
-  },
-  {
-    id: "luftballons-platzen",
-    name: "Luftballons platzen",
-    kategorie: "Drinnen",
-    abAlter: 5,
-    spieler: "ab 3",
-    dauer: "5–10 Min.",
-    material: "Luftballons, Schnur",
-    beschreibung: "Jedes Kind bekommt einen Luftballon mit einer Schnur ans Fußgelenk gebunden. Auf Los versucht jeder, die Ballons der anderen zu zertreten und den eigenen zu schützen. Wessen Ballon platzt, scheidet aus. Wer zuletzt noch einen ganzen Ballon hat, gewinnt. Laut – also vorher kurz Bescheid sagen.",
-    anleitung: "https://www.kinderspiele-welt.de/kindergeburtstagsspiele-drinnen/luftballons-platzen.html",
-    video: "",
-    quelle: "kinderspiele-welt.de"
-  },
-  {
-    id: "flaschen-drehen",
-    name: "Flaschen drehen",
-    kategorie: "Drinnen",
-    abAlter: 5,
-    spieler: "ab 3",
-    dauer: "15 Min.",
-    material: "Leere Flasche, Zettel mit Aufgaben oder Fragen",
-    beschreibung: "Alle sitzen im Kreis, in der Mitte liegt eine Flasche. Reihum wird sie gedreht. Auf wen der Flaschenhals zeigt, der zieht einen Zettel und erfüllt eine lustige Aufgabe oder beantwortet eine Frage. Die Aufgaben könnt ihr vorher gemeinsam ausdenken.",
-    anleitung: "https://www.kinderspiele-welt.de/kindergeburtstagsspiele-drinnen/flaschen-drehen.html",
-    video: "",
-    quelle: "kinderspiele-welt.de"
-  },
-  {
-    id: "schatzsuche",
-    name: "Schatzsuche",
-    kategorie: "Drinnen",
-    abAlter: 5,
-    spieler: "ab 1",
-    dauer: "20–40 Min.",
-    material: "Papier, Stifte, kleiner „Schatz“",
-    beschreibung: "Ein Erwachsener versteckt einen kleinen Schatz und legt eine Spur aus Hinweiszetteln. Jeder Zettel führt zum nächsten Versteck, etwa mit Rätseln, Bildern oder kleinen Aufgaben. Für Kinder, die noch nicht lesen, eignen sich gemalte Hinweise. Am Ende wartet der Schatz.",
-    anleitung: "https://www.kinderspiele-welt.de/kindergeburtstagsspiele-drinnen/kindergeburtstag-schatzsuche.html",
-    video: "",
-    quelle: "kinderspiele-welt.de"
-  },
-  {
-    id: "bewegliches-kueken",
-    name: "Bewegliches Küken",
-    kategorie: "Basteln",
-    abAlter: 4,
-    spieler: "ab 1",
-    dauer: "20–30 Min.",
-    material: "Papier, Schere, Kleber, Stifte",
-    beschreibung: "Aus Papier entsteht ein kleines Küken, das sich bewegen lässt. Die Bastelei ist einfach und eignet sich gut für gemeinsame Bastelstunden. Zur Quelle gehören ein Video und Fotos zu jedem Schritt. Passt besonders gut zu Ostern.",
-    anleitung: "https://www.tutkit.com/de/diy-deko-basteln/3471-bewegliches-kueken",
-    video: "",
-    quelle: "tutkit.com"
-  },
-  {
-    id: "papierbecher",
-    name: "Papierbecher falten",
-    kategorie: "Basteln",
-    abAlter: 5,
-    spieler: "ab 1",
-    dauer: "15–20 Min.",
-    material: "Papier, Stifte zum Verzieren",
-    beschreibung: "Aus einem Blatt Papier wird ein Becher gefaltet und danach lustig gestaltet. Zur Quelle gehören ein Video und Fotos zu jedem Faltschritt. Die Becher lassen sich als Spielzeug oder kleine Geschenkverpackung nutzen.",
-    anleitung: "https://www.tutkit.com/de/diy-deko-basteln/3472-diy-papierbecher-bastelanleitung",
-    video: "",
-    quelle: "tutkit.com"
-  },
-  {
-    id: "modolino-experimente",
-    name: "MINT-Experimente mit Haushaltsmaterial",
-    kategorie: "Experiment",
-    abAlter: 3,
-    spieler: "ab 1",
-    dauer: "15–60 Min.",
-    material: "Haushaltsmaterialien (je nach Experiment)",
-    beschreibung: "Sammlung kostenloser Experimente für Kinder von 3 bis 8 Jahren, die nur mit Dingen aus dem Haushalt funktionieren. Jede Anleitung hat ein Video, Bilder und eine Materialliste. Die PDFs gibt es nach kostenloser Anmeldung. Gut für Regentage und neugierige Fragen.",
-    anleitung: "https://modolino.com/",
-    video: "",
-    quelle: "modolino.com"
-  }
-];
-
-/* ---------- App ---------- */
 const KATEGORIEN = ["Alle", "Drinnen", "Draußen", "Basteln", "Experiment", "★ Favoriten"];
 const STORE_KEY = "kreativgames-favoriten";
+const SEITE = 60;
 
 let aktiveKategorie = "Alle";
+let ohneSammlungen = false;
+let sichtbar = SEITE;
 let favoriten = ladeFavoriten();
 
 function ladeFavoriten() {
@@ -266,12 +145,15 @@ const el = (id) => document.getElementById(id);
 const esc = (s) => String(s).replace(/[&<>"']/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[c]));
 
 function renderChips() {
-  el("chips").innerHTML = KATEGORIEN.map(k =>
-    `<button class="chip ${k === aktiveKategorie ? "active" : ""}" data-k="${esc(k)}">${esc(k)}</button>`
-  ).join("");
+  el("chips").innerHTML =
+    KATEGORIEN.map(k =>
+      `<button class="chip ${k === aktiveKategorie ? "active" : ""}" data-k="${esc(k)}">${esc(k)}</button>`
+    ).join("") +
+    `<label class="toggle"><input type="checkbox" id="nurEinzel" ${ohneSammlungen ? "checked" : ""}> nur Einzelideen</label>`;
   el("chips").querySelectorAll(".chip").forEach(b =>
-    b.addEventListener("click", () => { aktiveKategorie = b.dataset.k; renderChips(); render(); })
+    b.addEventListener("click", () => { aktiveKategorie = b.dataset.k; sichtbar = SEITE; renderChips(); render(); })
   );
+  el("nurEinzel").addEventListener("change", e => { ohneSammlungen = e.target.checked; sichtbar = SEITE; render(); });
 }
 
 function gefiltert() {
@@ -280,9 +162,10 @@ function gefiltert() {
   return IDEEN.filter(i => {
     if (aktiveKategorie === "★ Favoriten" && !favoriten.has(i.id)) return false;
     if (aktiveKategorie !== "Alle" && aktiveKategorie !== "★ Favoriten" && i.kategorie !== aktiveKategorie) return false;
+    if (ohneSammlungen && i.sammlung) return false;
     if (alter && i.abAlter > alter) return false;
     if (q) {
-      const text = `${i.name} ${i.beschreibung} ${i.material} ${i.kategorie}`.toLowerCase();
+      const text = `${i.name} ${i.beschreibung} ${i.material || ""} ${i.kategorie}`.toLowerCase();
       if (!text.includes(q)) return false;
     }
     return true;
@@ -300,11 +183,11 @@ function karte(i) {
       <div class="tags">
         <span class="tag">${esc(i.kategorie)}</span>
         <span class="tag">ab ${esc(i.abAlter)} J.</span>
-        <span class="tag">👥 ${esc(i.spieler)}</span>
-        <span class="tag">⏱ ${esc(i.dauer)}</span>
+        ${i.sammlung ? `<span class="tag s">Sammlung</span>` : ""}
+        ${i.hatVideo ? `<span class="tag">▶ Video</span>` : ""}
       </div>
       <p class="desc">${esc(i.beschreibung)}</p>
-      <p class="material"><strong>Material:</strong> ${esc(i.material)}</p>
+      ${i.material ? `<p class="material"><strong>Material:</strong> ${esc(i.material)}</p>` : ""}
       <div class="links">
         <a href="${esc(i.anleitung)}" target="_blank" rel="noopener noreferrer">📖 Anleitung & Bilder ↗</a>
         ${i.video ? `<a href="${esc(i.video)}" target="_blank" rel="noopener noreferrer">▶ Video ↗</a>` : ""}
@@ -317,8 +200,9 @@ function render() {
   const liste = gefiltert();
   el("count").textContent = `${liste.length} von ${IDEEN.length} Ideen`;
   el("grid").innerHTML = liste.length
-    ? liste.map(karte).join("")
+    ? liste.slice(0, sichtbar).map(karte).join("")
     : `<div class="empty">Keine Idee gefunden. Filter ändern?</div>`;
+  el("more").hidden = liste.length <= sichtbar;
   el("grid").querySelectorAll(".fav").forEach(b =>
     b.addEventListener("click", () => {
       const id = b.dataset.id;
@@ -329,10 +213,16 @@ function render() {
   );
 }
 
+el("more").addEventListener("click", () => { sichtbar += SEITE; render(); });
+
 el("random").addEventListener("click", () => {
-  const liste = gefiltert();
-  if (!liste.length) return;
-  const zufall = liste[Math.floor(Math.random() * liste.length)];
+  const liste = gefiltert().filter(i => !i.sammlung);
+  const pool = liste.length ? liste : gefiltert();
+  if (!pool.length) return;
+  const zufall = pool[Math.floor(Math.random() * pool.length)];
+  const alle = gefiltert();
+  const pos = alle.indexOf(zufall);
+  if (pos >= sichtbar) { sichtbar = pos + 1; render(); }
   document.querySelectorAll(".card.highlight").forEach(c => c.classList.remove("highlight"));
   const card = el(`card-${zufall.id}`);
   if (card) {
@@ -340,8 +230,8 @@ el("random").addEventListener("click", () => {
     card.scrollIntoView({ behavior: "smooth", block: "center" });
   }
 });
-el("search").addEventListener("input", render);
-el("age").addEventListener("change", render);
+el("search").addEventListener("input", () => { sichtbar = SEITE; render(); });
+el("age").addEventListener("change", () => { sichtbar = SEITE; render(); });
 
 renderChips();
 render();
