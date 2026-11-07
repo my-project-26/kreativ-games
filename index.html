@@ -130,6 +130,7 @@ const SEITE = 60;
 
 let aktiveKategorie = "Alle";
 let ohneSammlungen = false;
+let nurVideo = false;
 let sichtbar = SEITE;
 let favoriten = ladeFavoriten();
 
@@ -149,11 +150,13 @@ function renderChips() {
     KATEGORIEN.map(k =>
       `<button class="chip ${k === aktiveKategorie ? "active" : ""}" data-k="${esc(k)}">${esc(k)}</button>`
     ).join("") +
-    `<label class="toggle"><input type="checkbox" id="nurEinzel" ${ohneSammlungen ? "checked" : ""}> nur Einzelideen</label>`;
+    `<label class="toggle"><input type="checkbox" id="nurEinzel" ${ohneSammlungen ? "checked" : ""}> nur Einzelideen</label>` +
+    `<label class="toggle"><input type="checkbox" id="nurVideo" ${nurVideo ? "checked" : ""}> nur mit Video</label>`;
   el("chips").querySelectorAll(".chip").forEach(b =>
     b.addEventListener("click", () => { aktiveKategorie = b.dataset.k; sichtbar = SEITE; renderChips(); render(); })
   );
   el("nurEinzel").addEventListener("change", e => { ohneSammlungen = e.target.checked; sichtbar = SEITE; render(); });
+  el("nurVideo").addEventListener("change", e => { nurVideo = e.target.checked; sichtbar = SEITE; render(); });
 }
 
 function gefiltert() {
@@ -163,6 +166,7 @@ function gefiltert() {
     if (aktiveKategorie === "★ Favoriten" && !favoriten.has(i.id)) return false;
     if (aktiveKategorie !== "Alle" && aktiveKategorie !== "★ Favoriten" && i.kategorie !== aktiveKategorie) return false;
     if (ohneSammlungen && i.sammlung) return false;
+    if (nurVideo && !i.hatVideo) return false;
     if (alter && i.abAlter > alter) return false;
     if (q) {
       const text = `${i.name} ${i.beschreibung} ${i.material || ""} ${i.kategorie}`.toLowerCase();
@@ -184,7 +188,7 @@ function karte(i) {
         <span class="tag">${esc(i.kategorie)}</span>
         <span class="tag">ab ${esc(i.abAlter)} J.</span>
         ${i.sammlung ? `<span class="tag s">Sammlung</span>` : ""}
-        ${i.hatVideo ? `<span class="tag">▶ Video</span>` : ""}
+        
       </div>
       <p class="desc">${esc(i.beschreibung)}</p>
       ${i.material ? `<p class="material"><strong>Material:</strong> ${esc(i.material)}</p>` : ""}
