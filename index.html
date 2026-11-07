@@ -36,31 +36,36 @@
     line-height: 1.5;
   }
   header {
-    position: sticky; top: 0; z-index: 10;
     background: var(--bg);
-    padding: 16px 16px 8px;
+    padding: 14px 16px 10px;
     border-bottom: 1px solid var(--line);
   }
   .wrap { max-width: 1000px; margin: 0 auto; }
   h1 { margin: 0 0 10px; font-size: 1.6rem; }
   h1 span { color: var(--accent); }
   .row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
-  input[type="search"], select {
-    font: inherit; padding: 10px 12px; border-radius: 10px;
+  input[type="search"] {
+    font: inherit; padding: 10px 12px; border-radius: 10px; flex: 1 1 200px;
     border: 1px solid var(--line); background: var(--card); color: var(--text);
   }
-  input[type="search"] { flex: 1 1 220px; }
   button {
     font: inherit; cursor: pointer; border: none; border-radius: 10px;
     padding: 10px 14px; background: var(--accent); color: #fff; font-weight: 600;
   }
-  .chips { margin-top: 10px; display: flex; gap: 6px; overflow-x: auto; padding-bottom: 4px; align-items: center; }
+  button.ghost { background: var(--card); color: var(--text); border: 1px solid var(--line); }
+  .badge { background: #fff; color: var(--accent); border-radius: 999px; padding: 0 7px; margin-left: 4px; font-size: .8rem; }
+
+  #filter { margin-top: 10px; display: grid; gap: 8px; }
+  #filter[hidden] { display: none; }
+  .group { display: flex; gap: 6px; align-items: center; overflow-x: auto; padding-bottom: 2px; }
+  .group-label { font-size: .8rem; color: var(--muted); min-width: 92px; flex-shrink: 0; }
   .chip {
     background: var(--card); color: var(--text); border: 1px solid var(--line);
-    font-weight: 500; white-space: nowrap; padding: 7px 12px;
+    font-weight: 500; white-space: nowrap; padding: 6px 11px; font-size: .9rem;
   }
   .chip.active { background: var(--accent); color: #fff; border-color: var(--accent); }
-  .toggle { display: flex; align-items: center; gap: 6px; font-size: .9rem; color: var(--muted); white-space: nowrap; margin-left: 4px; }
+  .reset { font-size: .85rem; padding: 6px 10px; }
+
   main { padding: 16px; }
   .count { color: var(--muted); font-size: .9rem; margin-bottom: 10px; }
   .grid { display: grid; gap: 14px; grid-template-columns: repeat(auto-fill, minmax(270px, 1fr)); }
@@ -77,7 +82,7 @@
   .tag { background: var(--accent-soft); color: var(--text); font-size: .78rem; padding: 3px 8px; border-radius: 999px; }
   .tag.s { background: transparent; border: 1px dashed var(--accent); }
   .desc { margin: 0; }
-  .material { font-size: .9rem; color: var(--muted); margin: 0; }
+  .material { font-size: .88rem; color: var(--muted); margin: 0; }
   .links { display: flex; gap: 8px; flex-wrap: wrap; margin-top: auto; padding-top: 6px; }
   .links a {
     text-decoration: none; font-size: .9rem; font-weight: 600;
@@ -95,19 +100,29 @@
   <div class="wrap">
     <h1>Kreativ-<span>Games</span></h1>
     <div class="row">
-      <input type="search" id="search" placeholder="Suchen (z. B. Luftballon, Ostern, Pappteller) …">
-      <select id="age" aria-label="Alter des Kindes">
-        <option value="0">Jedes Alter</option>
-        <option value="3">für 3 Jahre</option>
-        <option value="4">für 4 Jahre</option>
-        <option value="5">für 5 Jahre</option>
-        <option value="6">für 6 Jahre</option>
-        <option value="8">für 8 Jahre</option>
-        <option value="10">für 10+ Jahre</option>
-      </select>
-      <button id="random">🎲 Zufallsidee</button>
+      <input type="search" id="search" placeholder="Suchen (z. B. Luftballon, Ostern, Rakete) …">
+      <button class="ghost" id="toggleFilter">Filter<span class="badge" id="filterCount">0</span></button>
+      <button id="random">🎲 Zufall</button>
     </div>
-    <div class="chips" id="chips"></div>
+
+    <div id="filter">
+      <div class="group" data-key="art">
+        <span class="group-label">Was?</span>
+      </div>
+      <div class="group" data-key="ort">
+        <span class="group-label">Wo?</span>
+      </div>
+      <div class="group" data-key="material">
+        <span class="group-label">Material?</span>
+      </div>
+      <div class="group" data-key="alter">
+        <span class="group-label">Alter des Kindes</span>
+      </div>
+      <div class="group" data-key="extra">
+        <span class="group-label">Außerdem</span>
+      </div>
+      <div><button class="ghost reset" id="reset">Alle Filter zurücksetzen</button></div>
+    </div>
   </div>
 </header>
 
@@ -119,65 +134,130 @@
 
 <footer>
   Beschreibungen sind eigene Kurztexte. Anleitungen, Bilder und Videos liegen bei den verlinkten Quellen.<br>
-  Altersangaben sind Richtwerte. Bei Kerzen, Heißkleber und Messern hilft ein Erwachsener.
+  Altersangaben sind Richtwerte. Bei Kerzen, Feuer, Heißkleber und Messern hilft immer ein Erwachsener.<br>
+  Material: 🙌 nichts nötig · 🏠 hat man meist zu Hause · ✂️ aus der Bastelkiste · 🛒 muss evtl. besorgt werden
 </footer>
 
-<script src="ideen.js?v=20261107-2"></script>
+<script src="ideen.js?v=20261107-3"></script>
 <script>
-const KATEGORIEN = ["Alle", "Drinnen", "Draußen", "Basteln", "Experiment", "★ Favoriten"];
-const STORE_KEY = "kreativgames-favoriten";
+/* ---------- Filter-Definitionen ---------- */
+const OPTIONEN = {
+  art: [
+    { v: "", t: "Alles" },
+    { v: "Spiel", t: "🎲 Spiele" },
+    { v: "Basteln", t: "✂️ Basteln" },
+    { v: "Experiment", t: "🔬 Experimente" }
+  ],
+  ort: [
+    { v: "", t: "Egal" },
+    { v: "drinnen", t: "🏠 Drinnen" },
+    { v: "draußen", t: "🌳 Draußen" }
+  ],
+  material: [
+    { v: "", t: "Egal" },
+    { v: "0", t: "🙌 Ohne Material" },
+    { v: "1", t: "🏠 Nur was zu Hause ist" },
+    { v: "2", t: "✂️ Haushalt + Bastelkiste" }
+  ],
+  alter: [
+    { v: "", t: "Egal" },
+    { v: "3", t: "3 J." },
+    { v: "4", t: "4 J." },
+    { v: "5", t: "5 J." },
+    { v: "6", t: "6 J." },
+    { v: "8", t: "8 J." },
+    { v: "10", t: "10+ J." }
+  ],
+  extra: [
+    { v: "video", t: "▶ nur mit Video" },
+    { v: "einzel", t: "ohne Sammlungen" },
+    { v: "fav", t: "★ Favoriten" }
+  ]
+};
+const MATERIAL_TAG = { 0: "🙌 ohne Material", 1: "🏠 Haushalt", 2: "✂️ Bastelkiste", 3: "🛒 besorgen" };
+const ORT_TAG = { drinnen: "🏠 drinnen", "draußen": "🌳 draußen", beides: "🏠🌳 drinnen & draußen" };
+const STORE_FAV = "kreativgames-favoriten";
+const STORE_FILTER = "kreativgames-filter";
 const SEITE = 60;
 
-let aktiveKategorie = "Alle";
-let ohneSammlungen = false;
-let nurVideo = false;
+/* ---------- Zustand ---------- */
+const standard = () => ({ art: "", ort: "", material: "", alter: "", extra: [] });
+let filter = laden(STORE_FILTER, standard());
+let favoriten = new Set(laden(STORE_FAV, []));
 let sichtbar = SEITE;
-let favoriten = ladeFavoriten();
+let filterOffen = laden("kreativgames-filter-offen", true);
 
-function ladeFavoriten() {
-  try { return new Set(JSON.parse(localStorage.getItem(STORE_KEY) || "[]")); }
-  catch (e) { return new Set(); }
+function laden(key, fallback) {
+  try { const v = JSON.parse(localStorage.getItem(key)); return v ?? fallback; }
+  catch (e) { return fallback; }
 }
-function speichereFavoriten() {
-  try { localStorage.setItem(STORE_KEY, JSON.stringify([...favoriten])); } catch (e) {}
+function speichern(key, value) {
+  try { localStorage.setItem(key, JSON.stringify(value)); } catch (e) {}
 }
 
 const el = (id) => document.getElementById(id);
 const esc = (s) => String(s).replace(/[&<>"']/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[c]));
 
-function renderChips() {
-  el("chips").innerHTML =
-    KATEGORIEN.map(k =>
-      `<button class="chip ${k === aktiveKategorie ? "active" : ""}" data-k="${esc(k)}">${esc(k)}</button>`
-    ).join("") +
-    `<label class="toggle"><input type="checkbox" id="nurEinzel" ${ohneSammlungen ? "checked" : ""}> nur Einzelideen</label>` +
-    `<label class="toggle"><input type="checkbox" id="nurVideo" ${nurVideo ? "checked" : ""}> nur mit Video</label>`;
-  el("chips").querySelectorAll(".chip").forEach(b =>
-    b.addEventListener("click", () => { aktiveKategorie = b.dataset.k; sichtbar = SEITE; renderChips(); render(); })
-  );
-  el("nurEinzel").addEventListener("change", e => { ohneSammlungen = e.target.checked; sichtbar = SEITE; render(); });
-  el("nurVideo").addEventListener("change", e => { nurVideo = e.target.checked; sichtbar = SEITE; render(); });
+/* ---------- Filter-UI ---------- */
+function renderFilter() {
+  document.querySelectorAll("#filter .group").forEach(g => {
+    const key = g.dataset.key;
+    g.querySelectorAll(".chip").forEach(c => c.remove());
+    OPTIONEN[key].forEach(o => {
+      const b = document.createElement("button");
+      b.className = "chip";
+      b.textContent = o.t;
+      const aktiv = key === "extra" ? filter.extra.includes(o.v) : filter[key] === o.v;
+      if (aktiv) b.classList.add("active");
+      b.addEventListener("click", () => {
+        if (key === "extra") {
+          filter.extra = aktiv ? filter.extra.filter(x => x !== o.v) : [...filter.extra, o.v];
+        } else {
+          filter[key] = o.v;
+        }
+        geaendert();
+      });
+      g.appendChild(b);
+    });
+  });
+  const anzahl = ["art", "ort", "material", "alter"].filter(k => filter[k]).length + filter.extra.length;
+  el("filterCount").textContent = anzahl;
+  el("filter").hidden = !filterOffen;
 }
 
+function geaendert() {
+  sichtbar = SEITE;
+  speichern(STORE_FILTER, filter);
+  renderFilter();
+  render();
+}
+
+/* ---------- Filtern ---------- */
 function gefiltert() {
   const q = el("search").value.trim().toLowerCase();
-  const alter = Number(el("age").value);
   return IDEEN.filter(i => {
-    if (aktiveKategorie === "★ Favoriten" && !favoriten.has(i.id)) return false;
-    if (aktiveKategorie !== "Alle" && aktiveKategorie !== "★ Favoriten" && i.kategorie !== aktiveKategorie) return false;
-    if (ohneSammlungen && i.sammlung) return false;
-    if (nurVideo && !i.hatVideo) return false;
-    if (alter && i.abAlter > alter) return false;
+    if (filter.art && i.art !== filter.art) return false;
+    if (filter.ort && !(i.ort === filter.ort || i.ort === "beides")) return false;
+    if (filter.material !== "") {
+      if (i.materialStufe === null || i.materialStufe === undefined) return false;
+      if (i.materialStufe > Number(filter.material)) return false;
+    }
+    if (filter.alter && i.abAlter > Number(filter.alter)) return false;
+    if (filter.extra.includes("video") && !i.hatVideo) return false;
+    if (filter.extra.includes("einzel") && i.sammlung) return false;
+    if (filter.extra.includes("fav") && !favoriten.has(i.id)) return false;
     if (q) {
-      const text = `${i.name} ${i.beschreibung} ${i.material || ""} ${i.kategorie}`.toLowerCase();
+      const text = `${i.name} ${i.beschreibung} ${i.material || ""} ${i.art}`.toLowerCase();
       if (!text.includes(q)) return false;
     }
     return true;
   });
 }
 
+/* ---------- Karten ---------- */
 function karte(i) {
   const fav = favoriten.has(i.id);
+  const matTag = i.materialStufe in MATERIAL_TAG ? MATERIAL_TAG[i.materialStufe] : "Material: verschieden";
   return `
     <article class="card" id="card-${esc(i.id)}">
       <div class="card-head">
@@ -185,10 +265,11 @@ function karte(i) {
         <button class="fav ${fav ? "on" : ""}" data-id="${esc(i.id)}" aria-label="Favorit">${fav ? "★" : "☆"}</button>
       </div>
       <div class="tags">
-        <span class="tag">${esc(i.kategorie)}</span>
+        <span class="tag">${esc(i.art)}</span>
         <span class="tag">ab ${esc(i.abAlter)} J.</span>
+        <span class="tag">${esc(ORT_TAG[i.ort] || "")}</span>
+        <span class="tag">${esc(matTag)}</span>
         ${i.sammlung ? `<span class="tag s">Sammlung</span>` : ""}
-        
       </div>
       <p class="desc">${esc(i.beschreibung)}</p>
       ${i.material ? `<p class="material"><strong>Material:</strong> ${esc(i.material)}</p>` : ""}
@@ -205,26 +286,33 @@ function render() {
   el("count").textContent = `${liste.length} von ${IDEEN.length} Ideen`;
   el("grid").innerHTML = liste.length
     ? liste.slice(0, sichtbar).map(karte).join("")
-    : `<div class="empty">Keine Idee gefunden. Filter ändern?</div>`;
+    : `<div class="empty">Keine Idee passt zu diesen Filtern. Einen Filter lockern?</div>`;
   el("more").hidden = liste.length <= sichtbar;
   el("grid").querySelectorAll(".fav").forEach(b =>
     b.addEventListener("click", () => {
       const id = b.dataset.id;
       favoriten.has(id) ? favoriten.delete(id) : favoriten.add(id);
-      speichereFavoriten();
+      speichern(STORE_FAV, [...favoriten]);
       render();
     })
   );
 }
 
+/* ---------- Bedienung ---------- */
 el("more").addEventListener("click", () => { sichtbar += SEITE; render(); });
+el("search").addEventListener("input", () => { sichtbar = SEITE; render(); });
+el("toggleFilter").addEventListener("click", () => {
+  filterOffen = !filterOffen;
+  speichern("kreativgames-filter-offen", filterOffen);
+  renderFilter();
+});
+el("reset").addEventListener("click", () => { filter = standard(); el("search").value = ""; geaendert(); });
 
 el("random").addEventListener("click", () => {
-  const liste = gefiltert().filter(i => !i.sammlung);
-  const pool = liste.length ? liste : gefiltert();
+  const alle = gefiltert();
+  const pool = alle.filter(i => !i.sammlung).length ? alle.filter(i => !i.sammlung) : alle;
   if (!pool.length) return;
   const zufall = pool[Math.floor(Math.random() * pool.length)];
-  const alle = gefiltert();
   const pos = alle.indexOf(zufall);
   if (pos >= sichtbar) { sichtbar = pos + 1; render(); }
   document.querySelectorAll(".card.highlight").forEach(c => c.classList.remove("highlight"));
@@ -234,10 +322,8 @@ el("random").addEventListener("click", () => {
     card.scrollIntoView({ behavior: "smooth", block: "center" });
   }
 });
-el("search").addEventListener("input", () => { sichtbar = SEITE; render(); });
-el("age").addEventListener("change", () => { sichtbar = SEITE; render(); });
 
-renderChips();
+renderFilter();
 render();
 </script>
 </body>
