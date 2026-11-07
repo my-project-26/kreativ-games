@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="de"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow"><title>Vorschau: Buch-Karten</title><style>
+  :root {
+    --bg: #fdf8f3;
+    --card: #ffffff;
+    --text: #2b2b2b;
+    --muted: #6b6b6b;
+    --accent: #e8743b;
+    --accent-soft: #fde7da;
+    --line: #ece4dc;
+    --radius: 14px;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #1b1a19;
+      --card: #262422;
+      --text: #f1ece7;
+      --muted: #a9a29b;
+      --accent: #f08a55;
+      --accent-soft: #3a2a21;
+      --line: #36322f;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.5;
+  }
+  header {
+    background: var(--bg);
+    padding: 14px 16px 10px;
+    border-bottom: 1px solid var(--line);
+  }
+  .wrap { max-width: 1000px; margin: 0 auto; }
+  h1 { margin: 0 0 10px; font-size: 1.6rem; }
+  h1 span { color: var(--accent); }
+  .row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+  input[type="search"] {
+    font: inherit; padding: 10px 12px; border-radius: 10px; flex: 1 1 200px;
+    border: 1px solid var(--line); background: var(--card); color: var(--text);
+  }
+  button {
+    font: inherit; cursor: pointer; border: none; border-radius: 10px;
+    padding: 10px 14px; background: var(--accent); color: #fff; font-weight: 600;
+  }
+  button.ghost { background: var(--card); color: var(--text); border: 1px solid var(--line); }
+  .badge { background: #fff; color: var(--accent); border-radius: 999px; padding: 0 7px; margin-left: 4px; font-size: .8rem; }
+
+  #filter { margin-top: 10px; display: grid; gap: 8px; }
+  #filter[hidden] { display: none; }
+  .group { display: flex; gap: 6px; align-items: center; overflow-x: auto; padding-bottom: 2px; }
+  .group-label { font-size: .8rem; color: var(--muted); min-width: 92px; flex-shrink: 0; }
+  .chip {
+    background: var(--card); color: var(--text); border: 1px solid var(--line);
+    font-weight: 500; white-space: nowrap; padding: 6px 11px; font-size: .9rem;
+  }
+  .chip.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+  .reset { font-size: .85rem; padding: 6px 10px; }
+
+  main { padding: 16px; }
+  .count { color: var(--muted); font-size: .9rem; margin-bottom: 10px; }
+  .grid { display: grid; gap: 14px; grid-template-columns: repeat(auto-fill, minmax(270px, 1fr)); }
+  .card {
+    background: var(--card); border: 1px solid var(--line); border-radius: var(--radius);
+    padding: 16px; display: flex; flex-direction: column; gap: 8px;
+  }
+  .card.highlight { outline: 3px solid var(--accent); }
+  .card-head { display: flex; justify-content: space-between; gap: 8px; align-items: flex-start; }
+  .card h2 { margin: 0; font-size: 1.12rem; }
+  .fav { background: none; color: var(--muted); padding: 0 4px; font-size: 1.4rem; line-height: 1; }
+  .fav.on { color: var(--accent); }
+  .tags { display: flex; gap: 6px; flex-wrap: wrap; }
+  .tag { background: var(--accent-soft); color: var(--text); font-size: .78rem; padding: 3px 8px; border-radius: 999px; }
+  .tag.s { background: transparent; border: 1px dashed var(--accent); }
+  .desc { margin: 0; }
+  .material { font-size: .88rem; color: var(--muted); margin: 0; }
+  .links { display: flex; gap: 8px; flex-wrap: wrap; margin-top: auto; padding-top: 6px; }
+  .links a {
+    text-decoration: none; font-size: .9rem; font-weight: 600;
+    padding: 8px 12px; border-radius: 10px; border: 1px solid var(--accent); color: var(--accent);
+  }
+  .source { font-size: .78rem; color: var(--muted); }
+  .empty { text-align: center; color: var(--muted); padding: 40px 0; }
+  .more { display: block; margin: 20px auto 0; }
+  footer { text-align: center; font-size: .8rem; color: var(--muted); padding: 24px 16px 40px; }
+</style>
+<style>
+.book { background:#eef4ff; border:1px solid #c9d8f5; color:#2b3f66; border-radius:12px; padding:10px 12px; font-size:.9rem; }
+.alt { font-size:.82rem; color:var(--muted); margin:0; }
+@media (prefers-color-scheme: dark) { .book { background:#1f2a3d; border-color:#33476b; color:#cfe0ff; } }
+</style></head><body>
+<main class="wrap">
+<h1>Vorschau: <span>Buch-Karten</span></h1>
+<p class="count">So würden die 37 Buchprojekte in der App aussehen (2 Beispiele). Noch nicht in der Hauptseite eingebaut.</p>
+<div class="grid">
+
+<article class="card">
+  <div class="card-head"><h2>Origami-Fuchs</h2><button class="fav" aria-label="Favorit">☆</button></div>
+  <div class="tags"><span class="tag">Basteln · 📄 Origami</span><span class="tag">ab 6 J.</span><span class="tag">🏠 drinnen</span><span class="tag">🏠 Haushalt</span><span class="tag s">📘 Buchprojekt</span></div>
+  <p class="desc">Ein spitzohriger Fuchs aus einem einzigen Blatt. Mittelschwer – gut, wenn die ersten einfachen Faltungen schon klappen.</p>
+  <p class="material"><strong>Material:</strong> 1 quadratisches Blatt (orange), evtl. Stift für die Augen</p>
+  <div class="book">📘 <strong>Anleitung im Buch:</strong> „Originelle Origami Tiere“ (Ross Symons, TOPP-Verlag) – Kapitel „Fuchs“</div>
+  <div class="links">
+    <a href="https://www.youtube.com/watch?v=Yz_qZUi1eW0" target="_blank" rel="noopener noreferrer">▶ Freie Alternative (Video) ↗</a>
+    <a href="https://www.tutkit.com/de/diy-deko-basteln/901-origami-fuchs-falten-leichte-anleitung" target="_blank" rel="noopener noreferrer">📖 Alternative mit Fotos ↗</a>
+  </div>
+  <p class="alt">Alternative: einfacherer Origami-Fuchs von tutkit.com – nicht das Buchmodell.</p>
+</article>
+
+<article class="card">
+  <div class="card-head"><h2>Zweifarbiges Makramee-Armband</h2><button class="fav" aria-label="Favorit">☆</button></div>
+  <div class="tags"><span class="tag">Basteln · 🧶 Makramee</span><span class="tag">ab 8 J.</span><span class="tag">🏠 drinnen</span><span class="tag">✂️ Bastelkiste</span><span class="tag s">📘 Buchprojekt</span></div>
+  <p class="desc">Ein Armband aus zwei Garnfarben, das durch das Knüpfen ein Muster bekommt. Gut für Kinder, die schon Ausdauer beim Knoten haben.</p>
+  <p class="material"><strong>Material:</strong> Makramee- oder Baumwollgarn in 2 Farben, Schere, Klebeband</p>
+  <div class="book">📘 <strong>Anleitung im Buch:</strong> Makramee-Buch – Kapitel „Zweifarbiges Armband“ <em>(Buchtitel bitte ergänzen)</em></div>
+  <div class="links">
+    <a href="https://utopia.de/ratgeber/makramee-armband-anleitung-zum-selbermachen_181404/" target="_blank" rel="noopener noreferrer">📖 Freie Alternative mit Fotos ↗</a>
+  </div>
+  <p class="alt">Alternative: Grundknoten-Armband (Weberknoten) von utopia.de – nicht das Buchmodell.</p>
+</article>
+
+</div></main></body></html>
