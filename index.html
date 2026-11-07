@@ -91,6 +91,9 @@
   .source { font-size: .78rem; color: var(--muted); }
   .empty { text-align: center; color: var(--muted); padding: 40px 0; }
   .more { display: block; margin: 20px auto 0; }
+  .book { background:#eef4ff; border:1px solid #c9d8f5; color:#2b3f66; border-radius:12px; padding:10px 12px; font-size:.88rem; }
+  .alt { font-size:.82rem; color:var(--muted); margin:0; }
+  @media (prefers-color-scheme: dark) { .book { background:#1f2a3d; border-color:#33476b; color:#cfe0ff; } }
   footer { text-align: center; font-size: .8rem; color: var(--muted); padding: 24px 16px 40px; }
 </style>
 </head>
@@ -108,6 +111,9 @@
     <div id="filter">
       <div class="group" data-key="art">
         <span class="group-label">Was?</span>
+      </div>
+      <div class="group" data-key="thema">
+        <span class="group-label">Thema</span>
       </div>
       <div class="group" data-key="ort">
         <span class="group-label">Wo?</span>
@@ -135,10 +141,11 @@
 <footer>
   Beschreibungen sind eigene Kurztexte. Anleitungen, Bilder und Videos liegen bei den verlinkten Quellen.<br>
   Altersangaben sind Richtwerte. Bei Kerzen, Feuer, Heißkleber und Messern hilft immer ein Erwachsener.<br>
+  📘 Buchprojekte: Anleitung steht im Buch, verlinkt sind nur ähnliche freie Anleitungen.<br>
   Material: 🙌 nichts nötig · 🏠 hat man meist zu Hause · ✂️ aus der Bastelkiste · 🛒 muss evtl. besorgt werden
 </footer>
 
-<script src="ideen.js?v=20261107-3"></script>
+<script src="ideen.js?v=20261107-4"></script>
 <script>
 /* ---------- Filter-Definitionen ---------- */
 const OPTIONEN = {
@@ -147,6 +154,12 @@ const OPTIONEN = {
     { v: "Spiel", t: "🎲 Spiele" },
     { v: "Basteln", t: "✂️ Basteln" },
     { v: "Experiment", t: "🔬 Experimente" }
+  ],
+  thema: [
+    { v: "", t: "Alle" },
+    { v: "origami", t: "📄 Origami" },
+    { v: "makramee", t: "🪢 Makramee" },
+    { v: "buch", t: "📘 Aus meinen Büchern" }
   ],
   ort: [
     { v: "", t: "Egal" },
@@ -181,8 +194,16 @@ const STORE_FILTER = "kreativgames-filter";
 const SEITE = 60;
 
 /* ---------- Zustand ---------- */
-const standard = () => ({ art: "", ort: "", material: "", alter: "", extra: [] });
-let filter = laden(STORE_FILTER, standard());
+const standard = () => ({ art: "", thema: "", ort: "", material: "", alter: "", extra: [] });
+let filter = { ...standard(), ...laden(STORE_FILTER, {}) };
+
+/* Thema für alle Ideen ableiten (Origami/Makramee auch bei Web-Ideen) */
+IDEEN.forEach(i => {
+  if (i.thema) return;
+  const t = `${i.name} ${i.beschreibung}`.toLowerCase();
+  if (t.includes("origami")) i.thema = "origami";
+  else if (t.includes("makramee")) i.thema = "makramee";
+});
 let favoriten = new Set(laden(STORE_FAV, []));
 let sichtbar = SEITE;
 let filterOffen = laden("kreativgames-filter-offen", true);
@@ -220,7 +241,7 @@ function renderFilter() {
       g.appendChild(b);
     });
   });
-  const anzahl = ["art", "ort", "material", "alter"].filter(k => filter[k]).length + filter.extra.length;
+  const anzahl = ["art", "thema", "ort", "material", "alter"].filter(k => filter[k]).length + filter.extra.length;
   el("filterCount").textContent = anzahl;
   el("filter").hidden = !filterOffen;
 }
@@ -237,6 +258,8 @@ function gefiltert() {
   const q = el("search").value.trim().toLowerCase();
   return IDEEN.filter(i => {
     if (filter.art && i.art !== filter.art) return false;
+    if (filter.thema === "buch" && !i.buch) return false;
+    if (filter.thema && filter.thema !== "buch" && i.thema !== filter.thema) return false;
     if (filter.ort && !(i.ort === filter.ort || i.ort === "beides")) return false;
     if (filter.material !== "") {
       if (i.materialStufe === null || i.materialStufe === undefined) return false;
@@ -247,7 +270,7 @@ function gefiltert() {
     if (filter.extra.includes("einzel") && i.sammlung) return false;
     if (filter.extra.includes("fav") && !favoriten.has(i.id)) return false;
     if (q) {
-      const text = `${i.name} ${i.beschreibung} ${i.material || ""} ${i.art}`.toLowerCase();
+      const text = `${i.name} ${i.beschreibung} ${i.material || ""} ${i.art} ${i.buch || ""}`.toLowerCase();
       if (!text.includes(q)) return false;
     }
     return true;
@@ -255,6 +278,12 @@ function gefiltert() {
 }
 
 /* ---------- Karten ---------- */
+function linkText(i) {
+  if (i.id.startsWith("eigen-")) return "🖼 Eigene Faltanleitung ↗";
+  if (i.buch) return i.anleitung.includes("youtube.com/results") ? "🔎 Ähnliche Videos ↗" : "🔗 Ähnliche Anleitung ↗";
+  return "📖 Anleitung & Bilder ↗";
+}
+
 function karte(i) {
   const fav = favoriten.has(i.id);
   const matTag = i.materialStufe in MATERIAL_TAG ? MATERIAL_TAG[i.materialStufe] : "Material: verschieden";
@@ -272,11 +301,13 @@ function karte(i) {
         ${i.sammlung ? `<span class="tag s">Sammlung</span>` : ""}
       </div>
       <p class="desc">${esc(i.beschreibung)}</p>
+      ${i.buch ? `<div class="book">📘 <strong>Anleitung im Buch:</strong> ${esc(i.buch)}</div>` : ""}
       ${i.material ? `<p class="material"><strong>Material:</strong> ${esc(i.material)}</p>` : ""}
       <div class="links">
-        <a href="${esc(i.anleitung)}" target="_blank" rel="noopener noreferrer">📖 Anleitung & Bilder ↗</a>
+        <a href="${esc(i.anleitung)}" target="_blank" rel="noopener noreferrer">${linkText(i)}</a>
         ${i.video ? `<a href="${esc(i.video)}" target="_blank" rel="noopener noreferrer">▶ Video ↗</a>` : ""}
       </div>
+      ${i.alt ? `<p class="alt">Freie Alternative: ${esc(i.alt)} – nicht das Buchmodell.</p>` : ""}
       <div class="source">Quelle: ${esc(i.quelle)}</div>
     </article>`;
 }
