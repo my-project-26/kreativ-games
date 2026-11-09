@@ -145,7 +145,7 @@
   Material: 🙌 nichts nötig · 🏠 hat man meist zu Hause · ✂️ aus der Bastelkiste · 🛒 muss evtl. besorgt werden
 </footer>
 
-<script src="ideen.js?v=20261109-1"></script>
+<script src="ideen.js?v=20261109-2"></script>
 <script>
 /* ---------- Filter-Definitionen ---------- */
 const OPTIONEN = {
@@ -281,6 +281,7 @@ function gefiltert() {
 /* ---------- Karten ---------- */
 function linkText(i) {
   if (i.id.startsWith("eigen-")) return "🖼 Eigene Faltanleitung ↗";
+  if (i.id.startsWith("konz-w-")) return i.anleitung.toLowerCase().includes(".pdf") || i.anleitung.includes("_pdf") ? "📄 Anleitung (PDF) ↗" : "📖 Anleitung & Bilder ↗";
   if (i.id.startsWith("konz-")) return "🖨 Anleitung + Vorlage (PDF) ↗";
   if (i.buch) return i.anleitung.includes("youtube.com/results") ? "🔎 Ähnliche Videos ↗" : "🔗 Ähnliche Anleitung ↗";
   return "📖 Anleitung & Bilder ↗";
