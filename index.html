@@ -103,7 +103,7 @@
   <div class="wrap">
     <h1>Kreativ-<span>Games</span></h1>
     <div class="row">
-      <input type="search" id="search" placeholder="Suchen (z. B. Luftballon, Ostern, Rakete) …">
+      <input type="search" id="search" placeholder="Suchen (z. B. Luftballon, Ostern, Merken) …">
       <button class="ghost" id="toggleFilter">Filter<span class="badge" id="filterCount">0</span></button>
       <button id="random">🎲 Zufall</button>
     </div>
@@ -145,7 +145,7 @@
   Material: 🙌 nichts nötig · 🏠 hat man meist zu Hause · ✂️ aus der Bastelkiste · 🛒 muss evtl. besorgt werden
 </footer>
 
-<script src="ideen.js?v=20261107-4"></script>
+<script src="ideen.js?v=20261109-1"></script>
 <script>
 /* ---------- Filter-Definitionen ---------- */
 const OPTIONEN = {
@@ -153,7 +153,8 @@ const OPTIONEN = {
     { v: "", t: "Alles" },
     { v: "Spiel", t: "🎲 Spiele" },
     { v: "Basteln", t: "✂️ Basteln" },
-    { v: "Experiment", t: "🔬 Experimente" }
+    { v: "Experiment", t: "🔬 Experimente" },
+    { v: "Konzentration", t: "🧠 Konzentration" }
   ],
   thema: [
     { v: "", t: "Alle" },
@@ -280,6 +281,7 @@ function gefiltert() {
 /* ---------- Karten ---------- */
 function linkText(i) {
   if (i.id.startsWith("eigen-")) return "🖼 Eigene Faltanleitung ↗";
+  if (i.id.startsWith("konz-")) return "🖨 Anleitung + Vorlage (PDF) ↗";
   if (i.buch) return i.anleitung.includes("youtube.com/results") ? "🔎 Ähnliche Videos ↗" : "🔗 Ähnliche Anleitung ↗";
   return "📖 Anleitung & Bilder ↗";
 }
