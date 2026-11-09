@@ -94,6 +94,16 @@
   .book { background:#eef4ff; border:1px solid #c9d8f5; color:#2b3f66; border-radius:12px; padding:10px 12px; font-size:.88rem; }
   .alt { font-size:.82rem; color:var(--muted); margin:0; }
   @media (prefers-color-scheme: dark) { .book { background:#1f2a3d; border-color:#33476b; color:#cfe0ff; } }
+  .vorrat-btn { font-size: .88rem; padding: 6px 11px; }
+  #vorratPanel { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 12px; display: grid; gap: 10px; }
+  #vorratPanel[hidden] { display: none; }
+  .vp-head { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; font-size: .85rem; color: var(--muted); }
+  .vp-head button { font-size: .8rem; padding: 5px 9px; }
+  .vp-group h3 { margin: 0 0 6px; font-size: .85rem; color: var(--muted); font-weight: 600; }
+  .vp-items { display: flex; gap: 6px; flex-wrap: wrap; }
+  .vp-items .chip small { opacity: .65; margin-left: 4px; font-size: .75rem; }
+  .missing { font-size: .82rem; margin: 0; color: #b4532a; }
+  @media (prefers-color-scheme: dark) { .missing { color: #f0a070; } }
   footer { text-align: center; font-size: .8rem; color: var(--muted); padding: 24px 16px 40px; }
 </style>
 </head>
@@ -124,6 +134,11 @@
       <div class="group" data-key="alter">
         <span class="group-label">Alter des Kindes</span>
       </div>
+      <div class="group" data-key="vorrat">
+        <span class="group-label">Was habe ich?</span>
+        <button class="ghost vorrat-btn" id="vorratToggle">🧰 Meine Sachen</button>
+      </div>
+      <div id="vorratPanel" hidden></div>
       <div class="group" data-key="extra">
         <span class="group-label">Außerdem</span>
       </div>
@@ -145,7 +160,8 @@
   Material: 🙌 nichts nötig · 🏠 hat man meist zu Hause · ✂️ aus der Bastelkiste · 🛒 muss evtl. besorgt werden
 </footer>
 
-<script src="ideen.js?v=20261109-2"></script>
+<script src="ideen.js?v=20261109-3"></script>
+<script src="zubehoer.js?v=20261109-3"></script>
 <script>
 /* ---------- Filter-Definitionen ---------- */
 const OPTIONEN = {
@@ -182,6 +198,11 @@ const OPTIONEN = {
     { v: "8", t: "8 J." },
     { v: "10", t: "10+ J." }
   ],
+  vorrat: [
+    { v: "", t: "Egal" },
+    { v: "0", t: "✅ Habe ich alles" },
+    { v: "1", t: "🛒 Fehlt höchstens 1 Teil" }
+  ],
   extra: [
     { v: "video", t: "▶ nur mit Video" },
     { v: "einzel", t: "ohne Sammlungen" },
@@ -195,7 +216,7 @@ const STORE_FILTER = "kreativgames-filter";
 const SEITE = 60;
 
 /* ---------- Zustand ---------- */
-const standard = () => ({ art: "", thema: "", ort: "", material: "", alter: "", extra: [] });
+const standard = () => ({ art: "", thema: "", vorrat: "", ort: "", material: "", alter: "", extra: [] });
 let filter = { ...standard(), ...laden(STORE_FILTER, {}) };
 
 /* Thema für alle Ideen ableiten (Origami/Makramee auch bei Web-Ideen) */
@@ -206,6 +227,11 @@ IDEEN.forEach(i => {
   else if (t.includes("makramee")) i.thema = "makramee";
 });
 let favoriten = new Set(laden(STORE_FAV, []));
+const STORE_VORRAT = "kreativgames-vorrat";
+let vorrat = new Set(laden(STORE_VORRAT, ZUBEHOER.filter(z => z.g === "Grundausstattung").map(z => z.k)));
+let vorratOffen = false;
+const ZLABEL = Object.fromEntries(ZUBEHOER.map(z => [z.k, z.t]));
+const fehlt = (i) => (i.zubehoer || []).filter(k => !vorrat.has(k));
 let sichtbar = SEITE;
 let filterOffen = laden("kreativgames-filter-offen", true);
 
@@ -242,7 +268,7 @@ function renderFilter() {
       g.appendChild(b);
     });
   });
-  const anzahl = ["art", "thema", "ort", "material", "alter"].filter(k => filter[k]).length + filter.extra.length;
+  const anzahl = ["art", "thema", "vorrat", "ort", "material", "alter"].filter(k => filter[k]).length + filter.extra.length;
   el("filterCount").textContent = anzahl;
   el("filter").hidden = !filterOffen;
 }
@@ -261,6 +287,10 @@ function gefiltert() {
     if (filter.art && i.art !== filter.art) return false;
     if (filter.thema === "buch" && !i.buch) return false;
     if (filter.thema && filter.thema !== "buch" && i.thema !== filter.thema) return false;
+    if (filter.vorrat !== "") {
+      if (!Array.isArray(i.zubehoer)) return false;
+      if (fehlt(i).length > Number(filter.vorrat)) return false;
+    }
     if (filter.ort && !(i.ort === filter.ort || i.ort === "beides")) return false;
     if (filter.material !== "") {
       if (i.materialStufe === null || i.materialStufe === undefined) return false;
@@ -306,6 +336,7 @@ function karte(i) {
       <p class="desc">${esc(i.beschreibung)}</p>
       ${i.buch ? `<div class="book">📘 <strong>Anleitung im Buch:</strong> ${esc(i.buch)}</div>` : ""}
       ${i.material ? `<p class="material"><strong>Material:</strong> ${esc(i.material)}</p>` : ""}
+      ${fehlt(i).length ? `<p class="missing">🧰 Fehlt dir: ${fehlt(i).map(k => esc(ZLABEL[k])).join(", ")}</p>` : ""}
       <div class="links">
         <a href="${esc(i.anleitung)}" target="_blank" rel="noopener noreferrer">${linkText(i)}</a>
         ${i.video ? `<a href="${esc(i.video)}" target="_blank" rel="noopener noreferrer">▶ Video ↗</a>` : ""}
@@ -317,7 +348,8 @@ function karte(i) {
 
 function render() {
   const liste = gefiltert();
-  el("count").textContent = `${liste.length} von ${IDEEN.length} Ideen`;
+  const ohneAngabe = filter.vorrat !== "" ? IDEEN.filter(i => !Array.isArray(i.zubehoer)).length : 0;
+  el("count").textContent = `${liste.length} von ${IDEEN.length} Ideen` + (ohneAngabe ? ` · ${ohneAngabe} ohne Materialangabe ausgeblendet` : "");
   el("grid").innerHTML = liste.length
     ? liste.slice(0, sichtbar).map(karte).join("")
     : `<div class="empty">Keine Idee passt zu diesen Filtern. Einen Filter lockern?</div>`;
@@ -357,7 +389,46 @@ el("random").addEventListener("click", () => {
   }
 });
 
+/* ---------- Meine Sachen ---------- */
+function renderVorrat() {
+  const nutzung = {};
+  IDEEN.forEach(i => (i.zubehoer || []).forEach(k => nutzung[k] = (nutzung[k] || 0) + 1));
+  el("vorratToggle").textContent = `🧰 Meine Sachen (${vorrat.size} von ${ZUBEHOER.length}) ${vorratOffen ? "▲" : "▼"}`;
+  const panel = el("vorratPanel");
+  panel.hidden = !vorratOffen;
+  if (!vorratOffen) return;
+  const gruppen = [...new Set(ZUBEHOER.map(z => z.g))];
+  panel.innerHTML = `
+    <div class="vp-head">Tippe an, was du zu Hause hast. Die Zahl zeigt, in wie vielen Ideen es gebraucht wird.
+      <button class="ghost" data-act="grund">Nur Grundausstattung</button>
+      <button class="ghost" data-act="alle">Alles</button>
+      <button class="ghost" data-act="keine">Nichts</button>
+    </div>
+    ${gruppen.map(g => `
+      <div class="vp-group"><h3>${esc(g)}</h3><div class="vp-items">
+        ${ZUBEHOER.filter(z => z.g === g).map(z => `<button class="chip ${vorrat.has(z.k) ? "active" : ""}" data-k="${z.k}">${esc(z.t)}<small>${nutzung[z.k] || 0}</small></button>`).join("")}
+      </div></div>`).join("")}`;
+  panel.querySelectorAll("[data-k]").forEach(b => b.addEventListener("click", () => {
+    const k = b.dataset.k;
+    vorrat.has(k) ? vorrat.delete(k) : vorrat.add(k);
+    vorratGeaendert();
+  }));
+  panel.querySelectorAll("[data-act]").forEach(b => b.addEventListener("click", () => {
+    const a = b.dataset.act;
+    vorrat = new Set(a === "alle" ? ZUBEHOER.map(z => z.k) : a === "grund" ? ZUBEHOER.filter(z => z.g === "Grundausstattung").map(z => z.k) : []);
+    vorratGeaendert();
+  }));
+}
+function vorratGeaendert() {
+  speichern(STORE_VORRAT, [...vorrat]);
+  renderVorrat();
+  sichtbar = SEITE;
+  render();
+}
+el("vorratToggle").addEventListener("click", () => { vorratOffen = !vorratOffen; renderVorrat(); });
+
 renderFilter();
+renderVorrat();
 render();
 </script>
 </body>

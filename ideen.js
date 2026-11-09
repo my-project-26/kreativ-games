@@ -9,7 +9,11 @@ const IDEEN = [
   "beschreibung": "Rote Punkte mit links, gelbe mit rechts – abwechselnd an der Wand antippen. Trainiert Koordination und Rhythmus.",
   "material": "Ausdruck, Klebeband",
   "anleitung": "vorlagen/punkte-tippen.pdf",
-  "quelle": "eigene Anleitung und Vorlage"
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "klebeband"
+  ]
  },
  {
   "id": "konz-becher-bauplan",
@@ -21,7 +25,11 @@ const IDEEN = [
   "beschreibung": "Becher genau wie auf der Bauplan-Karte aufstellen – erst in Ruhe, später gegen die Uhr oder aus dem Gedächtnis.",
   "material": "6 Becher, Ausdruck",
   "anleitung": "vorlagen/becher-bauplan.pdf",
-  "quelle": "eigene Anleitung und Vorlage"
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "becher"
+  ]
  },
  {
   "id": "konz-becher-pfeilweg",
@@ -33,7 +41,12 @@ const IDEEN = [
   "beschreibung": "Kleine Dinge unter Bechern verstecken, einer Pfeilreihe folgen und raten, was am Ziel liegt. Merken plus Orientierung.",
   "material": "4 Becher, kleine Gegenstände, Ausdruck",
   "anleitung": "vorlagen/becher-pfeilweg.pdf",
-  "quelle": "eigene Anleitung und Vorlage"
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "becher",
+   "kleinkram"
+  ]
  },
  {
   "id": "konz-farb-ampel",
@@ -45,7 +58,11 @@ const IDEEN = [
   "beschreibung": "Zu jeder Farbe gehört eine Bewegung. Wer reagiert am schnellsten, wenn die Karte hochgeht? Super gegen Zappeligkeit.",
   "material": "Ausdruck oder bunte Becher/Tücher",
   "anleitung": "vorlagen/farb-ampel.pdf",
-  "quelle": "eigene Anleitung und Vorlage"
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "becher"
+  ]
  },
  {
   "id": "konz-zahlencode",
@@ -57,7 +74,12 @@ const IDEEN = [
   "beschreibung": "Zahlenreihen mit Hilfe eines Farbschlüssels in bunte Punkte übersetzen – wie Geheimschrift knacken.",
   "material": "Ausdruck, Buntstifte oder bunte Perlen",
   "anleitung": "vorlagen/zahlencode.pdf",
-  "quelle": "eigene Anleitung und Vorlage"
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "perlen"
+  ]
  },
  {
   "id": "konz-symbol-raster",
@@ -69,7 +91,12 @@ const IDEEN = [
   "beschreibung": "Ein Raster hängt weiter weg: hinlaufen, ein Feld merken, zurücklaufen und aufmalen. Bewegung und Merken in einem.",
   "material": "Ausdruck, Schere, Stift",
   "anleitung": "vorlagen/symbol-raster.pdf",
-  "quelle": "eigene Anleitung und Vorlage"
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "schere"
+  ]
  },
  {
   "id": "konz-spiegelzahlen",
@@ -81,7 +108,11 @@ const IDEEN = [
   "beschreibung": "Richtige und gespiegelte Zahlen auseinanderhalten und die richtigen mit Knöpfen belegen. Schärft den genauen Blick.",
   "material": "Ausdruck, Knöpfe oder Münzen",
   "anleitung": "vorlagen/spiegelzahlen.pdf",
-  "quelle": "eigene Anleitung und Vorlage"
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "kleinkram"
+  ]
  },
  {
   "id": "konz-stifte-merken",
@@ -93,7 +124,10 @@ const IDEEN = [
   "beschreibung": "Eine Reihe Buntstifte kurz anschauen, gemischt bekommen und die Reihenfolge wieder legen. Klappt überall in 2 Minuten.",
   "material": "4–6 Buntstifte",
   "anleitung": "vorlagen/stifte-merken.pdf",
-  "quelle": "eigene Anleitung und Vorlage"
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "stifte"
+  ]
  },
  {
   "id": "konz-farbpunkte",
@@ -105,7 +139,11 @@ const IDEEN = [
   "beschreibung": "Gleiche Farben mit Linien verbinden, ohne dass sich die Wege kreuzen – kleine Knobelrätsel zum Vorausdenken.",
   "material": "Ausdruck, Buntstifte",
   "anleitung": "vorlagen/farbpunkte.pdf",
-  "quelle": "eigene Anleitung und Vorlage"
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "stifte"
+  ]
  },
  {
   "id": "konz-beidhaendig",
@@ -117,7 +155,12 @@ const IDEEN = [
   "beschreibung": "Mit beiden Händen gleichzeitig spiegelbildlich Achten, Zacken und Kreise nachfahren. Fordert beide Gehirnhälften.",
   "material": "Ausdruck, 2 Stifte, Klebeband",
   "anleitung": "vorlagen/beidhaendig.pdf",
-  "quelle": "eigene Anleitung und Vorlage"
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "klebeband"
+  ]
  },
  {
   "id": "konz-schwunguebungen",
@@ -129,7 +172,11 @@ const IDEEN = [
   "beschreibung": "Wellen, Bögen und Zacken langsam nachfahren – beruhigt und bereitet aufs Schreiben vor.",
   "material": "Ausdruck, Stift",
   "anleitung": "vorlagen/schwunguebungen.pdf",
-  "quelle": "eigene Anleitung und Vorlage"
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "stifte"
+  ]
  },
  {
   "id": "konz-handzeichen-kette",
@@ -141,7 +188,10 @@ const IDEEN = [
   "beschreibung": "Jeder hängt ein Handzeichen an die Kette und gibt den Ball weiter – wer schafft die längste Reihe?",
   "material": "kleiner Ball",
   "anleitung": "vorlagen/handzeichen-kette.pdf",
-  "quelle": "eigene Anleitung und Vorlage"
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "ball"
+  ]
  },
  {
   "id": "konz-muster-nachlegen",
@@ -153,7 +203,11 @@ const IDEEN = [
   "beschreibung": "Muster mit schwarzen und weißen Kärtchen genau nachlegen, später nach nur 10 Sekunden Hinschauen.",
   "material": "Ausdruck, Schere",
   "anleitung": "vorlagen/muster-nachlegen.pdf",
-  "quelle": "eigene Anleitung und Vorlage"
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "schere"
+  ]
  },
  {
   "id": "konz-hand-twister",
@@ -165,7 +219,10 @@ const IDEEN = [
   "beschreibung": "„Rechte Hand auf Blau!“ – Hände auf die passenden Umrisse legen, bis alles verknotet ist. Links/rechts spielerisch üben.",
   "material": "Ausdruck",
   "anleitung": "vorlagen/hand-twister.pdf",
-  "quelle": "eigene Anleitung und Vorlage"
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "konz-farbwoerter",
@@ -177,7 +234,10 @@ const IDEEN = [
   "beschreibung": "Nicht das Wort lesen, sondern die Farbe sagen – das Gehirn will ständig das Falsche. Für Kinder, die schon lesen.",
   "material": "Ausdruck",
   "anleitung": "vorlagen/farbwoerter.pdf",
-  "quelle": "eigene Anleitung und Vorlage"
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "konz-w-was-fehlt",
@@ -189,7 +249,11 @@ const IDEEN = [
   "beschreibung": "Ein paar Alltagsdinge liegen auf dem Tisch. Augen zu, einer verschwindet – welcher? Je mehr Dinge, desto kniffliger.",
   "material": "4–10 kleine Gegenstände, Tuch",
   "anleitung": "https://www.zwischenwasser.at/medien/spielanleitungen-fuer-zuhause.pdf/@@download/file/Spielanleitungen für Zuhause.pdf",
-  "quelle": "Gemeinde Zwischenwasser (PDF)"
+  "quelle": "Gemeinde Zwischenwasser (PDF)",
+  "zubehoer": [
+   "tuch",
+   "kleinkram"
+  ]
  },
  {
   "id": "konz-w-zaubertuch",
@@ -214,7 +278,12 @@ const IDEEN = [
   "beschreibung": "Je zwei Kärtchen mit gleichem Material bekleben (Nudeln, Sandpapier, Filz) und mit verbundenen Augen die Paare ertasten.",
   "material": "Pappkärtchen, Materialreste, Kleber, Augenbinde",
   "anleitung": "https://mobil-krankenkasse.de/dam/jcr:f8d9eaa6-e1a2-416c-b8ee-c8006d6204cb/final_Tastmemory_170292_MOB_Microsite_Tastmemory.pdf",
-  "quelle": "Mobil Krankenkasse (PDF)"
+  "quelle": "Mobil Krankenkasse (PDF)",
+  "zubehoer": [
+   "kleber",
+   "karton",
+   "tuch"
+  ]
  },
  {
   "id": "konz-w-tastkarton",
@@ -226,7 +295,11 @@ const IDEEN = [
   "beschreibung": "In einen Karton mit Loch kommen Alltagsdinge. Nur mit den Händen fühlen und raten, was es ist.",
   "material": "Schuhkarton oder Säckchen, Alltagsgegenstände",
   "anleitung": "https://mobil-krankenkasse.de/dam/jcr:ecc3bcd4-77d4-482f-89ee-1dfa287f787d/final_Tastkarton.pdf",
-  "quelle": "Mobil Krankenkasse (PDF)"
+  "quelle": "Mobil Krankenkasse (PDF)",
+  "zubehoer": [
+   "karton",
+   "kleinkram"
+  ]
  },
  {
   "id": "konz-w-geraeusche-memory",
@@ -238,7 +311,12 @@ const IDEEN = [
   "beschreibung": "Dosen oder Überraschungsei-Hüllen paarweise gleich befüllen und durch Schütteln die Paare finden.",
   "material": "leere Dosen/Ü-Ei-Hüllen, Reis, Bohnen, Knöpfe",
   "anleitung": "https://hilfswerk.at/fileadmin/storage/vie/user_upload/Ideen_Spiele_auf_Distanz.pdf",
-  "quelle": "Hilfswerk Österreich (PDF)"
+  "quelle": "Hilfswerk Österreich (PDF)",
+  "zubehoer": [
+   "dosen",
+   "kleinkram",
+   "suess"
+  ]
  },
  {
   "id": "konz-w-richtungshoeren",
@@ -251,7 +329,8 @@ const IDEEN = [
   "material": "nichts (oder Glöckchen, Schlüssel)",
   "anleitung": "https://lsb-brandenburg.vibss.de/fileadmin/Medienablage/Sportpraxis/PH_Kinder/Musik_Spiel_Tanz/PH_2016_Kinder_-_Foerderung_der_auditiven_Wahrnehmung.pdf",
   "quelle": "Landessportbund Brandenburg (PDF)",
-  "sammlung": true
+  "sammlung": true,
+  "zubehoer": []
  },
  {
   "id": "konz-w-liegende-acht",
@@ -263,7 +342,8 @@ const IDEEN = [
   "beschreibung": "Mit dem Daumen große liegende Achten in die Luft malen und die Augen folgen lassen; danach Knie und gegenüberliegende Hand im Wechsel antippen.",
   "material": "nichts",
   "anleitung": "https://www.familie.at/dl/MLtpJKJNKLnJqx4kJK/_bungsbogen_pdf",
-  "quelle": "familie.at – Übungsbogen (PDF)"
+  "quelle": "familie.at – Übungsbogen (PDF)",
+  "zubehoer": []
  },
  {
   "id": "konz-w-brain-gym",
@@ -276,7 +356,8 @@ const IDEEN = [
   "material": "nichts",
   "anleitung": "https://ms-satteins.vobs.at/fileadmin/user_upload/Brain_Gym.pdf",
   "quelle": "MS Satteins (PDF)",
-  "sammlung": true
+  "sammlung": true,
+  "zubehoer": []
  },
  {
   "id": "konz-w-kinesiologie",
@@ -289,7 +370,8 @@ const IDEEN = [
   "material": "nichts",
   "anleitung": "https://www.usmaudio.de/wp-content/uploads/2023/12/booklet_kinesiologie.pdf",
   "quelle": "USM Audio – Booklet (PDF)",
-  "sammlung": true
+  "sammlung": true,
+  "zubehoer": []
  },
  {
   "id": "konz-w-stopp-tanz",
@@ -301,7 +383,10 @@ const IDEEN = [
   "beschreibung": "Alle tanzen zur Musik – sobald sie stoppt, wird zur Statue erstarrt. Wer wackelt, setzt eine Runde aus.",
   "material": "Musik",
   "anleitung": "https://www.kita.de/wissen/konzentrationsuebungen-kinder/",
-  "quelle": "kita.de"
+  "quelle": "kita.de",
+  "zubehoer": [
+   "musik"
+  ]
  },
  {
   "id": "konz-w-geraeusche-detektive",
@@ -313,7 +398,8 @@ const IDEEN = [
   "beschreibung": "Augen schließen und lauschen: Wer hört die meisten verschiedenen Geräusche und kann sie benennen?",
   "material": "nichts",
   "anleitung": "https://www.kita.de/wissen/konzentrationsuebungen-kinder/",
-  "quelle": "kita.de"
+  "quelle": "kita.de",
+  "zubehoer": []
  },
  {
   "id": "konz-w-farben-suchen",
@@ -325,7 +411,8 @@ const IDEEN = [
   "beschreibung": "Eine Farbe wird genannt – wer findet am schnellsten drei Dinge in genau dieser Farbe?",
   "material": "nichts",
   "anleitung": "https://www.kita.de/wissen/konzentrationsuebungen-kinder/",
-  "quelle": "kita.de"
+  "quelle": "kita.de",
+  "zubehoer": []
  },
  {
   "id": "konz-w-wegbeschreibung",
@@ -337,7 +424,8 @@ const IDEEN = [
   "beschreibung": "Einer beschreibt einen Weg durch Wohnung oder Garten, der andere läuft ihn genau nach – ohne Zeigen.",
   "material": "nichts",
   "anleitung": "https://www.kita.de/wissen/konzentrationsuebungen-kinder/",
-  "quelle": "kita.de"
+  "quelle": "kita.de",
+  "zubehoer": []
  },
  {
   "id": "konz-w-fehler-finden",
@@ -349,7 +437,11 @@ const IDEEN = [
   "beschreibung": "Zwei fast gleiche Bilder vergleichen und alle Unterschiede einkreisen. Kostenlose Vorlagen zum Ausdrucken.",
   "material": "Ausdruck, Stift",
   "anleitung": "https://www.wko.at/oe/handel/oevs/lehrer-eltern-tool",
-  "quelle": "WKO / ÖVS Lern-Tool"
+  "quelle": "WKO / ÖVS Lern-Tool",
+  "zubehoer": [
+   "papier",
+   "stifte"
+  ]
  },
  {
   "id": "konz-w-woerter-zaehlen",
@@ -361,7 +453,10 @@ const IDEEN = [
   "beschreibung": "Beim Vorlesen ein bestimmtes Wort festlegen – das Kind zählt mit, wie oft es vorkommt.",
   "material": "ein Buch",
   "anleitung": "https://utopia.de/ratgeber/konzentrationsuebungen-fuer-kinder-hilfreiche-methoden-und-spiele_171312/",
-  "quelle": "Utopia"
+  "quelle": "Utopia",
+  "zubehoer": [
+   "kleinkram"
+  ]
  },
  {
   "id": "konz-w-schritte-zaehlen",
@@ -373,7 +468,8 @@ const IDEEN = [
   "beschreibung": "Auf dem Weg zum Bäcker oder Spielplatz die Schritte zählen und schätzen: Wie viele sind es bis zur nächsten Ecke?",
   "material": "nichts",
   "anleitung": "https://utopia.de/ratgeber/konzentrationsuebungen-fuer-kinder-hilfreiche-methoden-und-spiele_171312/",
-  "quelle": "Utopia"
+  "quelle": "Utopia",
+  "zubehoer": []
  },
  {
   "id": "konz-w-im-takt",
@@ -385,7 +481,11 @@ const IDEEN = [
   "beschreibung": "Ein Erwachsener schlägt einen Takt, die Kinder gehen, hüpfen oder schleichen genau dazu – mal schnell, mal langsam.",
   "material": "Topf und Löffel oder Trommel",
   "anleitung": "https://utopia.de/ratgeber/konzentrationsuebungen-fuer-kinder-hilfreiche-methoden-und-spiele_171312/",
-  "quelle": "Utopia"
+  "quelle": "Utopia",
+  "zubehoer": [
+   "geschirr",
+   "musik"
+  ]
  },
  {
   "id": "konz-w-bildkategorien",
@@ -397,7 +497,10 @@ const IDEEN = [
   "beschreibung": "Viele Bilder liegen aus, gesucht werden nur Tiere, dann nur Fahrzeuge, dann nur Obst.",
   "material": "Bilder aus Zeitschriften oder Karten",
   "anleitung": "https://utopia.de/ratgeber/konzentrationsuebungen-fuer-kinder-hilfreiche-methoden-und-spiele_171312/",
-  "quelle": "Utopia"
+  "quelle": "Utopia",
+  "zubehoer": [
+   "wuerfel"
+  ]
  },
  {
   "id": "konz-w-inne-halten",
@@ -409,7 +512,8 @@ const IDEEN = [
   "beschreibung": "Kurz ganz still werden, auf den Atem achten und dann erzählen, was man gehört und gespürt hat.",
   "material": "nichts",
   "anleitung": "https://utopia.de/ratgeber/konzentrationsuebungen-fuer-kinder-hilfreiche-methoden-und-spiele_171312/",
-  "quelle": "Utopia"
+  "quelle": "Utopia",
+  "zubehoer": []
  },
  {
   "id": "konz-w-becher-ball",
@@ -421,7 +525,11 @@ const IDEEN = [
   "beschreibung": "Bälle mit dem Becher fangen, über den Tisch rollen lassen und gegenseitig zuspielen – viele Varianten für die Familie.",
   "material": "Becher, Tischtennisbälle",
   "anleitung": "https://www.mobilesport.ch/assets/lbwp-cdn/mobilesport/files/1587451673/lektion_alltagsmaterial_rueckschlag_d.pdf",
-  "quelle": "mobilesport.ch (PDF)"
+  "quelle": "mobilesport.ch (PDF)",
+  "zubehoer": [
+   "becher",
+   "ball"
+  ]
  },
  {
   "id": "konz-w-joghurtbecher",
@@ -434,7 +542,11 @@ const IDEEN = [
   "material": "Joghurtbecher, kleiner Ball",
   "anleitung": "https://hsb.vibss.de/fileadmin/Medienablage/Sportpraxis/PH_Kinder/Alltagsmaterialien/Alltagsmaterialien_-_Joghurtbecher.pdf",
   "quelle": "Sportjugend Hessen (PDF)",
-  "sammlung": true
+  "sammlung": true,
+  "zubehoer": [
+   "becher",
+   "ball"
+  ]
  },
  {
   "id": "konz-w-sport-stacking",
@@ -446,7 +558,10 @@ const IDEEN = [
   "beschreibung": "Becher in Dreier-Türmen blitzschnell auf- und wieder abstapeln, mit beiden Händen im Wechsel. Mit der Zeit gegen die Uhr.",
   "material": "9 Plastikbecher",
   "anleitung": "https://assets01.sdd1.ch/assets/lbwp-cdn/mobilesport/files/2013/09/praxis_2006_21_d.pdf",
-  "quelle": "mobilesport.ch (PDF)"
+  "quelle": "mobilesport.ch (PDF)",
+  "zubehoer": [
+   "becher"
+  ]
  },
  {
   "id": "konz-w-aufmerksamkeit-bewegung",
@@ -459,7 +574,8 @@ const IDEEN = [
   "material": "nichts",
   "anleitung": "https://lsb-brandenburg.vibss.de:443/fileadmin/Medienablage/Sportpraxis/PfP_Bewegungsfoerderung_Kinder/Bewegungserziehung_Ausmerksamkeitsfoerderung_2011.pdf",
   "quelle": "Sportjugend NRW (PDF)",
-  "sammlung": true
+  "sammlung": true,
+  "zubehoer": []
  },
  {
   "id": "konz-w-gedaechtnis-sammlung",
@@ -472,7 +588,11 @@ const IDEEN = [
   "material": "kleine Gegenstände, Tuch",
   "anleitung": "https://dms-portal.bildung.hessen.de/elc/fortbildung/pdo/do_mathe_grundschule/foerderung/aufgabenfelder/foerd_spiele_gedaechtnis.pdf",
   "quelle": "Bildungsserver Hessen (PDF)",
-  "sammlung": true
+  "sammlung": true,
+  "zubehoer": [
+   "tuch",
+   "kleinkram"
+  ]
  },
  {
   "id": "konz-w-konzentration-sammlung",
@@ -497,7 +617,8 @@ const IDEEN = [
   "beschreibung": "Einer erzählt eine Wiesen-Geschichte, der andere malt Käfer, Regen und Wind mit den Fingern auf den Rücken. Beruhigt herrlich.",
   "material": "nichts",
   "anleitung": "https://betzold.at/blog/aktivierungsspiele-2",
-  "quelle": "Betzold Blog"
+  "quelle": "Betzold Blog",
+  "zubehoer": []
  },
  {
   "id": "konz-w-klassenspiele",
@@ -523,7 +644,12 @@ const IDEEN = [
   "material": "Ausdruck, Stifte, Schere",
   "anleitung": "https://www.wko.at/oe/handel/oevs/lehrer-eltern-tool",
   "quelle": "WKO / ÖVS Lern-Tool",
-  "sammlung": true
+  "sammlung": true,
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "schere"
+  ]
  },
  {
   "id": "konz-w-mobile-familie",
@@ -536,7 +662,11 @@ const IDEEN = [
   "material": "Kochlöffel, kleiner Ball, Tücher",
   "anleitung": "https://www.presseportal.de/download/document/597b113545000086e877d9d2-motorikbroschuere.pdf",
   "quelle": "BKK Mobil Oil – Broschüre (PDF)",
-  "sammlung": true
+  "sammlung": true,
+  "zubehoer": [
+   "geschirr",
+   "ball"
+  ]
  },
  {
   "id": "konz-w-chef-vize",
@@ -548,7 +678,8 @@ const IDEEN = [
   "beschreibung": "Im Kreis wird ein Klatsch-Rhythmus gehalten und dabei der Nächste aufgerufen. Wer aus dem Takt kommt, rutscht ans Ende.",
   "material": "nichts",
   "anleitung": "https://ir.lib.hiroshima-u.ac.jp/29465/files/37509",
-  "quelle": "Fachartikel Konzentrationsspiele (PDF)"
+  "quelle": "Fachartikel Konzentrationsspiele (PDF)",
+  "zubehoer": []
  },
  {
   "id": "buch-o-kranich",
@@ -565,7 +696,10 @@ const IDEEN = [
   "alt": "Kranich von tutkit.com",
   "quelle": "Buch + tutkit.com",
   "video": "https://www.youtube.com/watch?v=jBFS3LJE334",
-  "hatVideo": true
+  "hatVideo": true,
+  "zubehoer": [
+   "faltpapier"
+  ]
  },
  {
   "id": "buch-o-kraehe",
@@ -582,7 +716,10 @@ const IDEEN = [
   "alt": "einfacher Papiervogel von tutkit.com",
   "quelle": "Buch + tutkit.com",
   "video": "https://www.youtube.com/watch?v=1FJ7itY3ZvY",
-  "hatVideo": true
+  "hatVideo": true,
+  "zubehoer": [
+   "faltpapier"
+  ]
  },
  {
   "id": "buch-o-schmetterling",
@@ -599,7 +736,10 @@ const IDEEN = [
   "alt": "Schmetterling von tutkit.com",
   "quelle": "Buch + tutkit.com",
   "video": "https://www.youtube.com/watch?v=6EofpI7aGnM",
-  "hatVideo": true
+  "hatVideo": true,
+  "zubehoer": [
+   "faltpapier"
+  ]
  },
  {
   "id": "buch-o-eisbaer",
@@ -616,7 +756,10 @@ const IDEEN = [
   "alt": "einfacher Papierbär von tutkit.com",
   "quelle": "Buch + tutkit.com",
   "video": "https://www.youtube.com/watch?v=k8AcCPQJImI",
-  "hatVideo": true
+  "hatVideo": true,
+  "zubehoer": [
+   "faltpapier"
+  ]
  },
  {
   "id": "buch-o-dinosaurier",
@@ -633,7 +776,10 @@ const IDEEN = [
   "alt": "Dinosaurier von tutkit.com",
   "quelle": "Buch + tutkit.com",
   "video": "https://www.youtube.com/watch?v=mLIJQdkCs78",
-  "hatVideo": true
+  "hatVideo": true,
+  "zubehoer": [
+   "faltpapier"
+  ]
  },
  {
   "id": "buch-o-pferd",
@@ -648,7 +794,10 @@ const IDEEN = [
   "thema": "origami",
   "buch": "„Originelle Origami Tiere“ (Ross Symons, TOPP) – „Pferd“",
   "alt": "Papierpferd von familie.de",
-  "quelle": "Buch + familie.de"
+  "quelle": "Buch + familie.de",
+  "zubehoer": [
+   "faltpapier"
+  ]
  },
  {
   "id": "buch-o-hahn",
@@ -663,7 +812,10 @@ const IDEEN = [
   "thema": "origami",
   "buch": "„Originelle Origami Tiere“ (Ross Symons, TOPP) – „Hahn“",
   "alt": "YouTube-Suche nach Hahn-Anleitungen",
-  "quelle": "Buch + YouTube-Suche nach Hahn-Anleitungen"
+  "quelle": "Buch + YouTube-Suche nach Hahn-Anleitungen",
+  "zubehoer": [
+   "faltpapier"
+  ]
  },
  {
   "id": "buch-o-seepferdchen",
@@ -678,7 +830,10 @@ const IDEEN = [
   "thema": "origami",
   "buch": "„Originelle Origami Tiere“ (Ross Symons, TOPP) – „Seepferdchen“",
   "alt": "YouTube-Suche nach Seepferdchen-Anleitungen",
-  "quelle": "Buch + YouTube-Suche nach Seepferdchen-Anleitungen"
+  "quelle": "Buch + YouTube-Suche nach Seepferdchen-Anleitungen",
+  "zubehoer": [
+   "faltpapier"
+  ]
  },
  {
   "id": "buch-o-schildkroete",
@@ -693,7 +848,10 @@ const IDEEN = [
   "thema": "origami",
   "buch": "„Originelle Origami Tiere“ (Ross Symons, TOPP) – „Schildkröte“",
   "alt": "Schildkröte als PDF von toggoeltern.de",
-  "quelle": "Buch + toggoeltern.de"
+  "quelle": "Buch + toggoeltern.de",
+  "zubehoer": [
+   "faltpapier"
+  ]
  },
  {
   "id": "buch-o-schwan",
@@ -710,7 +868,10 @@ const IDEEN = [
   "alt": "Schwan von tutkit.com",
   "quelle": "Buch + tutkit.com",
   "video": "https://www.youtube.com/watch?v=5LpkQ5NelDo",
-  "hatVideo": true
+  "hatVideo": true,
+  "zubehoer": [
+   "faltpapier"
+  ]
  },
  {
   "id": "buch-o-mantarochen",
@@ -725,7 +886,10 @@ const IDEEN = [
   "thema": "origami",
   "buch": "„Originelle Origami Tiere“ (Ross Symons, TOPP) – „Mantarochen“",
   "alt": "YouTube-Suche nach Mantarochen-Anleitungen",
-  "quelle": "Buch + YouTube-Suche nach Mantarochen-Anleitungen"
+  "quelle": "Buch + YouTube-Suche nach Mantarochen-Anleitungen",
+  "zubehoer": [
+   "faltpapier"
+  ]
  },
  {
   "id": "buch-o-eule",
@@ -740,7 +904,10 @@ const IDEEN = [
   "thema": "origami",
   "buch": "„Originelle Origami Tiere“ (Ross Symons, TOPP) – „Eule“",
   "alt": "Eule als PDF vom WWF Österreich",
-  "quelle": "Buch + Eule als PDF vom WWF Österreich"
+  "quelle": "Buch + Eule als PDF vom WWF Österreich",
+  "zubehoer": [
+   "faltpapier"
+  ]
  },
  {
   "id": "buch-o-fuchs",
@@ -757,7 +924,10 @@ const IDEEN = [
   "alt": "einfacherer Fuchs von tutkit.com",
   "quelle": "Buch + tutkit.com",
   "video": "https://www.youtube.com/watch?v=Yz_qZUi1eW0",
-  "hatVideo": true
+  "hatVideo": true,
+  "zubehoer": [
+   "faltpapier"
+  ]
  },
  {
   "id": "buch-o-fledermaus",
@@ -772,7 +942,10 @@ const IDEEN = [
   "thema": "origami",
   "buch": "„Originelle Origami Tiere“ (Ross Symons, TOPP) – „Fledermaus“",
   "alt": "Fledermaus als PDF vom aha-Museum",
-  "quelle": "Buch + Fledermaus als PDF vom aha-Museum"
+  "quelle": "Buch + Fledermaus als PDF vom aha-Museum",
+  "zubehoer": [
+   "faltpapier"
+  ]
  },
  {
   "id": "buch-o-fisch",
@@ -789,7 +962,10 @@ const IDEEN = [
   "alt": "3D-Fisch von tutkit.com",
   "quelle": "Buch + tutkit.com",
   "video": "https://www.youtube.com/watch?v=KVmQ42G63xM",
-  "hatVideo": true
+  "hatVideo": true,
+  "zubehoer": [
+   "faltpapier"
+  ]
  },
  {
   "id": "buch-o-nashorn",
@@ -804,7 +980,10 @@ const IDEEN = [
   "thema": "origami",
   "buch": "„Originelle Origami Tiere“ (Ross Symons, TOPP) – „Nashorn“",
   "alt": "YouTube-Suche nach Nashorn-Anleitungen",
-  "quelle": "Buch + YouTube-Suche nach Nashorn-Anleitungen"
+  "quelle": "Buch + YouTube-Suche nach Nashorn-Anleitungen",
+  "zubehoer": [
+   "faltpapier"
+  ]
  },
  {
   "id": "buch-o-drache",
@@ -819,7 +998,10 @@ const IDEEN = [
   "thema": "origami",
   "buch": "„Originelle Origami Tiere“ (Ross Symons, TOPP) – „Drache“",
   "alt": "YouTube-Suche nach Drachen-Anleitungen",
-  "quelle": "Buch + YouTube-Suche nach Drachen-Anleitungen"
+  "quelle": "Buch + YouTube-Suche nach Drachen-Anleitungen",
+  "zubehoer": [
+   "faltpapier"
+  ]
  },
  {
   "id": "buch-o-kaninchen",
@@ -836,7 +1018,10 @@ const IDEEN = [
   "alt": "Hase von tutkit.com",
   "quelle": "Buch + tutkit.com",
   "video": "https://www.youtube.com/watch?v=R0OlYt23cJE",
-  "hatVideo": true
+  "hatVideo": true,
+  "zubehoer": [
+   "faltpapier"
+  ]
  },
  {
   "id": "buch-o-schwein",
@@ -853,7 +1038,10 @@ const IDEEN = [
   "alt": "Schwein von tutkit.com",
   "quelle": "Buch + tutkit.com",
   "video": "https://www.youtube.com/watch?v=Tvv_v4EiuPg",
-  "hatVideo": true
+  "hatVideo": true,
+  "zubehoer": [
+   "faltpapier"
+  ]
  },
  {
   "id": "buch-o-maus",
@@ -868,7 +1056,10 @@ const IDEEN = [
   "thema": "origami",
   "buch": "„Originelle Origami Tiere“ (Ross Symons, TOPP) – „Maus“",
   "alt": "YouTube-Suche nach Maus-Anleitungen",
-  "quelle": "Buch + YouTube-Suche nach Maus-Anleitungen"
+  "quelle": "Buch + YouTube-Suche nach Maus-Anleitungen",
+  "zubehoer": [
+   "faltpapier"
+  ]
  },
  {
   "id": "buch-m-taschenanhaenger",
@@ -883,7 +1074,10 @@ const IDEEN = [
   "thema": "makramee",
   "buch": "Makramee-Buch (Titel ergänzen) – „Taschenanhänger“",
   "alt": "Schlüsselanhänger als PDF von lieblingsgarn.de",
-  "quelle": "Buch + lieblingsgarn.de"
+  "quelle": "Buch + lieblingsgarn.de",
+  "zubehoer": [
+   "makramee"
+  ]
  },
  {
   "id": "buch-m-zopfgummi",
@@ -898,7 +1092,10 @@ const IDEEN = [
   "thema": "makramee",
   "buch": "Makramee-Buch (Titel ergänzen) – „Zopfgummi“",
   "alt": "YouTube-Suche nach Makramee-Haargummis",
-  "quelle": "Buch + YouTube-Suche nach Makramee-Haargummis"
+  "quelle": "Buch + YouTube-Suche nach Makramee-Haargummis",
+  "zubehoer": [
+   "makramee"
+  ]
  },
  {
   "id": "buch-m-ohrstecker",
@@ -913,7 +1110,10 @@ const IDEEN = [
   "thema": "makramee",
   "buch": "Makramee-Buch (Titel ergänzen) – „Ohrstecker“",
   "alt": "Makramee-Ohrringe von vbs-hobby.at",
-  "quelle": "Buch + vbs-hobby.at"
+  "quelle": "Buch + vbs-hobby.at",
+  "zubehoer": [
+   "makramee"
+  ]
  },
  {
   "id": "buch-m-sommerliches-armband",
@@ -928,7 +1128,10 @@ const IDEEN = [
   "thema": "makramee",
   "buch": "Makramee-Buch (Titel ergänzen) – „Sommerliches Armband“",
   "alt": "Grundknoten-Armband von utopia.de",
-  "quelle": "Buch + utopia.de"
+  "quelle": "Buch + utopia.de",
+  "zubehoer": [
+   "makramee"
+  ]
  },
  {
   "id": "buch-m-verspieltes-armband",
@@ -943,7 +1146,10 @@ const IDEEN = [
   "thema": "makramee",
   "buch": "Makramee-Buch (Titel ergänzen) – „Verspieltes Armband“",
   "alt": "Sammlung freier Armband-Anleitungen auf heimwerker.de",
-  "quelle": "Buch + Sammlung freier Armband-Anleitungen auf heimwerker.de"
+  "quelle": "Buch + Sammlung freier Armband-Anleitungen auf heimwerker.de",
+  "zubehoer": [
+   "makramee"
+  ]
  },
  {
   "id": "buch-m-filigrane-ohrringe",
@@ -958,7 +1164,10 @@ const IDEEN = [
   "thema": "makramee",
   "buch": "Makramee-Buch (Titel ergänzen) – „Filigrane Ohrringe“",
   "alt": "Makramee-Ohrringe von vbs-hobby.at",
-  "quelle": "Buch + vbs-hobby.at"
+  "quelle": "Buch + vbs-hobby.at",
+  "zubehoer": [
+   "makramee"
+  ]
  },
  {
   "id": "buch-m-makramee-uhr",
@@ -973,7 +1182,10 @@ const IDEEN = [
   "thema": "makramee",
   "buch": "Makramee-Buch (Titel ergänzen) – „Makramee-Uhr“",
   "alt": "YouTube-Suche nach Makramee-Uhrarmbändern",
-  "quelle": "Buch + YouTube-Suche nach Makramee-Uhrarmbändern"
+  "quelle": "Buch + YouTube-Suche nach Makramee-Uhrarmbändern",
+  "zubehoer": [
+   "makramee"
+  ]
  },
  {
   "id": "buch-m-haarreif",
@@ -988,7 +1200,10 @@ const IDEEN = [
   "thema": "makramee",
   "buch": "Makramee-Buch (Titel ergänzen) – „Haarreif“",
   "alt": "YouTube-Suche nach Makramee-Haarreifen",
-  "quelle": "Buch + YouTube-Suche nach Makramee-Haarreifen"
+  "quelle": "Buch + YouTube-Suche nach Makramee-Haarreifen",
+  "zubehoer": [
+   "makramee"
+  ]
  },
  {
   "id": "buch-m-boho-guertel",
@@ -1003,7 +1218,10 @@ const IDEEN = [
   "thema": "makramee",
   "buch": "Makramee-Buch (Titel ergänzen) – „Boho-Gürtel“",
   "alt": "Gürtel-Anleitungen auf heimwerker.de",
-  "quelle": "Buch + Gürtel-Anleitungen auf heimwerker.de"
+  "quelle": "Buch + Gürtel-Anleitungen auf heimwerker.de",
+  "zubehoer": [
+   "makramee"
+  ]
  },
  {
   "id": "buch-m-zweifarbiges-armband",
@@ -1018,7 +1236,10 @@ const IDEEN = [
   "thema": "makramee",
   "buch": "Makramee-Buch (Titel ergänzen) – „Zweifarbiges Armband“",
   "alt": "Grundknoten-Armband von utopia.de",
-  "quelle": "Buch + utopia.de"
+  "quelle": "Buch + utopia.de",
+  "zubehoer": [
+   "makramee"
+  ]
  },
  {
   "id": "buch-m-lange-kette",
@@ -1033,7 +1254,10 @@ const IDEEN = [
   "thema": "makramee",
   "buch": "Makramee-Buch (Titel ergänzen) – „Lange Kette“",
   "alt": "Kettenanhänger von vbs-hobby.at",
-  "quelle": "Buch + vbs-hobby.at"
+  "quelle": "Buch + vbs-hobby.at",
+  "zubehoer": [
+   "makramee"
+  ]
  },
  {
   "id": "buch-m-haarspange",
@@ -1048,7 +1272,10 @@ const IDEEN = [
   "thema": "makramee",
   "buch": "Makramee-Buch (Titel ergänzen) – „Haarspange“",
   "alt": "YouTube-Suche nach Makramee-Haarspangen",
-  "quelle": "Buch + YouTube-Suche nach Makramee-Haarspangen"
+  "quelle": "Buch + YouTube-Suche nach Makramee-Haarspangen",
+  "zubehoer": [
+   "makramee"
+  ]
  },
  {
   "id": "buch-m-creolen",
@@ -1063,7 +1290,10 @@ const IDEEN = [
   "thema": "makramee",
   "buch": "Makramee-Buch (Titel ergänzen) – „Creolen“",
   "alt": "YouTube-Suche nach Makramee-Creolen",
-  "quelle": "Buch + YouTube-Suche nach Makramee-Creolen"
+  "quelle": "Buch + YouTube-Suche nach Makramee-Creolen",
+  "zubehoer": [
+   "makramee"
+  ]
  },
  {
   "id": "buch-m-schmuckset-pipa",
@@ -1078,7 +1308,10 @@ const IDEEN = [
   "thema": "makramee",
   "buch": "Makramee-Buch (Titel ergänzen) – „Schmuckset Pipa“",
   "alt": "YouTube-Suche zum Pipa-Knoten",
-  "quelle": "Buch + YouTube-Suche zum Pipa-Knoten"
+  "quelle": "Buch + YouTube-Suche zum Pipa-Knoten",
+  "zubehoer": [
+   "makramee"
+  ]
  },
  {
   "id": "buch-m-statement-kette",
@@ -1093,7 +1326,10 @@ const IDEEN = [
   "thema": "makramee",
   "buch": "Makramee-Buch (Titel ergänzen) – „Statement-Kette“",
   "alt": "Statement-Halskette u. a. auf heimwerker.de",
-  "quelle": "Buch + Statement-Halskette u. a. auf heimwerker.de"
+  "quelle": "Buch + Statement-Halskette u. a. auf heimwerker.de",
+  "zubehoer": [
+   "makramee"
+  ]
  },
  {
   "id": "buch-m-armreif-mit-kreuzknoten",
@@ -1108,7 +1344,10 @@ const IDEEN = [
   "thema": "makramee",
   "buch": "Makramee-Buch (Titel ergänzen) – „Armreif mit Kreuzknoten“",
   "alt": "Kreuzknoten-Grundlagen bei utopia.de",
-  "quelle": "Buch + Kreuzknoten-Grundlagen bei utopia.de"
+  "quelle": "Buch + Kreuzknoten-Grundlagen bei utopia.de",
+  "zubehoer": [
+   "makramee"
+  ]
  },
  {
   "id": "buch-m-armreif-mit-gedrehtem-strang",
@@ -1123,7 +1362,10 @@ const IDEEN = [
   "thema": "makramee",
   "buch": "Makramee-Buch (Titel ergänzen) – „Armreif mit gedrehtem Strang“",
   "alt": "gedrehtes Armband u. a. auf heimwerker.de",
-  "quelle": "Buch + gedrehtes Armband u. a. auf heimwerker.de"
+  "quelle": "Buch + gedrehtes Armband u. a. auf heimwerker.de",
+  "zubehoer": [
+   "makramee"
+  ]
  },
  {
   "id": "eigen-hund",
@@ -1136,7 +1378,11 @@ const IDEEN = [
   "material": "1 quadratisches Blatt Papier, Stift",
   "anleitung": "bilder/origami-hund.png",
   "thema": "origami",
-  "quelle": "eigene Zeichnung"
+  "quelle": "eigene Zeichnung",
+  "zubehoer": [
+   "papier",
+   "stifte"
+  ]
  },
  {
   "id": "eigen-katze",
@@ -1149,7 +1395,11 @@ const IDEEN = [
   "material": "1 quadratisches Blatt Papier, Stift",
   "anleitung": "bilder/origami-katze.png",
   "thema": "origami",
-  "quelle": "eigene Zeichnung"
+  "quelle": "eigene Zeichnung",
+  "zubehoer": [
+   "papier",
+   "stifte"
+  ]
  },
  {
   "id": "mo-badebomben-selber-machen",
@@ -1163,7 +1413,15 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 3,
-  "material": "🧁 200 g Natron🍋 120 g Zitronensäurepulver🌽 60 g Speisestärke🥥 40 g Kokosfett🎨 Lebensmittelfarbe🌹 Rosenblätter🌸 Ätherisches Öl🥣 Große Schüssel🥣 Kleine Schüsseln🥄 Löffel⚪ Kugelform💧 …"
+  "material": "🧁 200 g Natron🍋 120 g Zitronensäurepulver🌽 60 g Speisestärke🥥 40 g Kokosfett🎨 Lebensmittelfarbe🌹 Rosenblätter🌸 Ätherisches Öl🥣 Große Schüssel🥣 Kleine Schüsseln🥄 Löffel⚪ Kugelform💧 …",
+  "zubehoer": [
+   "geschirr",
+   "lebensmittelfarbe",
+   "staerke",
+   "natron",
+   "milchoel",
+   "natur"
+  ]
  },
  {
   "id": "mo-selbstaufblasender-ballon-experiment-fuer-kinder",
@@ -1177,7 +1435,13 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "🍾 1 l Plastikflasche🍶 100 ml Essig🧁 2 EL Natron🎈 Luftballon🔻 Trichter🥄 Löffel"
+  "material": "🍾 1 l Plastikflasche🍶 100 ml Essig🧁 2 EL Natron🎈 Luftballon🔻 Trichter🥄 Löffel",
+  "zubehoer": [
+   "glas",
+   "geschirr",
+   "natron",
+   "ballon"
+  ]
  },
  {
   "id": "mo-trompete-selber-machen",
@@ -1191,7 +1455,14 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "beides",
   "materialStufe": 2,
-  "material": "🎈 Luftballon🪈 Kunststoffrohr (ca. 1 cm Durchmesser, 15 cm lang)🩹 Klebeband📏 Lineal🖍️ Edding✂️ Schere"
+  "material": "🎈 Luftballon🪈 Kunststoffrohr (ca. 1 cm Durchmesser, 15 cm lang)🩹 Klebeband📏 Lineal🖍️ Edding✂️ Schere",
+  "zubehoer": [
+   "filzstifte",
+   "schere",
+   "klebeband",
+   "lineal",
+   "ballon"
+  ]
  },
  {
   "id": "mo-blubber-staebchen-experiment-fuer-kinder",
@@ -1205,7 +1476,13 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "🧴 Sprüh-Deo (alternativ Haarspray)💧 Warmes Wasser (ca. 35 bis 40°C)🎨 Lebensmittelfarbe☁️ Wattestäbchen🥃 Ein Glas"
+  "material": "🧴 Sprüh-Deo (alternativ Haarspray)💧 Warmes Wasser (ca. 35 bis 40°C)🎨 Lebensmittelfarbe☁️ Wattestäbchen🥃 Ein Glas",
+  "zubehoer": [
+   "wasser",
+   "watte",
+   "glas",
+   "lebensmittelfarbe"
+  ]
  },
  {
   "id": "mo-lavalampe-selber-machen-fuer-kinder",
@@ -1219,7 +1496,14 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 3,
-  "material": "💧 Wasser🫗 Speiseöl🎨 Lebensmittelfarbe💊 Brausetablette🥄 Löffel🥃 Glas oder Vase"
+  "material": "💧 Wasser🫗 Speiseöl🎨 Lebensmittelfarbe💊 Brausetablette🥄 Löffel🥃 Glas oder Vase",
+  "zubehoer": [
+   "wasser",
+   "glas",
+   "geschirr",
+   "lebensmittelfarbe",
+   "milchoel"
+  ]
  },
  {
   "id": "mo-chia-schleim-selber-machen",
@@ -1233,7 +1517,13 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 3,
-  "material": "🫘 Chia-Samen (am besten weiße)💧 Wasser🎨 Lebensmittelfarbe🥣 4 Schüsseln🪟 Frischhaltefolie🥄 Löffel🟫 Tablett"
+  "material": "🫘 Chia-Samen (am besten weiße)💧 Wasser🎨 Lebensmittelfarbe🥣 4 Schüsseln🪟 Frischhaltefolie🥄 Löffel🟫 Tablett",
+  "zubehoer": [
+   "wasser",
+   "geschirr",
+   "lebensmittelfarbe",
+   "folie"
+  ]
  },
  {
   "id": "mo-durstige-kerze-experiment-fuer-kinder",
@@ -1247,7 +1537,13 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "🥘 Auflaufform💧 Wasser🕯️ Teelicht🎨 Lebensmittelfarbe🧴 Parfüm oder Desinfektionsspray mit Alkohol (nur für Erwachsene)🥃 Glas/Trinkglas🔥 Feuerzeug (für Erwachsene)"
+  "material": "🥘 Auflaufform💧 Wasser🕯️ Teelicht🎨 Lebensmittelfarbe🧴 Parfüm oder Desinfektionsspray mit Alkohol (nur für Erwachsene)🥃 Glas/Trinkglas🔥 Feuerzeug (für Erwachsene)",
+  "zubehoer": [
+   "wasser",
+   "glas",
+   "lebensmittelfarbe",
+   "kerze"
+  ]
  },
  {
   "id": "mo-frostzauberturm-experiment-fuer-kinder",
@@ -1261,7 +1557,13 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "💧 Destilliertes Wasser🍾 500 ml Kunststoffflasche🧊 Eiswürfel💧 Leitungswasser🥣 Große Schüssel🧂 Salz🍽️ Flacher Teller"
+  "material": "💧 Destilliertes Wasser🍾 500 ml Kunststoffflasche🧊 Eiswürfel💧 Leitungswasser🥣 Große Schüssel🧂 Salz🍽️ Flacher Teller",
+  "zubehoer": [
+   "wasser",
+   "glas",
+   "geschirr",
+   "salzzucker"
+  ]
  },
  {
   "id": "mo-eisiger-fang-experiment-fuer-kinder",
@@ -1275,7 +1577,13 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "🥃 Hohes Glas🧊 Eiswürfelform💧 Kaltes Wasser🧵 Wollfaden (ca. 20 cm)🧂 Prise Salz"
+  "material": "🥃 Hohes Glas🧊 Eiswürfelform💧 Kaltes Wasser🧵 Wollfaden (ca. 20 cm)🧂 Prise Salz",
+  "zubehoer": [
+   "wasser",
+   "wolle",
+   "glas",
+   "salzzucker"
+  ]
  },
  {
   "id": "mo-elefanten-zahnpasta-experiment-fuer-kinder",
@@ -1289,7 +1597,14 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 3,
-  "material": "🧪 75 ml Wasserstoffperoxid 3 % (Apotheke)🍾 0,5 l Plastikflasche🧼 Spülmittel🍞 1 Päckchen Trockenhefe🎨 Lebensmittelfarbe💧 50 ml warmes Wasser🥃 Glas zum Anrühren🔻 Trichter🥣 Auffangsch…"
+  "material": "🧪 75 ml Wasserstoffperoxid 3 % (Apotheke)🍾 0,5 l Plastikflasche🧼 Spülmittel🍞 1 Päckchen Trockenhefe🎨 Lebensmittelfarbe💧 50 ml warmes Wasser🥃 Glas zum Anrühren🔻 Trichter🥣 Auffangsch…",
+  "zubehoer": [
+   "wasser",
+   "glas",
+   "lebensmittelfarbe",
+   "spuelmittel",
+   "chemie"
+  ]
  },
  {
   "id": "mo-chromatographie-experiment-fuer-kinder",
@@ -1303,7 +1618,15 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "☕ Kaffeefilter oder Chromatographiepapier🖍️ Wasserlösliche Filzstifte🥤 4 Becher💧 Wasser✂️ Schere"
+  "material": "☕ Kaffeefilter oder Chromatographiepapier🖍️ Wasserlösliche Filzstifte🥤 4 Becher💧 Wasser✂️ Schere",
+  "zubehoer": [
+   "papier",
+   "filzstifte",
+   "schere",
+   "wasser",
+   "becher",
+   "kaffeefilter"
+  ]
  },
  {
   "id": "mo-farben-speedboot-experiment-fuer-kinder",
@@ -1317,7 +1640,17 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 3,
-  "material": "⬜ Styroporplatte🥤 Pappbecher🧸 Kleine Spielfigur🧃 Strohhalm🎨 Lebensmittelfarbe💧 Wasser🖍️ Stift (zum Löcher stechen)🔪 Messer/Schere (nur Erwachsene!)🧴 Kleber"
+  "material": "⬜ Styroporplatte🥤 Pappbecher🧸 Kleine Spielfigur🧃 Strohhalm🎨 Lebensmittelfarbe💧 Wasser🖍️ Stift (zum Löcher stechen)🔪 Messer/Schere (nur Erwachsene!)🧴 Kleber",
+  "zubehoer": [
+   "stifte",
+   "schere",
+   "kleber",
+   "wasser",
+   "becher",
+   "lebensmittelfarbe",
+   "strohhalm",
+   "styropor"
+  ]
  },
  {
   "id": "mo-farben-tauchgang-experiment-fuer-kinder",
@@ -1331,7 +1664,14 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "🖍️ Buntstifte🖍️ Schwarzer Edding (wasserfest)📄 Weißes Papier🛍️ Zip-Beutel mit Verschluss🥃 Hohes Glas💧 Wasser"
+  "material": "🖍️ Buntstifte🖍️ Schwarzer Edding (wasserfest)📄 Weißes Papier🛍️ Zip-Beutel mit Verschluss🥃 Hohes Glas💧 Wasser",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "wasser",
+   "glas"
+  ]
  },
  {
   "id": "mo-farben-chaos-experiment-fuer-kinder",
@@ -1345,7 +1685,18 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "📄 Blatt Papier (DIN A4)🖍️ Buntstifte🪟 Klarsichtfolie🍢 Schaschlikspieß🫗 Speiseöl💧 Wasser🎨 Lebensmittelfarbe☁️ Wattepad💉 Pipette🥣 4 Schälchen"
+  "material": "📄 Blatt Papier (DIN A4)🖍️ Buntstifte🪟 Klarsichtfolie🍢 Schaschlikspieß🫗 Speiseöl💧 Wasser🎨 Lebensmittelfarbe☁️ Wattepad💉 Pipette🥣 4 Schälchen",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "wasser",
+   "watte",
+   "holzstaebe",
+   "lebensmittelfarbe",
+   "milchoel",
+   "folie",
+   "chemie"
+  ]
  },
  {
   "id": "mo-farbeneisbruch-experiment-fuer-kinder",
@@ -1359,7 +1710,14 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 3,
-  "material": "🥛 150 ml Vollmilch🍽️ Flacher Teller oder Schale🎨 Lebensmittelfarben (mind. 3 Farben)👶 Babypuder (mit Talkum)🧼 1 TL Spülmittel☁️ Wattestäbchen"
+  "material": "🥛 150 ml Vollmilch🍽️ Flacher Teller oder Schale🎨 Lebensmittelfarben (mind. 3 Farben)👶 Babypuder (mit Talkum)🧼 1 TL Spülmittel☁️ Wattestäbchen",
+  "zubehoer": [
+   "watte",
+   "geschirr",
+   "lebensmittelfarbe",
+   "spuelmittel",
+   "milchoel"
+  ]
  },
  {
   "id": "mo-farben-knall-experiment-fuer-kinder",
@@ -1373,7 +1731,13 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "beides",
   "materialStufe": 2,
-  "material": "🎈 5 Luftballons (dunkle Farben)🔍 Lupe🍢 Schaschlikspieß💧 Wasser"
+  "material": "🎈 5 Luftballons (dunkle Farben)🔍 Lupe🍢 Schaschlikspieß💧 Wasser",
+  "zubehoer": [
+   "wasser",
+   "holzstaebe",
+   "ballon",
+   "chemie"
+  ]
  },
  {
   "id": "mo-farbenstrudel-experiment-fuer-kinder",
@@ -1387,7 +1751,14 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "💧 Wasser🧼 Spülmittel🎨 Lebensmittelfarbe in verschiedenen Farben🥄 Löffel🫙 Schraubglas"
+  "material": "💧 Wasser🧼 Spülmittel🎨 Lebensmittelfarbe in verschiedenen Farben🥄 Löffel🫙 Schraubglas",
+  "zubehoer": [
+   "wasser",
+   "glas",
+   "geschirr",
+   "lebensmittelfarbe",
+   "spuelmittel"
+  ]
  },
  {
   "id": "mo-faschingsparade-experiment-fuer-kinder",
@@ -1401,7 +1772,15 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "🧻 Leere Küchenrolle📄 Weißes Papier (DIN A4)🪟 Ein Stück durchsichtige Folie🖍️ Wasserfeste Stifte✂️ Schere🩹 Klebeband / Tesafilm"
+  "material": "🧻 Leere Küchenrolle📄 Weißes Papier (DIN A4)🪟 Ein Stück durchsichtige Folie🖍️ Wasserfeste Stifte✂️ Schere🩹 Klebeband / Tesafilm",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "schere",
+   "klebeband",
+   "rollen",
+   "folie"
+  ]
  },
  {
   "id": "mo-farbenfeuerwerk-experiment-fuer-kinder",
@@ -1415,7 +1794,14 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "🥃 Vase oder hohes Glas💧 Wasser🫗 3 EL Speiseöl🎨 Lebensmittelfarben (verschiedene)🍴 Gabel🥣 Kleine Schüssel"
+  "material": "🥃 Vase oder hohes Glas💧 Wasser🫗 3 EL Speiseöl🎨 Lebensmittelfarben (verschiedene)🍴 Gabel🥣 Kleine Schüssel",
+  "zubehoer": [
+   "wasser",
+   "glas",
+   "geschirr",
+   "lebensmittelfarbe",
+   "milchoel"
+  ]
  },
  {
   "id": "mo-kerze-unter-wasser-experiment",
@@ -1429,7 +1815,12 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "🥃 Große Vase💧 Wasser🕯️ Teelicht🥃 Durchsichtiges Teelichtglas🔥 Stabfeuerzeug"
+  "material": "🥃 Große Vase💧 Wasser🕯️ Teelicht🥃 Durchsichtiges Teelichtglas🔥 Stabfeuerzeug",
+  "zubehoer": [
+   "wasser",
+   "glas",
+   "kerze"
+  ]
  },
  {
   "id": "mo-flaschengarten-experiment-fuer-kinder",
@@ -1443,7 +1834,14 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 3,
-  "material": "🌱 Kleine Pflanze (Fittonia, Mini-Farn oder Grünlilie)⚫ Aktivkohle🎀 Dekomaterialien (Steine, Holzstückchen, Naturmaterialien)🌱 Terrarienerde🌱 Moos🪨 Blähton💧 Sprühflasche mit Wasser🥄…"
+  "material": "🌱 Kleine Pflanze (Fittonia, Mini-Farn oder Grünlilie)⚫ Aktivkohle🎀 Dekomaterialien (Steine, Holzstückchen, Naturmaterialien)🌱 Terrarienerde🌱 Moos🪨 Blähton💧 Sprühflasche mit Wasser🥄…",
+  "zubehoer": [
+   "wasser",
+   "glitzer",
+   "glas",
+   "natur",
+   "chemie"
+  ]
  },
  {
   "id": "mo-luftdruck-experiment-fuer-kinder",
@@ -1457,7 +1855,15 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "🍾 Glasflasche mit engem Hals (z. B. Milchflasche)🎈 Luftballon💧 Wasser🧻 Küchenpapier🔥 Feuerzeug🟫 Feuerfeste Unterlage"
+  "material": "🍾 Glasflasche mit engem Hals (z. B. Milchflasche)🎈 Luftballon💧 Wasser🧻 Küchenpapier🔥 Feuerzeug🟫 Feuerfeste Unterlage",
+  "zubehoer": [
+   "wasser",
+   "glas",
+   "milchoel",
+   "kaffeefilter",
+   "ballon",
+   "kerze"
+  ]
  },
  {
   "id": "mo-monstertauchgang-experiment-fuer-kinder",
@@ -1471,7 +1877,16 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "🧃 Trinkhalm mit biegsamem Teil📎 3 Büroklammern👀 Wackelaugen💧 Wasser🧴 Sekundenkleber🍾 Plastikflasche (0,5 bis 1 Liter)✂️ Schere"
+  "material": "🧃 Trinkhalm mit biegsamem Teil📎 3 Büroklammern👀 Wackelaugen💧 Wasser🧴 Sekundenkleber🍾 Plastikflasche (0,5 bis 1 Liter)✂️ Schere",
+  "zubehoer": [
+   "schere",
+   "kleber",
+   "wasser",
+   "wackelaugen",
+   "klammern",
+   "glas",
+   "strohhalm"
+  ]
  },
  {
   "id": "mo-gummiband-auto-selber-machen",
@@ -1485,7 +1900,14 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "🥤 Pappbecher🩹 Klebebandrolle (ca. 3 bis 4 cm breit)➿ Gummibänder🖍️ Edding✂️ Schere"
+  "material": "🥤 Pappbecher🩹 Klebebandrolle (ca. 3 bis 4 cm breit)➿ Gummibänder🖍️ Edding✂️ Schere",
+  "zubehoer": [
+   "filzstifte",
+   "schere",
+   "klebeband",
+   "becher",
+   "gummi"
+  ]
  },
  {
   "id": "mo-fluessige-kreide-experiment-fuer-kinder",
@@ -1499,7 +1921,14 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "beides",
   "materialStufe": 1,
-  "material": "🖍️ Alte Kreidereste🌽 Maisstärke💧 Wasser🧴 Leerer Deo-Roller📄 Blatt Papier🔪 Messer🥄 Teelöffel"
+  "material": "🖍️ Alte Kreidereste🌽 Maisstärke💧 Wasser🧴 Leerer Deo-Roller📄 Blatt Papier🔪 Messer🥄 Teelöffel",
+  "zubehoer": [
+   "papier",
+   "wasser",
+   "geschirr",
+   "staerke",
+   "kreide"
+  ]
  },
  {
   "id": "mo-geheime-rettungsweste-experiment-fuer-kinder",
@@ -1513,7 +1942,14 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "🥃 Große Vase oder ein hohes Glas💧 Wasser🥃 Kleines Glasfläschchen🪨 Kleine Steine🧁 2 TL Natron🍶 30 ml Essig🎈 Luftballon"
+  "material": "🥃 Große Vase oder ein hohes Glas💧 Wasser🥃 Kleines Glasfläschchen🪨 Kleine Steine🧁 2 TL Natron🍶 30 ml Essig🎈 Luftballon",
+  "zubehoer": [
+   "wasser",
+   "glas",
+   "natron",
+   "ballon",
+   "natur"
+  ]
  },
  {
   "id": "mo-geheimschrift-experiment-kassenbon",
@@ -1527,7 +1963,12 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "🧾 Kassenbon (aus dem Supermarkt)🧴 Klebestift🔥 Stabfeuerzeug🟫 Feuerfeste Unterlage"
+  "material": "🧾 Kassenbon (aus dem Supermarkt)🧴 Klebestift🔥 Stabfeuerzeug🟫 Feuerfeste Unterlage",
+  "zubehoer": [
+   "papier",
+   "kleber",
+   "kerze"
+  ]
  },
  {
   "id": "mo-geheime-botschaft-experiment-fuer-kinder",
@@ -1541,7 +1982,17 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "📦 Karton📄 Rotes Transparentpapier🖍️ Blauer & roter Filzstift📄 Blatt Papier🥣 Schüssel✏️ Bleistift✂️ Schere🧴 Klebestift"
+  "material": "📦 Karton📄 Rotes Transparentpapier🖍️ Blauer & roter Filzstift📄 Blatt Papier🥣 Schüssel✏️ Bleistift✂️ Schere🧴 Klebestift",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "schere",
+   "kleber",
+   "karton",
+   "krepp",
+   "geschirr"
+  ]
  },
  {
   "id": "mo-halloween-auge-basteln",
@@ -1555,7 +2006,15 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "🎈 Weißer Ballon🎈 Roter Ballon🎈 Schwarzer Ballon🎈 Luftballonpumpe🧃 Glasstrohhalm (oder Stift)🖍️ Roter Permanentmarker✂️ Schere"
+  "material": "🎈 Weißer Ballon🎈 Roter Ballon🎈 Schwarzer Ballon🎈 Luftballonpumpe🧃 Glasstrohhalm (oder Stift)🖍️ Roter Permanentmarker✂️ Schere",
+  "zubehoer": [
+   "stifte",
+   "filzstifte",
+   "schere",
+   "glas",
+   "strohhalm",
+   "ballon"
+  ]
  },
  {
   "id": "mo-brausetabletten-rakete-selber-machen",
@@ -1569,7 +2028,16 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "beides",
   "materialStufe": 3,
-  "material": "🎞️ 3 Filmdosen mit Deckel💊 3 Brausetabletten (Vitamin C)🌽 Maisstärke💧 Wasser🥄 Löffel🖍️ Edding🥽 Schutzbrille"
+  "material": "🎞️ 3 Filmdosen mit Deckel💊 3 Brausetabletten (Vitamin C)🌽 Maisstärke💧 Wasser🥄 Löffel🖍️ Edding🥽 Schutzbrille",
+  "zubehoer": [
+   "filzstifte",
+   "wasser",
+   "geschirr",
+   "staerke",
+   "natron",
+   "dosen",
+   "tuch"
+  ]
  },
  {
   "id": "mo-gummi-ei-experiment-fuer-kinder",
@@ -1583,7 +2051,14 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "🥚 Rohe Eier🥃 3 Gläser🍶 Haushaltsessig🎨 Lebensmittelfarbe🥄 Löffel🪟 Frischhaltefolie"
+  "material": "🥚 Rohe Eier🥃 3 Gläser🍶 Haushaltsessig🎨 Lebensmittelfarbe🥄 Löffel🪟 Frischhaltefolie",
+  "zubehoer": [
+   "geschirr",
+   "lebensmittelfarbe",
+   "natron",
+   "folie",
+   "suess"
+  ]
  },
  {
   "id": "mo-magisches-hologramm-experiment-fuer-kinder",
@@ -1597,7 +2072,15 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 3,
-  "material": "📦 Pappschachtel (Schuhkarton-Größe)🪟 Overhead-Folie📱 Smartphone🎬 Hologramm-Video🖍️ Edding✂️ Schere📏 Lineal🔪 Messer (nur für Erwachsene)🩹 Tesafilm"
+  "material": "📦 Pappschachtel (Schuhkarton-Größe)🪟 Overhead-Folie📱 Smartphone🎬 Hologramm-Video🖍️ Edding✂️ Schere📏 Lineal🔪 Messer (nur für Erwachsene)🩹 Tesafilm",
+  "zubehoer": [
+   "filzstifte",
+   "schere",
+   "klebeband",
+   "lineal",
+   "karton",
+   "folie"
+  ]
  },
  {
   "id": "mo-kompass-selber-bauen-kinder",
@@ -1611,7 +2094,13 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "🧲 Magnet🪡 Nähnadel💧 Wasser🍃 Kleines Blatt vom Baum🥣 Schale🧭 Kompass (optional)"
+  "material": "🧲 Magnet🪡 Nähnadel💧 Wasser🍃 Kleines Blatt vom Baum🥣 Schale🧭 Kompass (optional)",
+  "zubehoer": [
+   "papier",
+   "wasser",
+   "geschirr",
+   "elektro"
+  ]
  },
  {
   "id": "mo-konfetti-monster-experiment-fuer-kinder",
@@ -1625,7 +2114,16 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "beides",
   "materialStufe": 2,
-  "material": "🧻 Klopapierrolle🎈 Luftballon🩹 Panzertape👀 Wackelaugen📄 Bastelpapier🎊 Konfetti🖍️ Filzstift✂️ Schere"
+  "material": "🧻 Klopapierrolle🎈 Luftballon🩹 Panzertape👀 Wackelaugen📄 Bastelpapier🎊 Konfetti🖍️ Filzstift✂️ Schere",
+  "zubehoer": [
+   "papier",
+   "filzstifte",
+   "schere",
+   "buntpapier",
+   "rollen",
+   "wackelaugen",
+   "ballon"
+  ]
  },
  {
   "id": "mo-weihnachtskristallstern-experiment-fuer-kinder",
@@ -1639,7 +2137,16 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 3,
-  "material": "💎 250 g Alaun (aus der Apotheke)💧 Heißes Wasser🧶 3 Pfeifenreiniger🧵 Schnur🍢 Schaschlikspieß🎨 Lebensmittelfarbe✂️ Schere🥃 Großes Glas"
+  "material": "💎 250 g Alaun (aus der Apotheke)💧 Heißes Wasser🧶 3 Pfeifenreiniger🧵 Schnur🍢 Schaschlikspieß🎨 Lebensmittelfarbe✂️ Schere🥃 Großes Glas",
+  "zubehoer": [
+   "schere",
+   "wasser",
+   "wolle",
+   "holzstaebe",
+   "glas",
+   "lebensmittelfarbe",
+   "chemie"
+  ]
  },
  {
   "id": "mo-flockes-kuehlpad-experiment-fuer-kinder",
@@ -1653,7 +2160,15 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "💧 160 ml Wasser🧂 55 g Salz🌽 25 g Speisestärke🎨 Blaue Lebensmittelfarbe🛍️ Zip-Beutel (Schiebeverschluss)🫖 Topf🥄 Schneebesen🥄 Löffel🥃 Glas"
+  "material": "💧 160 ml Wasser🧂 55 g Salz🌽 25 g Speisestärke🎨 Blaue Lebensmittelfarbe🛍️ Zip-Beutel (Schiebeverschluss)🫖 Topf🥄 Schneebesen🥄 Löffel🥃 Glas",
+  "zubehoer": [
+   "wasser",
+   "glas",
+   "geschirr",
+   "lebensmittelfarbe",
+   "staerke",
+   "salzzucker"
+  ]
  },
  {
   "id": "mo-lavavulkan-experiment-fuer-kinder",
@@ -1667,7 +2182,16 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "🥤 Pappbecher🍽️ Großer Teller🪞 Alufolie✂️ Schere🥄 Löffel🎨 Rote Lebensmittelfarbe🍶 50 ml Essig🧁 Ein Päckchen Backpulver🥚 Ein Eiweiß💧 3 Esslöffel Wasser"
+  "material": "🥤 Pappbecher🍽️ Großer Teller🪞 Alufolie✂️ Schere🥄 Löffel🎨 Rote Lebensmittelfarbe🍶 50 ml Essig🧁 Ein Päckchen Backpulver🥚 Ein Eiweiß💧 3 Esslöffel Wasser",
+  "zubehoer": [
+   "schere",
+   "wasser",
+   "becher",
+   "geschirr",
+   "lebensmittelfarbe",
+   "natron",
+   "folie"
+  ]
  },
  {
   "id": "mo-leuchtende-farbwolken-experiment-fuer-kinder",
@@ -1681,7 +2205,15 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "🖍️ Bunte Straßenkreide🔦 Handy mit Taschenlampe📄 Weißes Papier💧 Wasser🥃 Großes Glas🔪 Messer (nur Erwachsene!)🟡 Kurkuma (optional)"
+  "material": "🖍️ Bunte Straßenkreide🔦 Handy mit Taschenlampe📄 Weißes Papier💧 Wasser🥃 Großes Glas🔪 Messer (nur Erwachsene!)🟡 Kurkuma (optional)",
+  "zubehoer": [
+   "papier",
+   "wasser",
+   "glas",
+   "salzzucker",
+   "kreide",
+   "taschenlampe"
+  ]
  },
  {
   "id": "mo-kopfstandkatze-lochkamera-experiment-fuer-kinder",
@@ -1695,7 +2227,14 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "🥫 Leere Chipsdose (gereinigt)📄 Schwarzes Tonpapier (DIN A4)📃 Butterbrotpapier✂️ Schere🔨 Hammer🔩 Nagel🩹 Tesafilm"
+  "material": "🥫 Leere Chipsdose (gereinigt)📄 Schwarzes Tonpapier (DIN A4)📃 Butterbrotpapier✂️ Schere🔨 Hammer🔩 Nagel🩹 Tesafilm",
+  "zubehoer": [
+   "papier",
+   "schere",
+   "klebeband",
+   "buntpapier",
+   "dosen"
+  ]
  },
  {
   "id": "mo-fliegender-kugelfisch-experiment-fuer-kinder",
@@ -1709,7 +2248,15 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 3,
-  "material": "🔘 Klappdeckel (Powerade oder Spüli-Flasche)💿 Alte CD🎈 Ballon🧴 Heißklebepistole✂️ Schere🖍️ Wasserfester Stift"
+  "material": "🔘 Klappdeckel (Powerade oder Spüli-Flasche)💿 Alte CD🎈 Ballon🧴 Heißklebepistole✂️ Schere🖍️ Wasserfester Stift",
+  "zubehoer": [
+   "stifte",
+   "schere",
+   "heisskleber",
+   "glas",
+   "spuelmittel",
+   "ballon"
+  ]
  },
  {
   "id": "mo-magische-seerose-experiment-fuer-kinder",
@@ -1723,7 +2270,14 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "📄 Buntes Druckerpapier (quadratisch)💧 Lauwarmes Wasser🥣 Flache Schale✂️ Schere"
+  "material": "📄 Buntes Druckerpapier (quadratisch)💧 Lauwarmes Wasser🥣 Flache Schale✂️ Schere",
+  "zubehoer": [
+   "papier",
+   "schere",
+   "wasser",
+   "buntpapier",
+   "geschirr"
+  ]
  },
  {
   "id": "mo-magisches-lesezeichen-experiment-fuer-kinder",
@@ -1737,7 +2291,17 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "🎨 Lebensmittelfarbe📃 Backpapier🧼 Spülmittel🧴 Bastelkleber (weiß)🎀 Band oder Schleife🖍️ Weißer Edding☁️ Wattestäbchen✂️ Schere🕳️ Locher"
+  "material": "🎨 Lebensmittelfarbe📃 Backpapier🧼 Spülmittel🧴 Bastelkleber (weiß)🎀 Band oder Schleife🖍️ Weißer Edding☁️ Wattestäbchen✂️ Schere🕳️ Locher",
+  "zubehoer": [
+   "filzstifte",
+   "schere",
+   "kleber",
+   "wolle",
+   "watte",
+   "locher",
+   "lebensmittelfarbe",
+   "spuelmittel"
+  ]
  },
  {
   "id": "mo-magnetexpress-experiment-fuer-kinder",
@@ -1751,7 +2315,14 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 3,
-  "material": "➰ 20 m unlackierter Kupferdraht (ca. 0,8 mm)🍢 Holzstab oder dicker Filzstift (ca. 15 mm)🧲 6 Neodym-Magnete (ca. 15 mm)🔋 AA-Batterie🩹 Tesafilm✂️ Schere"
+  "material": "➰ 20 m unlackierter Kupferdraht (ca. 0,8 mm)🍢 Holzstab oder dicker Filzstift (ca. 15 mm)🧲 6 Neodym-Magnete (ca. 15 mm)🔋 AA-Batterie🩹 Tesafilm✂️ Schere",
+  "zubehoer": [
+   "filzstifte",
+   "schere",
+   "klebeband",
+   "holzstaebe",
+   "elektro"
+  ]
  },
  {
   "id": "mo-salz-magie-experiment-fuer-kinder",
@@ -1765,7 +2336,17 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "🧴 Weißer Flüssigkleber🧂 Feines Salz📄 Tonpapier🖌️ Wassermalfarben💧 Wasser✏️ Bleistift🥣 Schälchen🖌️ Pinsel🥣 Schüssel"
+  "material": "🧴 Weißer Flüssigkleber🧂 Feines Salz📄 Tonpapier🖌️ Wassermalfarben💧 Wasser✏️ Bleistift🥣 Schälchen🖌️ Pinsel🥣 Schüssel",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "kleber",
+   "wasser",
+   "buntpapier",
+   "farbe",
+   "geschirr",
+   "salzzucker"
+  ]
  },
  {
   "id": "mo-minirakete-experiment-fuer-kinder",
@@ -1779,7 +2360,19 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "beides",
   "materialStufe": 2,
-  "material": "➿ 2 Gummibänder🥤 2 Pappbecher📄 2 Blätter Tonpapier🩹 Klebeband🍢 2 Schaschlikspieße🧴 Heißklebepistole🖍️ Filzstift✂️ Schere"
+  "material": "➿ 2 Gummibänder🥤 2 Pappbecher📄 2 Blätter Tonpapier🩹 Klebeband🍢 2 Schaschlikspieße🧴 Heißklebepistole🖍️ Filzstift✂️ Schere",
+  "zubehoer": [
+   "papier",
+   "filzstifte",
+   "schere",
+   "klebeband",
+   "buntpapier",
+   "heisskleber",
+   "holzstaebe",
+   "becher",
+   "gummi",
+   "natur"
+  ]
  },
  {
   "id": "mo-monsterspucke-halloween-experiment",
@@ -1793,7 +2386,18 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 3,
-  "material": "🧪 Wasserstoffperoxid 3 % (Apotheke)🍞 Trockenhefe🧼 Spülmittel🎨 Lebensmittelfarbe💧 Warmes Wasser🥤 Pappbecher🥃 Glas🥤 Messbecher🥄 Löffel🟫 Tablett🖍️ Edding✂️ Schere🥽 Schutzbrille🧤 Hands…"
+  "material": "🧪 Wasserstoffperoxid 3 % (Apotheke)🍞 Trockenhefe🧼 Spülmittel🎨 Lebensmittelfarbe💧 Warmes Wasser🥤 Pappbecher🥃 Glas🥤 Messbecher🥄 Löffel🟫 Tablett🖍️ Edding✂️ Schere🥽 Schutzbrille🧤 Hands…",
+  "zubehoer": [
+   "filzstifte",
+   "schere",
+   "wasser",
+   "becher",
+   "glas",
+   "geschirr",
+   "lebensmittelfarbe",
+   "spuelmittel",
+   "chemie"
+  ]
  },
  {
   "id": "mo-muenzen-reinigen-experiment",
@@ -1807,7 +2411,16 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 3,
-  "material": "🪙 Alte 5-Cent-Münze🍶 20 ml Essigessenz (25 %)🧂 2 TL Salz🥤 Kleiner Becher🥄 Löffel💧 Wasser🧻 Küchenpapier"
+  "material": "🪙 Alte 5-Cent-Münze🍶 20 ml Essigessenz (25 %)🧂 2 TL Salz🥤 Kleiner Becher🥄 Löffel💧 Wasser🧻 Küchenpapier",
+  "zubehoer": [
+   "wasser",
+   "becher",
+   "geschirr",
+   "natron",
+   "salzzucker",
+   "kaffeefilter",
+   "kleinkram"
+  ]
  },
  {
   "id": "mo-traegheit-experiment-fuer-kinder",
@@ -1821,7 +2434,14 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "🧃 Strohhalm🧵 Dünner Nähfaden (ca. 30 cm)🍢 Schaschlikspieß✂️ Schere🔥 Feuerzeug"
+  "material": "🧃 Strohhalm🧵 Dünner Nähfaden (ca. 30 cm)🍢 Schaschlikspieß✂️ Schere🔥 Feuerzeug",
+  "zubehoer": [
+   "schere",
+   "wolle",
+   "holzstaebe",
+   "strohhalm",
+   "kerze"
+  ]
  },
  {
   "id": "mo-rauchzauberkerze-experiment-fuer-kinder",
@@ -1835,7 +2455,11 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "🕯️ Kerze🔥 Stabfeuerzeug🟫 Hitzebeständige Unterlage/Teller"
+  "material": "🕯️ Kerze🔥 Stabfeuerzeug🟫 Hitzebeständige Unterlage/Teller",
+  "zubehoer": [
+   "geschirr",
+   "kerze"
+  ]
  },
  {
   "id": "mo-regenbogen-explosion-experiment-fuer-kinder",
@@ -1849,7 +2473,16 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 3,
-  "material": "🥽 Schutzbrille🥄 Löffel🎞️ 3 Filmdosen mit Deckel💊 3 Brausetabletten (Vitamin C)🎨 Bunte Lebensmittelfarbe🌽 Maisstärke💧 Wasser"
+  "material": "🥽 Schutzbrille🥄 Löffel🎞️ 3 Filmdosen mit Deckel💊 3 Brausetabletten (Vitamin C)🎨 Bunte Lebensmittelfarbe🌽 Maisstärke💧 Wasser",
+  "zubehoer": [
+   "wasser",
+   "geschirr",
+   "lebensmittelfarbe",
+   "staerke",
+   "natron",
+   "dosen",
+   "tuch"
+  ]
  },
  {
   "id": "mo-regenbogen-reis-experiment-fuer-kinder",
@@ -1863,7 +2496,13 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "🍚 Weißer Langkornreis🎨 Lebensmittelfarbe🍶 Essig (1 TL pro Glas)🫙 Schraubgläser🥄 Teelöffel📃 Backpapier🍽️ Teller oder Tablett"
+  "material": "🍚 Weißer Langkornreis🎨 Lebensmittelfarbe🍶 Essig (1 TL pro Glas)🫙 Schraubgläser🥄 Teelöffel📃 Backpapier🍽️ Teller oder Tablett",
+  "zubehoer": [
+   "glas",
+   "geschirr",
+   "lebensmittelfarbe",
+   "natron"
+  ]
  },
  {
   "id": "mo-regenbogen-rosen-experiment-fuer-kinder",
@@ -1877,7 +2516,11 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 3,
-  "material": "🥃 Mehrere Gläser💧 Lauwarmes Wasser🌹 Weiße Rosen🎨 Lebensmittelfarbe (verschiedene Farben)🔪 Messer (nur für Erwachsene)"
+  "material": "🥃 Mehrere Gläser💧 Lauwarmes Wasser🌹 Weiße Rosen🎨 Lebensmittelfarbe (verschiedene Farben)🔪 Messer (nur für Erwachsene)",
+  "zubehoer": [
+   "wasser",
+   "lebensmittelfarbe"
+  ]
  },
  {
   "id": "mo-regenbogenschaum-experiment-fuer-kinder",
@@ -1891,7 +2534,18 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "beides",
   "materialStufe": 2,
-  "material": "🍾 Kunststoffflasche (leer)✂️ Schere oder Messer🍽️ Teller☕ Kaffeefilter oder Abschminktuch➿ 3 bis 4 Gummibänder🎨 Lebensmittelfarben (verschiedene)💧 75 ml Wasser🍬 1 EL Zucker🧼 2 EL S…"
+  "material": "🍾 Kunststoffflasche (leer)✂️ Schere oder Messer🍽️ Teller☕ Kaffeefilter oder Abschminktuch➿ 3 bis 4 Gummibänder🎨 Lebensmittelfarben (verschiedene)💧 75 ml Wasser🍬 1 EL Zucker🧼 2 EL S…",
+  "zubehoer": [
+   "schere",
+   "wasser",
+   "glas",
+   "geschirr",
+   "lebensmittelfarbe",
+   "salzzucker",
+   "kaffeefilter",
+   "gummi",
+   "tuch"
+  ]
  },
  {
   "id": "mo-regenbogenstrudel-experiment-fuer-kinder",
@@ -1905,7 +2559,14 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "☁️ Runde Wattepads🖍️ Filzstifte (nicht wasserfest!)🧼 Spülmittel🥛 Vollmilch🍽️ Weißer Teller"
+  "material": "☁️ Runde Wattepads🖍️ Filzstifte (nicht wasserfest!)🧼 Spülmittel🥛 Vollmilch🍽️ Weißer Teller",
+  "zubehoer": [
+   "filzstifte",
+   "watte",
+   "geschirr",
+   "spuelmittel",
+   "milchoel"
+  ]
  },
  {
   "id": "mo-regenwolkenzauber-experiment-fuer-kinder",
@@ -1919,7 +2580,13 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 3,
-  "material": "🥃 Großes Glas oder Vase💧 Wasser🪒 Rasierschaum🎨 Lebensmittelfarben (verschiedene)💉 4 Pipetten🥣 Kleine Schälchen"
+  "material": "🥃 Großes Glas oder Vase💧 Wasser🪒 Rasierschaum🎨 Lebensmittelfarben (verschiedene)💉 4 Pipetten🥣 Kleine Schälchen",
+  "zubehoer": [
+   "wasser",
+   "glas",
+   "lebensmittelfarbe",
+   "chemie"
+  ]
  },
  {
   "id": "mo-rotkohlzauberbild-experiment-fuer-kinder",
@@ -1933,7 +2600,16 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "🧁 2 TL Natron💧 Warmes Wasser📄 Weißes Bastelpapier🥬 100 ml Rotkohlsaft🫖 Mikrowelle🖌️ Pinsel✏️ Bleistift🥣 Schüssel"
+  "material": "🧁 2 TL Natron💧 Warmes Wasser📄 Weißes Bastelpapier🥬 100 ml Rotkohlsaft🫖 Mikrowelle🖌️ Pinsel✏️ Bleistift🥣 Schüssel",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "wasser",
+   "buntpapier",
+   "farbe",
+   "geschirr",
+   "natron"
+  ]
  },
  {
   "id": "mo-salziger-regenbogen-experiment-fuer-kinder",
@@ -1947,7 +2623,14 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "🎨 Lebensmittelfarben (Rot, Grün, Blau)💧 Warmes Wasser🧂 Salz🧃 Durchsichtiger Strohhalm🥃 3 Gläser🥄 Teelöffel"
+  "material": "🎨 Lebensmittelfarben (Rot, Grün, Blau)💧 Warmes Wasser🧂 Salz🧃 Durchsichtiger Strohhalm🥃 3 Gläser🥄 Teelöffel",
+  "zubehoer": [
+   "wasser",
+   "geschirr",
+   "lebensmittelfarbe",
+   "salzzucker",
+   "strohhalm"
+  ]
  },
  {
   "id": "mo-samenbomben-selber-machen",
@@ -1961,7 +2644,15 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "beides",
   "materialStufe": 3,
-  "material": "🌱 Blumenerde🏺 Ton oder Lehm aus der Natur🌻 Wildblumensamen💧 Wasser🥣 Schüssel🥚 Eierkarton"
+  "material": "🌱 Blumenerde🏺 Ton oder Lehm aus der Natur🌻 Wildblumensamen💧 Wasser🥣 Schüssel🥚 Eierkarton",
+  "zubehoer": [
+   "wasser",
+   "karton",
+   "geschirr",
+   "dosen",
+   "natur",
+   "suess"
+  ]
  },
  {
   "id": "mo-schaumtannenbaum-experiment-fuer-kinder",
@@ -1975,7 +2666,16 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "📄 Braunes Tonpapier🥣 Flache weiße Schale💉 Pipette🧁 Ein Päckchen Natron🍶 150 ml Haushaltsessig🎨 Lebensmittelfarben✂️ Schere🥣 Kleine Schälchen"
+  "material": "📄 Braunes Tonpapier🥣 Flache weiße Schale💉 Pipette🧁 Ein Päckchen Natron🍶 150 ml Haushaltsessig🎨 Lebensmittelfarben✂️ Schere🥣 Kleine Schälchen",
+  "zubehoer": [
+   "papier",
+   "schere",
+   "buntpapier",
+   "geschirr",
+   "lebensmittelfarbe",
+   "natron",
+   "chemie"
+  ]
  },
  {
   "id": "mo-schmelzende-farbe-experiment-fuer-kinder",
@@ -1989,7 +2689,13 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 3,
-  "material": "🥤 Weißer Pappbecher🖍️ Frixion-Stifte (online erhältlich)🖍️ Filzstifte/Buntstifte💧 Heißes Wasser"
+  "material": "🥤 Weißer Pappbecher🖍️ Frixion-Stifte (online erhältlich)🖍️ Filzstifte/Buntstifte💧 Heißes Wasser",
+  "zubehoer": [
+   "stifte",
+   "filzstifte",
+   "wasser",
+   "becher"
+  ]
  },
  {
   "id": "mo-farbenschwammzauber-experiment-fuer-kinder",
@@ -2003,7 +2709,15 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 3,
-  "material": "📄 3D-Schaumstoff-Malpapier (Magic Puffy Paint)🖍️ Schwarzer Edding/Filzstift🎨 Lebensmittelfarben💧 Wasser💉 Pipetten🥣 4 kleine Schälchen✂️ Schere"
+  "material": "📄 3D-Schaumstoff-Malpapier (Magic Puffy Paint)🖍️ Schwarzer Edding/Filzstift🎨 Lebensmittelfarben💧 Wasser💉 Pipetten🥣 4 kleine Schälchen✂️ Schere",
+  "zubehoer": [
+   "papier",
+   "filzstifte",
+   "schere",
+   "wasser",
+   "lebensmittelfarbe",
+   "chemie"
+  ]
  },
  {
   "id": "mo-fliegender-stern-experiment-fuer-kinder",
@@ -2017,7 +2731,13 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "🛍️ Müllbeutel🪈 Plastikrohr🧦 Wollsocke📏 Plastiklineal (Alternativ)🧻 Zewa-Tuch (Alternativ)✂️ Schere"
+  "material": "🛍️ Müllbeutel🪈 Plastikrohr🧦 Wollsocke📏 Plastiklineal (Alternativ)🧻 Zewa-Tuch (Alternativ)✂️ Schere",
+  "zubehoer": [
+   "schere",
+   "lineal",
+   "kaffeefilter",
+   "tuch"
+  ]
  },
  {
   "id": "mo-oberflaechenspannung-experiment-fuer-kinder",
@@ -2031,7 +2751,17 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "💧 125 ml warmes Wasser🍬 1 TL Zucker🧼 1 EL Spülmittel🧃 Strohhalme📄 Blatt Papier🖍️ Wasserfeste Stifte✂️ Schere🥄 Löffel🍽️ Teller"
+  "material": "💧 125 ml warmes Wasser🍬 1 TL Zucker🧼 1 EL Spülmittel🧃 Strohhalme📄 Blatt Papier🖍️ Wasserfeste Stifte✂️ Schere🥄 Löffel🍽️ Teller",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "schere",
+   "wasser",
+   "geschirr",
+   "salzzucker",
+   "spuelmittel",
+   "strohhalm"
+  ]
  },
  {
   "id": "mo-blasen-zwiebel-experiment-fuer-kinder",
@@ -2045,7 +2775,15 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "beides",
   "materialStufe": 1,
-  "material": "💧 125 ml warmes Wasser🧼 1 Spritzer Spülmittel🍬 1 bis 2 TL Zucker🧃 Strohhalm🥃 Glas🍽️ Flacher Teller"
+  "material": "💧 125 ml warmes Wasser🧼 1 Spritzer Spülmittel🍬 1 bis 2 TL Zucker🧃 Strohhalm🥃 Glas🍽️ Flacher Teller",
+  "zubehoer": [
+   "wasser",
+   "glas",
+   "geschirr",
+   "salzzucker",
+   "spuelmittel",
+   "strohhalm"
+  ]
  },
  {
   "id": "mo-super-seifenblase-experiment-fuer-kinder",
@@ -2059,7 +2797,14 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "beides",
   "materialStufe": 1,
-  "material": "💧 4 EL Wasser🧼 1 EL Spülmittel🍬 2 EL Zucker🫧 Seifenblasen-Stab🧦 Wollsocke oder Wollpullover🥣 Kleine Schüssel oder Glas"
+  "material": "💧 4 EL Wasser🧼 1 EL Spülmittel🍬 2 EL Zucker🫧 Seifenblasen-Stab🧦 Wollsocke oder Wollpullover🥣 Kleine Schüssel oder Glas",
+  "zubehoer": [
+   "wasser",
+   "glas",
+   "geschirr",
+   "salzzucker",
+   "spuelmittel"
+  ]
  },
  {
   "id": "mo-blasen-strauss-experiment-fuer-kinder",
@@ -2073,7 +2818,16 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "beides",
   "materialStufe": 2,
-  "material": "🧃 5 bunte Strohhalme🩹 Doppelseitiges Klebeband🍢 Schaschlikspieß🧼 Spülmittel💧 Wasser🍾 Plastikflasche✂️ Schere"
+  "material": "🧃 5 bunte Strohhalme🩹 Doppelseitiges Klebeband🍢 Schaschlikspieß🧼 Spülmittel💧 Wasser🍾 Plastikflasche✂️ Schere",
+  "zubehoer": [
+   "schere",
+   "klebeband",
+   "wasser",
+   "holzstaebe",
+   "glas",
+   "spuelmittel",
+   "strohhalm"
+  ]
  },
  {
   "id": "mo-springende-monster-experiment-fuer-kinder",
@@ -2087,7 +2841,13 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "🪞 Alufolie🔮 Murmeln🍱 Brotbox🟫 Weißes Brett🩹 Klebeband🖍️ Edding (wasserfester Stift)"
+  "material": "🪞 Alufolie🔮 Murmeln🍱 Brotbox🟫 Weißes Brett🩹 Klebeband🖍️ Edding (wasserfester Stift)",
+  "zubehoer": [
+   "stifte",
+   "filzstifte",
+   "klebeband",
+   "folie"
+  ]
  },
  {
   "id": "mo-springende-spinne-basteln",
@@ -2101,7 +2861,16 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 3,
-  "material": "📄 Dünnes Tonpapier🔗 8 Kabelbinder (10 cm)🧃 Glasstrohhalm🕳️ Locher🖍️ Edding✂️ Schere👀 Kulleraugen (optional)"
+  "material": "📄 Dünnes Tonpapier🔗 8 Kabelbinder (10 cm)🧃 Glasstrohhalm🕳️ Locher🖍️ Edding✂️ Schere👀 Kulleraugen (optional)",
+  "zubehoer": [
+   "papier",
+   "filzstifte",
+   "schere",
+   "buntpapier",
+   "locher",
+   "glas",
+   "strohhalm"
+  ]
  },
  {
   "id": "mo-springender-pfeffer-experiment-fuer-kinder",
@@ -2115,7 +2884,12 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "🥄 Plastiklöffel🧂 Salz🧂 Pfeffer (fein gemahlen)🧦 Wollpullover oder Wollsocke🎈 Luftballon (optional)"
+  "material": "🥄 Plastiklöffel🧂 Salz🧂 Pfeffer (fein gemahlen)🧦 Wollpullover oder Wollsocke🎈 Luftballon (optional)",
+  "zubehoer": [
+   "geschirr",
+   "salzzucker",
+   "ballon"
+  ]
  },
  {
   "id": "mo-flaschenrakete-selber-machen-fuer-kinder",
@@ -2129,7 +2903,15 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "beides",
   "materialStufe": 3,
-  "material": "🍾 0,5 l Plastikflasche🪵 Passender Korken🥽 Schutzbrille🧁 1 EL Backpulver💧 Wasser🍋 1 EL Zitronensäure🍢 3 Schaschlikspieße🔻 Trichter🥄 Esslöffel🩹 Tesafilm"
+  "material": "🍾 0,5 l Plastikflasche🪵 Passender Korken🥽 Schutzbrille🧁 1 EL Backpulver💧 Wasser🍋 1 EL Zitronensäure🍢 3 Schaschlikspieße🔻 Trichter🥄 Esslöffel🩹 Tesafilm",
+  "zubehoer": [
+   "klebeband",
+   "wasser",
+   "holzstaebe",
+   "glas",
+   "geschirr",
+   "natron"
+  ]
  },
  {
   "id": "mo-sprudel-explosion-experiment-fuer-kinder",
@@ -2143,7 +2925,15 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "🧊 Eiswürfelform🥄 Löffel🌽 Speisestärke (1 TL pro Würfel)🧁 Natron (1 TL pro Würfel)🎨 Lebensmittelfarbe💧 Wasser🍶 Essig🍢 Schaschlikspieß"
+  "material": "🧊 Eiswürfelform🥄 Löffel🌽 Speisestärke (1 TL pro Würfel)🧁 Natron (1 TL pro Würfel)🎨 Lebensmittelfarbe💧 Wasser🍶 Essig🍢 Schaschlikspieß",
+  "zubehoer": [
+   "wasser",
+   "holzstaebe",
+   "geschirr",
+   "lebensmittelfarbe",
+   "staerke",
+   "natron"
+  ]
  },
  {
   "id": "mo-streichholzrakete-selber-machen",
@@ -2157,7 +2947,15 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "beides",
   "materialStufe": 3,
-  "material": "🔥 Langes Streichholz (Kaminstreichholz)🪞 Alufolie🟣 Knete✂️ Schere🔥 Feuerzeug🟫 Feuerfeste Unterlage🥤 Becher Wasser zum Ablöschen"
+  "material": "🔥 Langes Streichholz (Kaminstreichholz)🪞 Alufolie🟣 Knete✂️ Schere🔥 Feuerzeug🟫 Feuerfeste Unterlage🥤 Becher Wasser zum Ablöschen",
+  "zubehoer": [
+   "schere",
+   "wasser",
+   "knete",
+   "becher",
+   "folie",
+   "kerze"
+  ]
  },
  {
   "id": "mo-strohhalm-rakete-experiment-fuer-kinder",
@@ -2171,7 +2969,14 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "beides",
   "materialStufe": 2,
-  "material": "✂️ Schere📄 Buntes Papier🧃 Strohhalm🧴 Klebestift🧴 Bastelkleber"
+  "material": "✂️ Schere📄 Buntes Papier🧃 Strohhalm🧴 Klebestift🧴 Bastelkleber",
+  "zubehoer": [
+   "papier",
+   "schere",
+   "kleber",
+   "buntpapier",
+   "strohhalm"
+  ]
  },
  {
   "id": "mo-tanzende-figuren-experiment-fuer-kinder",
@@ -2185,7 +2990,18 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "🧻 Dreilagiges Klopapier🪈 Plastikrohr (oder Plastiklineal)🧦 Wollsocke (oder Zewa-Tuch)📄 Tonpapier🖍️ Buntstifte/Filzstifte✂️ Schere🩹 Tesafilm"
+  "material": "🧻 Dreilagiges Klopapier🪈 Plastikrohr (oder Plastiklineal)🧦 Wollsocke (oder Zewa-Tuch)📄 Tonpapier🖍️ Buntstifte/Filzstifte✂️ Schere🩹 Tesafilm",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "schere",
+   "klebeband",
+   "lineal",
+   "buntpapier",
+   "kaffeefilter",
+   "tuch"
+  ]
  },
  {
   "id": "mo-schall-sichtbar-machen-experiment",
@@ -2199,7 +3015,14 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "🥣 Metallschüssel🪟 Frischhaltefolie🧶 Pfeifenreiniger👀 Kulleraugen🧴 Kleber🧻 Papprolle vom Küchenpapier"
+  "material": "🥣 Metallschüssel🪟 Frischhaltefolie🧶 Pfeifenreiniger👀 Kulleraugen🧴 Kleber🧻 Papprolle vom Küchenpapier",
+  "zubehoer": [
+   "kleber",
+   "rollen",
+   "geschirr",
+   "kaffeefilter",
+   "folie"
+  ]
  },
  {
   "id": "mo-tanzender-elf-experiment-fuer-kinder",
@@ -2213,7 +3036,14 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 3,
-  "material": "🧲 4 kleine Neodym-Magnete🔋 AA-Batterie➰ 25 cm unlackierter Kupferdraht (1,5 mm)📄 Weißes Tonpapier🟣 Patafix🔧 Spitzzange✂️ Schere🖍️ Buntstifte"
+  "material": "🧲 4 kleine Neodym-Magnete🔋 AA-Batterie➰ 25 cm unlackierter Kupferdraht (1,5 mm)📄 Weißes Tonpapier🟣 Patafix🔧 Spitzzange✂️ Schere🖍️ Buntstifte",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "schere",
+   "buntpapier",
+   "elektro"
+  ]
  },
  {
   "id": "mo-tanzender-faden-experiment-fuer-kinder",
@@ -2227,7 +3057,17 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "🧃 Plastikstrohhalme🧵 Nähfaden🍢 Schaschlikspieß🧼 Spülmittel🍬 1 TL Zucker💧 125 ml lauwarmes Wasser🥣 Flache Schale🥄 Löffel✂️ Schere"
+  "material": "🧃 Plastikstrohhalme🧵 Nähfaden🍢 Schaschlikspieß🧼 Spülmittel🍬 1 TL Zucker💧 125 ml lauwarmes Wasser🥣 Flache Schale🥄 Löffel✂️ Schere",
+  "zubehoer": [
+   "schere",
+   "wasser",
+   "wolle",
+   "holzstaebe",
+   "geschirr",
+   "salzzucker",
+   "spuelmittel",
+   "strohhalm"
+  ]
  },
  {
   "id": "mo-stehaufmaennchen-selber-machen",
@@ -2241,7 +3081,12 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "🎈 Luftballon🍚 Reis🔻 Trichter🥄 Esslöffel🖍️ Permanentmarker🎈 Luftballonpumpe (optional)"
+  "material": "🎈 Luftballon🍚 Reis🔻 Trichter🥄 Esslöffel🖍️ Permanentmarker🎈 Luftballonpumpe (optional)",
+  "zubehoer": [
+   "filzstifte",
+   "geschirr",
+   "ballon"
+  ]
  },
  {
   "id": "mo-tauchende-blume-experiment-fuer-kinder",
@@ -2255,7 +3100,12 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "🌼 Pusteblume (frisch, mit vollem Schirmchen)🥃 Glas💧 Wasser (kalt)"
+  "material": "🌼 Pusteblume (frisch, mit vollem Schirmchen)🥃 Glas💧 Wasser (kalt)",
+  "zubehoer": [
+   "wasser",
+   "glas",
+   "natur"
+  ]
  },
  {
   "id": "mo-teebeutelrakete-experiment-fuer-kinder",
@@ -2269,7 +3119,13 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "🍵 Teebeutel✂️ Schere🥣 Schüssel🖍️ Edding🔥 Stabfeuerzeug🟫 Feuerfeste Unterlage"
+  "material": "🍵 Teebeutel✂️ Schere🥣 Schüssel🖍️ Edding🔥 Stabfeuerzeug🟫 Feuerfeste Unterlage",
+  "zubehoer": [
+   "filzstifte",
+   "schere",
+   "geschirr",
+   "kerze"
+  ]
  },
  {
   "id": "mo-trockene-hand-experiment-fuer-kinder",
@@ -2283,7 +3139,12 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "💧 Wasser🥃 Glas oder Vase🟤 Zimt"
+  "material": "💧 Wasser🥃 Glas oder Vase🟤 Zimt",
+  "zubehoer": [
+   "wasser",
+   "glas",
+   "salzzucker"
+  ]
  },
  {
   "id": "mo-trockenes-u-boot-experiment-fuer-kinder",
@@ -2297,7 +3158,12 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "📄 Blatt Papier (DIN A5 oder DIN A6)🥃 Hohe Vase💧 Wasser🥃 Glas"
+  "material": "📄 Blatt Papier (DIN A5 oder DIN A6)🥃 Hohe Vase💧 Wasser🥃 Glas",
+  "zubehoer": [
+   "papier",
+   "wasser",
+   "glas"
+  ]
  },
  {
   "id": "mo-unterwasser-vulkan-experiment-fuer-kinder",
@@ -2311,7 +3177,13 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "🥃 Kleines Glas🥃 Große Glasschüssel oder Vase🪵 Stopfen💧 Heißes Wasser💧 Kaltes Wasser🎨 Rote Lebensmittelfarbe"
+  "material": "🥃 Kleines Glas🥃 Große Glasschüssel oder Vase🪵 Stopfen💧 Heißes Wasser💧 Kaltes Wasser🎨 Rote Lebensmittelfarbe",
+  "zubehoer": [
+   "wasser",
+   "glas",
+   "geschirr",
+   "lebensmittelfarbe"
+  ]
  },
  {
   "id": "mo-verrueckte-bienen-experiment-fuer-kinder",
@@ -2325,7 +3197,14 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "🪞 Alufolie🔮 Glasmurmeln🖍️ Wasserfeste Filzstifte✂️ Schere🥣 Schale (ca. 10 cm)"
+  "material": "🪞 Alufolie🔮 Glasmurmeln🖍️ Wasserfeste Filzstifte✂️ Schere🥣 Schale (ca. 10 cm)",
+  "zubehoer": [
+   "filzstifte",
+   "schere",
+   "glas",
+   "geschirr",
+   "folie"
+  ]
  },
  {
   "id": "mo-magischer-wuerfel-experiment-fuer-kinder",
@@ -2339,7 +3218,14 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "beides",
   "materialStufe": 2,
-  "material": "🧃 12 Strohhalme🧶 12 Pfeifenreiniger💧 1 Liter Wasser🧼 150 ml Spülmittel🍯 133 ml Maissirup (optional)✂️ Schere🥣 Große Schüssel"
+  "material": "🧃 12 Strohhalme🧶 12 Pfeifenreiniger💧 1 Liter Wasser🧼 150 ml Spülmittel🍯 133 ml Maissirup (optional)✂️ Schere🥣 Große Schüssel",
+  "zubehoer": [
+   "schere",
+   "wasser",
+   "geschirr",
+   "spuelmittel",
+   "strohhalm"
+  ]
  },
  {
   "id": "mo-magischer-regenbogen-experiment-fuer-kinder",
@@ -2353,7 +3239,13 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "🧻 Ein Blatt Küchenpapier🥃 2 Gläser💧 Wasser🖍️ Filzstifte (nicht wasserfest)"
+  "material": "🧻 Ein Blatt Küchenpapier🥃 2 Gläser💧 Wasser🖍️ Filzstifte (nicht wasserfest)",
+  "zubehoer": [
+   "papier",
+   "filzstifte",
+   "wasser",
+   "kaffeefilter"
+  ]
  },
  {
   "id": "mo-wandernde-farben-experiment-fuer-kinder",
@@ -2367,7 +3259,15 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "🧻 Küchenpapier🖍️ Wasserlösliche Filzstifte💧 Wasser✂️ Schere✏️ Bleistift🥃 Glas"
+  "material": "🧻 Küchenpapier🖍️ Wasserlösliche Filzstifte💧 Wasser✂️ Schere✏️ Bleistift🥃 Glas",
+  "zubehoer": [
+   "stifte",
+   "filzstifte",
+   "schere",
+   "wasser",
+   "glas",
+   "kaffeefilter"
+  ]
  },
  {
   "id": "mo-farbenbruecke-experiment-fuer-kinder",
@@ -2381,7 +3281,12 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "🥃 5 Gläser🧻 Küchenpapier💧 Wasser🎨 Lebensmittelfarbe (Rot, Gelb, Blau)"
+  "material": "🥃 5 Gläser🧻 Küchenpapier💧 Wasser🎨 Lebensmittelfarbe (Rot, Gelb, Blau)",
+  "zubehoer": [
+   "wasser",
+   "lebensmittelfarbe",
+   "kaffeefilter"
+  ]
  },
  {
   "id": "mo-wasserfarbenzauber-experiment-fuer-kinder",
@@ -2395,7 +3300,14 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "🧻 Küchenpapier💧 Wasser🖍️ Filzstifte🖍️ Edding✂️ Schere🥣 Teller/flache Schale"
+  "material": "🧻 Küchenpapier💧 Wasser🖍️ Filzstifte🖍️ Edding✂️ Schere🥣 Teller/flache Schale",
+  "zubehoer": [
+   "filzstifte",
+   "schere",
+   "wasser",
+   "geschirr",
+   "kaffeefilter"
+  ]
  },
  {
   "id": "mo-zaubersand-selber-machen",
@@ -2409,7 +3321,12 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 3,
-  "material": "🏖️ Bunter Deko-Sand🧴 PFC-freies Imprägnierspray📃 Backpapier🥃 Gläser🥘 Glasform💧 Wasser"
+  "material": "🏖️ Bunter Deko-Sand🧴 PFC-freies Imprägnierspray📃 Backpapier🥃 Gläser🥘 Glasform💧 Wasser",
+  "zubehoer": [
+   "wasser",
+   "glas",
+   "natur"
+  ]
  },
  {
   "id": "mo-wasserfilter-selber-bauen",
@@ -2423,7 +3340,15 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 3,
-  "material": "🍾 Plastikflasche🥃 Zwei Gläser🥅 Feines Sieb🔪 Messer🧣 Stück Stofftuch➿ Gummiband🏖️ Feiner & grober Sand🪨 Kleine Steine oder Kies⚫ Aktivkohle🌱 Gartenerde💧 Wasser"
+  "material": "🍾 Plastikflasche🥃 Zwei Gläser🥅 Feines Sieb🔪 Messer🧣 Stück Stofftuch➿ Gummiband🏖️ Feiner & grober Sand🪨 Kleine Steine oder Kies⚫ Aktivkohle🌱 Gartenerde💧 Wasser",
+  "zubehoer": [
+   "wasser",
+   "glas",
+   "gummi",
+   "tuch",
+   "natur",
+   "chemie"
+  ]
  },
  {
   "id": "mo-weihnachtskarussell-experiment-fuer-kinder",
@@ -2437,7 +3362,14 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "✂️ Schere🖍️ Stift (zum Vorzeichnen)🥤 2 kleine Pappbecher🕯️ Teelicht🍢 Schaschlikspieß🟫 Feuerfeste Unterlage🩹 Klebeband"
+  "material": "✂️ Schere🖍️ Stift (zum Vorzeichnen)🥤 2 kleine Pappbecher🕯️ Teelicht🍢 Schaschlikspieß🟫 Feuerfeste Unterlage🩹 Klebeband",
+  "zubehoer": [
+   "stifte",
+   "schere",
+   "klebeband",
+   "holzstaebe",
+   "becher"
+  ]
  },
  {
   "id": "mo-wintersuchbild-experiment-fuer-kinder",
@@ -2451,7 +3383,14 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "🖍️ Bunte Filzstifte📄 Weißes Blatt Papier (DIN A4)🥘 Große Glasauflaufform🥃 Trinkglas💧 Wasser (1 bis 1,5 Liter)🎨 Blaue Lebensmittelfarbe🎨 Weiße Lebensmittelfarbe"
+  "material": "🖍️ Bunte Filzstifte📄 Weißes Blatt Papier (DIN A4)🥘 Große Glasauflaufform🥃 Trinkglas💧 Wasser (1 bis 1,5 Liter)🎨 Blaue Lebensmittelfarbe🎨 Weiße Lebensmittelfarbe",
+  "zubehoer": [
+   "papier",
+   "filzstifte",
+   "wasser",
+   "glas",
+   "lebensmittelfarbe"
+  ]
  },
  {
   "id": "mo-knete-selber-machen",
@@ -2465,7 +3404,13 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "🌽 Speisestärke🧴 Conditioner oder Bodylotion🎨 Lebensmittelfarbe🥣 Schüssel🥄 Löffel🍽️ Teller"
+  "material": "🌽 Speisestärke🧴 Conditioner oder Bodylotion🎨 Lebensmittelfarbe🥣 Schüssel🥄 Löffel🍽️ Teller",
+  "zubehoer": [
+   "geschirr",
+   "lebensmittelfarbe",
+   "staerke",
+   "spuelmittel"
+  ]
  },
  {
   "id": "mo-natron-essig-experiment-mit-tuete",
@@ -2479,7 +3424,16 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "beides",
   "materialStufe": 2,
-  "material": "🥤 Messbecher🖍️ Edding🔹 Teelöffel🧁 Natron (2 TL)💧 Wasser (100 ml)🍶 Essig (100 ml, 5 %)🎨 Lebensmittelfarbe🛍️ Zipbeutel🧻 Küchenpapier"
+  "material": "🥤 Messbecher🖍️ Edding🔹 Teelöffel🧁 Natron (2 TL)💧 Wasser (100 ml)🍶 Essig (100 ml, 5 %)🎨 Lebensmittelfarbe🛍️ Zipbeutel🧻 Küchenpapier",
+  "zubehoer": [
+   "filzstifte",
+   "wasser",
+   "becher",
+   "geschirr",
+   "lebensmittelfarbe",
+   "natron",
+   "kaffeefilter"
+  ]
  },
  {
   "id": "mo-wasserraupe-experiment",
@@ -2493,7 +3447,17 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "🧻 Klopapier🖍️ Wasserlösliche Filzstifte🧃 Glasstrohhalm oder Stift💉 Pipette💧 Wasser🥃 Glas🟫 Tablett"
+  "material": "🧻 Klopapier🖍️ Wasserlösliche Filzstifte🧃 Glasstrohhalm oder Stift💉 Pipette💧 Wasser🥃 Glas🟫 Tablett",
+  "zubehoer": [
+   "stifte",
+   "filzstifte",
+   "wasser",
+   "glas",
+   "geschirr",
+   "strohhalm",
+   "kaffeefilter",
+   "chemie"
+  ]
  },
  {
   "id": "mo-zauber-sand-experiment-fuer-kinder",
@@ -2507,7 +3471,16 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "🏖️ 2 Tassen feiner Sand🌽 1 Tasse Speisestärke🧼 3 EL Spülmittel💧 Etwas Wasser🎨 Lebensmittelfarbe (optional)🥣 Große Schüssel🥃 Kleines Glas🥄 Löffel🍽️ Großer flacher Teller oder Tablet…"
+  "material": "🏖️ 2 Tassen feiner Sand🌽 1 Tasse Speisestärke🧼 3 EL Spülmittel💧 Etwas Wasser🎨 Lebensmittelfarbe (optional)🥣 Große Schüssel🥃 Kleines Glas🥄 Löffel🍽️ Großer flacher Teller oder Tablet…",
+  "zubehoer": [
+   "wasser",
+   "glas",
+   "geschirr",
+   "lebensmittelfarbe",
+   "staerke",
+   "spuelmittel",
+   "natur"
+  ]
  },
  {
   "id": "mo-schneezauber-experiment-fuer-kinder",
@@ -2521,7 +3494,13 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "🌽 2 Tassen Speisestärke💧 Eine Tasse Wasser🥣 Große Schüssel🎨 Blaue Lebensmittelfarbe"
+  "material": "🌽 2 Tassen Speisestärke💧 Eine Tasse Wasser🥣 Große Schüssel🎨 Blaue Lebensmittelfarbe",
+  "zubehoer": [
+   "wasser",
+   "geschirr",
+   "lebensmittelfarbe",
+   "staerke"
+  ]
  },
  {
   "id": "mo-natron-essig-experiment-fuer-kinder",
@@ -2535,7 +3514,15 @@ const IDEEN = [
   "art": "Experiment",
   "ort": "beides",
   "materialStufe": 1,
-  "material": "🪴 Blumentopf🌱 Blumenerde🥤 Pappbecher🧤 Gummihandschuh➿ Gummiband🧁 4 TL Natron🍶 Haushaltsessig🖍️ Stift"
+  "material": "🪴 Blumentopf🌱 Blumenerde🥤 Pappbecher🧤 Gummihandschuh➿ Gummiband🧁 4 TL Natron🍶 Haushaltsessig🖍️ Stift",
+  "zubehoer": [
+   "stifte",
+   "becher",
+   "geschirr",
+   "natron",
+   "gummi",
+   "natur"
+  ]
  },
  {
   "id": "bewegliches-kueken",
@@ -2549,7 +3536,14 @@ const IDEEN = [
   "video": "https://www.youtube.com/watch?v=JwfBGBDTd08",
   "art": "Basteln",
   "ort": "drinnen",
-  "materialStufe": 1
+  "materialStufe": 1,
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "schere",
+   "kleber",
+   "buntpapier"
+  ]
  },
  {
   "id": "papierbecher",
@@ -2563,7 +3557,14 @@ const IDEEN = [
   "video": "https://www.youtube.com/watch?v=iYtHN2yhQYU",
   "art": "Basteln",
   "ort": "drinnen",
-  "materialStufe": 1
+  "materialStufe": 1,
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "schere",
+   "kleber",
+   "buntpapier"
+  ]
  },
  {
   "id": "tk-1134",
@@ -2577,7 +3578,18 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Schere; Klebestift oder Bastelkleber; Bleistift zum Markieren; Marker oder Filzstifte zum Verzieren; Lineal; Buntpapier (für Blütenblätter und Blütenmitte); Fester Karton (am beste…"
+  "material": "Schere; Klebestift oder Bastelkleber; Bleistift zum Markieren; Marker oder Filzstifte zum Verzieren; Lineal; Buntpapier (für Blütenblätter und Blütenmitte); Fester Karton (am beste…",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "schere",
+   "kleber",
+   "lineal",
+   "buntpapier",
+   "karton",
+   "natur"
+  ]
  },
  {
   "id": "tk-4125",
@@ -2591,7 +3603,16 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Farbiger Karton für die Basis (pink oder rot); Verschiedenfarbiges Papier (hellblau, gelb, grün, rosa); Schere; Kleber; Bleistift; Schwarzer Marker"
+  "material": "Farbiger Karton für die Basis (pink oder rot); Verschiedenfarbiges Papier (hellblau, gelb, grün, rosa); Schere; Kleber; Bleistift; Schwarzer Marker",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "schere",
+   "kleber",
+   "buntpapier",
+   "karton"
+  ]
  },
  {
   "id": "tk-1030",
@@ -2605,7 +3626,16 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Karton als Grundlage; Buntes Papier für die Blüten; Marker oder Filzstifte zum Zeichnen der Stängel; Klebestift oder Bastelkleber; Schere; Serviette für die Verpackung"
+  "material": "Karton als Grundlage; Buntes Papier für die Blüten; Marker oder Filzstifte zum Zeichnen der Stängel; Klebestift oder Bastelkleber; Schere; Serviette für die Verpackung",
+  "zubehoer": [
+   "papier",
+   "filzstifte",
+   "schere",
+   "kleber",
+   "buntpapier",
+   "karton",
+   "kaffeefilter"
+  ]
  },
  {
   "id": "tk-3486",
@@ -2619,7 +3649,16 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Farbpapier (rot und rosa); Kleber; Schere; Faden; Heißkleber; Bleistift"
+  "material": "Farbpapier (rot und rosa); Kleber; Schere; Faden; Heißkleber; Bleistift",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "schere",
+   "kleber",
+   "buntpapier",
+   "wolle",
+   "heisskleber"
+  ]
  },
  {
   "id": "tk-3487",
@@ -2633,7 +3672,16 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Weißes und rotes Bastelpapier; Schere; Kleber; Bleistift; Lineal; Marker oder Stifte zum Beschriften"
+  "material": "Weißes und rotes Bastelpapier; Schere; Kleber; Bleistift; Lineal; Marker oder Stifte zum Beschriften",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "schere",
+   "kleber",
+   "lineal",
+   "buntpapier"
+  ]
  },
  {
   "id": "tk-1031",
@@ -2647,7 +3695,16 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Buntes Papier; Bleistift und Lineal; Schere; Klebestift oder Bastelkleber; Zirkel"
+  "material": "Buntes Papier; Bleistift und Lineal; Schere; Klebestift oder Bastelkleber; Zirkel",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "schere",
+   "kleber",
+   "lineal",
+   "buntpapier",
+   "zirkel"
+  ]
  },
  {
   "id": "tk-1033",
@@ -2661,7 +3718,17 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Bleistift; Lineal; Schere; Klebestift; Buntes Papier (am besten in mehreren Farbtönen); Karton als Grundlage (DIN A4 Format ist geeignet); Zirkel (wenn kein Zirkel vorhanden ist, k…"
+  "material": "Bleistift; Lineal; Schere; Klebestift; Buntes Papier (am besten in mehreren Farbtönen); Karton als Grundlage (DIN A4 Format ist geeignet); Zirkel (wenn kein Zirkel vorhanden ist, k…",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "schere",
+   "kleber",
+   "lineal",
+   "buntpapier",
+   "karton",
+   "zirkel"
+  ]
  },
  {
   "id": "tk-1135",
@@ -2675,7 +3742,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Buntpapier (am besten mehrere leuchtende Farben für kontrastreiche Flügel); Bleistift; Zirkel (oder einen runden Gegenstand zum Umranden, falls kein Zirkel vorhanden ist); Schere; …"
+  "material": "Buntpapier (am besten mehrere leuchtende Farben für kontrastreiche Flügel); Bleistift; Zirkel (oder einen runden Gegenstand zum Umranden, falls kein Zirkel vorhanden ist); Schere; …",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "schere",
+   "buntpapier",
+   "zirkel"
+  ]
  },
  {
   "id": "tk-940",
@@ -2689,7 +3763,17 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Ein Blatt weißes oder farbiges Papier (A4); Schere; Bleistift; Lineal; Klebestift; Bunte Filzstifte oder Buntstifte zum Verzieren; Karton für die Basis (optional)"
+  "material": "Ein Blatt weißes oder farbiges Papier (A4); Schere; Bleistift; Lineal; Klebestift; Bunte Filzstifte oder Buntstifte zum Verzieren; Karton für die Basis (optional)",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "schere",
+   "kleber",
+   "lineal",
+   "buntpapier",
+   "karton"
+  ]
  },
  {
   "id": "tk-2416",
@@ -2703,7 +3787,16 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 3,
-  "material": "Bunter Tonkarton; Buntes Papier; Kleber; Schere; Lineal; Styropor oder Schwamm; Filzstifte oder Marker"
+  "material": "Bunter Tonkarton; Buntes Papier; Kleber; Schere; Lineal; Styropor oder Schwamm; Filzstifte oder Marker",
+  "zubehoer": [
+   "papier",
+   "filzstifte",
+   "schere",
+   "kleber",
+   "lineal",
+   "buntpapier",
+   "styropor"
+  ]
  },
  {
   "id": "tk-954",
@@ -2717,7 +3810,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "2 Eicheln: eine große für den Körper und eine kleinere für den Kopf; Knetmasse zum Verbinden der Teile; Kleine Zweige für Beine und Fühler; Eichelhütchen zur Dekoration; Gekaufte A…"
+  "material": "2 Eicheln: eine große für den Körper und eine kleinere für den Kopf; Knetmasse zum Verbinden der Teile; Kleine Zweige für Beine und Fühler; Eichelhütchen zur Dekoration; Gekaufte A…",
+  "zubehoer": [
+   "knete",
+   "huetchen",
+   "natur"
+  ]
  },
  {
   "id": "tk-6869",
@@ -2731,7 +3829,15 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Weißes Papier; Bunte Stifte oder Marker (gelb, grün, schwarz); Klebeband (durchsichtiges Paketband funktioniert am besten); Schere; Watte oder Füllmaterial; Optional: schwarzer Fin…"
+  "material": "Weißes Papier; Bunte Stifte oder Marker (gelb, grün, schwarz); Klebeband (durchsichtiges Paketband funktioniert am besten); Schere; Watte oder Füllmaterial; Optional: schwarzer Fin…",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "schere",
+   "klebeband",
+   "watte"
+  ]
  },
  {
   "id": "tk-937",
@@ -2758,7 +3864,16 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Farbiges Papier (blau, weiß und andere Farben nach Wunsch); Schere; Klebestift; Bleistift; Filzstifte; Wackelaugen zum Aufkleben (alternativ kannst du sie auch selbst malen)"
+  "material": "Farbiges Papier (blau, weiß und andere Farben nach Wunsch); Schere; Klebestift; Bleistift; Filzstifte; Wackelaugen zum Aufkleben (alternativ kannst du sie auch selbst malen)",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "schere",
+   "kleber",
+   "buntpapier",
+   "wackelaugen"
+  ]
  },
  {
   "id": "tk-4158",
@@ -2772,7 +3887,13 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Farbiges festes Papier (schwarz und weiß oder andere Farben nach Wunsch); Schwarzer Marker; Klebestift; Schere"
+  "material": "Farbiges festes Papier (schwarz und weiß oder andere Farben nach Wunsch); Schwarzer Marker; Klebestift; Schere",
+  "zubehoer": [
+   "papier",
+   "filzstifte",
+   "schere",
+   "kleber"
+  ]
  },
  {
   "id": "tk-3931",
@@ -2786,7 +3907,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Ein Blatt Papier (am besten normales Druckerpapier in A4-Format); Eine Schere; Optional: Einen Bleistift zum Markieren der Falten"
+  "material": "Ein Blatt Papier (am besten normales Druckerpapier in A4-Format); Eine Schere; Optional: Einen Bleistift zum Markieren der Falten",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "schere"
+  ]
  },
  {
   "id": "tk-4151",
@@ -2800,7 +3926,16 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Farbiges Papier (gelb, grün, rosa oder andere Farben nach Wunsch); Schere; Klebestift; Filzstifte in verschiedenen Farben; Lineal; Bleistift"
+  "material": "Farbiges Papier (gelb, grün, rosa oder andere Farben nach Wunsch); Schere; Klebestift; Filzstifte in verschiedenen Farben; Lineal; Bleistift",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "schere",
+   "kleber",
+   "lineal",
+   "buntpapier"
+  ]
  },
  {
   "id": "tk-4135",
@@ -2814,7 +3949,16 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Eine Plastikflasche; Farbiges Papier in leuchtenden Farben (gelb, rot, orange, rosa, lila); Rotes Band oder Schleifenband; Eine kleine batteriebetriebene Lichterkette; Schere; Kleb…"
+  "material": "Eine Plastikflasche; Farbiges Papier in leuchtenden Farben (gelb, rot, orange, rosa, lila); Rotes Band oder Schleifenband; Eine kleine batteriebetriebene Lichterkette; Schere; Kleb…",
+  "zubehoer": [
+   "papier",
+   "schere",
+   "kleber",
+   "buntpapier",
+   "wolle",
+   "glas",
+   "elektro"
+  ]
  },
  {
   "id": "tk-3509",
@@ -2841,7 +3985,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Papier"
+  "material": "Papier",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "tk-6873",
@@ -2855,7 +4002,16 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Weißes Papier; Lineal und Bleistift; Feine Filzstifte (schwarz, verschiedene Grüntöne, gelb); Klebeband (durchsichtiges Paketband funktioniert am besten); Schere; Watte oder Füllma…"
+  "material": "Weißes Papier; Lineal und Bleistift; Feine Filzstifte (schwarz, verschiedene Grüntöne, gelb); Klebeband (durchsichtiges Paketband funktioniert am besten); Schere; Watte oder Füllma…",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "schere",
+   "klebeband",
+   "lineal",
+   "watte"
+  ]
  },
  {
   "id": "tk-13484",
@@ -2869,7 +4025,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Ein quadratisches Blatt Papier; Einen Bleistift; Schere oder Cutter-Messer (Vorsicht beim Schneiden!); Eine Gummiband zum Starten"
+  "material": "Ein quadratisches Blatt Papier; Einen Bleistift; Schere oder Cutter-Messer (Vorsicht beim Schneiden!); Eine Gummiband zum Starten",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "schere",
+   "cutter",
+   "gummi"
+  ]
  },
  {
   "id": "tk-3382",
@@ -2883,7 +4046,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Papier"
+  "material": "Papier",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "tk-3515",
@@ -2897,7 +4063,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Ein quadratisches Blatt Papier (du kannst buntes oder Origami-Papier verwenden); Optional: Filzstifte oder Dekoration für ein individuelles Design"
+  "material": "Ein quadratisches Blatt Papier (du kannst buntes oder Origami-Papier verwenden); Optional: Filzstifte oder Dekoration für ein individuelles Design",
+  "zubehoer": [
+   "papier",
+   "filzstifte",
+   "faltpapier"
+  ]
  },
  {
   "id": "tk-3468",
@@ -2911,7 +4082,18 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Holzspieße (wie für Kuchen); Buntes Papier; Kleber; Knete; Einen Flaschendeckel; Wattestäbchen; Filzstifte; Heißklebepistole"
+  "material": "Holzspieße (wie für Kuchen); Buntes Papier; Kleber; Knete; Einen Flaschendeckel; Wattestäbchen; Filzstifte; Heißklebepistole",
+  "zubehoer": [
+   "papier",
+   "filzstifte",
+   "kleber",
+   "buntpapier",
+   "watte",
+   "knete",
+   "heisskleber",
+   "holzstaebe",
+   "glas"
+  ]
  },
  {
   "id": "tk-4163",
@@ -2925,7 +4107,13 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Servietten in Gelb oder anderen hellen Farben; Gekochte Eier; Dünne Jute-Schnur oder Kordel; Schwarzer, wasserfester Filzstift"
+  "material": "Servietten in Gelb oder anderen hellen Farben; Gekochte Eier; Dünne Jute-Schnur oder Kordel; Schwarzer, wasserfester Filzstift",
+  "zubehoer": [
+   "filzstifte",
+   "wolle",
+   "kaffeefilter",
+   "suess"
+  ]
  },
  {
   "id": "tk-4132",
@@ -2939,7 +4127,16 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Gelbes und rosa Bastelpapier; Schere oder Bastelmesser (für Erwachsene); Kleber; Lineal; Optional: kleine batteriebetriebene Lichterkette für den fertigen Laterne"
+  "material": "Gelbes und rosa Bastelpapier; Schere oder Bastelmesser (für Erwachsene); Kleber; Lineal; Optional: kleine batteriebetriebene Lichterkette für den fertigen Laterne",
+  "zubehoer": [
+   "papier",
+   "schere",
+   "kleber",
+   "lineal",
+   "buntpapier",
+   "cutter",
+   "elektro"
+  ]
  },
  {
   "id": "tk-1151",
@@ -2953,7 +4150,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Papier"
+  "material": "Papier",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "tk-4148",
@@ -2967,7 +4167,11 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "1 Blatt Papier (DIN A4); eventuell ein Lineal zum Glattstreichen der Faltungen; eine ebene Fläche zum Arbeiten"
+  "material": "1 Blatt Papier (DIN A4); eventuell ein Lineal zum Glattstreichen der Faltungen; eine ebene Fläche zum Arbeiten",
+  "zubehoer": [
+   "papier",
+   "lineal"
+  ]
  },
  {
   "id": "tk-1144",
@@ -2981,7 +4185,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Papier"
+  "material": "Papier",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "tk-4596",
@@ -2995,7 +4202,17 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Pappkarton (z.B. von einer alten Verpackung); Gelbes Papier; Weißer Kleber; Schere; Bleistift; Schwarzer Marker und andere farbige Stifte; Bastelmesser (nur für Erwachsene zu benut…"
+  "material": "Pappkarton (z.B. von einer alten Verpackung); Gelbes Papier; Weißer Kleber; Schere; Bleistift; Schwarzer Marker und andere farbige Stifte; Bastelmesser (nur für Erwachsene zu benut…",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "schere",
+   "kleber",
+   "buntpapier",
+   "karton",
+   "cutter"
+  ]
  },
  {
   "id": "tk-947",
@@ -3009,7 +4226,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Papier"
+  "material": "Papier",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "tk-948",
@@ -3023,7 +4243,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Papier"
+  "material": "Papier",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "tk-1145",
@@ -3037,7 +4260,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Papier"
+  "material": "Papier",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "tk-943",
@@ -3051,7 +4277,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Papier"
+  "material": "Papier",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "tk-987",
@@ -3065,7 +4294,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Papier"
+  "material": "Papier",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "tk-988",
@@ -3079,7 +4311,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Papier"
+  "material": "Papier",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "tk-13486",
@@ -3106,7 +4341,17 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Eine Kastanie oder einen Zapfen; Schwarzes Bastelpapier; Farbstifte oder Filzstifte; Eine Schere; Pistazienschalen; Knete"
+  "material": "Eine Kastanie oder einen Zapfen; Schwarzes Bastelpapier; Farbstifte oder Filzstifte; Eine Schere; Pistazienschalen; Knete",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "schere",
+   "buntpapier",
+   "knete",
+   "geschirr",
+   "natur"
+  ]
  },
  {
   "id": "tk-3933",
@@ -3120,7 +4365,11 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Ein Blatt Papier (am besten in einer dunklen Farbe wie Schwarz, Dunkelblau oder Gelb wie auf dem Foto); Optional: Filzstifte zum Verzieren der Fledermaus"
+  "material": "Ein Blatt Papier (am besten in einer dunklen Farbe wie Schwarz, Dunkelblau oder Gelb wie auf dem Foto); Optional: Filzstifte zum Verzieren der Fledermaus",
+  "zubehoer": [
+   "papier",
+   "filzstifte"
+  ]
  },
  {
   "id": "tk-949",
@@ -3134,7 +4383,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Papier"
+  "material": "Papier",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "tk-9171",
@@ -3148,7 +4400,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Ein quadratisches Blatt Papier (idealerweise 15 x 15 cm); Das war's schon!"
+  "material": "Ein quadratisches Blatt Papier (idealerweise 15 x 15 cm); Das war's schon!",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "tk-990",
@@ -3162,7 +4417,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Papier"
+  "material": "Papier",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "tk-3381",
@@ -3176,7 +4434,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Papier"
+  "material": "Papier",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "tk-3922",
@@ -3190,7 +4451,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Ein sauberes Glas (z.B. ein Einmachglas); Eine Lichterkette oder eine batteriebtriebene Lampe; Farbe zum Bemalen des Glases (am besten Acrylfarbe in Orange); Schwarzen festen Karto…"
+  "material": "Ein sauberes Glas (z.B. ein Einmachglas); Eine Lichterkette oder eine batteriebtriebene Lampe; Farbe zum Bemalen des Glases (am besten Acrylfarbe in Orange); Schwarzen festen Karto…",
+  "zubehoer": [
+   "farbe",
+   "glas",
+   "elektro"
+  ]
  },
  {
   "id": "tk-13490",
@@ -3204,7 +4470,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Ein Blatt Papier (für den Flieger); Farbstifte oder Wasserfarben (zum Ausmalen des Hasen); Klebestift; Schere; Einen selbst gezeichneten oder ausgedruckten Hasen aus Papier"
+  "material": "Ein Blatt Papier (für den Flieger); Farbstifte oder Wasserfarben (zum Ausmalen des Hasen); Klebestift; Schere; Einen selbst gezeichneten oder ausgedruckten Hasen aus Papier",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "schere",
+   "kleber",
+   "farbe"
+  ]
  },
  {
   "id": "tk-974",
@@ -3218,7 +4491,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Papier"
+  "material": "Papier",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "tk-4162",
@@ -3232,7 +4508,11 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Servietten in verschiedenen Farben (vorzugsweise größere Servietten); Dünne Schnur oder Kordel"
+  "material": "Servietten in verschiedenen Farben (vorzugsweise größere Servietten); Dünne Schnur oder Kordel",
+  "zubehoer": [
+   "wolle",
+   "kaffeefilter"
+  ]
  },
  {
   "id": "tk-4164",
@@ -3246,7 +4526,15 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Klopapierrolle; Schere; Verschiedene Farben zum Bemalen (weiß); Pinsel; Schwarzer Fineliner oder Marker; Rosa Marker; Heißklebepistole; Kleine Schnur oder Band für den Griff"
+  "material": "Klopapierrolle; Schere; Verschiedene Farben zum Bemalen (weiß); Pinsel; Schwarzer Fineliner oder Marker; Rosa Marker; Heißklebepistole; Kleine Schnur oder Band für den Griff",
+  "zubehoer": [
+   "filzstifte",
+   "schere",
+   "rollen",
+   "farbe",
+   "wolle",
+   "heisskleber"
+  ]
  },
  {
   "id": "tk-13459",
@@ -3260,7 +4548,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Papier"
+  "material": "Papier",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "tk-3510",
@@ -3274,7 +4565,15 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Farbiges Papier in zwei Farben; Schere; Kleber; Stift oder Filzstift; Lolli (z. B. Chupa Chups)"
+  "material": "Farbiges Papier in zwei Farben; Schere; Kleber; Stift oder Filzstift; Lolli (z. B. Chupa Chups)",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "schere",
+   "kleber",
+   "buntpapier"
+  ]
  },
  {
   "id": "tk-1155",
@@ -3288,7 +4587,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Papier"
+  "material": "Papier",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "tk-13511",
@@ -3302,7 +4604,13 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Farbiges Papier; Schere; Bastelkleber"
+  "material": "Farbiges Papier; Schere; Bastelkleber",
+  "zubehoer": [
+   "papier",
+   "schere",
+   "kleber",
+   "buntpapier"
+  ]
  },
  {
   "id": "tk-968",
@@ -3316,7 +4624,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Einen Tannenzapfen; Knete; Eine Schere"
+  "material": "Einen Tannenzapfen; Knete; Eine Schere",
+  "zubehoer": [
+   "schere",
+   "knete",
+   "natur"
+  ]
  },
  {
   "id": "tk-953",
@@ -3330,7 +4643,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Eine Kastanie (für den Körper); Kastanienschale mit Stacheln (für den Rücken des Igels); Knetmasse (für das Gesicht, die Augen und die Nase); Pistazienschalen (für die Pfoten); Kle…"
+  "material": "Eine Kastanie (für den Körper); Kastanienschale mit Stacheln (für den Rücken des Igels); Knetmasse (für das Gesicht, die Augen und die Nase); Pistazienschalen (für die Pfoten); Kle…",
+  "zubehoer": [
+   "knete",
+   "geschirr",
+   "natur"
+  ]
  },
  {
   "id": "tk-9058",
@@ -3344,7 +4662,16 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Weißes oder farbiges Papier (z. B. 120 g/m² Tonpapier); Klebestift; Schere; Lineal & Bleistift; Bunte Stifte oder Marker (für Gestaltung)"
+  "material": "Weißes oder farbiges Papier (z. B. 120 g/m² Tonpapier); Klebestift; Schere; Lineal & Bleistift; Bunte Stifte oder Marker (für Gestaltung)",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "schere",
+   "kleber",
+   "lineal",
+   "buntpapier"
+  ]
  },
  {
   "id": "tk-969",
@@ -3358,7 +4685,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "2 Kastanien (eine große für den Körper, eine kleine für den Kopf); Knetmasse in verschiedenen Farben; Herbstblätter zur Dekoration; Karton als Unterlage"
+  "material": "2 Kastanien (eine große für den Körper, eine kleine für den Kopf); Knetmasse in verschiedenen Farben; Herbstblätter zur Dekoration; Karton als Unterlage",
+  "zubehoer": [
+   "karton",
+   "knete",
+   "natur"
+  ]
  },
  {
   "id": "tk-4356",
@@ -3372,7 +4704,16 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Weißes Bastelkarton oder dickes Papier; Farbiges Papier für die Ohren (z.B. rosa, blau); Schere; Bleistift; Schwarzer Marker oder Fineliner; Kleber (normaler Bastelkleber ist empfe…"
+  "material": "Weißes Bastelkarton oder dickes Papier; Farbiges Papier für die Ohren (z.B. rosa, blau); Schere; Bleistift; Schwarzer Marker oder Fineliner; Kleber (normaler Bastelkleber ist empfe…",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "schere",
+   "kleber",
+   "buntpapier",
+   "karton"
+  ]
  },
  {
   "id": "tk-4156",
@@ -3386,7 +4727,13 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Papier (gelb oder andere Farben nach Wunsch); Schere; Klebestift; Filzstifte zum Verzieren"
+  "material": "Papier (gelb oder andere Farben nach Wunsch); Schere; Klebestift; Filzstifte zum Verzieren",
+  "zubehoer": [
+   "papier",
+   "filzstifte",
+   "schere",
+   "kleber"
+  ]
  },
  {
   "id": "tk-989",
@@ -3400,7 +4747,15 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "1 Weinkorken; Acrylfarben (weiß, rot, grün); 2 Pinsel (dünn und dick); Weißleim; 30 cm dünnes Band oder Schnur; Glitzer oder Pailletten; 1 Blatt farbiger Karton; 1 kleiner Tannenza…"
+  "material": "1 Weinkorken; Acrylfarben (weiß, rot, grün); 2 Pinsel (dünn und dick); Weißleim; 30 cm dünnes Band oder Schnur; Glitzer oder Pailletten; 1 Blatt farbiger Karton; 1 kleiner Tannenza…",
+  "zubehoer": [
+   "papier",
+   "kleber",
+   "karton",
+   "farbe",
+   "wolle",
+   "glitzer"
+  ]
  },
  {
   "id": "tk-4165",
@@ -3414,7 +4769,17 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Klopapierrolle; Schere; Gelbe Acrylfarbe; Pinsel; Schwarzer Marker; Roter Tonkarton; Weiße Papierkreise für die Augen (oder Wackelaugen); Klebstoff oder Heißklebepistole; Kleine Sc…"
+  "material": "Klopapierrolle; Schere; Gelbe Acrylfarbe; Pinsel; Schwarzer Marker; Roter Tonkarton; Weiße Papierkreise für die Augen (oder Wackelaugen); Klebstoff oder Heißklebepistole; Kleine Sc…",
+  "zubehoer": [
+   "papier",
+   "filzstifte",
+   "schere",
+   "buntpapier",
+   "rollen",
+   "farbe",
+   "wackelaugen",
+   "heisskleber"
+  ]
  },
  {
   "id": "tk-3924",
@@ -3428,7 +4793,11 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Einen kleinen Kürbis (keine Sorge, wir werden nicht schnitzen!); Knete in verschiedenen Farben; Naturmaterialien zur Dekoration (Tannenzapfen, Kastanien, Eicheln, interessant gefor…"
+  "material": "Einen kleinen Kürbis (keine Sorge, wir werden nicht schnitzen!); Knete in verschiedenen Farben; Naturmaterialien zur Dekoration (Tannenzapfen, Kastanien, Eicheln, interessant gefor…",
+  "zubehoer": [
+   "knete",
+   "natur"
+  ]
  },
  {
   "id": "tk-3925",
@@ -3442,7 +4811,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Einen mittelgroßen Kürbis; Ein kleines scharfes Messer oder einen Skalpell; Einen Löffel zum Aushöhlen; Eine Lichterkette oder eine batteriebetriebene Lampe; Einen Stift zum Vorzei…"
+  "material": "Einen mittelgroßen Kürbis; Ein kleines scharfes Messer oder einen Skalpell; Einen Löffel zum Aushöhlen; Eine Lichterkette oder eine batteriebetriebene Lampe; Einen Stift zum Vorzei…",
+  "zubehoer": [
+   "stifte",
+   "geschirr",
+   "elektro"
+  ]
  },
  {
   "id": "tk-3905",
@@ -3456,7 +4830,16 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Farbiges Bastelpapier (orange, rot, schwarz); Eine Schere; Einen Bleistift; Ein Lineal; Eine leere Klopapierrolle (die Pappröhre); Kleber"
+  "material": "Farbiges Bastelpapier (orange, rot, schwarz); Eine Schere; Einen Bleistift; Ein Lineal; Eine leere Klopapierrolle (die Pappröhre); Kleber",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "schere",
+   "kleber",
+   "lineal",
+   "buntpapier",
+   "rollen"
+  ]
  },
  {
   "id": "tk-13496",
@@ -3483,7 +4866,17 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Weißes Tonpapier oder Bastelkarton; Buntstifte oder Filzstifte; Schere; Klebestift; Lineal und Bleistift; Schwarzer Filzstift zum Nachzeichnen"
+  "material": "Weißes Tonpapier oder Bastelkarton; Buntstifte oder Filzstifte; Schere; Klebestift; Lineal und Bleistift; Schwarzer Filzstift zum Nachzeichnen",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "schere",
+   "kleber",
+   "lineal",
+   "buntpapier",
+   "karton"
+  ]
  },
  {
   "id": "tk-5672",
@@ -3497,7 +4890,16 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Rotes und schwarzes Bastelpapier; Schere; Bleistift; Schwarzer Filzstift; Klebestift; Wackelaugen (oder weißes Papier zum Selberbasteln der Augen); Einen runden Gegenstand zum Umze…"
+  "material": "Rotes und schwarzes Bastelpapier; Schere; Bleistift; Schwarzer Filzstift; Klebestift; Wackelaugen (oder weißes Papier zum Selberbasteln der Augen); Einen runden Gegenstand zum Umze…",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "schere",
+   "kleber",
+   "buntpapier",
+   "wackelaugen"
+  ]
  },
  {
   "id": "tk-946",
@@ -3511,7 +4913,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Papier"
+  "material": "Papier",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "tk-4176",
@@ -3525,7 +4930,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Die Bastelvorlage (wichtig: Diese musst du vorher ausdrucken!); 1 Blatt gelbes A4-Papier (für den Bienenkörper); 1 Blatt hellblaues oder weißes A4-Papier (für die Flügel); Schwarze…"
+  "material": "Die Bastelvorlage (wichtig: Diese musst du vorher ausdrucken!); 1 Blatt gelbes A4-Papier (für den Bienenkörper); 1 Blatt hellblaues oder weißes A4-Papier (für die Flügel); Schwarze…",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "tk-4175",
@@ -3539,7 +4947,11 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "1 Blatt grünes A4-Papier (für den Creeper); 1 Blatt rosa oder rotes A4-Papier (für die Schwein-Variante, falls gewünscht); Schwarzen Filzstift oder Fineliner; Weißen Filzstift oder…"
+  "material": "1 Blatt grünes A4-Papier (für den Creeper); 1 Blatt rosa oder rotes A4-Papier (für die Schwein-Variante, falls gewünscht); Schwarzen Filzstift oder Fineliner; Weißen Filzstift oder…",
+  "zubehoer": [
+   "papier",
+   "filzstifte"
+  ]
  },
  {
   "id": "tk-4177",
@@ -3553,7 +4965,18 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "2 Blätter grünes A4-Papier (für den Körper); Schwarzen Fineliner oder dünnen Filzstift; Bleistift; Lineal; Schere; Klebestift oder transparentes Klebeband; Optional: dünne Pappe fü…"
+  "material": "2 Blätter grünes A4-Papier (für den Körper); Schwarzen Fineliner oder dünnen Filzstift; Bleistift; Lineal; Schere; Klebestift oder transparentes Klebeband; Optional: dünne Pappe fü…",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "schere",
+   "kleber",
+   "klebeband",
+   "lineal",
+   "karton",
+   "natur"
+  ]
  },
  {
   "id": "tk-6882",
@@ -3567,7 +4990,15 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Hellblaues und weißes Papier (A4-Format); Schwarzen Filzstift; Buntstifte oder Marker (in Minecraft-Farben: blau, gelb, pink, orange, etc.); Lineal; Schere; Klebeband; Optional: Kl…"
+  "material": "Hellblaues und weißes Papier (A4-Format); Schwarzen Filzstift; Buntstifte oder Marker (in Minecraft-Farben: blau, gelb, pink, orange, etc.); Lineal; Schere; Klebeband; Optional: Kl…",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "schere",
+   "klebeband",
+   "lineal"
+  ]
  },
  {
   "id": "tk-4178",
@@ -3581,7 +5012,13 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Weißes A4-Papier oder dünne Pappe; Farbiges Papier (grün für den Creeper, rosa/rot für das Schwein, beige/braun für den Skelett-Zombie); Schwarzen Fineliner oder dünnen Filzstift; …"
+  "material": "Weißes A4-Papier oder dünne Pappe; Farbiges Papier (grün für den Creeper, rosa/rot für das Schwein, beige/braun für den Skelett-Zombie); Schwarzen Fineliner oder dünnen Filzstift; …",
+  "zubehoer": [
+   "papier",
+   "filzstifte",
+   "buntpapier",
+   "karton"
+  ]
  },
  {
   "id": "tk-6872",
@@ -3595,7 +5032,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Weißes Papier (am besten kariertes oder Millimeterpapier); Rote und schwarze Filzstifte oder Marker; Lineal; Bleistift; Klebeband (durchsichtiges Paketband funktioniert am besten);…"
+  "material": "Weißes Papier (am besten kariertes oder Millimeterpapier); Rote und schwarze Filzstifte oder Marker; Lineal; Bleistift; Klebeband (durchsichtiges Paketband funktioniert am besten);…",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "klebeband",
+   "lineal"
+  ]
  },
  {
   "id": "tk-13494",
@@ -3622,7 +5066,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Buntes Papier in verschiedenen Farben; Schere; Bleistift; Bastelkleber"
+  "material": "Buntes Papier in verschiedenen Farben; Schere; Bleistift; Bastelkleber",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "schere",
+   "kleber",
+   "buntpapier"
+  ]
  },
  {
   "id": "tk-3480",
@@ -3636,7 +5087,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Papier"
+  "material": "Papier",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "tk-9173",
@@ -3650,7 +5104,13 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Farbiges quadratisches Papier (15 x 15 cm ist ideal); Schere; Schwarzer Filzstift oder Marker für Gesicht und Details; Optional: weitere Stifte für zusätzliche Verzierungen"
+  "material": "Farbiges quadratisches Papier (15 x 15 cm ist ideal); Schere; Schwarzer Filzstift oder Marker für Gesicht und Details; Optional: weitere Stifte für zusätzliche Verzierungen",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "schere"
+  ]
  },
  {
   "id": "tk-3479",
@@ -3664,7 +5124,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Papier"
+  "material": "Papier",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "tk-3385",
@@ -3678,7 +5141,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Papier"
+  "material": "Papier",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "tk-6874",
@@ -3692,7 +5158,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "1 Blatt Papier (A4-Format)"
+  "material": "1 Blatt Papier (A4-Format)",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "tk-3493",
@@ -3706,7 +5175,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Papier"
+  "material": "Papier",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "tk-6875",
@@ -3720,7 +5192,11 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Ein Blatt Papier (A4-Format); Schere"
+  "material": "Ein Blatt Papier (A4-Format); Schere",
+  "zubehoer": [
+   "papier",
+   "schere"
+  ]
  },
  {
   "id": "tk-3495",
@@ -3734,7 +5210,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Papier"
+  "material": "Papier",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "tk-3873",
@@ -3748,7 +5227,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Schwarzes Bastelpapier; Eine Schere; Einen Stift oder Filzstift, der auf schwarzem Papier sichtbar ist (wir haben eine weiße Gelstift verwendet); Farbiges Papier für die Fenster (o…"
+  "material": "Schwarzes Bastelpapier; Eine Schere; Einen Stift oder Filzstift, der auf schwarzem Papier sichtbar ist (wir haben eine weiße Gelstift verwendet); Farbiges Papier für die Fenster (o…",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "schere",
+   "buntpapier"
+  ]
  },
  {
   "id": "tk-3926",
@@ -3762,7 +5248,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Weißes Papier (quadratisch zugeschnitten); Einen schwarzen Filzstift oder Marker; Eventuell eine Schere für Anpassungen (optional)"
+  "material": "Weißes Papier (quadratisch zugeschnitten); Einen schwarzen Filzstift oder Marker; Eventuell eine Schere für Anpassungen (optional)",
+  "zubehoer": [
+   "papier",
+   "filzstifte",
+   "schere"
+  ]
  },
  {
   "id": "tk-4120",
@@ -3776,7 +5267,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Farbiges Papier in Quadratform (rot, rosa, blau oder eine andere Lieblingsfarbe); Stifte oder Filzstifte zum Verzieren; Schere (falls du das Quadrat erst zuschneiden musst)"
+  "material": "Farbiges Papier in Quadratform (rot, rosa, blau oder eine andere Lieblingsfarbe); Stifte oder Filzstifte zum Verzieren; Schere (falls du das Quadrat erst zuschneiden musst)",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "schere",
+   "buntpapier"
+  ]
  },
  {
   "id": "tk-3512",
@@ -3790,7 +5288,13 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Ein rechteckiges Blatt Papier; Schere; Optional: Buntstifte oder Filzstifte zur Dekoration"
+  "material": "Ein rechteckiges Blatt Papier; Schere; Optional: Buntstifte oder Filzstifte zur Dekoration",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "schere"
+  ]
  },
  {
   "id": "tk-4146",
@@ -3804,7 +5308,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Ein Blatt Papier; Lust zu falten; Ein bisschen Geduld"
+  "material": "Ein Blatt Papier; Lust zu falten; Ein bisschen Geduld",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "tk-6881",
@@ -3818,7 +5325,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Farbiges Papier (für die Box und die Katze); Filzstifte zum Verzieren"
+  "material": "Farbiges Papier (für die Box und die Katze); Filzstifte zum Verzieren",
+  "zubehoer": [
+   "papier",
+   "filzstifte",
+   "buntpapier"
+  ]
  },
  {
   "id": "tk-3504",
@@ -3832,7 +5344,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Papier"
+  "material": "Papier",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "tk-3505",
@@ -3846,7 +5361,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Papier"
+  "material": "Papier",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "tk-3923",
@@ -3860,7 +5378,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Farbiges Bastelpapier (orange, grün, blau, schwarz oder andere Farben nach Wunsch); Eine Schere; Kleber; Einen schwarzen Marker oder Filzstift"
+  "material": "Farbiges Bastelpapier (orange, grün, blau, schwarz oder andere Farben nach Wunsch); Eine Schere; Kleber; Einen schwarzen Marker oder Filzstift",
+  "zubehoer": [
+   "papier",
+   "filzstifte",
+   "schere",
+   "kleber",
+   "buntpapier"
+  ]
  },
  {
   "id": "tk-13512",
@@ -3874,7 +5399,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Papier"
+  "material": "Papier",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "tk-9172",
@@ -3888,7 +5416,11 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Ein rechteckiges Blatt Papier (etwa 15 x 10 cm ist ideal); Eine Schere"
+  "material": "Ein rechteckiges Blatt Papier (etwa 15 x 10 cm ist ideal); Eine Schere",
+  "zubehoer": [
+   "papier",
+   "schere"
+  ]
  },
  {
   "id": "tk-992",
@@ -3902,7 +5434,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Papier"
+  "material": "Papier",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "tk-1138",
@@ -3916,7 +5451,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Papier"
+  "material": "Papier",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "tk-1693",
@@ -3930,7 +5468,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Papier"
+  "material": "Papier",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "tk-905",
@@ -3944,7 +5485,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Papier"
+  "material": "Papier",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "tk-891",
@@ -3958,7 +5502,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Papier"
+  "material": "Papier",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "tk-7827",
@@ -3972,7 +5519,15 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Ein Blatt Papier (A4); Schere (um das quadratische Papier zuzuschneiden); Stift oder Filzstift; Lineal; Eine kleine Kugel aus Papier (als Tennisball)"
+  "material": "Ein Blatt Papier (A4); Schere (um das quadratische Papier zuzuschneiden); Stift oder Filzstift; Lineal; Eine kleine Kugel aus Papier (als Tennisball)",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "schere",
+   "lineal",
+   "ball"
+  ]
  },
  {
   "id": "tk-4153",
@@ -3986,7 +5541,11 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Quadratisches Papier in deiner Lieblingsfarbe (blau, orange, gelb oder andere Farben); Filzstifte zum Zeichnen des Gesichts und der Verzierungen"
+  "material": "Quadratisches Papier in deiner Lieblingsfarbe (blau, orange, gelb oder andere Farben); Filzstifte zum Zeichnen des Gesichts und der Verzierungen",
+  "zubehoer": [
+   "papier",
+   "filzstifte"
+  ]
  },
  {
   "id": "tk-7779",
@@ -4000,7 +5559,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "2 quadratische Blätter Papier (für Blüte und Blätter); 1 schmaler Papierstreifen (für den Stängel); Kleber; Schere; Eine ebene Fläche zum Arbeiten"
+  "material": "2 quadratische Blätter Papier (für Blüte und Blätter); 1 schmaler Papierstreifen (für den Stängel); Kleber; Schere; Eine ebene Fläche zum Arbeiten",
+  "zubehoer": [
+   "papier",
+   "schere",
+   "kleber",
+   "huetchen",
+   "natur"
+  ]
  },
  {
   "id": "tk-13503",
@@ -4014,7 +5580,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Buntes quadratisches Papier; Schere; Kleber"
+  "material": "Buntes quadratisches Papier; Schere; Kleber",
+  "zubehoer": [
+   "papier",
+   "schere",
+   "kleber"
+  ]
  },
  {
   "id": "tk-4122",
@@ -4028,7 +5599,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Farbiges Papier (grün für die Stängel und Blätter); Farbiges Papier für die Blüten (rot, gelb oder andere Farben); Farbiges Papier für die Biene (gelb, weiß, schwarz oder du kannst…"
+  "material": "Farbiges Papier (grün für die Stängel und Blätter); Farbiges Papier für die Blüten (rot, gelb oder andere Farben); Farbiges Papier für die Biene (gelb, weiß, schwarz oder du kannst…",
+  "zubehoer": [
+   "papier",
+   "buntpapier",
+   "natur"
+  ]
  },
  {
   "id": "tk-1692",
@@ -4042,7 +5618,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Papier"
+  "material": "Papier",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "tk-1691",
@@ -4056,7 +5635,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Papier"
+  "material": "Papier",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "tk-4140",
@@ -4070,7 +5652,16 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Farbiges Papier (gelb, orange und weiß); Buntstifte oder Marker; Schere; Kleber; Lineal; Bleistift"
+  "material": "Farbiges Papier (gelb, orange und weiß); Buntstifte oder Marker; Schere; Kleber; Lineal; Bleistift",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "schere",
+   "kleber",
+   "lineal",
+   "buntpapier"
+  ]
  },
  {
   "id": "tk-4141",
@@ -4084,7 +5675,17 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Weißes und farbiges Papier (gelb, rosa, blau - je nach Wunsch); Bunte Filzstifte oder Marker; Schere; Klebestift; Lineal; Bleistift; Echte Lutscher (rund)"
+  "material": "Weißes und farbiges Papier (gelb, rosa, blau - je nach Wunsch); Bunte Filzstifte oder Marker; Schere; Klebestift; Lineal; Bleistift; Echte Lutscher (rund)",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "schere",
+   "kleber",
+   "lineal",
+   "buntpapier",
+   "suess"
+  ]
  },
  {
   "id": "tk-4161",
@@ -4098,7 +5699,11 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Eine schöne Stoffserviette (rot oder eine andere Farbe nach Wunsch); Kleine Wackelaugen (optional)"
+  "material": "Eine schöne Stoffserviette (rot oder eine andere Farbe nach Wunsch); Kleine Wackelaugen (optional)",
+  "zubehoer": [
+   "wackelaugen",
+   "kaffeefilter"
+  ]
  },
  {
   "id": "tk-1042",
@@ -4112,7 +5717,15 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Schere; Klebestift oder Bastelkleber; Farbiger Karton als Grundlage; Buntes Papier oder normales Papier (kann mit Farben oder Buntstiften bemalt werden); Farben, Buntstifte oder Fi…"
+  "material": "Schere; Klebestift oder Bastelkleber; Farbiger Karton als Grundlage; Buntes Papier oder normales Papier (kann mit Farben oder Buntstiften bemalt werden); Farben, Buntstifte oder Fi…",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "schere",
+   "kleber",
+   "buntpapier",
+   "karton"
+  ]
  },
  {
   "id": "tk-13492",
@@ -4126,7 +5739,16 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Buntes Papier (weiß und gelb für Blüten und Mitte); Eine Schere; Kleber oder Klebestift; Einen Bleistift; Einen Strohhalm oder Papiertrinkhalm als Stiel; Einen grünen Filzstift zum…"
+  "material": "Buntes Papier (weiß und gelb für Blüten und Mitte); Eine Schere; Kleber oder Klebestift; Einen Bleistift; Einen Strohhalm oder Papiertrinkhalm als Stiel; Einen grünen Filzstift zum…",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "schere",
+   "kleber",
+   "buntpapier",
+   "strohhalm"
+  ]
  },
  {
   "id": "tk-4149",
@@ -4140,7 +5762,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "1 Blatt Papier (am besten DIN A4 oder A5); 1 Schere; eventuell ein Lineal zum Nachzeichnen"
+  "material": "1 Blatt Papier (am besten DIN A4 oder A5); 1 Schere; eventuell ein Lineal zum Nachzeichnen",
+  "zubehoer": [
+   "papier",
+   "schere",
+   "lineal"
+  ]
  },
  {
   "id": "tk-13502",
@@ -4154,7 +5781,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "ein Blatt Papier; eine Schere; einen Bleistift"
+  "material": "ein Blatt Papier; eine Schere; einen Bleistift",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "schere"
+  ]
  },
  {
   "id": "tk-13497",
@@ -4168,7 +5800,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Lineal; Bleistift; Schere; Farbiges Papier in zwei Farben deiner Wahl"
+  "material": "Lineal; Bleistift; Schere; Farbiges Papier in zwei Farben deiner Wahl",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "schere",
+   "lineal",
+   "buntpapier"
+  ]
  },
  {
   "id": "tk-13509",
@@ -4182,7 +5821,16 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Buntes Papier (verschiedene Farben); Schere; Bleistift; Bastelkleber; Deko-Steinchen oder kleine Perlen für die Blütenmitte"
+  "material": "Buntes Papier (verschiedene Farben); Schere; Bleistift; Bastelkleber; Deko-Steinchen oder kleine Perlen für die Blütenmitte",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "schere",
+   "kleber",
+   "buntpapier",
+   "perlen",
+   "glitzer"
+  ]
  },
  {
   "id": "tk-4127",
@@ -4196,7 +5844,16 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Gelbes und weißes Papier (alternativ andere Farben nach Wunsch); Schere (kindersichere Schere für kleine Kinder); Lineal; Bleistift; Klebestift; Ein Lutscher (rund); Holzspieß für …"
+  "material": "Gelbes und weißes Papier (alternativ andere Farben nach Wunsch); Schere (kindersichere Schere für kleine Kinder); Lineal; Bleistift; Klebestift; Ein Lutscher (rund); Holzspieß für …",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "schere",
+   "kleber",
+   "lineal",
+   "holzstaebe",
+   "suess"
+  ]
  },
  {
   "id": "tk-13495",
@@ -4210,7 +5867,17 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Farbiges Papier; Schere; Kleber oder doppelseitiges Klebeband; Einen Holzstab, Strohhalm oder Bleistift als Stiel"
+  "material": "Farbiges Papier; Schere; Kleber oder doppelseitiges Klebeband; Einen Holzstab, Strohhalm oder Bleistift als Stiel",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "schere",
+   "kleber",
+   "klebeband",
+   "buntpapier",
+   "holzstaebe",
+   "strohhalm"
+  ]
  },
  {
   "id": "tk-3499",
@@ -4224,7 +5891,16 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Farbiges Papier (rot, rosa, hellblau, grün); Eine Schere; Kleber; Holzstäbchen oder Strohhalme für die Stiele; Heißklebepistole (optional)"
+  "material": "Farbiges Papier (rot, rosa, hellblau, grün); Eine Schere; Kleber; Holzstäbchen oder Strohhalme für die Stiele; Heißklebepistole (optional)",
+  "zubehoer": [
+   "papier",
+   "schere",
+   "kleber",
+   "buntpapier",
+   "heisskleber",
+   "holzstaebe",
+   "strohhalm"
+  ]
  },
  {
   "id": "tk-895",
@@ -4238,7 +5914,16 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Zwei Quadrate aus Papier (Größe 13-17 cm, optimal 15 cm); Lineal und Bleistift zum Markieren; Schere; Klebestift oder Heißklebepistole; Faden oder Schnur für die Aufhängeschlaufe; …"
+  "material": "Zwei Quadrate aus Papier (Größe 13-17 cm, optimal 15 cm); Lineal und Bleistift zum Markieren; Schere; Klebestift oder Heißklebepistole; Faden oder Schnur für die Aufhängeschlaufe; …",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "schere",
+   "kleber",
+   "lineal",
+   "wolle",
+   "heisskleber"
+  ]
  },
  {
   "id": "tk-6880",
@@ -4252,7 +5937,17 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Farbiges Papier (am besten in verschiedenen Farben für Fisch und Mund); Schere; Bleistift; Lineal; Kleber; Schwarzen Filzstift; Optional: schwarze Wackelaugen zum Aufkleben"
+  "material": "Farbiges Papier (am besten in verschiedenen Farben für Fisch und Mund); Schere; Bleistift; Lineal; Kleber; Schwarzen Filzstift; Optional: schwarze Wackelaugen zum Aufkleben",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "schere",
+   "kleber",
+   "lineal",
+   "buntpapier",
+   "wackelaugen"
+  ]
  },
  {
   "id": "tk-945",
@@ -4266,7 +5961,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Papier"
+  "material": "Papier",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "tk-3501",
@@ -4280,7 +5978,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Papier"
+  "material": "Papier",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "tk-991",
@@ -4294,7 +5995,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Papier"
+  "material": "Papier",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "tk-942",
@@ -4308,7 +6012,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Papier"
+  "material": "Papier",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "tk-6876",
@@ -4322,7 +6029,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Weißes Papier (A4-Format); Schere; Lineal; Bleistift; Hefter/Tacker; Gummibänder; Optional: Bunte Stifte zum Verzieren"
+  "material": "Weißes Papier (A4-Format); Schere; Lineal; Bleistift; Hefter/Tacker; Gummibänder; Optional: Bunte Stifte zum Verzieren",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "schere",
+   "lineal",
+   "gummi"
+  ]
  },
  {
   "id": "tk-7844",
@@ -4336,7 +6050,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Ein Blatt Papier (A4); Bleistift; Schere; Eine ebene Fläche zum Arbeiten; Etwas Geduld und Sorgfalt"
+  "material": "Ein Blatt Papier (A4); Bleistift; Schere; Eine ebene Fläche zum Arbeiten; Etwas Geduld und Sorgfalt",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "schere"
+  ]
  },
  {
   "id": "tk-8959",
@@ -4350,7 +6069,11 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "1 Blatt Papier (DIN A4, z. B. Druckerpapier); Optional: bunte Stifte zur Verzierung"
+  "material": "1 Blatt Papier (DIN A4, z. B. Druckerpapier); Optional: bunte Stifte zur Verzierung",
+  "zubehoer": [
+   "papier",
+   "stifte"
+  ]
  },
  {
   "id": "tk-7843",
@@ -4364,7 +6087,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Ein Blatt Papier (A4); Eine ebene Fläche zum Arbeiten; Etwas Geduld und Konzentration"
+  "material": "Ein Blatt Papier (A4); Eine ebene Fläche zum Arbeiten; Etwas Geduld und Konzentration",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "tk-4593",
@@ -4378,7 +6104,17 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Weißes Papier oder Bastelkarton; Rotes Papier oder Bastelkarton (für den Kamm); Schere; Bleistift; Schwarzer Marker oder Fineliner; Lineal; Kleber; Optional: Weitere farbige Marker…"
+  "material": "Weißes Papier oder Bastelkarton; Rotes Papier oder Bastelkarton (für den Kamm); Schere; Bleistift; Schwarzer Marker oder Fineliner; Lineal; Kleber; Optional: Weitere farbige Marker…",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "schere",
+   "kleber",
+   "lineal",
+   "buntpapier",
+   "karton"
+  ]
  },
  {
   "id": "tk-1032",
@@ -4392,7 +6128,15 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Buntes Papier; Schere; Bleistift; Lineal; Klebestift oder Bastelkleber"
+  "material": "Buntes Papier; Schere; Bleistift; Lineal; Klebestift oder Bastelkleber",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "schere",
+   "kleber",
+   "lineal",
+   "buntpapier"
+  ]
  },
  {
   "id": "tk-3858",
@@ -4406,7 +6150,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Farbiges Bastelpapier (orange, grün, schwarz); Eine Schere; Kleber; Einen Bleistift"
+  "material": "Farbiges Bastelpapier (orange, grün, schwarz); Eine Schere; Kleber; Einen Bleistift",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "schere",
+   "kleber",
+   "buntpapier"
+  ]
  },
  {
   "id": "tk-4129",
@@ -4420,7 +6171,15 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Farbiges Papier (rot für die Rosen, grün für Blätter wenn gewünscht); Papierservietten (optional für zusätzliche Textur); Plastikflasche (als Basis für den Strauß); Bleistift; Sche…"
+  "material": "Farbiges Papier (rot für die Rosen, grün für Blätter wenn gewünscht); Papierservietten (optional für zusätzliche Textur); Plastikflasche (als Basis für den Strauß); Bleistift; Sche…",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "buntpapier",
+   "glas",
+   "kaffeefilter",
+   "natur"
+  ]
  },
  {
   "id": "tk-7845",
@@ -4434,7 +6193,16 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Farbiges Papier (z.B. grün, gelb oder andere Farben deiner Wahl); Schere; Klebestift; Marker oder Filzstifte; Bleistift; Lineal"
+  "material": "Farbiges Papier (z.B. grün, gelb oder andere Farben deiner Wahl); Schere; Klebestift; Marker oder Filzstifte; Bleistift; Lineal",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "schere",
+   "kleber",
+   "lineal",
+   "buntpapier"
+  ]
  },
  {
   "id": "tk-939",
@@ -4474,7 +6242,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Kastanien (2-3 Stück für Körper und Kopf); Stöckchen für Beine und Schweif; Pistazienschalen für Hufe, Mund und Ohren; Garn (Strickgarn) für Schweif und Mähne"
+  "material": "Kastanien (2-3 Stück für Körper und Kopf); Stöckchen für Beine und Schweif; Pistazienschalen für Hufe, Mund und Ohren; Garn (Strickgarn) für Schweif und Mähne",
+  "zubehoer": [
+   "wolle",
+   "geschirr",
+   "natur"
+  ]
  },
  {
   "id": "tk-970",
@@ -4488,7 +6261,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Kastanien - 2-3 Stück; Eicheln - einige für die Pilzstiele; Knetmasse - wähle leuchtende Farben zur Dekoration; Karton - als Basis"
+  "material": "Kastanien - 2-3 Stück; Eicheln - einige für die Pilzstiele; Knetmasse - wähle leuchtende Farben zur Dekoration; Karton - als Basis",
+  "zubehoer": [
+   "karton",
+   "knete",
+   "natur"
+  ]
  },
  {
   "id": "tk-4157",
@@ -4502,7 +6280,13 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Rotes Papier für die Schachtel; Gelbes Papier für die Pommes; Schere; Klebestift"
+  "material": "Rotes Papier für die Schachtel; Gelbes Papier für die Pommes; Schere; Klebestift",
+  "zubehoer": [
+   "papier",
+   "schere",
+   "kleber",
+   "buntpapier"
+  ]
  },
  {
   "id": "tk-3388",
@@ -4516,7 +6300,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Papier"
+  "material": "Papier",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "tk-4126",
@@ -4530,7 +6317,15 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Farbiger Karton (rosa, grün, beige/cremefarbig); Schere; Lineal; Bleistift; Schwarzer Marker zum Beschriften; Kleber"
+  "material": "Farbiger Karton (rosa, grün, beige/cremefarbig); Schere; Lineal; Bleistift; Schwarzer Marker zum Beschriften; Kleber",
+  "zubehoer": [
+   "stifte",
+   "filzstifte",
+   "schere",
+   "kleber",
+   "lineal",
+   "karton"
+  ]
  },
  {
   "id": "tk-3511",
@@ -4544,7 +6339,16 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Farbiges Papier (Rot, Rosa, Weiß); Schere; Kleber oder doppelseitiges Klebeband; Stifte oder Filzstifte für Dekoration"
+  "material": "Farbiges Papier (Rot, Rosa, Weiß); Schere; Kleber oder doppelseitiges Klebeband; Stifte oder Filzstifte für Dekoration",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "schere",
+   "kleber",
+   "klebeband",
+   "buntpapier"
+  ]
  },
  {
   "id": "tk-9054",
@@ -4558,7 +6362,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "1 Blatt Papier, DIN A4 (glatt & nicht zu dünn); Schere (für den Einschnitt am Heck); Lineal (optional für genaues Falten)"
+  "material": "1 Blatt Papier, DIN A4 (glatt & nicht zu dünn); Schere (für den Einschnitt am Heck); Lineal (optional für genaues Falten)",
+  "zubehoer": [
+   "papier",
+   "schere",
+   "lineal"
+  ]
  },
  {
   "id": "tk-4133",
@@ -4572,7 +6381,15 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Farbiges Papier in Regenbogenfarben (rot, orange, gelb, grün, hellblau, hellgrün und weitere Pastellfarben); Schere; Kleber oder doppelseitiges Klebeband; Faden oder dünne Schnur; …"
+  "material": "Farbiges Papier in Regenbogenfarben (rot, orange, gelb, grün, hellblau, hellgrün und weitere Pastellfarben); Schere; Kleber oder doppelseitiges Klebeband; Faden oder dünne Schnur; …",
+  "zubehoer": [
+   "papier",
+   "schere",
+   "kleber",
+   "klebeband",
+   "buntpapier",
+   "wolle"
+  ]
  },
  {
   "id": "tk-6879",
@@ -4586,7 +6403,18 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Farbiges Papier oder Karton (besonders gelb und weiß); Schere; Kleber oder Klebeband; Filzstifte, Kugelschreiber oder Buntstifte zum Verzieren; Optional: Lineal für gerade Linien"
+  "material": "Farbiges Papier oder Karton (besonders gelb und weiß); Schere; Kleber oder Klebeband; Filzstifte, Kugelschreiber oder Buntstifte zum Verzieren; Optional: Lineal für gerade Linien",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "schere",
+   "kleber",
+   "klebeband",
+   "lineal",
+   "buntpapier",
+   "karton"
+  ]
  },
  {
   "id": "tk-4128",
@@ -4600,7 +6428,16 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Karton (für den Zaun); Weiße und farbige Papierservietten (für die Rosen); Schere; Kleber; Farben zum Bemalen des Zauns; Ein kleines Glas oder eine kleine Tasse (als Schablone für …"
+  "material": "Karton (für den Zaun); Weiße und farbige Papierservietten (für die Rosen); Schere; Kleber; Farben zum Bemalen des Zauns; Ein kleines Glas oder eine kleine Tasse (als Schablone für …",
+  "zubehoer": [
+   "papier",
+   "schere",
+   "kleber",
+   "buntpapier",
+   "karton",
+   "glas",
+   "kaffeefilter"
+  ]
  },
  {
   "id": "tk-4121",
@@ -4614,7 +6451,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Fester Karton (für die Herzform); Roter Karton (nicht zu dick, für die Rosen); Schere; Schnur oder dünne Kordel (zum Aufhängen); Heißklebepistole mit Klebesticks; Bleistift"
+  "material": "Fester Karton (für die Herzform); Roter Karton (nicht zu dick, für die Rosen); Schere; Schnur oder dünne Kordel (zum Aufhängen); Heißklebepistole mit Klebesticks; Bleistift",
+  "zubehoer": [
+   "stifte",
+   "schere",
+   "karton",
+   "wolle",
+   "heisskleber"
+  ]
  },
  {
   "id": "tk-955",
@@ -4628,7 +6472,13 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Eine große Kastanie für den Körper des Schafes; Eine Eichel oder kleine Kastanie für den Kopf; Zweige für die Beine; Watte für das Volumen (Wolle des Schafes); Kleber (vorzugsweise…"
+  "material": "Eine große Kastanie für den Körper des Schafes; Eine Eichel oder kleine Kastanie für den Kopf; Zweige für die Beine; Watte für das Volumen (Wolle des Schafes); Kleber (vorzugsweise…",
+  "zubehoer": [
+   "kleber",
+   "wolle",
+   "watte",
+   "natur"
+  ]
  },
  {
   "id": "tk-4134",
@@ -4642,7 +6492,13 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Eine leere Plastikflasche (am besten eine rundliche Form); Watte oder Synthetikwatte; Eine kleine Lichterkette oder ein LED-Licht mit Batterien; Schwarzer Karton (für Kopf und Bein…"
+  "material": "Eine leere Plastikflasche (am besten eine rundliche Form); Watte oder Synthetikwatte; Eine kleine Lichterkette oder ein LED-Licht mit Batterien; Schwarzer Karton (für Kopf und Bein…",
+  "zubehoer": [
+   "karton",
+   "watte",
+   "glas",
+   "elektro"
+  ]
  },
  {
   "id": "tk-957",
@@ -4669,7 +6525,16 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 3,
-  "material": "Weißes Moosgummi (oder andere Farben nach Wunsch); Grünes Filzpapier für das Blatt; Silbernes Glitzerpapier für den Körper; Schere; Heißklebepistole; Holzspieß zum Formen; Haarspan…"
+  "material": "Weißes Moosgummi (oder andere Farben nach Wunsch); Grünes Filzpapier für das Blatt; Silbernes Glitzerpapier für den Körper; Schere; Heißklebepistole; Holzspieß zum Formen; Haarspan…",
+  "zubehoer": [
+   "papier",
+   "schere",
+   "glitzer",
+   "heisskleber",
+   "holzstaebe",
+   "natur",
+   "styropor"
+  ]
  },
  {
   "id": "tk-952",
@@ -4683,7 +6548,11 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Kastanie (am besten eine glatte und große wählen); Knetmasse in verschiedenen Farben (weich, damit das Kind leicht damit arbeiten kann); Stöckchen oder Zweige (zum Verzieren oder H…"
+  "material": "Kastanie (am besten eine glatte und große wählen); Knetmasse in verschiedenen Farben (weich, damit das Kind leicht damit arbeiten kann); Stöckchen oder Zweige (zum Verzieren oder H…",
+  "zubehoer": [
+   "knete",
+   "natur"
+  ]
  },
  {
   "id": "tk-2415",
@@ -4697,7 +6566,17 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Buntes Papier; Weißes Papier (für die Schneemänner); Kleber; Bunte Marker; Faden; Schere; Zirkel oder runde Schablone; Bleistift"
+  "material": "Buntes Papier; Weißes Papier (für die Schneemänner); Kleber; Bunte Marker; Faden; Schere; Zirkel oder runde Schablone; Bleistift",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "schere",
+   "kleber",
+   "buntpapier",
+   "wolle",
+   "zirkel"
+  ]
  },
  {
   "id": "tk-950",
@@ -4711,7 +6590,17 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Weißes und farbiges Papier (rot, schwarz, gelb); Schere; Klebestift; Lineal und Bleistift; Schnur oder Faden zum Aufhängen des Schmucks; Schwarzer Filzstift zum Zeichnen von Detail…"
+  "material": "Weißes und farbiges Papier (rot, schwarz, gelb); Schere; Klebestift; Lineal und Bleistift; Schnur oder Faden zum Aufhängen des Schmucks; Schwarzer Filzstift zum Zeichnen von Detail…",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "schere",
+   "kleber",
+   "lineal",
+   "buntpapier",
+   "wolle"
+  ]
  },
  {
   "id": "tk-898",
@@ -4725,7 +6614,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Eine Nuss (am besten eignet sich eine Walnuss) – als Basis für den Schneemann; Weiße Farbe – um die \"Schnee\"-Farbe zu erzeugen; Pinsel oder Schwamm – zum Auftragen der Farbe; Farbi…"
+  "material": "Eine Nuss (am besten eignet sich eine Walnuss) – als Basis für den Schneemann; Weiße Farbe – um die \"Schnee\"-Farbe zu erzeugen; Pinsel oder Schwamm – zum Auftragen der Farbe; Farbi…",
+  "zubehoer": [
+   "farbe"
+  ]
  },
  {
   "id": "tk-13507",
@@ -4739,7 +6631,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Buntes Papier; Schere; Bleistift; Bastelkleber"
+  "material": "Buntes Papier; Schere; Bleistift; Bastelkleber",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "schere",
+   "kleber",
+   "buntpapier"
+  ]
  },
  {
   "id": "tk-4131",
@@ -4753,7 +6652,15 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Farbiges Papier (für den Umschlag und die Innenseiten); Schere; Kleber; Fotos von dir und deiner Mama/Oma; Dekorationsmaterial (Glitzer, Aufkleber, Stempel); Bänder oder Schleifen;…"
+  "material": "Farbiges Papier (für den Umschlag und die Innenseiten); Schere; Kleber; Fotos von dir und deiner Mama/Oma; Dekorationsmaterial (Glitzer, Aufkleber, Stempel); Bänder oder Schleifen;…",
+  "zubehoer": [
+   "papier",
+   "schere",
+   "kleber",
+   "buntpapier",
+   "wolle",
+   "glitzer"
+  ]
  },
  {
   "id": "tk-896",
@@ -4780,7 +6687,15 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Weißes Papier; Buntstifte oder Marker (grün, schwarz, braun, weiß); Klebeband (durchsichtiges Paketband funktioniert am besten); Schere; Watte oder Füllmaterial; Optional: schwarze…"
+  "material": "Weißes Papier; Buntstifte oder Marker (grün, schwarz, braun, weiß); Klebeband (durchsichtiges Paketband funktioniert am besten); Schere; Watte oder Füllmaterial; Optional: schwarze…",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "schere",
+   "klebeband",
+   "watte"
+  ]
  },
  {
   "id": "tk-4595",
@@ -4794,7 +6709,16 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Weißes Papier oder Karton; Bleistift; Farbiger Filzstift (schwarz); Wasserfarben oder Aquarellfarben; Pinsel; Schere; Klebestift; Evtl. Fineliner für Details und Text"
+  "material": "Weißes Papier oder Karton; Bleistift; Farbiger Filzstift (schwarz); Wasserfarben oder Aquarellfarben; Pinsel; Schere; Klebestift; Evtl. Fineliner für Details und Text",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "schere",
+   "kleber",
+   "karton",
+   "farbe"
+  ]
  },
  {
   "id": "tk-4144",
@@ -4808,7 +6732,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Ein Paar Socken (blau und weiß eignen sich gut); Reis (oder andere Füllmaterialien wie Linsen oder Bohnen); Schönes Band für die Schleife; Schere; Kleber; Dünne Schnur oder Faden; …"
+  "material": "Ein Paar Socken (blau und weiß eignen sich gut); Reis (oder andere Füllmaterialien wie Linsen oder Bohnen); Schönes Band für die Schleife; Schere; Kleber; Dünne Schnur oder Faden; …",
+  "zubehoer": [
+   "schere",
+   "kleber",
+   "wolle"
+  ]
  },
  {
   "id": "tk-956",
@@ -4822,7 +6751,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Zwei Kastanien: eine große für den Körper und eine kleine für den Kopf; Acht dünne Zweige für die Beine; Zapfen, Eicheln, Blätter und andere Naturelemente zur Dekoration"
+  "material": "Zwei Kastanien: eine große für den Körper und eine kleine für den Kopf; Acht dünne Zweige für die Beine; Zapfen, Eicheln, Blätter und andere Naturelemente zur Dekoration",
+  "zubehoer": [
+   "natur"
+  ]
  },
  {
   "id": "tk-7842",
@@ -4836,7 +6768,13 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Quadratisches Papier (oder A4-Papier zum Zuschneiden); Schere; Schwarzer Stift oder Marker zum Verzieren; Geduld und Konzentration"
+  "material": "Quadratisches Papier (oder A4-Papier zum Zuschneiden); Schere; Schwarzer Stift oder Marker zum Verzieren; Geduld und Konzentration",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "schere"
+  ]
  },
  {
   "id": "tk-4152",
@@ -4850,7 +6788,11 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Quadratisches Papier in deiner Lieblingsfarbe; Filzstift zum Zeichnen der Augen und des Lächelns"
+  "material": "Quadratisches Papier in deiner Lieblingsfarbe; Filzstift zum Zeichnen der Augen und des Lächelns",
+  "zubehoer": [
+   "papier",
+   "filzstifte"
+  ]
  },
  {
   "id": "tk-893",
@@ -4864,7 +6806,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Karton (kann Verpackungskarton sein); Bindfaden oder Juteschnur zum Umwickeln; Schere; Heißkleber; Farben (weiß oder eine andere Farbe deiner Wahl); Dekorative Elemente: Tannenzapf…"
+  "material": "Karton (kann Verpackungskarton sein); Bindfaden oder Juteschnur zum Umwickeln; Schere; Heißkleber; Farben (weiß oder eine andere Farbe deiner Wahl); Dekorative Elemente: Tannenzapf…",
+  "zubehoer": [
+   "schere",
+   "kleber",
+   "karton",
+   "wolle",
+   "heisskleber"
+  ]
  },
  {
   "id": "tk-13493",
@@ -4878,7 +6827,17 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "1 Streichholzschachtel; 2 Holzstäbchen (z. B. Schaschlikspieße); Kleber; Schere; Klebeband; Cutter (Vorsicht! Lass dir hier von einem Erwachsenen helfen!); 2 Blatt Papier: ein weiß…"
+  "material": "1 Streichholzschachtel; 2 Holzstäbchen (z. B. Schaschlikspieße); Kleber; Schere; Klebeband; Cutter (Vorsicht! Lass dir hier von einem Erwachsenen helfen!); 2 Blatt Papier: ein weiß…",
+  "zubehoer": [
+   "papier",
+   "schere",
+   "kleber",
+   "klebeband",
+   "holzstaebe",
+   "cutter",
+   "dosen",
+   "kerze"
+  ]
  },
  {
   "id": "tk-13508",
@@ -4892,7 +6851,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Ein Blatt Papier (A4); Schere; Bastelkleber"
+  "material": "Ein Blatt Papier (A4); Schere; Bastelkleber",
+  "zubehoer": [
+   "papier",
+   "schere",
+   "kleber"
+  ]
  },
  {
   "id": "tk-13504",
@@ -4906,7 +6870,16 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Buntes Papier (verschiedene Farben); Schere; Bleistift; Bastelkleber; Deko-Steinchen oder kleine Perlen für die Blütenmitte"
+  "material": "Buntes Papier (verschiedene Farben); Schere; Bleistift; Bastelkleber; Deko-Steinchen oder kleine Perlen für die Blütenmitte",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "schere",
+   "kleber",
+   "buntpapier",
+   "perlen",
+   "glitzer"
+  ]
  },
  {
   "id": "tk-897",
@@ -4933,7 +6906,17 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Pappe; Lineal; Bleistift; Schere; Bindfaden (dünne Schnur); Wolle; Kleber (am besten eine Heißklebepistole); Dekoelemente: Perlen, Bänder, kleine Schmuckstücke"
+  "material": "Pappe; Lineal; Bleistift; Schere; Bindfaden (dünne Schnur); Wolle; Kleber (am besten eine Heißklebepistole); Dekoelemente: Perlen, Bänder, kleine Schmuckstücke",
+  "zubehoer": [
+   "stifte",
+   "schere",
+   "kleber",
+   "lineal",
+   "karton",
+   "wolle",
+   "perlen",
+   "heisskleber"
+  ]
  },
  {
   "id": "tk-2417",
@@ -4947,7 +6930,15 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Tonkarton (grün und weiß); Buntes Papier; Kleber; Schere; Filzstifte oder Buntstifte"
+  "material": "Tonkarton (grün und weiß); Buntes Papier; Kleber; Schere; Filzstifte oder Buntstifte",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "schere",
+   "kleber",
+   "buntpapier"
+  ]
  },
  {
   "id": "tk-4130",
@@ -4961,7 +6952,16 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Farbiges Papier (für die Teekanne und Nachricht); Lineal; Schere; Bleistift; Filzstifte oder Buntstifte; Kleber"
+  "material": "Farbiges Papier (für die Teekanne und Nachricht); Lineal; Schere; Bleistift; Filzstifte oder Buntstifte; Kleber",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "schere",
+   "kleber",
+   "lineal",
+   "buntpapier"
+  ]
  },
  {
   "id": "tk-3934",
@@ -4975,7 +6975,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Ein Blatt Papier (bunte Papiere wie auf dem Foto machen den Flieger besonders attraktiv); Optional: Filzstifte zum Verzieren"
+  "material": "Ein Blatt Papier (bunte Papiere wie auf dem Foto machen den Flieger besonders attraktiv); Optional: Filzstifte zum Verzieren",
+  "zubehoer": [
+   "papier",
+   "filzstifte",
+   "buntpapier"
+  ]
  },
  {
   "id": "tk-13510",
@@ -4989,7 +6994,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Ein Blatt Papier (A4); Schere; Bastelkleber"
+  "material": "Ein Blatt Papier (A4); Schere; Bastelkleber",
+  "zubehoer": [
+   "papier",
+   "schere",
+   "kleber"
+  ]
  },
  {
   "id": "tk-13462",
@@ -5003,7 +7013,15 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Farbiges Papier (zwei kontrastreiche Farben wirken am besten); Schere; Klebestift; Lineal; Bleistift"
+  "material": "Farbiges Papier (zwei kontrastreiche Farben wirken am besten); Schere; Klebestift; Lineal; Bleistift",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "schere",
+   "kleber",
+   "lineal",
+   "buntpapier"
+  ]
  },
  {
   "id": "tk-3470",
@@ -5017,7 +7035,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Buntes Papier; Einen Stift; Eine Schere; Kleber; Deine kreativsten Ideen!"
+  "material": "Buntes Papier; Einen Stift; Eine Schere; Kleber; Deine kreativsten Ideen!",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "schere",
+   "kleber",
+   "buntpapier"
+  ]
  },
  {
   "id": "tk-941",
@@ -5031,7 +7056,16 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Buntes Papier (grün, gelb, schwarz); Ein weißes Blatt als Grundlage; Schere; Klebestift; Lineal; Marker oder Buntstifte zum Gestalten"
+  "material": "Buntes Papier (grün, gelb, schwarz); Ein weißes Blatt als Grundlage; Schere; Klebestift; Lineal; Marker oder Buntstifte zum Gestalten",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "schere",
+   "kleber",
+   "lineal",
+   "buntpapier"
+  ]
  },
  {
   "id": "tk-13461",
@@ -5045,7 +7079,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Buntes Papier; Klebestift; Lineal; Stift"
+  "material": "Buntes Papier; Klebestift; Lineal; Stift",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "kleber",
+   "lineal",
+   "buntpapier"
+  ]
  },
  {
   "id": "tk-3500",
@@ -5072,7 +7113,15 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Wolle in verschiedenen Farben (auf dem Foto: rosa, hellblau und lila); Filz oder Bastelkarton in rot (für den Schnabel); Wackelaugen oder schwarze Knöpfe für die Augen; Schere; Hei…"
+  "material": "Wolle in verschiedenen Farben (auf dem Foto: rosa, hellblau und lila); Filz oder Bastelkarton in rot (für den Schnabel); Wackelaugen oder schwarze Knöpfe für die Augen; Schere; Hei…",
+  "zubehoer": [
+   "schere",
+   "karton",
+   "wolle",
+   "wackelaugen",
+   "kleinkram",
+   "styropor"
+  ]
  },
  {
   "id": "tk-13501",
@@ -5086,7 +7135,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Ein rechteckiges Blatt Papier; Eine Schere; Einen Bleistift"
+  "material": "Ein rechteckiges Blatt Papier; Eine Schere; Einen Bleistift",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "schere"
+  ]
  },
  {
   "id": "tk-1154",
@@ -5100,7 +7154,16 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 3,
-  "material": "Karton; Styropor; Farben (Acryl oder Gouache); Dekorspachtel oder Acrylfarbe; Servietten für Decoupage; Pinsel; Heißklebepistole; Schere oder Cutter"
+  "material": "Karton; Styropor; Farben (Acryl oder Gouache); Dekorspachtel oder Acrylfarbe; Servietten für Decoupage; Pinsel; Heißklebepistole; Schere oder Cutter",
+  "zubehoer": [
+   "schere",
+   "karton",
+   "farbe",
+   "heisskleber",
+   "cutter",
+   "kaffeefilter",
+   "styropor"
+  ]
  },
  {
   "id": "tk-894",
@@ -5114,7 +7177,15 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 3,
-  "material": "Styroporkugel; Schnur; Kleber; Spitze; Schere; Dekorative Elemente (Perlen, Pailletten)"
+  "material": "Styroporkugel; Schnur; Kleber; Spitze; Schere; Dekorative Elemente (Perlen, Pailletten)",
+  "zubehoer": [
+   "schere",
+   "kleber",
+   "wolle",
+   "perlen",
+   "glitzer",
+   "styropor"
+  ]
  },
  {
   "id": "tk-938",
@@ -5141,7 +7212,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Papier"
+  "material": "Papier",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "tk-3932",
@@ -5155,7 +7229,11 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Ein Blatt Papier (am besten normales Druckerpapier in A4-Format); Optional: Büroklammern zum Austarieren"
+  "material": "Ein Blatt Papier (am besten normales Druckerpapier in A4-Format); Optional: Büroklammern zum Austarieren",
+  "zubehoer": [
+   "papier",
+   "klammern"
+  ]
  },
  {
   "id": "tk-4147",
@@ -5169,7 +7247,11 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "1 Blatt Druckerpapier; Ein Lineal (optional zum Nachziehen); Geduld – für ein echtes Weltmeister-Modell!"
+  "material": "1 Blatt Druckerpapier; Ein Lineal (optional zum Nachziehen); Geduld – für ein echtes Weltmeister-Modell!",
+  "zubehoer": [
+   "papier",
+   "lineal"
+  ]
  },
  {
   "id": "tk-4159",
@@ -5183,7 +7265,15 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Farbiges Papier (rosa und grün oder andere Farben nach Wunsch); Schere; Heißklebepistole; Holzspieß für den Stiel; Kleber"
+  "material": "Farbiges Papier (rosa und grün oder andere Farben nach Wunsch); Schere; Heißklebepistole; Holzspieß für den Stiel; Kleber",
+  "zubehoer": [
+   "papier",
+   "schere",
+   "kleber",
+   "buntpapier",
+   "heisskleber",
+   "holzstaebe"
+  ]
  },
  {
   "id": "tk-4335",
@@ -5197,7 +7287,16 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Blaues Papier oder Bastelkarton; Weißes Papier oder Bastelkarton; Gelbes Papier (für die Alternative); Schere; Bleistift; Filzstifte oder Marker in verschiedenen Farben; Lineal; Kl…"
+  "material": "Blaues Papier oder Bastelkarton; Weißes Papier oder Bastelkarton; Gelbes Papier (für die Alternative); Schere; Bleistift; Filzstifte oder Marker in verschiedenen Farben; Lineal; Kl…",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "schere",
+   "lineal",
+   "buntpapier",
+   "karton"
+  ]
  },
  {
   "id": "tk-3469",
@@ -5211,7 +7310,15 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Buntes Papier in verschiedenen Farben; Einen Stift; Einen Bleistift; Eine Schere; Kleber; Ein Lineal; Kreative Ideen für die Gestaltung"
+  "material": "Buntes Papier in verschiedenen Farben; Einen Stift; Einen Bleistift; Eine Schere; Kleber; Ein Lineal; Kreative Ideen für die Gestaltung",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "schere",
+   "kleber",
+   "lineal",
+   "buntpapier"
+  ]
  },
  {
   "id": "ksw-affe",
@@ -5223,7 +7330,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "ein leerer Joghurtbecher oder Pappbecher braunes Krepppapier, eine braune Serviette oder braune Farbe brauner Fotokarton rosaner bzw. pinker Fotokarton ein schwarzer, dünner Stift …"
+  "material": "ein leerer Joghurtbecher oder Pappbecher braunes Krepppapier, eine braune Serviette oder braune Farbe brauner Fotokarton rosaner bzw. pinker Fotokarton ein schwarzer, dünner Stift …",
+  "zubehoer": [
+   "stifte",
+   "buntpapier",
+   "krepp",
+   "becher",
+   "kaffeefilter"
+  ]
  },
  {
   "id": "ksw-alle-voegel-fliegen-hoch",
@@ -5235,7 +7349,8 @@ const IDEEN = [
   "material": "Kein Material nötig",
   "art": "Spiel",
   "ort": "drinnen",
-  "materialStufe": 0
+  "materialStufe": 0,
+  "zubehoer": []
  },
  {
   "id": "ksw-apfel-basteln",
@@ -5247,7 +7362,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "roten Fotokarton braunen Fotokarton grünen Fotokarton"
+  "material": "roten Fotokarton braunen Fotokarton grünen Fotokarton",
+  "zubehoer": [
+   "buntpapier"
+  ]
  },
  {
   "id": "ksw-apfel-flechten",
@@ -5259,7 +7377,13 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Roter Fotokarton für den Apfel Grüner Fotokarton für das Blatt Brauner Fotokarton für den Stiel verschiedene Flechtstreifen oder Bastelpapierstreifen in Apfelfarben Cuttermesser od…"
+  "material": "Roter Fotokarton für den Apfel Grüner Fotokarton für das Blatt Brauner Fotokarton für den Stiel verschiedene Flechtstreifen oder Bastelpapierstreifen in Apfelfarben Cuttermesser od…",
+  "zubehoer": [
+   "papier",
+   "buntpapier",
+   "cutter",
+   "huetchen"
+  ]
  },
  {
   "id": "ksw-apfel-mit-transparentpapier",
@@ -5271,7 +7395,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Roter Fotokarton für den Apfel Grüner Fotokarton für das Blatt Brauner Fotokarton für den Stiel weißes Transparentpapier Transparentpapier in Apfelfarben"
+  "material": "Roter Fotokarton für den Apfel Grüner Fotokarton für das Blatt Brauner Fotokarton für den Stiel weißes Transparentpapier Transparentpapier in Apfelfarben",
+  "zubehoer": [
+   "papier",
+   "buntpapier",
+   "krepp"
+  ]
  },
  {
   "id": "ksw-apfel-mit-wurm",
@@ -5283,7 +7412,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Roter Fotokarton Brauner Fotokarton Grüner Fotokarton"
+  "material": "Roter Fotokarton Brauner Fotokarton Grüner Fotokarton",
+  "zubehoer": [
+   "buntpapier"
+  ]
  },
  {
   "id": "ksw-apfel-und-birne-basteln-mit-papier-und-wolle",
@@ -5295,7 +7427,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Roter Fotokarton für den Apfel Gelber Fotokarton für die Birne Grüner Fotokarton Braune Pfeifenputzer bzw. Biegeplüsch Rote Wolle für den Apfel Gelbe Wolle für die Birne"
+  "material": "Roter Fotokarton für den Apfel Gelber Fotokarton für die Birne Grüner Fotokarton Braune Pfeifenputzer bzw. Biegeplüsch Rote Wolle für den Apfel Gelbe Wolle für die Birne",
+  "zubehoer": [
+   "buntpapier",
+   "wolle",
+   "pfeifenputzer"
+  ]
  },
  {
   "id": "ksw-apfellampe-basteln",
@@ -5307,7 +7444,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Frühstücksbeutel bzw. Butterbrottüten Küchenpapier ein Apfel ein Küchenmesser Wasserfarbe, Fingerfarbe oder Abtönfarbe ein Trinkglas oder Babynahrungsgläschen ein Teelicht"
+  "material": "Frühstücksbeutel bzw. Butterbrottüten Küchenpapier ein Apfel ein Küchenmesser Wasserfarbe, Fingerfarbe oder Abtönfarbe ein Trinkglas oder Babynahrungsgläschen ein Teelicht",
+  "zubehoer": [
+   "farbe",
+   "glas",
+   "kaffeefilter"
+  ]
  },
  {
   "id": "ksw-armer-schwarzer-kater",
@@ -5319,7 +7461,8 @@ const IDEEN = [
   "material": "Kein Material nötig",
   "art": "Spiel",
   "ort": "drinnen",
-  "materialStufe": 0
+  "materialStufe": 0,
+  "zubehoer": []
  },
  {
   "id": "ksw-ballfangen",
@@ -5331,7 +7474,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "draußen",
   "materialStufe": 1,
-  "material": "ein Ball"
+  "material": "ein Ball",
+  "zubehoer": [
+   "ball"
+  ]
  },
  {
   "id": "ksw-ballhuepfspiel",
@@ -5343,7 +7489,15 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "beides",
   "materialStufe": 1,
-  "material": "zwei Bälle zwei Wendepunkte (z.B. ein Wassereimer, Stuhl oder ein Verkehrshütchen/ Pylon) eine markierte Startlinie (z.B. mit Kreide gemalt oder mit Kreppband aufgeklebt)"
+  "material": "zwei Bälle zwei Wendepunkte (z.B. ein Wassereimer, Stuhl oder ein Verkehrshütchen/ Pylon) eine markierte Startlinie (z.B. mit Kreide gemalt oder mit Kreppband aufgeklebt)",
+  "zubehoer": [
+   "klebeband",
+   "ball",
+   "stuehle",
+   "kreide",
+   "huetchen",
+   "eimer"
+  ]
  },
  {
   "id": "ksw-ballonkoenig",
@@ -5355,7 +7509,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "zwei Luftballons zwei Jogging- oder Schlafanzughosen zwei längere Jacken oder Mäntel"
+  "material": "zwei Luftballons zwei Jogging- oder Schlafanzughosen zwei längere Jacken oder Mäntel",
+  "zubehoer": [
+   "ballon"
+  ]
  },
  {
   "id": "ksw-ballontanz",
@@ -5367,7 +7524,11 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Luftballons Musik"
+  "material": "Luftballons Musik",
+  "zubehoer": [
+   "ballon",
+   "musik"
+  ]
  },
  {
   "id": "ksw-ballontausch",
@@ -5379,7 +7540,14 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "mehrere verschiedenfarbige Luftballons Musik ein Tuch/ einen Schal als Augenbinde ein Blatt Papier ein Stift"
+  "material": "mehrere verschiedenfarbige Luftballons Musik ein Tuch/ einen Schal als Augenbinde ein Blatt Papier ein Stift",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "ballon",
+   "tuch",
+   "musik"
+  ]
  },
  {
   "id": "ksw-ballrollen",
@@ -5391,7 +7559,15 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "beides",
   "materialStufe": 1,
-  "material": "zwei Bälle zwei Wendepunkte (z.B. ein Wassereimer, Stuhl oder ein Verkehrshütchen/ Pylon) eine markierte Startlinie (z.B. mit Kreide gemalt oder mit Kreppband aufgeklebt)"
+  "material": "zwei Bälle zwei Wendepunkte (z.B. ein Wassereimer, Stuhl oder ein Verkehrshütchen/ Pylon) eine markierte Startlinie (z.B. mit Kreide gemalt oder mit Kreppband aufgeklebt)",
+  "zubehoer": [
+   "klebeband",
+   "ball",
+   "stuehle",
+   "kreide",
+   "huetchen",
+   "eimer"
+  ]
  },
  {
   "id": "ksw-basteln-mit-kastanien",
@@ -5404,7 +7580,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Kastanien evtl. Eicheln oder rote Beeren Zahnstocher evtl. eine Heißklebepistole ein kleiner Handbohrer bzw. Schnellbohrer"
+  "material": "Kastanien evtl. Eicheln oder rote Beeren Zahnstocher evtl. eine Heißklebepistole ein kleiner Handbohrer bzw. Schnellbohrer",
+  "zubehoer": [
+   "heisskleber",
+   "holzstaebe",
+   "natur"
+  ]
  },
  {
   "id": "ksw-basteln-mit-papptellern",
@@ -5428,7 +7609,13 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "weiße Filtertüten Wasserfarben grüne Trinkhalme grüner Fotokarton Nähgarn zur Aufhängung schwere Bücher oder Kataloge zum Pressen"
+  "material": "weiße Filtertüten Wasserfarben grüne Trinkhalme grüner Fotokarton Nähgarn zur Aufhängung schwere Bücher oder Kataloge zum Pressen",
+  "zubehoer": [
+   "buntpapier",
+   "farbe",
+   "wolle",
+   "strohhalm"
+  ]
  },
  {
   "id": "ksw-bello-dein-knochen-ist-weg",
@@ -5440,7 +7627,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "ein Bauklotz o.ä. als Knochen"
+  "material": "ein Bauklotz o.ä. als Knochen",
+  "zubehoer": [
+   "kleinkram"
+  ]
  },
  {
   "id": "ksw-berufe-raten",
@@ -5452,7 +7642,8 @@ const IDEEN = [
   "material": "Kein Material nötig",
   "art": "Spiel",
   "ort": "drinnen",
-  "materialStufe": 0
+  "materialStufe": 0,
+  "zubehoer": []
  },
  {
   "id": "ksw-besenmarsch",
@@ -5464,7 +7655,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "ein Besen (z.B. Zimmerbesen oder weicher Straßenbesen) ein Stuhl pro Mitspieler"
+  "material": "ein Besen (z.B. Zimmerbesen oder weicher Straßenbesen) ein Stuhl pro Mitspieler",
+  "zubehoer": [
+   "stuehle"
+  ]
  },
  {
   "id": "ksw-bewegungsspiele-fuer-kinder",
@@ -5489,7 +7683,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "schwarz-gelb gestreifter Fotokarton oder gelber Fotokarton schwarzer Fotokarton weiße Strohseide, Architekten- oder Transparentpapier schwarzer Biegeplüsch bzw. Pfeiffenputzern gel…"
+  "material": "schwarz-gelb gestreifter Fotokarton oder gelber Fotokarton schwarzer Fotokarton weiße Strohseide, Architekten- oder Transparentpapier schwarzer Biegeplüsch bzw. Pfeiffenputzern gel…",
+  "zubehoer": [
+   "buntpapier",
+   "pfeifenputzer",
+   "krepp"
+  ]
  },
  {
   "id": "ksw-bienen-basteln",
@@ -5501,7 +7700,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "leere Klopapierrollen gelbe und schwarze Bastelfarbe weißes Transparentpapier oder Architektenpapier schwarze Pfeifenputzer"
+  "material": "leere Klopapierrollen gelbe und schwarze Bastelfarbe weißes Transparentpapier oder Architektenpapier schwarze Pfeifenputzer",
+  "zubehoer": [
+   "papier",
+   "rollen",
+   "farbe",
+   "pfeifenputzer",
+   "krepp"
+  ]
  },
  {
   "id": "ksw-blindekuh-partyspiele",
@@ -5513,7 +7719,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "eine Augenbinde oder ein Tuch/ Schal um die Augen zu verbinden"
+  "material": "eine Augenbinde oder ein Tuch/ Schal um die Augen zu verbinden",
+  "zubehoer": [
+   "tuch"
+  ]
  },
  {
   "id": "ksw-blume-basteln",
@@ -5525,7 +7734,11 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "farbiger Fotokarton gelbes Seiden- oder Krepppapier"
+  "material": "farbiger Fotokarton gelbes Seiden- oder Krepppapier",
+  "zubehoer": [
+   "buntpapier",
+   "krepp"
+  ]
  },
  {
   "id": "ksw-blumen-aus-klorollen-basteln",
@@ -5537,7 +7750,13 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "leere Klorollen bunte Bastelfarbe gelbes Krepppapier Holzstäbe grüne Bastelfarbe evtl. grüner Fotokarton"
+  "material": "leere Klorollen bunte Bastelfarbe gelbes Krepppapier Holzstäbe grüne Bastelfarbe evtl. grüner Fotokarton",
+  "zubehoer": [
+   "buntpapier",
+   "farbe",
+   "krepp",
+   "holzstaebe"
+  ]
  },
  {
   "id": "ksw-blumen-basteln",
@@ -5550,7 +7769,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "farbiger Fotokarton gelber Fotokarton"
+  "material": "farbiger Fotokarton gelber Fotokarton",
+  "zubehoer": [
+   "buntpapier"
+  ]
  },
  {
   "id": "ksw-blumen-falten",
@@ -5563,7 +7785,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "farbiges Faltpapier oder buntes Tonpapier gelbes Tonpapier oder Fotokarton"
+  "material": "farbiges Faltpapier oder buntes Tonpapier gelbes Tonpapier oder Fotokarton",
+  "zubehoer": [
+   "papier",
+   "buntpapier",
+   "faltpapier"
+  ]
  },
  {
   "id": "ksw-brezeln-essen-partyspiele",
@@ -5575,7 +7802,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "beides",
   "materialStufe": 1,
-  "material": "eine lange Schnur eine Brezel pro Mitspieler"
+  "material": "eine lange Schnur eine Brezel pro Mitspieler",
+  "zubehoer": [
+   "wolle"
+  ]
  },
  {
   "id": "ksw-clown-aus-papier-basteln",
@@ -5587,7 +7817,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Hautfarbener Fotokarton (teint) Weißer Fotokarton Roter Fotokarton Buntes Tonpapier oder buntes Druckerpapier Schwarzer Edding-Benzinstift Rouge oder Ähnliches für die roten Backen…"
+  "material": "Hautfarbener Fotokarton (teint) Weißer Fotokarton Roter Fotokarton Buntes Tonpapier oder buntes Druckerpapier Schwarzer Edding-Benzinstift Rouge oder Ähnliches für die roten Backen…",
+  "zubehoer": [
+   "papier",
+   "filzstifte",
+   "buntpapier"
+  ]
  },
  {
   "id": "ksw-cowboy-basteln",
@@ -5600,7 +7835,11 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Hautfarbener Fotokarton (teint) Brauner Fotokarton Schwarzer Fotokarton bunte Holzstifte Nähgarn Nähnadel"
+  "material": "Hautfarbener Fotokarton (teint) Brauner Fotokarton Schwarzer Fotokarton bunte Holzstifte Nähgarn Nähnadel",
+  "zubehoer": [
+   "buntpapier",
+   "wolle"
+  ]
  },
  {
   "id": "ksw-das-prell-quiz",
@@ -5612,7 +7851,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "draußen",
   "materialStufe": 1,
-  "material": "ein Ball"
+  "material": "ein Ball",
+  "zubehoer": [
+   "ball"
+  ]
  },
  {
   "id": "ksw-ameisenbaer",
@@ -5624,7 +7866,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "einen Stuhl oder ein Kissen für jedes Kind als Sitzplatz"
+  "material": "einen Stuhl oder ein Kissen für jedes Kind als Sitzplatz",
+  "zubehoer": [
+   "stuehle"
+  ]
  },
  {
   "id": "ksw-der-baer-ist-los",
@@ -5636,7 +7881,8 @@ const IDEEN = [
   "material": "Kein Material nötig",
   "art": "Spiel",
   "ort": "draußen",
-  "materialStufe": 0
+  "materialStufe": 0,
+  "zubehoer": []
  },
  {
   "id": "ksw-der-elektrische-knopf",
@@ -5648,7 +7894,11 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Viele Knöpfe oder ähnliches wie Steinchen, Geldtücke, Legosteine ,etc."
+  "material": "Viele Knöpfe oder ähnliches wie Steinchen, Geldtücke, Legosteine ,etc.",
+  "zubehoer": [
+   "kleinkram",
+   "natur"
+  ]
  },
  {
   "id": "ksw-der-grimmige-koenig",
@@ -5671,7 +7921,8 @@ const IDEEN = [
   "material": "Kein Material nötig",
   "art": "Spiel",
   "ort": "draußen",
-  "materialStufe": 0
+  "materialStufe": 0,
+  "zubehoer": []
  },
  {
   "id": "ksw-der-zauberer",
@@ -5683,7 +7934,8 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "draußen",
   "materialStufe": 1,
-  "material": "ein Zauberstab oder ähnliches"
+  "material": "ein Zauberstab oder ähnliches",
+  "zubehoer": []
  },
  {
   "id": "ksw-detektivspiele",
@@ -5707,7 +7959,11 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "weißer Fotokarton ein schwarzer Stift"
+  "material": "weißer Fotokarton ein schwarzer Stift",
+  "zubehoer": [
+   "stifte",
+   "buntpapier"
+  ]
  },
  {
   "id": "ksw-dinosaurier-basteln",
@@ -5719,7 +7975,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "bunter Fotokarton bunte Holzstifte"
+  "material": "bunter Fotokarton bunte Holzstifte",
+  "zubehoer": [
+   "buntpapier"
+  ]
  },
  {
   "id": "ksw-dosenlauf",
@@ -5731,7 +7990,12 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "draußen",
   "materialStufe": 1,
-  "material": "sechs Blechdosen/ leere Konservendosen eine markierte Startlinie und eine Ziellinie (z.B. mit Kreide gemalt oder mit Kreppband aufgeklebt)"
+  "material": "sechs Blechdosen/ leere Konservendosen eine markierte Startlinie und eine Ziellinie (z.B. mit Kreide gemalt oder mit Kreppband aufgeklebt)",
+  "zubehoer": [
+   "klebeband",
+   "dosen",
+   "kreide"
+  ]
  },
  {
   "id": "ksw-drache-basteln",
@@ -5744,7 +8008,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "gemusterter Fotokarton bunter Fotokarton oder Tonpapier (hier: in pink) farbiges Krepppapier weiße Schnur oder Wolle ein schwarzer Filzstift oder Benzinstift"
+  "material": "gemusterter Fotokarton bunter Fotokarton oder Tonpapier (hier: in pink) farbiges Krepppapier weiße Schnur oder Wolle ein schwarzer Filzstift oder Benzinstift",
+  "zubehoer": [
+   "papier",
+   "filzstifte",
+   "buntpapier",
+   "wolle",
+   "krepp"
+  ]
  },
  {
   "id": "ksw-drachen-aus-papier",
@@ -5757,7 +8028,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "bunter Fotokarton (hier: lila) buntes Transparentpapier weiße Schnur oder Wolle"
+  "material": "bunter Fotokarton (hier: lila) buntes Transparentpapier weiße Schnur oder Wolle",
+  "zubehoer": [
+   "buntpapier",
+   "wolle",
+   "krepp"
+  ]
  },
  {
   "id": "ksw-drachen-basteln",
@@ -5769,7 +8045,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "ein DINA4-Papier (bunt oder weiß) Draht stabile Drachenschnur oder dünnes Garn ein Stöckchen Tesafilm Krepppapier"
+  "material": "ein DINA4-Papier (bunt oder weiß) Draht stabile Drachenschnur oder dünnes Garn ein Stöckchen Tesafilm Krepppapier",
+  "zubehoer": [
+   "papier",
+   "klebeband",
+   "wolle",
+   "krepp",
+   "elektro"
+  ]
  },
  {
   "id": "ksw-dreibeinlauf",
@@ -5781,7 +8064,11 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "draußen",
   "materialStufe": 1,
-  "material": "Schnur oder Seile"
+  "material": "Schnur oder Seile",
+  "zubehoer": [
+   "wolle",
+   "huetchen"
+  ]
  },
  {
   "id": "ksw-drunter-und-drueber",
@@ -5793,7 +8080,13 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "beides",
   "materialStufe": 1,
-  "material": "eine markierte Startlinie (z.B. mit Kreide gemalt oder mit Kreppband aufgeklebt) Tische Stühle Eimer Kisten etc."
+  "material": "eine markierte Startlinie (z.B. mit Kreide gemalt oder mit Kreppband aufgeklebt) Tische Stühle Eimer Kisten etc.",
+  "zubehoer": [
+   "klebeband",
+   "stuehle",
+   "kreide",
+   "eimer"
+  ]
  },
  {
   "id": "ksw-eier-pusten",
@@ -5805,7 +8098,13 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Eierkartons von 10 Eiern (1/2 pro Mitspieler) ein Tischtennisball für jeden Mitspieler"
+  "material": "Eierkartons von 10 Eiern (1/2 pro Mitspieler) ein Tischtennisball für jeden Mitspieler",
+  "zubehoer": [
+   "karton",
+   "dosen",
+   "ball",
+   "suess"
+  ]
  },
  {
   "id": "ksw-eierdrehen-spiel",
@@ -5817,7 +8116,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "ein hartgekochtes Ei, dessen Spitze rot bemalt wird"
+  "material": "ein hartgekochtes Ei, dessen Spitze rot bemalt wird",
+  "zubehoer": [
+   "suess"
+  ]
  },
  {
   "id": "ksw-eierlauf-spiel",
@@ -5829,7 +8131,14 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "draußen",
   "materialStufe": 1,
-  "material": "zwei Esslöffel zwei hartgekochte Eier oder Plastikeier zwei leere Wassereimer oder ähnliches als Wendepunkte ein Klebeband oder Seil zum Markieren der Start-/Ziellinie"
+  "material": "zwei Esslöffel zwei hartgekochte Eier oder Plastikeier zwei leere Wassereimer oder ähnliches als Wendepunkte ein Klebeband oder Seil zum Markieren der Start-/Ziellinie",
+  "zubehoer": [
+   "klebeband",
+   "geschirr",
+   "huetchen",
+   "eimer",
+   "suess"
+  ]
  },
  {
   "id": "ksw-eierpusten-spiel",
@@ -5841,7 +8150,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "ein Plastikei (oder wahlweise ein ausgeblasenes Ei)"
+  "material": "ein Plastikei (oder wahlweise ein ausgeblasenes Ei)",
+  "zubehoer": [
+   "suess"
+  ]
  },
  {
   "id": "ksw-eierrollen-spiel",
@@ -5853,7 +8165,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Ihr braucht dazu bunte Plastik- oder Schokoladeneier"
+  "material": "Ihr braucht dazu bunte Plastik- oder Schokoladeneier",
+  "zubehoer": [
+   "suess"
+  ]
  },
  {
   "id": "ksw-pflanzgeschichte-massage",
@@ -5865,7 +8180,8 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 0,
-  "material": "Kein Material nötig"
+  "material": "Kein Material nötig",
+  "zubehoer": []
  },
  {
   "id": "ksw-eins-zwei-drei-wer-hat-den-ball",
@@ -5877,7 +8193,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "draußen",
   "materialStufe": 1,
-  "material": "ein Ball"
+  "material": "ein Ball",
+  "zubehoer": [
+   "ball"
+  ]
  },
  {
   "id": "ksw-eisenbahn-basteln",
@@ -5889,7 +8208,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "farbiger Fotokarton"
+  "material": "farbiger Fotokarton",
+  "zubehoer": [
+   "buntpapier"
+  ]
  },
  {
   "id": "ksw-elefant-basteln",
@@ -5901,7 +8223,11 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "grauer Fotokarton weißer Fotokarton ein schwarzer Benzinstift"
+  "material": "grauer Fotokarton weißer Fotokarton ein schwarzer Benzinstift",
+  "zubehoer": [
+   "filzstifte",
+   "buntpapier"
+  ]
  },
  {
   "id": "ksw-elefant-kochloeffel-basteln",
@@ -5913,7 +8239,15 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 3,
-  "material": "ein Holzkochlöffel graue Farbe grauer Fotokarton bunte Filzstifte oder Benzinstifte Heißkleber oder Kraftkleber Edelstahl-Topfreiniger Sisalschnur oder ähnliches evtl. farbiger Fot…"
+  "material": "ein Holzkochlöffel graue Farbe grauer Fotokarton bunte Filzstifte oder Benzinstifte Heißkleber oder Kraftkleber Edelstahl-Topfreiniger Sisalschnur oder ähnliches evtl. farbiger Fot…",
+  "zubehoer": [
+   "filzstifte",
+   "kleber",
+   "buntpapier",
+   "wolle",
+   "heisskleber",
+   "geschirr"
+  ]
  },
  {
   "id": "ksw-engel-basteln",
@@ -5926,7 +8260,17 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "eine Kaffeefiltertüte aus Naturpapier braune Wellpappe hautfarbener Fotokarton dünne Filzstiften oder Fineliner Rouge Bändern oder Spitze Naturbast Draht, Wollfaden oder Garn"
+  "material": "eine Kaffeefiltertüte aus Naturpapier braune Wellpappe hautfarbener Fotokarton dünne Filzstiften oder Fineliner Rouge Bändern oder Spitze Naturbast Draht, Wollfaden oder Garn",
+  "zubehoer": [
+   "papier",
+   "filzstifte",
+   "buntpapier",
+   "karton",
+   "wolle",
+   "kaffeefilter",
+   "natur",
+   "elektro"
+  ]
  },
  {
   "id": "ksw-engel-mit-tontopf",
@@ -5938,7 +8282,16 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 3,
-  "material": "ein kleiner Tontopf Bastelfarbe Paketschnur eine größere Holzkugel als Kopf 4 kleinere Holzkugeln Bast, Sisal, Wolle, Zauberwolle oder Watte für die Haare Bastelfolie Stifte zum Au…"
+  "material": "ein kleiner Tontopf Bastelfarbe Paketschnur eine größere Holzkugel als Kopf 4 kleinere Holzkugeln Bast, Sisal, Wolle, Zauberwolle oder Watte für die Haare Bastelfolie Stifte zum Au…",
+  "zubehoer": [
+   "stifte",
+   "farbe",
+   "wolle",
+   "watte",
+   "geschirr",
+   "folie",
+   "natur"
+  ]
  },
  {
   "id": "ksw-eule-basteln",
@@ -5950,7 +8303,13 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "brauner Fotokarton hellbrauner Fotokarton weißer Fotokarton oranger Fotokarton oder Tonpapier braune Wellpappe Wackelaugen"
+  "material": "brauner Fotokarton hellbrauner Fotokarton weißer Fotokarton oranger Fotokarton oder Tonpapier braune Wellpappe Wackelaugen",
+  "zubehoer": [
+   "papier",
+   "buntpapier",
+   "karton",
+   "wackelaugen"
+  ]
  },
  {
   "id": "ksw-eulen-aus-klopapierrollen",
@@ -5962,7 +8321,13 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "leere Klopapierrollen braunes Tonpapier weißer Fotokarton oder Tonpapier oranger Fotokarton oder Tonpapier weiße Muffinförmchen aus Papier ein schwarzer Filzstift oder Benzinstift"
+  "material": "leere Klopapierrollen braunes Tonpapier weißer Fotokarton oder Tonpapier oranger Fotokarton oder Tonpapier weiße Muffinförmchen aus Papier ein schwarzer Filzstift oder Benzinstift",
+  "zubehoer": [
+   "papier",
+   "filzstifte",
+   "buntpapier",
+   "rollen"
+  ]
  },
  {
   "id": "ksw-eulen-basteln",
@@ -5975,7 +8340,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "oranger Bastelfilz gelber Bastelfilz weißer Bastelfilz ein schwarzer Filzstift oder Benzinstift weiße Wolle oder weißes Garn Watte oder Füllwatte Reisigzweige Naturbast eine spitze…"
+  "material": "oranger Bastelfilz gelber Bastelfilz weißer Bastelfilz ein schwarzer Filzstift oder Benzinstift weiße Wolle oder weißes Garn Watte oder Füllwatte Reisigzweige Naturbast eine spitze…",
+  "zubehoer": [
+   "filzstifte",
+   "wolle",
+   "watte",
+   "natur",
+   "styropor"
+  ]
  },
  {
   "id": "ksw-eulen-basteln-aus-papier",
@@ -5988,7 +8360,13 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "bunter Fotokarton gelber Fotokarton oder Tonpapier weißer Fotokarton oder Tonpapier ein schwarzer Filzstift oder Benzinstift Reisigzweige Naturbast"
+  "material": "bunter Fotokarton gelber Fotokarton oder Tonpapier weißer Fotokarton oder Tonpapier ein schwarzer Filzstift oder Benzinstift Reisigzweige Naturbast",
+  "zubehoer": [
+   "papier",
+   "filzstifte",
+   "buntpapier",
+   "natur"
+  ]
  },
  {
   "id": "ksw-eulen-handabdruck",
@@ -6000,7 +8378,13 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "weißes oder anderes Papier als Hintergrund Fingerfarbe im gewünschtem Farbton farbiger Fotokarton ein schwarzer Filzstift"
+  "material": "weißes oder anderes Papier als Hintergrund Fingerfarbe im gewünschtem Farbton farbiger Fotokarton ein schwarzer Filzstift",
+  "zubehoer": [
+   "papier",
+   "filzstifte",
+   "buntpapier",
+   "farbe"
+  ]
  },
  {
   "id": "ksw-familie-maier-im-zoo",
@@ -6012,7 +8396,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "12 Stühle"
+  "material": "12 Stühle",
+  "zubehoer": [
+   "stuehle"
+  ]
  },
  {
   "id": "ksw-feuer-wasser-sturm-und-eis",
@@ -6024,7 +8411,8 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "beides",
   "materialStufe": 1,
-  "material": "Etwas zum draufklettern (z.B. eine Bank, ein Tisch, eine Matte oder ähnliches)"
+  "material": "Etwas zum draufklettern (z.B. eine Bank, ein Tisch, eine Matte oder ähnliches)",
+  "zubehoer": []
  },
  {
   "id": "ksw-feuerlampe-basteln",
@@ -6036,7 +8424,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "ein etwas größeres Glas z.B. ein Einmachglas gelbes Transparentpapier rotes Transparentpapier oranges Transparentpapier Tapetenkleister eine Kerze"
+  "material": "ein etwas größeres Glas z.B. ein Einmachglas gelbes Transparentpapier rotes Transparentpapier oranges Transparentpapier Tapetenkleister eine Kerze",
+  "zubehoer": [
+   "krepp",
+   "glas",
+   "kerze"
+  ]
  },
  {
   "id": "ksw-feuerwehr",
@@ -6048,7 +8441,12 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "draußen",
   "materialStufe": 1,
-  "material": "zwei Eimer mit Wasser zwei Eimer ohne Wasser zwei kleine Becher"
+  "material": "zwei Eimer mit Wasser zwei Eimer ohne Wasser zwei kleine Becher",
+  "zubehoer": [
+   "wasser",
+   "becher",
+   "eimer"
+  ]
  },
  {
   "id": "ksw-fisch-falten",
@@ -6060,7 +8458,13 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "ein farbiges Papierquadrat (Faltpapier oder buntes Papier) ein schwarzer Stift"
+  "material": "ein farbiges Papierquadrat (Faltpapier oder buntes Papier) ein schwarzer Stift",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "buntpapier",
+   "faltpapier"
+  ]
  },
  {
   "id": "ksw-fische-basteln",
@@ -6073,7 +8477,17 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Pappteller Fingerfarbe, Abtönfarbe oder andere Bastelfarbe weißer und bunter Fotokarton ein schwarzer Filzstift oder Wackelaugen evtl. silberne Bastelfolie Holzstifte Heißkleber"
+  "material": "Pappteller Fingerfarbe, Abtönfarbe oder andere Bastelfarbe weißer und bunter Fotokarton ein schwarzer Filzstift oder Wackelaugen evtl. silberne Bastelfolie Holzstifte Heißkleber",
+  "zubehoer": [
+   "filzstifte",
+   "kleber",
+   "buntpapier",
+   "farbe",
+   "wackelaugen",
+   "heisskleber",
+   "geschirr",
+   "folie"
+  ]
  },
  {
   "id": "ksw-fische-drucken",
@@ -6085,7 +8499,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "ein weißes Blatt Papier blaue Wasserfarbe grüne Wasserfarbe weitere verschiedene Wasserfarben z.B. rot, orange Pinsel eine Kartoffel ein Küchenmesser ein Stück dickere Pappe bzw. K…"
+  "material": "ein weißes Blatt Papier blaue Wasserfarbe grüne Wasserfarbe weitere verschiedene Wasserfarben z.B. rot, orange Pinsel eine Kartoffel ein Küchenmesser ein Stück dickere Pappe bzw. K…",
+  "zubehoer": [
+   "papier",
+   "karton",
+   "farbe"
+  ]
  },
  {
   "id": "ksw-flaschen-drehen",
@@ -6097,7 +8516,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "eine leere Flasche"
+  "material": "eine leere Flasche",
+  "zubehoer": [
+   "glas"
+  ]
  },
  {
   "id": "ksw-fledermaus-basteln",
@@ -6109,7 +8531,11 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "schwarzer Fotokarton oder Tonpapier ein weißer Holzstift oder mit Tippex"
+  "material": "schwarzer Fotokarton oder Tonpapier ein weißer Holzstift oder mit Tippex",
+  "zubehoer": [
+   "papier",
+   "buntpapier"
+  ]
  },
  {
   "id": "ksw-fledermaeuse-basteln",
@@ -6122,7 +8548,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "ein braunes quadratisches Faltpapier, Tonpapier oder Transparentpapier weiße Konfettis ein schwarzer Stift"
+  "material": "ein braunes quadratisches Faltpapier, Tonpapier oder Transparentpapier weiße Konfettis ein schwarzer Stift",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "buntpapier",
+   "faltpapier",
+   "krepp"
+  ]
  },
  {
   "id": "ksw-fleissige-bienen-spiel",
@@ -6134,7 +8567,8 @@ const IDEEN = [
   "material": "Kein Material nötig",
   "art": "Spiel",
   "ort": "draußen",
-  "materialStufe": 0
+  "materialStufe": 0,
+  "zubehoer": []
  },
  {
   "id": "ksw-fliegende-marienkaefer",
@@ -6146,7 +8580,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "dickeres weißes Papier oder roter Fotokarton grünes etwas dickeres Papier oder weißes dickeres Papier und grüne Stifte Büroklammern ein Magnet bzw. mehrere Magnete"
+  "material": "dickeres weißes Papier oder roter Fotokarton grünes etwas dickeres Papier oder weißes dickeres Papier und grüne Stifte Büroklammern ein Magnet bzw. mehrere Magnete",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "buntpapier",
+   "klammern",
+   "elektro"
+  ]
  },
  {
   "id": "ksw-flugsaurier-basteln",
@@ -6158,7 +8599,11 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "hautfarbener Fotokarton eine Wäscheklammer bunte Holzfarben"
+  "material": "hautfarbener Fotokarton eine Wäscheklammer bunte Holzfarben",
+  "zubehoer": [
+   "buntpapier",
+   "klammern"
+  ]
  },
  {
   "id": "ksw-flusterpost",
@@ -6170,7 +8615,8 @@ const IDEEN = [
   "material": "Kein Material nötig",
   "art": "Spiel",
   "ort": "drinnen",
-  "materialStufe": 0
+  "materialStufe": 0,
+  "zubehoer": []
  },
  {
   "id": "ksw-freunde-helme-heine",
@@ -6193,7 +8639,13 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "ein grünes Papierquadrat (Faltpapier oder buntes Papier) bunte Stifte"
+  "material": "ein grünes Papierquadrat (Faltpapier oder buntes Papier) bunte Stifte",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "buntpapier",
+   "faltpapier"
+  ]
  },
  {
   "id": "ksw-froschkoenig-basteln",
@@ -6205,7 +8657,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "ein grünes Papierquadrat weißer Fotokarton rotes Bastelpapier Goldfolie ein schwarzer Filz- oder Benzinstift Geldstücke zum Aufzeichnen"
+  "material": "ein grünes Papierquadrat weißer Fotokarton rotes Bastelpapier Goldfolie ein schwarzer Filz- oder Benzinstift Geldstücke zum Aufzeichnen",
+  "zubehoer": [
+   "papier",
+   "filzstifte",
+   "buntpapier",
+   "folie",
+   "styropor"
+  ]
  },
  {
   "id": "ksw-fruehlingsspiel",
@@ -6217,7 +8676,8 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "beides",
   "materialStufe": 1,
-  "material": "verschiedene Fotos oder Abbildungen Ihr benötigt dazu einfach verschiedene Fotos oder Abbildungen z.B. von Frühlingsblumen, Gras und Tieren, die es im Frühling im Garten zu sehen g…"
+  "material": "verschiedene Fotos oder Abbildungen Ihr benötigt dazu einfach verschiedene Fotos oder Abbildungen z.B. von Frühlingsblumen, Gras und Tieren, die es im Frühling im Garten zu sehen g…",
+  "zubehoer": []
  },
  {
   "id": "ksw-fussball-spiele",
@@ -6241,7 +8701,15 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "bunte Wellpappe farbiger Fotokarton oder Tonpapier Pfeifenputzer bzw. Biegeplüsch Teelichter Tesafilm oder doppelseitiges Klebeband Stifte"
+  "material": "bunte Wellpappe farbiger Fotokarton oder Tonpapier Pfeifenputzer bzw. Biegeplüsch Teelichter Tesafilm oder doppelseitiges Klebeband Stifte",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "klebeband",
+   "buntpapier",
+   "karton",
+   "pfeifenputzer"
+  ]
  },
  {
   "id": "ksw-gefaellt-dir-dein-platz",
@@ -6253,7 +8721,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Stühle (einen weniger als die Anzahl der Mitspieler)"
+  "material": "Stühle (einen weniger als die Anzahl der Mitspieler)",
+  "zubehoer": [
+   "stuehle"
+  ]
  },
  {
   "id": "ksw-geschichtenball",
@@ -6265,7 +8736,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "draußen",
   "materialStufe": 1,
-  "material": "ein Ball"
+  "material": "ein Ball",
+  "zubehoer": [
+   "ball"
+  ]
  },
  {
   "id": "ksw-gespenster-handabdruck-fussabdruck",
@@ -6277,7 +8751,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "ein Bogen schwarzer Fotokarton in DINA 4 weiße Fingerfarbe ein schwarzer Filzstift bzw. Benzinstift"
+  "material": "ein Bogen schwarzer Fotokarton in DINA 4 weiße Fingerfarbe ein schwarzer Filzstift bzw. Benzinstift",
+  "zubehoer": [
+   "filzstifte",
+   "buntpapier",
+   "farbe"
+  ]
  },
  {
   "id": "ksw-gespenster-basteln",
@@ -6290,7 +8769,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "weißer Stoff oder dichte Gardine Papier oder Zeitung oder Watte oder Küchentücher weißes Garn ein schwarzer Stift ein Holzstab"
+  "material": "weißer Stoff oder dichte Gardine Papier oder Zeitung oder Watte oder Küchentücher weißes Garn ein schwarzer Stift ein Holzstab",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "wolle",
+   "watte",
+   "holzstaebe"
+  ]
  },
  {
   "id": "ksw-gespenster-schatten-tanz",
@@ -6302,7 +8788,11 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "ein Scheinwerfer eine freie weiße Wand oder ein gespanntes großes, weißes Leintuch Musik"
+  "material": "ein Scheinwerfer eine freie weiße Wand oder ein gespanntes großes, weißes Leintuch Musik",
+  "zubehoer": [
+   "tuch",
+   "musik"
+  ]
  },
  {
   "id": "ksw-gespensterkegeln",
@@ -6314,7 +8804,14 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Weißer Fotokarton Schwarzer, dünner Stift (z.B. Fineliner) Leere, saubere Getränkeplastikflaschen (z.B. Actimel-Drink-Flaschen) Ein Tennisball o.ä."
+  "material": "Weißer Fotokarton Schwarzer, dünner Stift (z.B. Fineliner) Leere, saubere Getränkeplastikflaschen (z.B. Actimel-Drink-Flaschen) Ein Tennisball o.ä.",
+  "zubehoer": [
+   "stifte",
+   "filzstifte",
+   "buntpapier",
+   "glas",
+   "ball"
+  ]
  },
  {
   "id": "ksw-girlande-mit-kronen",
@@ -6326,7 +8823,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "goldener (wahlweise auch gelber) Fotokarton pinkfarbener Fotokarton oder pinkfarbene Goldfolie Faden eine Nadel"
+  "material": "goldener (wahlweise auch gelber) Fotokarton pinkfarbener Fotokarton oder pinkfarbene Goldfolie Faden eine Nadel",
+  "zubehoer": [
+   "buntpapier",
+   "wolle",
+   "folie"
+  ]
  },
  {
   "id": "ksw-gluecksstein",
@@ -6338,7 +8840,13 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "draußen",
   "materialStufe": 2,
-  "material": "Glasmurmeln (oder ersatzweise Holzkugeln) ein schöner, größerer Stein als Glücksstein Straßenkreide oder ein bis zwei Springseile"
+  "material": "Glasmurmeln (oder ersatzweise Holzkugeln) ein schöner, größerer Stein als Glücksstein Straßenkreide oder ein bis zwei Springseile",
+  "zubehoer": [
+   "glas",
+   "kreide",
+   "huetchen",
+   "natur"
+  ]
  },
  {
   "id": "ksw-gaensebluemchen-basteln",
@@ -6350,7 +8858,11 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "weißer Fotokarton gelber Fotokarton oder gelbes Seiden- oder Krepppapier grüner Fotokarton"
+  "material": "weißer Fotokarton gelber Fotokarton oder gelbes Seiden- oder Krepppapier grüner Fotokarton",
+  "zubehoer": [
+   "buntpapier",
+   "krepp"
+  ]
  },
  {
   "id": "ksw-hahn-handabdruck",
@@ -6362,7 +8874,13 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "weiße Fingerfarbe rote Fingerfarbe gelbe Fingerfarbe grüne Fingerfarbe blaue Fingerfarbe ein hellblaues oder hellgrünes Blatt Papier bzw. Tonpapier bunte Holzstifte oder Filzstifte"
+  "material": "weiße Fingerfarbe rote Fingerfarbe gelbe Fingerfarbe grüne Fingerfarbe blaue Fingerfarbe ein hellblaues oder hellgrünes Blatt Papier bzw. Tonpapier bunte Holzstifte oder Filzstifte",
+  "zubehoer": [
+   "papier",
+   "filzstifte",
+   "buntpapier",
+   "farbe"
+  ]
  },
  {
   "id": "ksw-hahn-basteln",
@@ -6374,7 +8892,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "weißer Fotokarton gelber Fotokarton roter Fotokarton ein schwarzer Filz- bzw. Benzinstift bunte Pfeifenputzer/ Biegeplüsch Lochzange oder spitze Nadel"
+  "material": "weißer Fotokarton gelber Fotokarton roter Fotokarton ein schwarzer Filz- bzw. Benzinstift bunte Pfeifenputzer/ Biegeplüsch Lochzange oder spitze Nadel",
+  "zubehoer": [
+   "filzstifte",
+   "buntpapier",
+   "pfeifenputzer",
+   "locher",
+   "styropor"
+  ]
  },
  {
   "id": "ksw-hahnenkampf",
@@ -6386,7 +8911,11 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Kreide zum Abgrenzen eines Feldes oder ein Seil zur Feldabgrenzung oder das Spiel findet auf einem größeren Teppich statt."
+  "material": "Kreide zum Abgrenzen eines Feldes oder ein Seil zur Feldabgrenzung oder das Spiel findet auf einem größeren Teppich statt.",
+  "zubehoer": [
+   "kreide",
+   "huetchen"
+  ]
  },
  {
   "id": "ksw-halli-hallo",
@@ -6398,7 +8927,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "draußen",
   "materialStufe": 1,
-  "material": "ein Ball"
+  "material": "ein Ball",
+  "zubehoer": [
+   "ball"
+  ]
  },
  {
   "id": "ksw-halloween-deko",
@@ -6434,7 +8966,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "weiße Fingerfarbe blaues Papier als Hintergrund ein schwarzer Filz- oder Benzinstift ein oranger Filzstift"
+  "material": "weiße Fingerfarbe blaues Papier als Hintergrund ein schwarzer Filz- oder Benzinstift ein oranger Filzstift",
+  "zubehoer": [
+   "papier",
+   "filzstifte",
+   "buntpapier",
+   "farbe",
+   "styropor"
+  ]
  },
  {
   "id": "ksw-hase",
@@ -6446,7 +8985,17 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "braune Fingerfarbe weiße Pappe oder weißer Fotokarton rotes Seiden-/ oder Transpartentpapier Naturbast Wackelaugen schwarzer Filz- oder Benzinstift"
+  "material": "braune Fingerfarbe weiße Pappe oder weißer Fotokarton rotes Seiden-/ oder Transpartentpapier Naturbast Wackelaugen schwarzer Filz- oder Benzinstift",
+  "zubehoer": [
+   "papier",
+   "filzstifte",
+   "buntpapier",
+   "karton",
+   "farbe",
+   "wackelaugen",
+   "natur",
+   "styropor"
+  ]
  },
  {
   "id": "ksw-hase-basteln",
@@ -6459,7 +9008,15 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Brauner Fotokarton weißes Papier ein Locher evtl. Naturbast schwarzer Filzstift oder Holzstift weißer Holzstift evtl. Weidenkätzchen oder Watte als Schwänzchen evtl. eine Zackensch…"
+  "material": "Brauner Fotokarton weißes Papier ein Locher evtl. Naturbast schwarzer Filzstift oder Holzstift weißer Holzstift evtl. Weidenkätzchen oder Watte als Schwänzchen evtl. eine Zackensch…",
+  "zubehoer": [
+   "papier",
+   "filzstifte",
+   "buntpapier",
+   "watte",
+   "locher",
+   "natur"
+  ]
  },
  {
   "id": "ksw-hase-falten",
@@ -6471,7 +9028,13 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "braunes Faltpapier oder braunes Tonpapier schwarzer Filzstift"
+  "material": "braunes Faltpapier oder braunes Tonpapier schwarzer Filzstift",
+  "zubehoer": [
+   "papier",
+   "filzstifte",
+   "buntpapier",
+   "faltpapier"
+  ]
  },
  {
   "id": "ksw-hase-und-jaeger",
@@ -6483,7 +9046,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "draußen",
   "materialStufe": 1,
-  "material": "ein weicher Ball"
+  "material": "ein weicher Ball",
+  "zubehoer": [
+   "ball"
+  ]
  },
  {
   "id": "ksw-hasen-basteln",
@@ -6496,7 +9062,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Brauner oder weißer Fotokarton bunter Fotokarton oder buntes Tonpapier grüner Fotokarton evtl. Watte oder weißes Tonpapier evtl. Naturbast schwarzer Filzstift oder Holzstift weißer…"
+  "material": "Brauner oder weißer Fotokarton bunter Fotokarton oder buntes Tonpapier grüner Fotokarton evtl. Watte oder weißes Tonpapier evtl. Naturbast schwarzer Filzstift oder Holzstift weißer…",
+  "zubehoer": [
+   "papier",
+   "filzstifte",
+   "buntpapier",
+   "watte",
+   "natur"
+  ]
  },
  {
   "id": "ksw-himmel-und-hoelle-falten",
@@ -6519,7 +9092,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "weißes Tonpapier rotes Tonpapier hellblaues Papier als Hintergrund (z.B. farbiges Druckerpapier) ein schwarzer Stift bunte Holzstifte"
+  "material": "weißes Tonpapier rotes Tonpapier hellblaues Papier als Hintergrund (z.B. farbiges Druckerpapier) ein schwarzer Stift bunte Holzstifte",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "buntpapier"
+  ]
  },
  {
   "id": "ksw-huhn-aus-pappteller",
@@ -6531,7 +9109,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "ein weißer Pappteller roter Fotokarton gelber Fotokarton weißer Fotokarton ein schwarzer Filzstift oder Benzinstift"
+  "material": "ein weißer Pappteller roter Fotokarton gelber Fotokarton weißer Fotokarton ein schwarzer Filzstift oder Benzinstift",
+  "zubehoer": [
+   "filzstifte",
+   "buntpapier",
+   "geschirr"
+  ]
  },
  {
   "id": "ksw-haenschen-piep-einmal",
@@ -6543,7 +9126,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "eine Augenbinde oder ein Tuch/ Schal um die Augen zu verbinden"
+  "material": "eine Augenbinde oder ein Tuch/ Schal um die Augen zu verbinden",
+  "zubehoer": [
+   "tuch"
+  ]
  },
  {
   "id": "ksw-huepfspiele",
@@ -6578,7 +9164,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "ein Stuhl pro Mitspieler"
+  "material": "ein Stuhl pro Mitspieler",
+  "zubehoer": [
+   "stuehle"
+  ]
  },
  {
   "id": "ksw-ich-kenne-einen-cowboy",
@@ -6601,7 +9190,8 @@ const IDEEN = [
   "material": "Kein Material nötig",
   "art": "Spiel",
   "ort": "drinnen",
-  "materialStufe": 0
+  "materialStufe": 0,
+  "zubehoer": []
  },
  {
   "id": "ksw-ich-sehe-was-was-du-nicht-siehst",
@@ -6613,7 +9203,8 @@ const IDEEN = [
   "material": "Kein Material nötig",
   "art": "Spiel",
   "ort": "drinnen",
-  "materialStufe": 0
+  "materialStufe": 0,
+  "zubehoer": []
  },
  {
   "id": "ksw-igel-aus-pappteller",
@@ -6625,7 +9216,13 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "ein Pappteller braune Bastelfarbe (z.B. Berol- oder Fingerfarben) ein schwarzer Filz- oder Benzinstift"
+  "material": "ein Pappteller braune Bastelfarbe (z.B. Berol- oder Fingerfarben) ein schwarzer Filz- oder Benzinstift",
+  "zubehoer": [
+   "filzstifte",
+   "farbe",
+   "geschirr",
+   "styropor"
+  ]
  },
  {
   "id": "ksw-igel-basteln",
@@ -6638,7 +9235,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "brauner Fotokarton hellbrauner/ beiger Fotokarton ein schwarzer Filzstift, Benzinstift oder Holzstift ein Cuttermesser oder Teppichmesser"
+  "material": "brauner Fotokarton hellbrauner/ beiger Fotokarton ein schwarzer Filzstift, Benzinstift oder Holzstift ein Cuttermesser oder Teppichmesser",
+  "zubehoer": [
+   "filzstifte",
+   "buntpapier",
+   "cutter"
+  ]
  },
  {
   "id": "ksw-igel-basteln-kindergarten",
@@ -6651,7 +9253,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "dunkelbrauner oder beiger bzw. hellbrauner Fotokarton oder Tonpapier Ahornsamen bzw. Ahornfrüchte ein schwarzer Stift ein weißer Holzstift evtl. weißes Tonpapier evtl. Heißkleber"
+  "material": "dunkelbrauner oder beiger bzw. hellbrauner Fotokarton oder Tonpapier Ahornsamen bzw. Ahornfrüchte ein schwarzer Stift ein weißer Holzstift evtl. weißes Tonpapier evtl. Heißkleber",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "kleber",
+   "buntpapier",
+   "heisskleber"
+  ]
  },
  {
   "id": "ksw-igel-basteln-mit-naturmaterialien",
@@ -6664,7 +9273,15 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "brauner Fotokarton oder Tonpapier Kiefernzapfen weißes Tonpapier ein schwarzer Stift evtl. Wackelaugen eine spitze Schere (z.B. Silhouettenschere)"
+  "material": "brauner Fotokarton oder Tonpapier Kiefernzapfen weißes Tonpapier ein schwarzer Stift evtl. Wackelaugen eine spitze Schere (z.B. Silhouettenschere)",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "schere",
+   "buntpapier",
+   "wackelaugen",
+   "natur"
+  ]
  },
  {
   "id": "ksw-igel-mit-blaettern-basteln",
@@ -6676,7 +9293,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "brauner Fotokarton oder Tonpapier Gepresste Herbstblätter/ Laub ein schwarzer Stift z.B. Filzstift"
+  "material": "brauner Fotokarton oder Tonpapier Gepresste Herbstblätter/ Laub ein schwarzer Stift z.B. Filzstift",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "buntpapier",
+   "natur"
+  ]
  },
  {
   "id": "ksw-restaurant-spiel",
@@ -6688,7 +9312,8 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "die Geschichte vom Restaurant"
+  "material": "die Geschichte vom Restaurant",
+  "zubehoer": []
  },
  {
   "id": "ksw-kartoffelkoenig-basteln",
@@ -6700,7 +9325,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "ein bis zwei Kartoffeln ein Küchenmesser ein Küchentuch braune Fingerfarbe oder Bastelfarbe (ersatzweise Wasserfarbe) ein Pinsel ein weißes Blatt Papier bunte Holzstifte"
+  "material": "ein bis zwei Kartoffeln ein Küchenmesser ein Küchentuch braune Fingerfarbe oder Bastelfarbe (ersatzweise Wasserfarbe) ein Pinsel ein weißes Blatt Papier bunte Holzstifte",
+  "zubehoer": [
+   "papier",
+   "farbe",
+   "tuch"
+  ]
  },
  {
   "id": "ksw-kartoffellauf",
@@ -6712,7 +9342,12 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "draußen",
   "materialStufe": 1,
-  "material": "zwei Esslöffel zwei rohe Kartoffeln zwei leere Wassereimer oder ähnliches als Wendepunkt"
+  "material": "zwei Esslöffel zwei rohe Kartoffeln zwei leere Wassereimer oder ähnliches als Wendepunkt",
+  "zubehoer": [
+   "geschirr",
+   "huetchen",
+   "eimer"
+  ]
  },
  {
   "id": "ksw-katz-und-maus",
@@ -6724,7 +9359,8 @@ const IDEEN = [
   "material": "Kein Material nötig",
   "art": "Spiel",
   "ort": "draußen",
-  "materialStufe": 0
+  "materialStufe": 0,
+  "zubehoer": []
  },
  {
   "id": "ksw-katze-mit-handabdruck",
@@ -6736,7 +9372,13 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "grünes Tonpapier oder grüner Fotokarton als Hintergrund schwarze Fingerfarbe schwarzer Fotokarton oder schwarzes Tonpapier rotes und weißes Tonpapier schwarze Pfeifenputzer ein Loc…"
+  "material": "grünes Tonpapier oder grüner Fotokarton als Hintergrund schwarze Fingerfarbe schwarzer Fotokarton oder schwarzes Tonpapier rotes und weißes Tonpapier schwarze Pfeifenputzer ein Loc…",
+  "zubehoer": [
+   "papier",
+   "buntpapier",
+   "farbe",
+   "pfeifenputzer"
+  ]
  },
  {
   "id": "ksw-kennenlernspiele",
@@ -6760,7 +9402,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "ein tiefes Backblech oder eine größere flache Auflaufform 10-14 Teelichter Streichhölzer oder ein Feuerzeug evtl. Backpapier"
+  "material": "ein tiefes Backblech oder eine größere flache Auflaufform 10-14 Teelichter Streichhölzer oder ein Feuerzeug evtl. Backpapier",
+  "zubehoer": [
+   "kerze"
+  ]
  },
  {
   "id": "ksw-kerzen-basteln",
@@ -6772,7 +9417,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "roter Fotokarton schwarzer Fotokarton gelber Fotokarton"
+  "material": "roter Fotokarton schwarzer Fotokarton gelber Fotokarton",
+  "zubehoer": [
+   "buntpapier"
+  ]
  },
  {
   "id": "ksw-kindergarten-spiele",
@@ -6796,7 +9444,8 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Die Schatzkarte, die Schatztruhe gefüllt mit kleinen „Schätzen“, weitere benötigte Utensilien (je nach Version der Schatzsuche) Vor der Schatzsuche füllt ihr eine Schatztruhe oder …"
+  "material": "Die Schatzkarte, die Schatztruhe gefüllt mit kleinen „Schätzen“, weitere benötigte Utensilien (je nach Version der Schatzsuche) Vor der Schatzsuche füllt ihr eine Schatztruhe oder …",
+  "zubehoer": []
  },
  {
   "id": "ksw-kindergeburtstag-schnitzeljagd",
@@ -6808,7 +9457,14 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "draußen",
   "materialStufe": 1,
-  "material": "Straßenkreide, kleine Steine, ein Notizblock mit Zetteln, Stifte, Papierschnipsel, Sägespäne oder ähnliches zum Fährten legen, Tesafilmabroller oder Teaskrepprolle Vor der Schnitze…"
+  "material": "Straßenkreide, kleine Steine, ein Notizblock mit Zetteln, Stifte, Papierschnipsel, Sägespäne oder ähnliches zum Fährten legen, Tesafilmabroller oder Teaskrepprolle Vor der Schnitze…",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "klebeband",
+   "kreide",
+   "natur"
+  ]
  },
  {
   "id": "ksw-komm-mit-lauf-weg",
@@ -6820,7 +9476,8 @@ const IDEEN = [
   "material": "Kein Material nötig",
   "art": "Spiel",
   "ort": "draußen",
-  "materialStufe": 0
+  "materialStufe": 0,
+  "zubehoer": []
  },
  {
   "id": "ksw-krake-basteln",
@@ -6833,7 +9490,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "leere Klorollen grüne Bastelfarbe ein schwarzer Filzstift Wackelaugen"
+  "material": "leere Klorollen grüne Bastelfarbe ein schwarzer Filzstift Wackelaugen",
+  "zubehoer": [
+   "filzstifte",
+   "farbe",
+   "wackelaugen"
+  ]
  },
  {
   "id": "ksw-krebs-basteln",
@@ -6846,7 +9508,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Pappteller roter und weißer Fotokarton rote Bastelfarbe ein schwarzer Filzstift rote Pfeifenputzer"
+  "material": "Pappteller roter und weißer Fotokarton rote Bastelfarbe ein schwarzer Filzstift rote Pfeifenputzer",
+  "zubehoer": [
+   "filzstifte",
+   "buntpapier",
+   "farbe",
+   "pfeifenputzer",
+   "geschirr"
+  ]
  },
  {
   "id": "ksw-krokus-falten",
@@ -6858,7 +9527,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "farbiges Faltpapier oder buntes Tonpapier ein Blatt farbiges Papier Holz- bzw. Filzstifte oder Wachsfarben"
+  "material": "farbiges Faltpapier oder buntes Tonpapier ein Blatt farbiges Papier Holz- bzw. Filzstifte oder Wachsfarben",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "buntpapier",
+   "faltpapier"
+  ]
  },
  {
   "id": "ksw-krone-basteln",
@@ -6870,7 +9546,11 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Gelber Fotokarton Goldene Alu-Bastelfolie"
+  "material": "Gelber Fotokarton Goldene Alu-Bastelfolie",
+  "zubehoer": [
+   "buntpapier",
+   "folie"
+  ]
  },
  {
   "id": "ksw-krone-prinzessin",
@@ -6882,7 +9562,11 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "goldener Fotokarton oder Tonpapier Hutgummi"
+  "material": "goldener Fotokarton oder Tonpapier Hutgummi",
+  "zubehoer": [
+   "papier",
+   "buntpapier"
+  ]
  },
  {
   "id": "ksw-kaeferrennen-spiel",
@@ -6894,7 +9578,13 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "für die Marienkäfer: roter Fotokarton schwarzer Fotokarton schwarze Stifte schwarzer Biegeplüsch bzw. Pfeifenputzer oder fertige Marienkäfer weiteres Material: Schnur Holzstöckchen…"
+  "material": "für die Marienkäfer: roter Fotokarton schwarzer Fotokarton schwarze Stifte schwarzer Biegeplüsch bzw. Pfeifenputzer oder fertige Marienkäfer weiteres Material: Schnur Holzstöckchen…",
+  "zubehoer": [
+   "stifte",
+   "buntpapier",
+   "wolle",
+   "pfeifenputzer"
+  ]
  },
  {
   "id": "ksw-koniginnenball",
@@ -6906,7 +9596,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "draußen",
   "materialStufe": 1,
-  "material": "ein Ball"
+  "material": "ein Ball",
+  "zubehoer": [
+   "ball"
+  ]
  },
  {
   "id": "ksw-kueken-aus-fingerabdruecken",
@@ -6918,7 +9611,11 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "gelbe Fingerfarbe grüne Fingerfarbe ein weißes Blatt Papier bunte Holzstifte"
+  "material": "gelbe Fingerfarbe grüne Fingerfarbe ein weißes Blatt Papier bunte Holzstifte",
+  "zubehoer": [
+   "papier",
+   "farbe"
+  ]
  },
  {
   "id": "ksw-kueken-aus-fotokarton-basteln",
@@ -6930,7 +9627,11 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "gelber Fotokarton oranger Fotokarton schwarzer Fotokarton schwarzer Filzstift weißer Holzstift"
+  "material": "gelber Fotokarton oranger Fotokarton schwarzer Fotokarton schwarzer Filzstift weißer Holzstift",
+  "zubehoer": [
+   "filzstifte",
+   "buntpapier"
+  ]
  },
  {
   "id": "ksw-kueken-basteln",
@@ -6943,7 +9644,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "gelber Fotokarton oranger Fotokarton Naturbast ein schwarzer Filzstift Nähgarn eine Lochzange"
+  "material": "gelber Fotokarton oranger Fotokarton Naturbast ein schwarzer Filzstift Nähgarn eine Lochzange",
+  "zubehoer": [
+   "filzstifte",
+   "buntpapier",
+   "wolle",
+   "locher",
+   "natur"
+  ]
  },
  {
   "id": "ksw-kueken-mit-tontopf",
@@ -6955,7 +9663,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 3,
-  "material": "ein Tontopf gelbe Bastel- oder Abtönfarbe oranges Tonpapier oder Fotokarton ein schwarzer Filzstift gelbe Federn"
+  "material": "ein Tontopf gelbe Bastel- oder Abtönfarbe oranges Tonpapier oder Fotokarton ein schwarzer Filzstift gelbe Federn",
+  "zubehoer": [
+   "papier",
+   "filzstifte",
+   "buntpapier",
+   "farbe",
+   "geschirr"
+  ]
  },
  {
   "id": "ksw-lampen-basteln",
@@ -6968,7 +9683,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "bunte Herbstblätter ein Einmachglas o.ä. Naturbast evtl. Hackschnitzel aus Holz oder feiner Sand eine Kerze"
+  "material": "bunte Herbstblätter ein Einmachglas o.ä. Naturbast evtl. Hackschnitzel aus Holz oder feiner Sand eine Kerze",
+  "zubehoer": [
+   "glas",
+   "natur",
+   "kerze"
+  ]
  },
  {
   "id": "ksw-laternen-basteln",
@@ -6981,7 +9701,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "brauner Fotokarton weißer Fotokarton gelbes Transparentpapier ein schwarzer Filz- bzw. Benzinstift ein roter Holzstift ein weißer Holzstift ein Draht als Befestigung des Laternenst…"
+  "material": "brauner Fotokarton weißer Fotokarton gelbes Transparentpapier ein schwarzer Filz- bzw. Benzinstift ein roter Holzstift ein weißer Holzstift ein Draht als Befestigung des Laternenst…",
+  "zubehoer": [
+   "filzstifte",
+   "buntpapier",
+   "krepp",
+   "elektro",
+   "styropor"
+  ]
  },
  {
   "id": "ksw-licht-an",
@@ -6993,7 +9720,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "eine Taschenlampe für jeden Mitspieler"
+  "material": "eine Taschenlampe für jeden Mitspieler",
+  "zubehoer": [
+   "taschenlampe"
+  ]
  },
  {
   "id": "ksw-lichtersuchspiel",
@@ -7005,7 +9735,11 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "ein Glas mit einer Kerze darin (z.B. ein Windlicht) Streichhölzer oder ein Feuerzeug"
+  "material": "ein Glas mit einer Kerze darin (z.B. ein Windlicht) Streichhölzer oder ein Feuerzeug",
+  "zubehoer": [
+   "glas",
+   "kerze"
+  ]
  },
  {
   "id": "ksw-lichtscheinsuche",
@@ -7017,7 +9751,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "eine Taschenlampe"
+  "material": "eine Taschenlampe",
+  "zubehoer": [
+   "taschenlampe"
+  ]
  },
  {
   "id": "ksw-lindwurmlauf",
@@ -7029,7 +9766,14 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "beides",
   "materialStufe": 1,
-  "material": "zwei Wendepunkte (z.B. ein Wassereimer, Stuhl oder ein Verkehrshütchen/ Pylon) eine markierte Startlinie (z.B. mit Kreide gemalt oder mit Kreppband aufgeklebt)"
+  "material": "zwei Wendepunkte (z.B. ein Wassereimer, Stuhl oder ein Verkehrshütchen/ Pylon) eine markierte Startlinie (z.B. mit Kreide gemalt oder mit Kreppband aufgeklebt)",
+  "zubehoer": [
+   "klebeband",
+   "stuehle",
+   "kreide",
+   "huetchen",
+   "eimer"
+  ]
  },
  {
   "id": "ksw-luftballon-erdumkreisung",
@@ -7041,7 +9785,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "drei Luftballons"
+  "material": "drei Luftballons",
+  "zubehoer": [
+   "ballon"
+  ]
  },
  {
   "id": "ksw-luftballonflug-ohne-haende",
@@ -7053,7 +9800,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "ein Luftballon für jeweils zwei Mitspieler"
+  "material": "ein Luftballon für jeweils zwei Mitspieler",
+  "zubehoer": [
+   "ballon"
+  ]
  },
  {
   "id": "ksw-luftballonjagd",
@@ -7065,7 +9815,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "einige aufgepustete Luftballons"
+  "material": "einige aufgepustete Luftballons",
+  "zubehoer": [
+   "ballon"
+  ]
  },
  {
   "id": "ksw-luftballons-als-blumenstecker",
@@ -7077,7 +9830,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Verschiedene Farben Fotokarton ein silberner Lackstift Paketschnur Holzschaschlikspieße Heißkleber"
+  "material": "Verschiedene Farben Fotokarton ein silberner Lackstift Paketschnur Holzschaschlikspieße Heißkleber",
+  "zubehoer": [
+   "kleber",
+   "buntpapier",
+   "wolle",
+   "heisskleber",
+   "holzstaebe"
+  ]
  },
  {
   "id": "ksw-luftballons-aufpusten",
@@ -7089,7 +9849,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Luftballons"
+  "material": "Luftballons",
+  "zubehoer": [
+   "ballon"
+  ]
  },
  {
   "id": "ksw-luftballons-basteln",
@@ -7101,7 +9864,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Verschiedene Farben Fotokarton ein Cuttermesser/ Teppichmesser Paketschnur"
+  "material": "Verschiedene Farben Fotokarton ein Cuttermesser/ Teppichmesser Paketschnur",
+  "zubehoer": [
+   "buntpapier",
+   "wolle",
+   "cutter"
+  ]
  },
  {
   "id": "ksw-luftballons-platzen",
@@ -7113,7 +9881,11 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Luftballons ein großes Tuch oder ein Schwungtuch"
+  "material": "Luftballons ein großes Tuch oder ein Schwungtuch",
+  "zubehoer": [
+   "ballon",
+   "tuch"
+  ]
  },
  {
   "id": "ksw-luftballonspiele",
@@ -7137,7 +9909,11 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "beides",
   "materialStufe": 1,
-  "material": "Luftballons eine Schnur"
+  "material": "Luftballons eine Schnur",
+  "zubehoer": [
+   "wolle",
+   "ballon"
+  ]
  },
  {
   "id": "ksw-luftballonwalzer",
@@ -7149,7 +9925,13 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Luftballons Bindfaden Schere Musik"
+  "material": "Luftballons Bindfaden Schere Musik",
+  "zubehoer": [
+   "schere",
+   "wolle",
+   "ballon",
+   "musik"
+  ]
  },
  {
   "id": "ksw-loewe",
@@ -7161,7 +9943,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "ein leerer Plastik- oder Pappbecher gelbes Krepppapier, eine gelbe Serviette oder gelbes Papier brauner Fotokarton oder Tonpapier gelber Fotokarton oder Tonpapier ein schwarzer Sti…"
+  "material": "ein leerer Plastik- oder Pappbecher gelbes Krepppapier, eine gelbe Serviette oder gelbes Papier brauner Fotokarton oder Tonpapier gelber Fotokarton oder Tonpapier ein schwarzer Sti…",
+  "zubehoer": [
+   "papier",
+   "buntpapier",
+   "krepp",
+   "becher",
+   "kaffeefilter"
+  ]
  },
  {
   "id": "ksw-malen-mit-taschenlampen",
@@ -7173,7 +9962,11 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "beides",
   "materialStufe": 1,
-  "material": "eine Taschenlampe eine freie weiße Wand oder ein gespanntes großes, weißes Leintuch"
+  "material": "eine Taschenlampe eine freie weiße Wand oder ein gespanntes großes, weißes Leintuch",
+  "zubehoer": [
+   "tuch",
+   "taschenlampe"
+  ]
  },
  {
   "id": "ksw-malspiel",
@@ -7185,7 +9978,12 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Blätter/ Malpapier Stifte"
+  "material": "Blätter/ Malpapier Stifte",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "natur"
+  ]
  },
  {
   "id": "ksw-marienkaefer-aus-pappteller",
@@ -7197,7 +9995,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Pappteller rote und schwarze Bastelfarbe schwarze Pfeifenputzer Heißkleber"
+  "material": "Pappteller rote und schwarze Bastelfarbe schwarze Pfeifenputzer Heißkleber",
+  "zubehoer": [
+   "kleber",
+   "farbe",
+   "pfeifenputzer",
+   "heisskleber",
+   "geschirr"
+  ]
  },
  {
   "id": "ksw-marienkaefer-aus-steinen",
@@ -7209,7 +10014,11 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "flache glatte Steine geeignete Bastelfarbe in rot, weiß und schwarz"
+  "material": "flache glatte Steine geeignete Bastelfarbe in rot, weiß und schwarz",
+  "zubehoer": [
+   "farbe",
+   "natur"
+  ]
  },
  {
   "id": "ksw-marienkaefer-basteln",
@@ -7222,7 +10031,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "roter Fotokarton schwarzer Fotokarton schwarze Stifte schwarzer Biegeplüsch bzw. Pfeifenputzer"
+  "material": "roter Fotokarton schwarzer Fotokarton schwarze Stifte schwarzer Biegeplüsch bzw. Pfeifenputzer",
+  "zubehoer": [
+   "stifte",
+   "buntpapier",
+   "pfeifenputzer"
+  ]
  },
  {
   "id": "ksw-marienkaefer-fingerabdruecke",
@@ -7234,7 +10048,13 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "weißes oder farbiges Papier bzw. Klappkarte als Untergrund rote Bastelfarbe bzw. Fingerfarbe schwarzer Stift"
+  "material": "weißes oder farbiges Papier bzw. Klappkarte als Untergrund rote Bastelfarbe bzw. Fingerfarbe schwarzer Stift",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "buntpapier",
+   "farbe"
+  ]
  },
  {
   "id": "ksw-marterpfahl-basteln",
@@ -7246,7 +10066,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "hautfarbenen (teint) Fotokarton oder eine leere Küchenpapierrolle farbiger Fotokarton bunte Fingerfarben bunte Federn"
+  "material": "hautfarbenen (teint) Fotokarton oder eine leere Küchenpapierrolle farbiger Fotokarton bunte Fingerfarben bunte Federn",
+  "zubehoer": [
+   "buntpapier",
+   "farbe",
+   "kaffeefilter"
+  ]
  },
  {
   "id": "ksw-martinsgans-basteln",
@@ -7258,7 +10083,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "weißer Fotokarton gelbes Transparentpapier ein oranger Holzstift ein schwarzer Stift weiße Federn"
+  "material": "weißer Fotokarton gelbes Transparentpapier ein oranger Holzstift ein schwarzer Stift weiße Federn",
+  "zubehoer": [
+   "stifte",
+   "buntpapier",
+   "krepp"
+  ]
  },
  {
   "id": "ksw-maus-basteln",
@@ -7270,7 +10100,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "dunkelgrauer Fotokarton hellgrauer Fotokarton ein schwarzer Filz- bzw. Benzinstift ein weißer Holzstift schwarze Pfeifenputzer/ Biegeplüsch Lochzange oder spitze Nadel"
+  "material": "dunkelgrauer Fotokarton hellgrauer Fotokarton ein schwarzer Filz- bzw. Benzinstift ein weißer Holzstift schwarze Pfeifenputzer/ Biegeplüsch Lochzange oder spitze Nadel",
+  "zubehoer": [
+   "filzstifte",
+   "buntpapier",
+   "pfeifenputzer",
+   "locher",
+   "styropor"
+  ]
  },
  {
   "id": "ksw-meerestiere-basteln",
@@ -7283,7 +10120,13 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Pappteller orange Bastelfarbe Goldfolie ein schwarzer Filzstift"
+  "material": "Pappteller orange Bastelfarbe Goldfolie ein schwarzer Filzstift",
+  "zubehoer": [
+   "filzstifte",
+   "farbe",
+   "geschirr",
+   "folie"
+  ]
  },
  {
   "id": "ksw-mehlschneiden",
@@ -7295,7 +10138,12 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "ein Teller voll Mehl ein Messer ein Zahnstocher"
+  "material": "ein Teller voll Mehl ein Messer ein Zahnstocher",
+  "zubehoer": [
+   "holzstaebe",
+   "geschirr",
+   "staerke"
+  ]
  },
  {
   "id": "ksw-mein-rechter-platz-ist-leer",
@@ -7318,7 +10166,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Memorykarten mit Tieren oder ausgedruckte kleine Bilder von Tieren Eine Karte pro Kind und von jedem Tier zwei gleiche Karten (Bei Schülern reicht es auch, wenn der Name des Tieres…"
+  "material": "Memorykarten mit Tieren oder ausgedruckte kleine Bilder von Tieren Eine Karte pro Kind und von jedem Tier zwei gleiche Karten (Bei Schülern reicht es auch, wenn der Name des Tieres…",
+  "zubehoer": [
+   "wuerfel"
+  ]
  },
  {
   "id": "ksw-mikado-spiel",
@@ -7330,7 +10181,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Zweige von Büschen oder Bäumen in mittlerer Stärke eine Gartenschere ein Farbwürfel buntes Klebeband/ Isolierband in den Farben des Farbwürfels (z.B. rot, gelb, grün, blau, orange,…"
+  "material": "Zweige von Büschen oder Bäumen in mittlerer Stärke eine Gartenschere ein Farbwürfel buntes Klebeband/ Isolierband in den Farben des Farbwürfels (z.B. rot, gelb, grün, blau, orange,…",
+  "zubehoer": [
+   "schere",
+   "klebeband",
+   "staerke",
+   "wuerfel",
+   "natur"
+  ]
  },
  {
   "id": "ksw-mord-im-dunkeln",
@@ -7342,7 +10200,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "einen Zettel pro Kind Musik"
+  "material": "einen Zettel pro Kind Musik",
+  "zubehoer": [
+   "musik"
+  ]
  },
  {
   "id": "ksw-maerchenspiele",
@@ -7366,7 +10227,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "flache, glatte, graue Steine graue Lederresten graue Wolle geeigneter Klebstoff (z.B. Uhu-Kraft oder Heißkleber) ein schwarzer Benzinstift"
+  "material": "flache, glatte, graue Steine graue Lederresten graue Wolle geeigneter Klebstoff (z.B. Uhu-Kraft oder Heißkleber) ein schwarzer Benzinstift",
+  "zubehoer": [
+   "filzstifte",
+   "kleber",
+   "wolle",
+   "heisskleber",
+   "natur"
+  ]
  },
  {
   "id": "ksw-neckball",
@@ -7378,7 +10246,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "draußen",
   "materialStufe": 1,
-  "material": "ein Ball"
+  "material": "ein Ball",
+  "zubehoer": [
+   "ball"
+  ]
  },
  {
   "id": "ksw-obstsalat",
@@ -7390,7 +10261,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "ein Stuhlkreis für die Mitspieler evtl. Umhängekärtchen für jeden Mitspieler"
+  "material": "ein Stuhlkreis für die Mitspieler evtl. Umhängekärtchen für jeden Mitspieler",
+  "zubehoer": [
+   "stuehle"
+  ]
  },
  {
   "id": "ksw-osterhase-aus-papptellern",
@@ -7402,7 +10276,18 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Pappteller braune Bastelfarbe weißer Fotokarton rotes Seidenpapier oder Krepppapier ein schwarzer Filzstift oder Benzinstift Naturbast Watte Heißkleber"
+  "material": "Pappteller braune Bastelfarbe weißer Fotokarton rotes Seidenpapier oder Krepppapier ein schwarzer Filzstift oder Benzinstift Naturbast Watte Heißkleber",
+  "zubehoer": [
+   "filzstifte",
+   "kleber",
+   "buntpapier",
+   "farbe",
+   "watte",
+   "krepp",
+   "heisskleber",
+   "geschirr",
+   "natur"
+  ]
  },
  {
   "id": "ksw-osterkartenspiel",
@@ -7414,7 +10299,11 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "weißes Druckerpapier bunte Holzstifte weißer Fotokarton"
+  "material": "weißes Druckerpapier bunte Holzstifte weißer Fotokarton",
+  "zubehoer": [
+   "papier",
+   "buntpapier"
+  ]
  },
  {
   "id": "ksw-osternest-mit-kresse",
@@ -7426,7 +10315,13 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "eine leere Tetrapackung z.B. von Milch oder Apfelsaft braunen Fotokarton oder Pappe einen schwarzen Benzinstift oder Filzstift"
+  "material": "eine leere Tetrapackung z.B. von Milch oder Apfelsaft braunen Fotokarton oder Pappe einen schwarzen Benzinstift oder Filzstift",
+  "zubehoer": [
+   "filzstifte",
+   "buntpapier",
+   "karton",
+   "milchoel"
+  ]
  },
  {
   "id": "ksw-pantomime",
@@ -7438,7 +10333,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Karten auf denen Tiere oder Dinge abgebildet sind (z.B. Fotos aus dem Internet, Memorykarten, selbstgeschossene Fotos)"
+  "material": "Karten auf denen Tiere oder Dinge abgebildet sind (z.B. Fotos aus dem Internet, Memorykarten, selbstgeschossene Fotos)",
+  "zubehoer": [
+   "wuerfel"
+  ]
  },
  {
   "id": "ksw-papierdrachen-basteln",
@@ -7451,7 +10349,11 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "bunter Fotokarton (hier: orange) gemusterter Fotokarton weiße Schnur oder Wolle"
+  "material": "bunter Fotokarton (hier: orange) gemusterter Fotokarton weiße Schnur oder Wolle",
+  "zubehoer": [
+   "buntpapier",
+   "wolle"
+  ]
  },
  {
   "id": "ksw-papierdrachen-falten",
@@ -7463,7 +10365,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "ein farbiges Papierquadrat (Faltpapier oder buntes Papier) Schnur oder Wolle Krepppapier oder ähnliches"
+  "material": "ein farbiges Papierquadrat (Faltpapier oder buntes Papier) Schnur oder Wolle Krepppapier oder ähnliches",
+  "zubehoer": [
+   "papier",
+   "buntpapier",
+   "faltpapier",
+   "wolle",
+   "krepp"
+  ]
  },
  {
   "id": "ksw-papierflieger-falten",
@@ -7475,7 +10384,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "ein Blatt DINA4-Papier"
+  "material": "ein Blatt DINA4-Papier",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "ksw-papierhut-falten",
@@ -7487,7 +10399,11 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Zeitungspapier oder Tonpapier"
+  "material": "Zeitungspapier oder Tonpapier",
+  "zubehoer": [
+   "papier",
+   "buntpapier"
+  ]
  },
  {
   "id": "ksw-papierschiff-falten",
@@ -7499,7 +10415,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "ein Papierrechteck z.B. ein DINA4-Blatt"
+  "material": "ein Papierrechteck z.B. ein DINA4-Blatt",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "ksw-pappteller-blumen",
@@ -7511,7 +10430,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Pappteller bunte Bastelfarbe grüner Fotokarton"
+  "material": "Pappteller bunte Bastelfarbe grüner Fotokarton",
+  "zubehoer": [
+   "buntpapier",
+   "farbe",
+   "geschirr"
+  ]
  },
  {
   "id": "ksw-partyspiele",
@@ -7535,7 +10459,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Braunes o.ä. Tonpapier Schwarzes, weißes oder beige-farbenes Tonpapier oder Fotokarton Filz- oder Holzstifte"
+  "material": "Braunes o.ä. Tonpapier Schwarzes, weißes oder beige-farbenes Tonpapier oder Fotokarton Filz- oder Holzstifte",
+  "zubehoer": [
+   "papier",
+   "buntpapier",
+   "styropor"
+  ]
  },
  {
   "id": "ksw-pippi-langstrumpf-basteln",
@@ -7547,7 +10476,13 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "hautfarbener Fotokarton roter Fotokarton weißer Fotokarton dicke rote Wolle Wangenrouge (Schminke) ein schwarzer Filz- oder Benzinstift ein schwarzer Holzstift ein Stück Schnur ode…"
+  "material": "hautfarbener Fotokarton roter Fotokarton weißer Fotokarton dicke rote Wolle Wangenrouge (Schminke) ein schwarzer Filz- oder Benzinstift ein schwarzer Holzstift ein Stück Schnur ode…",
+  "zubehoer": [
+   "filzstifte",
+   "buntpapier",
+   "wolle",
+   "styropor"
+  ]
  },
  {
   "id": "ksw-prinzessinnen-spiele",
@@ -7571,7 +10506,13 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Papier Wasserfarben ein Wassergefäß Pinsel Trinkhalme"
+  "material": "Papier Wasserfarben ein Wassergefäß Pinsel Trinkhalme",
+  "zubehoer": [
+   "papier",
+   "wasser",
+   "farbe",
+   "strohhalm"
+  ]
  },
  {
   "id": "ksw-qualle-basteln",
@@ -7583,7 +10524,16 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "weiße Eierkartons orange Bastelfarbe orange Wolle ein schwarzer Filzstift ein roter Holzstift Wackelaugen Faden und Nadel"
+  "material": "weiße Eierkartons orange Bastelfarbe orange Wolle ein schwarzer Filzstift ein roter Holzstift Wackelaugen Faden und Nadel",
+  "zubehoer": [
+   "filzstifte",
+   "karton",
+   "farbe",
+   "wolle",
+   "wackelaugen",
+   "dosen",
+   "suess"
+  ]
  },
  {
   "id": "ksw-rabe-basteln",
@@ -7595,7 +10545,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "schwarzer Fotokarton gelber Fotokarton ein weißer Holzstift"
+  "material": "schwarzer Fotokarton gelber Fotokarton ein weißer Holzstift",
+  "zubehoer": [
+   "buntpapier"
+  ]
  },
  {
   "id": "ksw-raben-basteln",
@@ -7607,7 +10560,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "schwarzer Fotokarton gelber Fotokarton ein weißer Holzstift"
+  "material": "schwarzer Fotokarton gelber Fotokarton ein weißer Holzstift",
+  "zubehoer": [
+   "buntpapier"
+  ]
  },
  {
   "id": "ksw-raben-falten",
@@ -7619,7 +10575,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Schwarzes Tonpapier Gelbes Tonpapier Bunte Federn Wackelaugen"
+  "material": "Schwarzes Tonpapier Gelbes Tonpapier Bunte Federn Wackelaugen",
+  "zubehoer": [
+   "papier",
+   "buntpapier",
+   "wackelaugen"
+  ]
  },
  {
   "id": "ksw-rapunzel-basteln",
@@ -7631,7 +10592,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "eine leere Küchentücherrolle graues Tonpapier rotes Tonpapier gelbes Tonpapier hellblaues Tonpapier farbiges Tonpapier ein schwarzer Holzstift gelbe Wolle ein Band für die Haarschl…"
+  "material": "eine leere Küchentücherrolle graues Tonpapier rotes Tonpapier gelbes Tonpapier hellblaues Tonpapier farbiges Tonpapier ein schwarzer Holzstift gelbe Wolle ein Band für die Haarschl…",
+  "zubehoer": [
+   "papier",
+   "buntpapier",
+   "wolle"
+  ]
  },
  {
   "id": "ksw-rasseln-basteln",
@@ -7643,7 +10609,13 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "zwei leere, gleichgroße Joghurtbecher Reiskörner, Kieselsteine oder ähnliches Klebeband (z.B. Tesakreppband) Kleister buntes Transparentpapier"
+  "material": "zwei leere, gleichgroße Joghurtbecher Reiskörner, Kieselsteine oder ähnliches Klebeband (z.B. Tesakreppband) Kleister buntes Transparentpapier",
+  "zubehoer": [
+   "klebeband",
+   "krepp",
+   "becher",
+   "natur"
+  ]
  },
  {
   "id": "ksw-raupe",
@@ -7656,7 +10628,11 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "grünes Tonpapier oder Fotokarton weißes Tonpapier rotes Tonpapier schwarzes Tonpapier"
+  "material": "grünes Tonpapier oder Fotokarton weißes Tonpapier rotes Tonpapier schwarzes Tonpapier",
+  "zubehoer": [
+   "papier",
+   "buntpapier"
+  ]
  },
  {
   "id": "ksw-raupe-mit-handabdruecken",
@@ -7668,7 +10644,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "grüne Fingerfarbe schwarze Fingerfarbe rote Fingerfarbe weißes Papier oder weißer Karton evtl. großes Papier als Hintergrund"
+  "material": "grüne Fingerfarbe schwarze Fingerfarbe rote Fingerfarbe weißes Papier oder weißer Karton evtl. großes Papier als Hintergrund",
+  "zubehoer": [
+   "papier",
+   "karton",
+   "farbe"
+  ]
  },
  {
   "id": "ksw-raupe-nimmersatt-basteln",
@@ -7680,7 +10661,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Glanzpapier in rot, grün, schwarz und gelb Weißes Papier als Hintergrund"
+  "material": "Glanzpapier in rot, grün, schwarz und gelb Weißes Papier als Hintergrund",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "ksw-raupen-basteln",
@@ -7692,7 +10676,17 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "ein grüner Eierkarton gelbes und grünes Tonpapier rote Bastelfarbe ein schwarzer Filzstift schwarzer Biegeplüsch bzw. Pfeifenputzer eine dicke Nadel oder ähnliches"
+  "material": "ein grüner Eierkarton gelbes und grünes Tonpapier rote Bastelfarbe ein schwarzer Filzstift schwarzer Biegeplüsch bzw. Pfeifenputzer eine dicke Nadel oder ähnliches",
+  "zubehoer": [
+   "papier",
+   "filzstifte",
+   "buntpapier",
+   "karton",
+   "farbe",
+   "pfeifenputzer",
+   "dosen",
+   "suess"
+  ]
  },
  {
   "id": "ksw-regenmacher-basteln",
@@ -7704,7 +10698,16 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Eine leere Chipsdose (z.B. von Pringles) Braunes oder andersfarbiges Tonpapier Holz- oder Wachsstift Ein Stück Hasendraht Kleine Kieselsteine Backpapier Haushaltsgummis Paketschnur…"
+  "material": "Eine leere Chipsdose (z.B. von Pringles) Braunes oder andersfarbiges Tonpapier Holz- oder Wachsstift Ein Stück Hasendraht Kleine Kieselsteine Backpapier Haushaltsgummis Paketschnur…",
+  "zubehoer": [
+   "papier",
+   "buntpapier",
+   "wolle",
+   "gummi",
+   "dosen",
+   "natur",
+   "elektro"
+  ]
  },
  {
   "id": "ksw-reise-nach-jerusalem",
@@ -7716,7 +10719,11 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "einen Stuhl weniger, als Kinder teilnehmen (oder die gleiche Anzahl Esslöffel)"
+  "material": "einen Stuhl weniger, als Kinder teilnehmen (oder die gleiche Anzahl Esslöffel)",
+  "zubehoer": [
+   "geschirr",
+   "stuehle"
+  ]
  },
  {
   "id": "ksw-reisespiele",
@@ -7740,7 +10747,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "ein Ring (Fingerring, Schlüsselring, Gardinenring oder ähnliches)"
+  "material": "ein Ring (Fingerring, Schlüsselring, Gardinenring oder ähnliches)",
+  "zubehoer": [
+   "kleinkram"
+  ]
  },
  {
   "id": "ksw-romeo-und-julia",
@@ -7752,7 +10762,8 @@ const IDEEN = [
   "material": "Kein Material nötig",
   "art": "Spiel",
   "ort": "drinnen",
-  "materialStufe": 0
+  "materialStufe": 0,
+  "zubehoer": []
  },
  {
   "id": "ksw-rosen-basteln",
@@ -7764,7 +10775,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "rotes Krepppapier ein Draht oder stärkerer Bindfaden"
+  "material": "rotes Krepppapier ein Draht oder stärkerer Bindfaden",
+  "zubehoer": [
+   "wolle",
+   "krepp",
+   "elektro"
+  ]
  },
  {
   "id": "ksw-schaf-aus-quarkbecher-basteln",
@@ -7776,7 +10792,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "ein leerer Quarkbecher brauner Fotokarton Wackelaugen Füllwatte oder Soft-Flocks ein roter Knopf 4 braune Pompons"
+  "material": "ein leerer Quarkbecher brauner Fotokarton Wackelaugen Füllwatte oder Soft-Flocks ein roter Knopf 4 braune Pompons",
+  "zubehoer": [
+   "buntpapier",
+   "wackelaugen",
+   "watte",
+   "becher",
+   "kleinkram"
+  ]
  },
  {
   "id": "ksw-schafe-basteln",
@@ -7788,7 +10811,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "weißer Fotokarton brauner Fotokarton weiße Watte Paketschnur Holzstifte Nähgarn"
+  "material": "weißer Fotokarton brauner Fotokarton weiße Watte Paketschnur Holzstifte Nähgarn",
+  "zubehoer": [
+   "buntpapier",
+   "wolle",
+   "watte"
+  ]
  },
  {
   "id": "ksw-schattenfange",
@@ -7800,7 +10828,8 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "draußen",
   "materialStufe": 1,
-  "material": "die Sonne, um einen Schatten werfen zu können"
+  "material": "die Sonne, um einen Schatten werfen zu können",
+  "zubehoer": []
  },
  {
   "id": "ksw-schere-stein-papier",
@@ -7824,7 +10853,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Pappteller grüner Fotokarton grüne Bastelfarbe ein schwarzer Filzstift ein weißer Holzstift Wackelaugen"
+  "material": "Pappteller grüner Fotokarton grüne Bastelfarbe ein schwarzer Filzstift ein weißer Holzstift Wackelaugen",
+  "zubehoer": [
+   "filzstifte",
+   "buntpapier",
+   "farbe",
+   "wackelaugen",
+   "geschirr"
+  ]
  },
  {
   "id": "ksw-schildmuetze-detektiv",
@@ -7836,7 +10872,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "hellgrauer Fotokarton dunkelgrauer Fotokarton weißer Fotokarton schwarzer Fotokarton eine Lochzange Hutgummi ein schwarzer Stift"
+  "material": "hellgrauer Fotokarton dunkelgrauer Fotokarton weißer Fotokarton schwarzer Fotokarton eine Lochzange Hutgummi ein schwarzer Stift",
+  "zubehoer": [
+   "stifte",
+   "buntpapier",
+   "locher"
+  ]
  },
  {
   "id": "ksw-schildmuetze-elefant",
@@ -7848,7 +10889,13 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Grauer Fotokarton Weißer Fotokarton Grüner Fotokarton Rotes und gelbes Seidenpapier o.ä. Ein schwarzer Stift Eine Lochzange Hutgummi"
+  "material": "Grauer Fotokarton Weißer Fotokarton Grüner Fotokarton Rotes und gelbes Seidenpapier o.ä. Ein schwarzer Stift Eine Lochzange Hutgummi",
+  "zubehoer": [
+   "stifte",
+   "buntpapier",
+   "krepp",
+   "locher"
+  ]
  },
  {
   "id": "ksw-schildmuetze-loewe",
@@ -7860,7 +10907,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Brauner Fotokarton Gelber Fotokarton Ein schwarzer Stift Eine Lochzange Hutgummi"
+  "material": "Brauner Fotokarton Gelber Fotokarton Ein schwarzer Stift Eine Lochzange Hutgummi",
+  "zubehoer": [
+   "stifte",
+   "buntpapier",
+   "locher"
+  ]
  },
  {
   "id": "ksw-schildmuetze-rabe",
@@ -7872,7 +10924,13 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Schwarzer Fotokarton Gelber Fotokarton Gelber Biegeplüsch (Pfeifenputzer) Wackelaugen Eine Lochzange Hutgummi"
+  "material": "Schwarzer Fotokarton Gelber Fotokarton Gelber Biegeplüsch (Pfeifenputzer) Wackelaugen Eine Lochzange Hutgummi",
+  "zubehoer": [
+   "buntpapier",
+   "pfeifenputzer",
+   "wackelaugen",
+   "locher"
+  ]
  },
  {
   "id": "ksw-schildmuetze-raupe",
@@ -7884,7 +10942,15 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Grüner Fotokarton Verschiedene Farben Wellpappe (ersatzweise Fotokarton) Weißer Biegeplüsch (Pfeifenputzer) Wackelaugen Roter Fotokarton oder Tonpapier Eine Lochzange Hutgummi"
+  "material": "Grüner Fotokarton Verschiedene Farben Wellpappe (ersatzweise Fotokarton) Weißer Biegeplüsch (Pfeifenputzer) Wackelaugen Roter Fotokarton oder Tonpapier Eine Lochzange Hutgummi",
+  "zubehoer": [
+   "papier",
+   "buntpapier",
+   "karton",
+   "pfeifenputzer",
+   "wackelaugen",
+   "locher"
+  ]
  },
  {
   "id": "ksw-schlange-basteln",
@@ -7896,7 +10962,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "bunter Fotokarton oder buntes Tonpapier weiße und orange bzw. rote Bastelpapierreste Holz- oder Filzstifte"
+  "material": "bunter Fotokarton oder buntes Tonpapier weiße und orange bzw. rote Bastelpapierreste Holz- oder Filzstifte",
+  "zubehoer": [
+   "papier",
+   "filzstifte",
+   "buntpapier"
+  ]
  },
  {
   "id": "ksw-schlangenschwanzfange",
@@ -7908,7 +10979,8 @@ const IDEEN = [
   "material": "Kein Material nötig",
   "art": "Spiel",
   "ort": "draußen",
-  "materialStufe": 0
+  "materialStufe": 0,
+  "zubehoer": []
  },
  {
   "id": "ksw-schloss-basteln",
@@ -7920,7 +10992,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "leere Rollen von Toilettenpapier und Küchenpapier rosanes oder pinkfarbenes Tonpapier pinkfarbene Goldfolie goldenes Tonpapier pinkfarbener Fotokarton ein weißer Stift Holzschaschl…"
+  "material": "leere Rollen von Toilettenpapier und Küchenpapier rosanes oder pinkfarbenes Tonpapier pinkfarbene Goldfolie goldenes Tonpapier pinkfarbener Fotokarton ein weißer Stift Holzschaschl…",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "buntpapier",
+   "kaffeefilter",
+   "folie"
+  ]
  },
  {
   "id": "ksw-schluesselkoenig",
@@ -7932,7 +11011,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Stühle oder Kissen pro Mitspieler ein Schlüsselbund"
+  "material": "Stühle oder Kissen pro Mitspieler ein Schlüsselbund",
+  "zubehoer": [
+   "stuehle"
+  ]
  },
  {
   "id": "ksw-schmetterling-basteln",
@@ -7944,7 +11026,11 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "farbiges Papier oder Tonpapier schwarzer Fotokarton oder Tonpapier"
+  "material": "farbiges Papier oder Tonpapier schwarzer Fotokarton oder Tonpapier",
+  "zubehoer": [
+   "papier",
+   "buntpapier"
+  ]
  },
  {
   "id": "ksw-schmetterling-falten",
@@ -7956,7 +11042,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "farbiges Faltpapier oder buntes Tonpapier hellbraunes Papier oder Tapetenrest"
+  "material": "farbiges Faltpapier oder buntes Tonpapier hellbraunes Papier oder Tapetenrest",
+  "zubehoer": [
+   "papier",
+   "buntpapier",
+   "faltpapier"
+  ]
  },
  {
   "id": "ksw-schmetterling-handabdruck",
@@ -7968,7 +11059,11 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Bunte Fingerfarbe Schwarze Fingerfarbe Farbiger Fotokarton Schwarzen Fotokarton"
+  "material": "Bunte Fingerfarbe Schwarze Fingerfarbe Farbiger Fotokarton Schwarzen Fotokarton",
+  "zubehoer": [
+   "buntpapier",
+   "farbe"
+  ]
  },
  {
   "id": "ksw-schmetterling-klatschtechnik",
@@ -7980,7 +11075,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Architektenpapier bunte Fingerfarben, Berolfarben oder geeignete Bastelfarben schwarzer Fotokarton"
+  "material": "Architektenpapier bunte Fingerfarben, Berolfarben oder geeignete Bastelfarben schwarzer Fotokarton",
+  "zubehoer": [
+   "papier",
+   "buntpapier",
+   "farbe"
+  ]
  },
  {
   "id": "ksw-schmetterling-du-kleines-ding",
@@ -8003,7 +11103,17 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Pappteller schwarze und bunte Bastelfarbe leere Klopapierrollen oder schwarzer Fotokarton schwarze Pfeifenputzer evtl. bunter Fotokarton oder Tonpapier Heißkleber"
+  "material": "Pappteller schwarze und bunte Bastelfarbe leere Klopapierrollen oder schwarzer Fotokarton schwarze Pfeifenputzer evtl. bunter Fotokarton oder Tonpapier Heißkleber",
+  "zubehoer": [
+   "papier",
+   "kleber",
+   "buntpapier",
+   "rollen",
+   "farbe",
+   "pfeifenputzer",
+   "heisskleber",
+   "geschirr"
+  ]
  },
  {
   "id": "ksw-schmetterlinge-basteln",
@@ -8027,7 +11137,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "buntes Tonpapier oder Fotokarton schwarzer Stift"
+  "material": "buntes Tonpapier oder Fotokarton schwarzer Stift",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "buntpapier"
+  ]
  },
  {
   "id": "ksw-schnecken-basteln",
@@ -8039,7 +11154,15 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Pappteller bunte Fingerfarben oder Bastelfarben hautfarbener (teint) Fotokarton braune Pfeifenputzer (Biegeplüsch) schwarzer Stift rotes Seidenpapier oder Krepppapier"
+  "material": "Pappteller bunte Fingerfarben oder Bastelfarben hautfarbener (teint) Fotokarton braune Pfeifenputzer (Biegeplüsch) schwarzer Stift rotes Seidenpapier oder Krepppapier",
+  "zubehoer": [
+   "stifte",
+   "buntpapier",
+   "farbe",
+   "pfeifenputzer",
+   "krepp",
+   "geschirr"
+  ]
  },
  {
   "id": "ksw-schneeballschlacht-im-glas",
@@ -8051,7 +11174,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "eine Vorratsglas Naturbast oder ähnliches weißes Druckerpapier eine Packung Raffaello Gebäckkugeln einen Stanzer für Schneekristalle Fotoklebern, Tesa oder ähnliches"
+  "material": "eine Vorratsglas Naturbast oder ähnliches weißes Druckerpapier eine Packung Raffaello Gebäckkugeln einen Stanzer für Schneekristalle Fotoklebern, Tesa oder ähnliches",
+  "zubehoer": [
+   "papier",
+   "kleber",
+   "klebeband",
+   "glas",
+   "natur"
+  ]
  },
  {
   "id": "ksw-schneegloeckchen-basteln",
@@ -8063,7 +11193,13 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "weißes Papier ein Blatt farbiges Papier Holz- bzw. Filzstifte oder Wachsfarben"
+  "material": "weißes Papier ein Blatt farbiges Papier Holz- bzw. Filzstifte oder Wachsfarben",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "buntpapier"
+  ]
  },
  {
   "id": "ksw-schneegloeckchen-basteln-aus-eierkarton",
@@ -8075,7 +11211,15 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "ein Eierkarton grüner Fotokarton grüner Biegeplüsch bzw. Pfeifenputzer grüne Perlen (z.B. Holzperlen) eine dicke Nadel oder ähnliches"
+  "material": "ein Eierkarton grüner Fotokarton grüner Biegeplüsch bzw. Pfeifenputzer grüne Perlen (z.B. Holzperlen) eine dicke Nadel oder ähnliches",
+  "zubehoer": [
+   "buntpapier",
+   "karton",
+   "pfeifenputzer",
+   "perlen",
+   "dosen",
+   "suess"
+  ]
  },
  {
   "id": "ksw-schokokuesse-essen",
@@ -8087,7 +11231,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "ein Schokokuss/ Schaumkuss pro Mitspieler"
+  "material": "ein Schokokuss/ Schaumkuss pro Mitspieler",
+  "zubehoer": [
+   "suess"
+  ]
  },
  {
   "id": "ksw-schokoladenessen",
@@ -8099,7 +11246,14 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "eine Tafel Schokolade Zeitungspapier Schnur ein Würfel ein Messer eine Gabel Handschuhe Hut oder Mütze ein Schal"
+  "material": "eine Tafel Schokolade Zeitungspapier Schnur ein Würfel ein Messer eine Gabel Handschuhe Hut oder Mütze ein Schal",
+  "zubehoer": [
+   "papier",
+   "wolle",
+   "geschirr",
+   "tuch",
+   "wuerfel"
+  ]
  },
  {
   "id": "ksw-schubkarrenrennen",
@@ -8111,7 +11265,8 @@ const IDEEN = [
   "material": "Kein Material nötig",
   "art": "Spiel",
   "ort": "draußen",
-  "materialStufe": 0
+  "materialStufe": 0,
+  "zubehoer": []
  },
  {
   "id": "ksw-schwein-basteln",
@@ -8123,7 +11278,13 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "rosaner Fotokarton pinkfarbener Fotokarton rosane oder pinkfarbene Pfeifenputzer/ Biegeplüsch Lochzange oder spitze Nadel ein schwarzer Benzin- oder Filzstift"
+  "material": "rosaner Fotokarton pinkfarbener Fotokarton rosane oder pinkfarbene Pfeifenputzer/ Biegeplüsch Lochzange oder spitze Nadel ein schwarzer Benzin- oder Filzstift",
+  "zubehoer": [
+   "filzstifte",
+   "buntpapier",
+   "pfeifenputzer",
+   "locher"
+  ]
  },
  {
   "id": "ksw-schwaenzchenfange",
@@ -8135,7 +11296,11 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "ein Halstuch oder Springseil oder ein längerer Stoffstreifen oder ähnliches pro Mitspieler"
+  "material": "ein Halstuch oder Springseil oder ein längerer Stoffstreifen oder ähnliches pro Mitspieler",
+  "zubehoer": [
+   "tuch",
+   "huetchen"
+  ]
  },
  {
   "id": "ksw-seerose-basteln",
@@ -8147,7 +11312,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "weißes oder farbiges Druckerpapier gelbe Holzstifte ein Gefäß mit Wasser"
+  "material": "weißes oder farbiges Druckerpapier gelbe Holzstifte ein Gefäß mit Wasser",
+  "zubehoer": [
+   "papier",
+   "wasser",
+   "buntpapier"
+  ]
  },
  {
   "id": "ksw-seilschnappen",
@@ -8159,7 +11329,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "draußen",
   "materialStufe": 1,
-  "material": "ein Seil"
+  "material": "ein Seil",
+  "zubehoer": [
+   "huetchen"
+  ]
  },
  {
   "id": "ksw-slalomlauf",
@@ -8171,7 +11344,13 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "beides",
   "materialStufe": 1,
-  "material": "eine markierte Startlinie (z.B. mit Kreide gemalt oder mit Kreppband aufgeklebt) Körbe Stühle Eimer Kisten etc."
+  "material": "eine markierte Startlinie (z.B. mit Kreide gemalt oder mit Kreppband aufgeklebt) Körbe Stühle Eimer Kisten etc.",
+  "zubehoer": [
+   "klebeband",
+   "stuehle",
+   "kreide",
+   "eimer"
+  ]
  },
  {
   "id": "ksw-sonne-aus-pappteller",
@@ -8183,7 +11362,11 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Pappteller gelbe Bastelfarbe"
+  "material": "Pappteller gelbe Bastelfarbe",
+  "zubehoer": [
+   "farbe",
+   "geschirr"
+  ]
  },
  {
   "id": "ksw-sonne-basteln",
@@ -8195,7 +11378,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "verschiedene Papiersorten z.B. Fotokarton, Tonpapier, Transparentpapier, Glanzpapier, Seidenpapier in den Farbtönen gelb, orange und evtl. rot Tapetenkleister"
+  "material": "verschiedene Papiersorten z.B. Fotokarton, Tonpapier, Transparentpapier, Glanzpapier, Seidenpapier in den Farbtönen gelb, orange und evtl. rot Tapetenkleister",
+  "zubehoer": [
+   "papier",
+   "buntpapier",
+   "krepp"
+  ]
  },
  {
   "id": "ksw-sonnenblume-basteln",
@@ -8208,7 +11396,11 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "gelber Fotokarton braune Wellpappe"
+  "material": "gelber Fotokarton braune Wellpappe",
+  "zubehoer": [
+   "buntpapier",
+   "karton"
+  ]
  },
  {
   "id": "ksw-sonnenblume-handabdruck",
@@ -8220,7 +11412,11 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "ein großes Stück weißen Fotokarton gelbe Fingerfarbe braune Fingerfarbe orange Fingerfarbe grüne Fingerfarbe grüner Fotokarton"
+  "material": "ein großes Stück weißen Fotokarton gelbe Fingerfarbe braune Fingerfarbe orange Fingerfarbe grüne Fingerfarbe grüner Fotokarton",
+  "zubehoer": [
+   "buntpapier",
+   "farbe"
+  ]
  },
  {
   "id": "ksw-sonnenblume-mit-kartoffeldruck",
@@ -8232,7 +11428,11 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "weißes Papier Kartoffeln ein Küchenmesser Wasserfarben oder Bastelfarbe"
+  "material": "weißes Papier Kartoffeln ein Küchenmesser Wasserfarben oder Bastelfarbe",
+  "zubehoer": [
+   "papier",
+   "farbe"
+  ]
  },
  {
   "id": "ksw-sonnenblume-mit-schnipseltechnik",
@@ -8244,7 +11444,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Grünes Tonpapier oder grüner Fotokarton als Hintergrund Glanzpapier in gelb und grün Krepppapier in gelb und schwarz"
+  "material": "Grünes Tonpapier oder grüner Fotokarton als Hintergrund Glanzpapier in gelb und grün Krepppapier in gelb und schwarz",
+  "zubehoer": [
+   "papier",
+   "buntpapier",
+   "krepp"
+  ]
  },
  {
   "id": "ksw-sonnenblumen-basteln",
@@ -8256,7 +11461,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "gelber Fotokarton brauner Fotokarton grüner Fotokarton"
+  "material": "gelber Fotokarton brauner Fotokarton grüner Fotokarton",
+  "zubehoer": [
+   "buntpapier"
+  ]
  },
  {
   "id": "ksw-spiele-fuer-unterwegs",
@@ -8281,7 +11489,11 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "draußen",
   "materialStufe": 1,
-  "material": "Schnee, leere Konservendosen oder ähnliches Stellt z.B. ein paar leere Konservendosen auf. Macht euch mehrere ungefähr gleichgroße Schneebälle. Versucht nun nacheinander die Dosen …"
+  "material": "Schnee, leere Konservendosen oder ähnliches Stellt z.B. ein paar leere Konservendosen auf. Macht euch mehrere ungefähr gleichgroße Schneebälle. Versucht nun nacheinander die Dosen …",
+  "zubehoer": [
+   "dosen",
+   "ball"
+  ]
  },
  {
   "id": "ksw-spiele-im-wasser",
@@ -8317,7 +11529,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "eine leere Klopapierrolle schwarze Bastelfarbe schwarzer und weißer Fotokarton ein Locher ein schwarzer Filzstift"
+  "material": "eine leere Klopapierrolle schwarze Bastelfarbe schwarzer und weißer Fotokarton ein Locher ein schwarzer Filzstift",
+  "zubehoer": [
+   "filzstifte",
+   "buntpapier",
+   "rollen",
+   "farbe",
+   "locher"
+  ]
  },
  {
   "id": "ksw-spinnen-basteln",
@@ -8330,7 +11549,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "schwarzer Fotokarton ein Unterteller, Blumentopf oder ähnliches als Schablone eine Zackenschere schwarzer Biegeplüsch/ schwarze Pfeifenputzer eine Lochzange, Nadel oder ähnliches w…"
+  "material": "schwarzer Fotokarton ein Unterteller, Blumentopf oder ähnliches als Schablone eine Zackenschere schwarzer Biegeplüsch/ schwarze Pfeifenputzer eine Lochzange, Nadel oder ähnliches w…",
+  "zubehoer": [
+   "schere",
+   "buntpapier",
+   "pfeifenputzer",
+   "locher",
+   "geschirr"
+  ]
  },
  {
   "id": "ksw-spinnen-fingerabdruck",
@@ -8342,7 +11568,11 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "schwarze Fingerfarbe oder ersatzweise ein schwarzes Stempelkissen weißer Fotokarton bunte Holzstifte"
+  "material": "schwarze Fingerfarbe oder ersatzweise ein schwarzes Stempelkissen weißer Fotokarton bunte Holzstifte",
+  "zubehoer": [
+   "buntpapier",
+   "farbe"
+  ]
  },
  {
   "id": "ksw-spinnen-lolli-basteln",
@@ -8354,7 +11584,11 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "ein kugelförmiger Lolli schwarze Pfeifenputzer Wackelaugen"
+  "material": "ein kugelförmiger Lolli schwarze Pfeifenputzer Wackelaugen",
+  "zubehoer": [
+   "pfeifenputzer",
+   "wackelaugen"
+  ]
  },
  {
   "id": "ksw-spinnenlampe-basteln",
@@ -8366,7 +11600,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Frühstücksbeutel bzw. Butterbrottüte Papier ein schwarzer Stift (z.B. Edding Benzinstift) ein Glas (Trinkglas, Babynahrungsgläschen o.ä.) ein Teelicht"
+  "material": "Frühstücksbeutel bzw. Butterbrottüte Papier ein schwarzer Stift (z.B. Edding Benzinstift) ein Glas (Trinkglas, Babynahrungsgläschen o.ä.) ein Teelicht",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "buntpapier",
+   "glas"
+  ]
  },
  {
   "id": "ksw-spinnenrennen",
@@ -8378,7 +11619,13 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "beim Mannschaftsspiel: zwei Wassereimer o.ä. als Wendepunkte eine Straßenmalkreide oder Klebeband oder ein Seil zur Markierung der Start- und Ziellinie."
+  "material": "beim Mannschaftsspiel: zwei Wassereimer o.ä. als Wendepunkte eine Straßenmalkreide oder Klebeband oder ein Seil zur Markierung der Start- und Ziellinie.",
+  "zubehoer": [
+   "klebeband",
+   "kreide",
+   "huetchen",
+   "eimer"
+  ]
  },
  {
   "id": "ksw-stern-basteln",
@@ -8390,7 +11637,11 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "silberner Fotokarton oder dicke holografische Folie"
+  "material": "silberner Fotokarton oder dicke holografische Folie",
+  "zubehoer": [
+   "buntpapier",
+   "folie"
+  ]
  },
  {
   "id": "ksw-sterne-falten",
@@ -8402,7 +11653,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Gold- oder Silberfolie"
+  "material": "Gold- oder Silberfolie",
+  "zubehoer": [
+   "folie"
+  ]
  },
  {
   "id": "ksw-sternenlicht-basteln",
@@ -8414,7 +11668,11 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Frühstücksbeutel bzw. Butterbrottüten Gold- oder Silberfolie ein Babynahrungsgläschen oder Trinkglas ein Teelicht"
+  "material": "Frühstücksbeutel bzw. Butterbrottüten Gold- oder Silberfolie ein Babynahrungsgläschen oder Trinkglas ein Teelicht",
+  "zubehoer": [
+   "glas",
+   "folie"
+  ]
  },
  {
   "id": "ksw-stoppball",
@@ -8426,7 +11684,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "draußen",
   "materialStufe": 1,
-  "material": "ein Ball"
+  "material": "ein Ball",
+  "zubehoer": [
+   "ball"
+  ]
  },
  {
   "id": "ksw-storch-basteln",
@@ -8438,7 +11699,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 3,
-  "material": "weißer Fotokarton roter Fotokarton schwarze Farbe (z.B. Fingerfarbe, Abtönfarbe oder ähnliches) schwarzer Filzstift oder Benzinstift Glitzischwamm"
+  "material": "weißer Fotokarton roter Fotokarton schwarze Farbe (z.B. Fingerfarbe, Abtönfarbe oder ähnliches) schwarzer Filzstift oder Benzinstift Glitzischwamm",
+  "zubehoer": [
+   "filzstifte",
+   "buntpapier",
+   "farbe"
+  ]
  },
  {
   "id": "ksw-summende-biene-spiel",
@@ -8450,7 +11716,8 @@ const IDEEN = [
   "material": "Kein Material nötig",
   "art": "Spiel",
   "ort": "drinnen",
-  "materialStufe": 0
+  "materialStufe": 0,
+  "zubehoer": []
  },
  {
   "id": "ksw-suessigkeiten-memory",
@@ -8462,7 +11729,11 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Pappbecher kleine Naschereien in doppelter Ausführung"
+  "material": "Pappbecher kleine Naschereien in doppelter Ausführung",
+  "zubehoer": [
+   "schere",
+   "becher"
+  ]
  },
  {
   "id": "ksw-tablettlauf",
@@ -8474,7 +11745,14 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "draußen",
   "materialStufe": 1,
-  "material": "zwei Tabletts mit jeweils Teller und Ball oder Bauklotzturm o.ä. zwei leere Wassereimer oder ähnliches als Wendepunkt"
+  "material": "zwei Tabletts mit jeweils Teller und Ball oder Bauklotzturm o.ä. zwei leere Wassereimer oder ähnliches als Wendepunkt",
+  "zubehoer": [
+   "geschirr",
+   "kleinkram",
+   "ball",
+   "huetchen",
+   "eimer"
+  ]
  },
  {
   "id": "ksw-tanzende-luftballons",
@@ -8486,7 +11764,11 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "einige Luftballons Abdeckfolie"
+  "material": "einige Luftballons Abdeckfolie",
+  "zubehoer": [
+   "ballon",
+   "folie"
+  ]
  },
  {
   "id": "ksw-taschenlampenfange",
@@ -8498,7 +11780,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "zwei Taschenlampen"
+  "material": "zwei Taschenlampen",
+  "zubehoer": [
+   "taschenlampe"
+  ]
  },
  {
   "id": "ksw-tausendfuesslerlauf",
@@ -8510,7 +11795,14 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "beides",
   "materialStufe": 1,
-  "material": "eine markierte Startlinie (z.B. mit Kreide gemalt oder mit Kreppband aufgeklebt) zwei Wendepunkte (z.B. ein Wassereimer, Stuhl oder ein Verkehrshütchen/ Pylon)"
+  "material": "eine markierte Startlinie (z.B. mit Kreide gemalt oder mit Kreppband aufgeklebt) zwei Wendepunkte (z.B. ein Wassereimer, Stuhl oder ein Verkehrshütchen/ Pylon)",
+  "zubehoer": [
+   "klebeband",
+   "stuehle",
+   "kreide",
+   "huetchen",
+   "eimer"
+  ]
  },
  {
   "id": "ksw-teekessel-spiele-fur-altere-kinder",
@@ -8522,7 +11814,8 @@ const IDEEN = [
   "material": "Kein Material nötig",
   "art": "Spiel",
   "ort": "drinnen",
-  "materialStufe": 0
+  "materialStufe": 0,
+  "zubehoer": []
  },
  {
   "id": "ksw-tellerdrehen",
@@ -8534,7 +11827,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "ein Teller (am besten ein Plastikteller oder ein älterer Teller, bei dem es nicht schlimm wäre, wenn er kaputt ginge) oder ein älterer Topfdeckel"
+  "material": "ein Teller (am besten ein Plastikteller oder ein älterer Teller, bei dem es nicht schlimm wäre, wenn er kaputt ginge) oder ein älterer Topfdeckel",
+  "zubehoer": [
+   "geschirr"
+  ]
  },
  {
   "id": "ksw-tiere-falten",
@@ -8558,7 +11854,12 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "mehre Blätter Papier Stifte"
+  "material": "mehre Blätter Papier Stifte",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "natur"
+  ]
  },
  {
   "id": "ksw-tierwaerter",
@@ -8570,7 +11871,11 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Unterschiedliche Tiere z.B. Stofftiere, Schleichtiere, Holztiere (eines mehr als die Anzahl der Mitspieler) eine größere Kiste/ Karton oder Korb"
+  "material": "Unterschiedliche Tiere z.B. Stofftiere, Schleichtiere, Holztiere (eines mehr als die Anzahl der Mitspieler) eine größere Kiste/ Karton oder Korb",
+  "zubehoer": [
+   "karton",
+   "eimer"
+  ]
  },
  {
   "id": "ksw-tipi-basteln",
@@ -8582,7 +11887,11 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Hautfarbener (teint) Fotokarton Brauner Fotokarton Bunte Holz- oder Filzstifte"
+  "material": "Hautfarbener (teint) Fotokarton Brauner Fotokarton Bunte Holz- oder Filzstifte",
+  "zubehoer": [
+   "filzstifte",
+   "buntpapier"
+  ]
  },
  {
   "id": "ksw-tischdeko-basteln",
@@ -8606,7 +11915,11 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "ein Kochtopf ein Kochlöffel eine Augenbinde oder ein Tuch/ Schal ein Preis (Süßes oder kleine Geschenke)"
+  "material": "ein Kochtopf ein Kochlöffel eine Augenbinde oder ein Tuch/ Schal ein Preis (Süßes oder kleine Geschenke)",
+  "zubehoer": [
+   "geschirr",
+   "tuch"
+  ]
  },
  {
   "id": "ksw-treff-das-loch-murmelspiele",
@@ -8618,7 +11931,11 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "draußen",
   "materialStufe": 2,
-  "material": "etwa 10 Glasmurmeln pro Mitspieler evtl. Straßenkreide"
+  "material": "etwa 10 Glasmurmeln pro Mitspieler evtl. Straßenkreide",
+  "zubehoer": [
+   "glas",
+   "kreide"
+  ]
  },
  {
   "id": "ksw-tulpen-falten",
@@ -8630,7 +11947,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "farbiges Faltpapier oder buntes Tonpapier ein Blatt Papier Holz- bzw. Filzstifte oder Wachsfarben"
+  "material": "farbiges Faltpapier oder buntes Tonpapier ein Blatt Papier Holz- bzw. Filzstifte oder Wachsfarben",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "filzstifte",
+   "buntpapier",
+   "faltpapier"
+  ]
  },
  {
   "id": "ksw-verliebt-verlobt-verheiratet",
@@ -8642,7 +11966,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "draußen",
   "materialStufe": 1,
-  "material": "ein Ball"
+  "material": "ein Ball",
+  "zubehoer": [
+   "ball"
+  ]
  },
  {
   "id": "ksw-verstecke-im-dunkeln",
@@ -8654,7 +11981,8 @@ const IDEEN = [
   "material": "Kein Material nötig",
   "art": "Spiel",
   "ort": "drinnen",
-  "materialStufe": 0
+  "materialStufe": 0,
+  "zubehoer": []
  },
  {
   "id": "ksw-versteinerungstanz",
@@ -8666,7 +11994,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Musik"
+  "material": "Musik",
+  "zubehoer": [
+   "musik"
+  ]
  },
  {
   "id": "ksw-vogel-aus-papier-basteln",
@@ -8678,7 +12009,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "weißer Fotokarton hellbrauner Fotokarton gelber Fotokarton Zeitungspapier Federn Lochzange oder dicke Nadel für das Loch helles Garn oder Wolle bzw. Schnur 2 Knöpfe Nähgarn und Nad…"
+  "material": "weißer Fotokarton hellbrauner Fotokarton gelber Fotokarton Zeitungspapier Federn Lochzange oder dicke Nadel für das Loch helles Garn oder Wolle bzw. Schnur 2 Knöpfe Nähgarn und Nad…",
+  "zubehoer": [
+   "papier",
+   "buntpapier",
+   "wolle",
+   "locher",
+   "kleinkram"
+  ]
  },
  {
   "id": "ksw-vogel-basteln",
@@ -8690,7 +12028,17 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "ein Pappteller bunte Bastelfarbe gelber Biegeplüsch bzw. Pfeifenputzer roter Fotokarton bunte Federn Wackelaugen gelber Fotokarton Nähgarn Heißkleber"
+  "material": "ein Pappteller bunte Bastelfarbe gelber Biegeplüsch bzw. Pfeifenputzer roter Fotokarton bunte Federn Wackelaugen gelber Fotokarton Nähgarn Heißkleber",
+  "zubehoer": [
+   "kleber",
+   "buntpapier",
+   "farbe",
+   "wolle",
+   "pfeifenputzer",
+   "wackelaugen",
+   "heisskleber",
+   "geschirr"
+  ]
  },
  {
   "id": "ksw-von-einer-nase-zur-anderen",
@@ -8702,7 +12050,11 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "die Hülse einer Streichholzschachtel"
+  "material": "die Hülse einer Streichholzschachtel",
+  "zubehoer": [
+   "dosen",
+   "kerze"
+  ]
  },
  {
   "id": "ksw-vulkan-basteln",
@@ -8714,7 +12066,11 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 3,
-  "material": "Bauschaum bzw. Montageschaum (gibts im Baumarkt) Zeitungen Backpapier Alufolie ein Brotmesser graue Abtönfarbe o.ä.(schwarze und weiße oder gleich feritggemischte graue Farbe gibts…"
+  "material": "Bauschaum bzw. Montageschaum (gibts im Baumarkt) Zeitungen Backpapier Alufolie ein Brotmesser graue Abtönfarbe o.ä.(schwarze und weiße oder gleich feritggemischte graue Farbe gibts…",
+  "zubehoer": [
+   "farbe",
+   "folie"
+  ]
  },
  {
   "id": "ksw-wal-basteln",
@@ -8726,7 +12082,17 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "weiße Eierkartons blaue Bastelfarbe blauer Fotokarton blaue Pfeifenputzer ein schwarzer Filzstift Wackelaugen"
+  "material": "weiße Eierkartons blaue Bastelfarbe blauer Fotokarton blaue Pfeifenputzer ein schwarzer Filzstift Wackelaugen",
+  "zubehoer": [
+   "filzstifte",
+   "buntpapier",
+   "karton",
+   "farbe",
+   "pfeifenputzer",
+   "wackelaugen",
+   "dosen",
+   "suess"
+  ]
  },
  {
   "id": "ksw-waldspiele",
@@ -8750,7 +12116,12 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "draußen",
   "materialStufe": 1,
-  "material": "einen Becher pro Mitspieler vier Wassereimer oder große wasserdichte Gefäße"
+  "material": "einen Becher pro Mitspieler vier Wassereimer oder große wasserdichte Gefäße",
+  "zubehoer": [
+   "wasser",
+   "becher",
+   "eimer"
+  ]
  },
  {
   "id": "ksw-watte-blasen",
@@ -8762,7 +12133,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "ein Wattebausch"
+  "material": "ein Wattebausch",
+  "zubehoer": [
+   "watte"
+  ]
  },
  {
   "id": "ksw-wer-bin-ich",
@@ -8774,7 +12148,11 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Klebezettel oder kleine Zettel und Tesafilm ein Stift, evtl. ein Hut/ eine Mütze eine Sicherheitsnadel"
+  "material": "Klebezettel oder kleine Zettel und Tesafilm ein Stift, evtl. ein Hut/ eine Mütze eine Sicherheitsnadel",
+  "zubehoer": [
+   "stifte",
+   "klebeband"
+  ]
  },
  {
   "id": "ksw-wer-hat-den-schaerfsten-blick",
@@ -8786,7 +12164,8 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "ein Sitzplatz für jedes Kind"
+  "material": "ein Sitzplatz für jedes Kind",
+  "zubehoer": []
  },
  {
   "id": "ksw-wer-ist-das",
@@ -8798,7 +12177,8 @@ const IDEEN = [
   "material": "Kein Material nötig",
   "art": "Spiel",
   "ort": "beides",
-  "materialStufe": 0
+  "materialStufe": 0,
+  "zubehoer": []
  },
  {
   "id": "ksw-wer-rupft",
@@ -8810,7 +12190,8 @@ const IDEEN = [
   "material": "Kein Material nötig",
   "art": "Spiel",
   "ort": "drinnen",
-  "materialStufe": 0
+  "materialStufe": 0,
+  "zubehoer": []
  },
  {
   "id": "ksw-wettrennen-der-tiere",
@@ -8822,7 +12203,11 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "beides",
   "materialStufe": 1,
-  "material": "eine markierte Startlinie und eine Ziellinie (z.B. mit Kreide gemalt oder mit Kreppband aufgeklebt)"
+  "material": "eine markierte Startlinie und eine Ziellinie (z.B. mit Kreide gemalt oder mit Kreppband aufgeklebt)",
+  "zubehoer": [
+   "klebeband",
+   "kreide"
+  ]
  },
  {
   "id": "ksw-windlicht-dekoration",
@@ -8835,7 +12220,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "bunte Herbstblätter ein Einmachglas o.ä. Naturbast evtl. Hackschnitzel aus Holz oder feiner Sand eine Kerze"
+  "material": "bunte Herbstblätter ein Einmachglas o.ä. Naturbast evtl. Hackschnitzel aus Holz oder feiner Sand eine Kerze",
+  "zubehoer": [
+   "glas",
+   "natur",
+   "kerze"
+  ]
  },
  {
   "id": "ksw-windlicht-fussball",
@@ -8847,7 +12237,13 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "ein Einmachglas o.ä. weißes Druckerpapier Naturbast Sand ein großes Teelicht oder eine Kerze"
+  "material": "ein Einmachglas o.ä. weißes Druckerpapier Naturbast Sand ein großes Teelicht oder eine Kerze",
+  "zubehoer": [
+   "papier",
+   "glas",
+   "natur",
+   "kerze"
+  ]
  },
  {
   "id": "ksw-windlicht-meer",
@@ -8859,7 +12255,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "ein Einmachglas feinen Sand eine Kerze oder ein größeres Teelicht verschiedene Muscheln Naturbast"
+  "material": "ein Einmachglas feinen Sand eine Kerze oder ein größeres Teelicht verschiedene Muscheln Naturbast",
+  "zubehoer": [
+   "glas",
+   "natur",
+   "kerze"
+  ]
  },
  {
   "id": "ksw-windlicht-sommer",
@@ -8871,7 +12272,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "ein Einmachglas schöne Steine Wasser Blüten und Blätter ein Stück Naturbast"
+  "material": "ein Einmachglas schöne Steine Wasser Blüten und Blätter ein Stück Naturbast",
+  "zubehoer": [
+   "wasser",
+   "glas",
+   "natur"
+  ]
  },
  {
   "id": "ksw-windlicht-weihnachten",
@@ -8883,7 +12289,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "ein Einmachglas o.ä. Naturbast feiner Sand eine Kerze oder ein größeres Teelicht roter, gelber oder goldener Fotokarton bzw. Tonpapier"
+  "material": "ein Einmachglas o.ä. Naturbast feiner Sand eine Kerze oder ein größeres Teelicht roter, gelber oder goldener Fotokarton bzw. Tonpapier",
+  "zubehoer": [
+   "papier",
+   "buntpapier",
+   "glas",
+   "natur",
+   "kerze"
+  ]
  },
  {
   "id": "ksw-windlichter-basteln",
@@ -8896,7 +12309,12 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "bunte Herbstblätter ein Einmachglas o.ä. Naturbast evtl. Hackschnitzel aus Holz oder feiner Sand eine Kerze"
+  "material": "bunte Herbstblätter ein Einmachglas o.ä. Naturbast evtl. Hackschnitzel aus Holz oder feiner Sand eine Kerze",
+  "zubehoer": [
+   "glas",
+   "natur",
+   "kerze"
+  ]
  },
  {
   "id": "ksw-windrad-basteln",
@@ -8908,7 +12326,11 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "Papierquadrat aus buntem Papier oder Tonpapier eine Stecknadel ein Weinkorken"
+  "material": "Papierquadrat aus buntem Papier oder Tonpapier eine Stecknadel ein Weinkorken",
+  "zubehoer": [
+   "papier",
+   "buntpapier"
+  ]
  },
  {
   "id": "ksw-windrad-falten",
@@ -8920,7 +12342,11 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Papierquadrat aus buntem Papier"
+  "material": "Papierquadrat aus buntem Papier",
+  "zubehoer": [
+   "papier",
+   "buntpapier"
+  ]
  },
  {
   "id": "ksw-suessigkeiten-verstecke",
@@ -8932,7 +12358,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "Eine Süßigkeit pro Kind z.B. ein kleines Tütchen Gummibärchen oder ein Lutscher"
+  "material": "Eine Süßigkeit pro Kind z.B. ein kleines Tütchen Gummibärchen oder ein Lutscher",
+  "zubehoer": [
+   "suess"
+  ]
  },
  {
   "id": "ksw-waescheklammer-suche",
@@ -8944,7 +12373,12 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "zwei Tücher oder Schals zum Verbinden der Augen 10 Wäscheklammern ein Blatt Papier ein Stift eine Stoppuhr oder ein anderes Utensil zum Zeitmessen"
+  "material": "zwei Tücher oder Schals zum Verbinden der Augen 10 Wäscheklammern ein Blatt Papier ein Stift eine Stoppuhr oder ein anderes Utensil zum Zeitmessen",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "klammern"
+  ]
  },
  {
   "id": "ksw-woerter-bilden",
@@ -8956,7 +12390,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "ein Tuch mit einem Knoten"
+  "material": "ein Tuch mit einem Knoten",
+  "zubehoer": [
+   "tuch"
+  ]
  },
  {
   "id": "ksw-zaubertricks-fuer-kinder",
@@ -8980,7 +12417,10 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "ein farbiges, rechteckiges Papier z.B. im DINA5-Format"
+  "material": "ein farbiges, rechteckiges Papier z.B. im DINA5-Format",
+  "zubehoer": [
+   "papier"
+  ]
  },
  {
   "id": "ksw-zeitungstanz",
@@ -8992,7 +12432,10 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "drinnen",
   "materialStufe": 1,
-  "material": "alte Zeitungen (z.B. Tagespresse) Musik"
+  "material": "alte Zeitungen (z.B. Tagespresse) Musik",
+  "zubehoer": [
+   "musik"
+  ]
  },
  {
   "id": "ksw-zepter-basteln",
@@ -9004,7 +12447,14 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "material": "ein Rundholzstab Goldfolie oder farbige Goldfolie goldener oder andersfarbiger Fotokarton holografische Glitzerfolie, künstliche Edelsteine oder ähnliches"
+  "material": "ein Rundholzstab Goldfolie oder farbige Goldfolie goldener oder andersfarbiger Fotokarton holografische Glitzerfolie, künstliche Edelsteine oder ähnliches",
+  "zubehoer": [
+   "buntpapier",
+   "glitzer",
+   "holzstaebe",
+   "folie",
+   "natur"
+  ]
  },
  {
   "id": "ksw-zick-zack-mitmachgeschichte",
@@ -9027,7 +12477,12 @@ const IDEEN = [
   "art": "Spiel",
   "ort": "draußen",
   "materialStufe": 2,
-  "material": "pro Mitspieler eine Glasmurmel evtl. Straßenkreide zur Markierung des Spielfeldes"
+  "material": "pro Mitspieler eine Glasmurmel evtl. Straßenkreide zur Markierung des Spielfeldes",
+  "zubehoer": [
+   "glas",
+   "kreide",
+   "huetchen"
+  ]
  },
  {
   "id": "ksw-zublinzeln",
@@ -9039,6 +12494,7 @@ const IDEEN = [
   "material": "Kein Material nötig",
   "art": "Spiel",
   "ort": "beides",
-  "materialStufe": 0
+  "materialStufe": 0,
+  "zubehoer": []
  }
 ];
