@@ -1,8 +1,245 @@
 const IDEEN = [
  {
+  "id": "neuro-farbfolge-pfad",
+  "name": "Farbfolge-Pfad",
+  "art": "Neuro",
+  "ort": "drinnen",
+  "materialStufe": 1,
+  "abAlter": 5,
+  "beschreibung": "Punkte in einer festen Farbreihenfolge verbinden – Rot, Gelb, Blau, Grün, Lila und wieder von vorn. Planen, bevor der Stift losläuft.",
+  "material": "Ausdruck, Stift",
+  "anleitung": "vorlagen/farbfolge-pfad.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "stifte"
+  ]
+ },
+ {
+  "id": "neuro-zahlenkreis",
+  "name": "Zahlen der Reihe nach finden",
+  "art": "Neuro",
+  "ort": "drinnen",
+  "materialStufe": 1,
+  "abAlter": 6,
+  "beschreibung": "Gedrehte Zahlen liegen wild im Kreis verteilt – der Reihe nach antippen, so schnell es geht.",
+  "material": "Ausdruck",
+  "anleitung": "vorlagen/zahlenkreis.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier"
+  ]
+ },
+ {
+  "id": "neuro-wuerfel-farbcode",
+  "name": "Würfelbilder nach Farbcode",
+  "art": "Neuro",
+  "ort": "drinnen",
+  "materialStufe": 2,
+  "abAlter": 4,
+  "beschreibung": "Würfelbilder auf einen Blick erkennen und nach Farbcode anmalen – Mengen sehen statt zählen.",
+  "material": "Ausdruck, Buntstifte",
+  "anleitung": "vorlagen/wuerfel-farbcode.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "stifte"
+  ]
+ },
+ {
+  "id": "neuro-farb-hand-pfad",
+  "name": "Farb-Hand-Pfad",
+  "art": "Neuro",
+  "ort": "drinnen",
+  "materialStufe": 1,
+  "abAlter": 4,
+  "beschreibung": "Eine bunte Punkteschlange mit der richtigen Hand abklatschen: Rot links, Grün rechts, Gelb beide.",
+  "material": "Ausdruck",
+  "anleitung": "vorlagen/farb-hand-pfad.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier"
+  ]
+ },
+ {
+  "id": "neuro-gesten-code",
+  "name": "Gesten-Code",
+  "art": "Neuro",
+  "ort": "drinnen",
+  "materialStufe": 1,
+  "abAlter": 5,
+  "beschreibung": "Eine Hand zeigt auf den Punkt, die andere macht das passende Handzeichen zur Farbe – beide Hände arbeiten gleichzeitig.",
+  "material": "Ausdruck",
+  "anleitung": "vorlagen/gesten-code.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier"
+  ]
+ },
+ {
+  "id": "neuro-zickzack-spirale",
+  "name": "Zickzack-Spirale-Challenge",
+  "art": "Neuro",
+  "ort": "drinnen",
+  "materialStufe": 2,
+  "abAlter": 6,
+  "beschreibung": "Eine Hand malt Zickzack, die andere gleichzeitig eine Spirale – knifflig für Groß und Klein.",
+  "material": "Ausdruck, 2 Stifte, Klebeband",
+  "anleitung": "vorlagen/zickzack-spirale.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "klebeband"
+  ]
+ },
+ {
+  "id": "neuro-ringe-nachmalen",
+  "name": "Ringe nachmalen",
+  "art": "Neuro",
+  "ort": "drinnen",
+  "materialStufe": 2,
+  "abAlter": 4,
+  "beschreibung": "Bunte Ring-Kreise genau in der gleichen Farbreihenfolge nachmalen – schult den genauen Blick.",
+  "material": "Ausdruck, Buntstifte",
+  "anleitung": "vorlagen/ringe-nachmalen.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "stifte"
+  ]
+ },
+ {
+  "id": "neuro-haende-leiter",
+  "name": "Hände-Leiter an der Wand",
+  "art": "Neuro",
+  "ort": "drinnen",
+  "materialStufe": 1,
+  "abAlter": 4,
+  "beschreibung": "Hände auf gedrehte Umrisse an der Wand legen und Stufe für Stufe nach oben klettern – links/rechts spielerisch.",
+  "material": "Ausdruck, Klebeband",
+  "anleitung": "vorlagen/haende-leiter.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "klebeband"
+  ]
+ },
+ {
+  "id": "neuro-farbe-zeichen-code",
+  "name": "Farbe-Zeichen-Code",
+  "art": "Neuro",
+  "ort": "drinnen",
+  "materialStufe": 2,
+  "abAlter": 6,
+  "beschreibung": "Jede Farbe bekommt ein Zeichen (Strich, Kreuz, Punkt) – alle Kreise nach Code markieren, wie eine Geheimschrift.",
+  "material": "Ausdruck, Stift",
+  "anleitung": "vorlagen/farbe-zeichen-code.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "stifte"
+  ]
+ },
+ {
+  "id": "neuro-muster-fortsetzen",
+  "name": "Muster fortsetzen",
+  "art": "Neuro",
+  "ort": "drinnen",
+  "materialStufe": 2,
+  "abAlter": 4,
+  "beschreibung": "Wellen, Zacken und Schleifen nachfahren und bis zum Rand weitermalen.",
+  "material": "Ausdruck, Stift",
+  "anleitung": "vorlagen/muster-fortsetzen.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "stifte"
+  ]
+ },
+ {
+  "id": "neuro-formen-staebchen",
+  "name": "Formen mit Stäbchen legen",
+  "art": "Neuro",
+  "ort": "drinnen",
+  "materialStufe": 1,
+  "abAlter": 4,
+  "beschreibung": "Haus, Boot oder Rakete mit bunten Stäbchen oder Buntstiften genau nachlegen.",
+  "material": "Ausdruck, Buntstifte oder Eisstiele",
+  "anleitung": "vorlagen/formen-staebchen.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "holzstaebe"
+  ]
+ },
+ {
+  "id": "neuro-symmetrie-tippen",
+  "name": "Symmetrie-Tippen beidhändig",
+  "art": "Neuro",
+  "ort": "drinnen",
+  "materialStufe": 1,
+  "abAlter": 5,
+  "beschreibung": "Beide Zeigefinger tippen gleichzeitig gespiegelte Formen ab – wie zwei Hände im Spiegel.",
+  "material": "Ausdruck",
+  "anleitung": "vorlagen/symmetrie-tippen.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier"
+  ]
+ },
+ {
+  "id": "neuro-formen-suchraster",
+  "name": "Formen-Suchraster",
+  "art": "Neuro",
+  "ort": "drinnen",
+  "materialStufe": 1,
+  "abAlter": 5,
+  "beschreibung": "In einem bunten Formen-Raster gezielt suchen: alle roten Dreiecke, alle blauen Kreise …",
+  "material": "Ausdruck, Knöpfe",
+  "anleitung": "vorlagen/formen-suchraster.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "kleinkram"
+  ]
+ },
+ {
+  "id": "neuro-boden-raster",
+  "name": "Boden-Raster mit Symbolkarten",
+  "art": "Neuro",
+  "ort": "drinnen",
+  "materialStufe": 2,
+  "abAlter": 5,
+  "beschreibung": "Ein großes Raster auf dem Boden und Symbolkarten: Muster ansehen, merken und mit dem ganzen Körper nachlegen.",
+  "material": "Klebeband oder Kreide, Ausdruck, Schere",
+  "anleitung": "vorlagen/boden-raster.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "schere",
+   "klebeband",
+   "kreide"
+  ]
+ },
+ {
+  "id": "neuro-fingerzeichen-spiegeln",
+  "name": "Fingerzeichen spiegeln",
+  "art": "Neuro",
+  "ort": "drinnen",
+  "materialStufe": 0,
+  "abAlter": 5,
+  "beschreibung": "Zwei verschiedene Handzeichen gleichzeitig zeigen – das Kind spiegelt sie blitzschnell.",
+  "material": "nichts",
+  "anleitung": "vorlagen/fingerzeichen-spiegeln.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": []
+ },
+ {
   "id": "konz-punkte-tippen",
   "name": "Punkte-Tippen mit zwei Händen",
-  "art": "Konzentration",
+  "art": "Neuro",
   "ort": "drinnen",
   "materialStufe": 1,
   "abAlter": 4,
@@ -18,7 +255,7 @@ const IDEEN = [
  {
   "id": "konz-becher-bauplan",
   "name": "Becher-Turm nach Bauplan",
-  "art": "Konzentration",
+  "art": "Neuro",
   "ort": "drinnen",
   "materialStufe": 1,
   "abAlter": 4,
@@ -34,7 +271,7 @@ const IDEEN = [
  {
   "id": "konz-becher-pfeilweg",
   "name": "Becher-Versteck mit Pfeilweg",
-  "art": "Konzentration",
+  "art": "Neuro",
   "ort": "drinnen",
   "materialStufe": 1,
   "abAlter": 6,
@@ -51,7 +288,7 @@ const IDEEN = [
  {
   "id": "konz-farb-ampel",
   "name": "Farb-Ampel-Reaktion",
-  "art": "Konzentration",
+  "art": "Neuro",
   "ort": "drinnen",
   "materialStufe": 1,
   "abAlter": 3,
@@ -67,7 +304,7 @@ const IDEEN = [
  {
   "id": "konz-zahlencode",
   "name": "Zahlencode in Farben",
-  "art": "Konzentration",
+  "art": "Neuro",
   "ort": "drinnen",
   "materialStufe": 2,
   "abAlter": 6,
@@ -84,7 +321,7 @@ const IDEEN = [
  {
   "id": "konz-symbol-raster",
   "name": "Symbol-Raster aus dem Gedächtnis",
-  "art": "Konzentration",
+  "art": "Neuro",
   "ort": "drinnen",
   "materialStufe": 2,
   "abAlter": 5,
@@ -101,7 +338,7 @@ const IDEEN = [
  {
   "id": "konz-spiegelzahlen",
   "name": "Spiegelzahlen-Jagd",
-  "art": "Konzentration",
+  "art": "Neuro",
   "ort": "drinnen",
   "materialStufe": 1,
   "abAlter": 6,
@@ -132,7 +369,7 @@ const IDEEN = [
  {
   "id": "konz-farbpunkte",
   "name": "Farbpunkte verbinden",
-  "art": "Konzentration",
+  "art": "Neuro",
   "ort": "drinnen",
   "materialStufe": 2,
   "abAlter": 5,
@@ -148,7 +385,7 @@ const IDEEN = [
  {
   "id": "konz-beidhaendig",
   "name": "Beidhändig malen",
-  "art": "Konzentration",
+  "art": "Neuro",
   "ort": "drinnen",
   "materialStufe": 2,
   "abAlter": 5,
@@ -165,7 +402,7 @@ const IDEEN = [
  {
   "id": "konz-schwunguebungen",
   "name": "Schwungübungen",
-  "art": "Konzentration",
+  "art": "Neuro",
   "ort": "drinnen",
   "materialStufe": 1,
   "abAlter": 4,
@@ -196,7 +433,7 @@ const IDEEN = [
  {
   "id": "konz-muster-nachlegen",
   "name": "Schwarz-Weiß-Muster nachlegen",
-  "art": "Konzentration",
+  "art": "Neuro",
   "ort": "drinnen",
   "materialStufe": 2,
   "abAlter": 5,
@@ -212,7 +449,7 @@ const IDEEN = [
  {
   "id": "konz-hand-twister",
   "name": "Hand-Twister am Tisch",
-  "art": "Konzentration",
+  "art": "Neuro",
   "ort": "drinnen",
   "materialStufe": 1,
   "abAlter": 4,
@@ -227,7 +464,7 @@ const IDEEN = [
  {
   "id": "konz-farbwoerter",
   "name": "Farbwörter-Verwirrung",
-  "art": "Konzentration",
+  "art": "Neuro",
   "ort": "drinnen",
   "materialStufe": 1,
   "abAlter": 8,
@@ -335,7 +572,7 @@ const IDEEN = [
  {
   "id": "konz-w-liegende-acht",
   "name": "Liegende Acht und Überkreuz-Bewegung",
-  "art": "Konzentration",
+  "art": "Neuro",
   "ort": "drinnen",
   "materialStufe": 0,
   "abAlter": 4,
@@ -348,7 +585,7 @@ const IDEEN = [
  {
   "id": "konz-w-brain-gym",
   "name": "Brain-Gym-Übungen für Kinder",
-  "art": "Konzentration",
+  "art": "Neuro",
   "ort": "drinnen",
   "materialStufe": 0,
   "abAlter": 6,
@@ -362,7 +599,7 @@ const IDEEN = [
  {
   "id": "konz-w-kinesiologie",
   "name": "30 Kinesiologie-Übungen für Kleine",
-  "art": "Konzentration",
+  "art": "Neuro",
   "ort": "drinnen",
   "materialStufe": 0,
   "abAlter": 3,
