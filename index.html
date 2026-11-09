@@ -106,12 +106,76 @@
   @media (prefers-color-scheme: dark) { .missing { color: #f0a070; } }
   footer { text-align: center; font-size: .8rem; color: var(--muted); padding: 24px 16px 40px; }
 </style>
+
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Nunito:wght@500;700&display=swap" rel="stylesheet">
+<style>
+  /* ===== Design B: Knete & Wolken (Soft-3D / Claymorphism) ===== */
+  :root { --bg:#eef0ff; --card:rgba(255,255,255,.78); --text:#2a2550; --muted:#6d6896; --accent:#7b5cff; --accent-soft:#e9e3ff; --line:rgba(123,92,255,.14); --radius:28px; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#141228; --card:rgba(38,34,70,.78); --text:#f1eeff; --muted:#aaa3d6; --accent:#a58bff; --accent-soft:#2e2858; --line:rgba(165,139,255,.2); } }
+  body { font-family: Nunito, system-ui, sans-serif; min-height:100vh; background: var(--bg); position:relative; overflow-x:hidden; }
+  body::before, body::after { content:""; position:fixed; z-index:-1; border-radius:50%; filter: blur(60px); opacity:.55; animation: drift 18s ease-in-out infinite alternate; }
+  body::before { width:520px; height:520px; background:#ffc6e5; top:-140px; right:-120px; }
+  body::after { width:460px; height:460px; background:#b9f3e4; bottom:-160px; left:-140px; animation-delay:-6s; }
+  @keyframes drift { to { transform: translate(40px, 30px) scale(1.08); } }
+  header { background: transparent; border:none; padding: 20px 16px 6px; }
+  .hero { display:grid; gap:22px; grid-template-columns: 1.1fr 1fr; align-items:center; margin: 6px 0 20px; }
+  @media (max-width: 760px) { .hero { grid-template-columns: 1fr; } }
+  .eyebrow { margin:0 0 8px; color: var(--accent); font-family:Fredoka, sans-serif; font-weight:600; letter-spacing:.04em; }
+  .hero-title { font-family:Fredoka, sans-serif; font-weight:700; font-size: clamp(2.4rem, 6.5vw, 4.2rem); line-height:1; margin:0; letter-spacing:-.02em;
+    background: linear-gradient(100deg, #7b5cff, #ff6fb5 55%, #ffb547); -webkit-background-clip:text; background-clip:text; color:transparent; }
+  .hero-sub { color: var(--muted); font-size:1.08rem; max-width: 44ch; }
+  .tiles { display:grid; grid-template-columns: 1fr 1fr; gap:14px; }
+  .tile { display:flex; flex-direction:column; align-items:center; gap:4px; padding:18px 10px; border-radius:30px; font-family:inherit; color:#2a2550;
+    box-shadow: inset -6px -8px 14px rgba(0,0,0,.08), inset 6px 8px 14px rgba(255,255,255,.75), 0 14px 28px -10px rgba(60,40,140,.35);
+    transition: transform .25s cubic-bezier(.34,1.56,.64,1); }
+  .tile:hover { transform: translateY(-5px) scale(1.03); }
+  .tile.on { transform: scale(.96); outline: 3px solid var(--accent); outline-offset: 4px; }
+  .t-spiel{background:#ffd9a8} .t-basteln{background:#ffc6e5} .t-experiment{background:#b9f3e4} .t-konz{background:#d6ccff}
+  .ti { font-size:2.3rem; filter: drop-shadow(0 6px 6px rgba(0,0,0,.15)); } .tn { font-family:Fredoka,sans-serif; font-weight:600; font-size:1.2rem; } .tc { font-size:.82rem; opacity:.7; }
+  input[type="search"] { border:none; border-radius:999px; padding:14px 20px; background: var(--card); backdrop-filter: blur(12px); box-shadow: 0 10px 30px -12px rgba(60,40,140,.35); }
+  button { border-radius:999px; font-family: Fredoka, sans-serif; font-weight:600; }
+  #random { background: linear-gradient(135deg,#7b5cff,#ff6fb5); box-shadow: 0 10px 24px -8px rgba(123,92,255,.7); }
+  button.ghost { background: var(--card); border:none; box-shadow: 0 6px 18px -8px rgba(60,40,140,.35); }
+  .badge { background: var(--accent); color:#fff; }
+  #filter { background: var(--card); backdrop-filter: blur(16px); border-radius: 28px; padding:16px; box-shadow: 0 20px 40px -20px rgba(60,40,140,.35); }
+  .chip { border:none; background: var(--accent-soft); color: var(--text); }
+  .chip.active { background: var(--accent); color:#fff; box-shadow: 0 6px 14px -6px var(--accent); }
+  #vorratPanel { border:none; border-radius:22px; }
+  .grid { gap:22px; }
+  .card { border:none; border-radius:28px; background: var(--card); backdrop-filter: blur(14px);
+    box-shadow: 0 1px 0 rgba(255,255,255,.6) inset, 0 18px 40px -22px rgba(60,40,140,.45); transition: transform .3s cubic-bezier(.34,1.56,.64,1), box-shadow .3s; position:relative; overflow:hidden; }
+  .card::before { content:""; position:absolute; top:-40px; right:-40px; width:120px; height:120px; border-radius:50%; opacity:.5; }
+  .card[data-art="Spiel"]::before{background:#ffd9a8} .card[data-art="Basteln"]::before{background:#ffc6e5}
+  .card[data-art="Experiment"]::before{background:#b9f3e4} .card[data-art="Konzentration"]::before{background:#d6ccff}
+  .card > * { position:relative; }
+  .card:hover { transform: translateY(-6px); box-shadow: 0 28px 50px -24px rgba(60,40,140,.55); }
+  .card h2 { font-family:Fredoka,sans-serif; font-weight:600; font-size:1.25rem; }
+  .tag { background: var(--accent-soft); border-radius:999px; }
+  .links a { border:none; border-radius:999px; background: var(--accent); color:#fff; box-shadow: 0 8px 18px -10px var(--accent); }
+  .fav.on { color:#ff6fb5; }
+  .count { font-family:Fredoka,sans-serif; font-weight:600; color: var(--text); }
+  @media (prefers-reduced-motion: reduce) { *, body::before, body::after { animation:none !important; transition:none !important; } }
+</style>
 </head>
 <body>
 
 <header>
   <div class="wrap">
-    <h1>Kreativ-<span>Games</span></h1>
+
+    <section class="hero">
+      <div class="hero-text">
+        <p class="eyebrow">Kreativ-Games</p>
+        <h1 class="hero-title">Heute wird's bunt.</h1>
+        <p class="hero-sub">Über <b id="heroCount">600</b> Spiel-, Bastel- und Experimentideen für Kinder – gefiltert nach Alter, Ort und dem, was ihr zu Hause habt.</p>
+      </div>
+      <div class="tiles">
+        <button class="tile t-spiel" data-art="Spiel"><span class="ti">🎲</span><span class="tn">Spiele</span><span class="tc" data-c="Spiel"></span></button>
+        <button class="tile t-basteln" data-art="Basteln"><span class="ti">✂️</span><span class="tn">Basteln</span><span class="tc" data-c="Basteln"></span></button>
+        <button class="tile t-experiment" data-art="Experiment"><span class="ti">🔬</span><span class="tn">Experimente</span><span class="tc" data-c="Experiment"></span></button>
+        <button class="tile t-konz" data-art="Konzentration"><span class="ti">🧠</span><span class="tn">Konzentration</span><span class="tc" data-c="Konzentration"></span></button>
+      </div>
+    </section>
     <div class="row">
       <input type="search" id="search" placeholder="Suchen (z. B. Luftballon, Ostern, Merken) …">
       <button class="ghost" id="toggleFilter">Filter<span class="badge" id="filterCount">0</span></button>
@@ -274,6 +338,7 @@ function renderFilter() {
 }
 
 function geaendert() {
+  if (typeof markTiles === 'function') markTiles();
   sichtbar = SEITE;
   speichern(STORE_FILTER, filter);
   renderFilter();
@@ -321,7 +386,7 @@ function karte(i) {
   const fav = favoriten.has(i.id);
   const matTag = i.materialStufe in MATERIAL_TAG ? MATERIAL_TAG[i.materialStufe] : "Material: verschieden";
   return `
-    <article class="card" id="card-${esc(i.id)}">
+    <article class="card" data-art="${esc(i.art)}" id="card-${esc(i.id)}">
       <div class="card-head">
         <h2>${esc(i.name)}</h2>
         <button class="fav ${fav ? "on" : ""}" data-id="${esc(i.id)}" aria-label="Favorit">${fav ? "★" : "☆"}</button>
@@ -427,6 +492,19 @@ function vorratGeaendert() {
 }
 el("vorratToggle").addEventListener("click", () => { vorratOffen = !vorratOffen; renderVorrat(); });
 
+
+/* ---------- Hero-Kacheln ---------- */
+el("heroCount").textContent = IDEEN.length;
+document.querySelectorAll(".tc").forEach(s => s.textContent = IDEEN.filter(i => i.art === s.dataset.c).length + " Ideen");
+document.querySelectorAll(".tile").forEach(t => t.addEventListener("click", () => {
+  filter.art = filter.art === t.dataset.art ? "" : t.dataset.art;
+  geaendert();
+  markTiles();
+  el("count").scrollIntoView({ behavior: "smooth", block: "start" });
+}));
+function markTiles() { document.querySelectorAll(".tile").forEach(t => t.classList.toggle("on", filter.art === t.dataset.art)); }
+markTiles();
+const _geaendert = geaendert;
 renderFilter();
 renderVorrat();
 render();
