@@ -397,7 +397,8 @@ const IDEEN = [
    "becher",
    "wuerfel"
   ],
-  "druck": "schneiden"
+  "druck": "schneiden",
+  "anleitungSW": "vorlagen/sw/zahlenkarten-becher.pdf"
  },
  {
   "id": "konz-becher-schnappen",
@@ -433,7 +434,8 @@ const IDEEN = [
    "becher",
    "wuerfel"
   ],
-  "druck": "schneiden"
+  "druck": "schneiden",
+  "anleitungSW": "vorlagen/sw/becher-rennbahn.pdf"
  },
  {
   "id": "konz-ballon-becher-multitasking",
@@ -486,7 +488,8 @@ const IDEEN = [
    "papier",
    "schere"
   ],
-  "druck": "schneiden"
+  "druck": "schneiden",
+  "anleitungSW": "vorlagen/sw/farbverbindung-kaertchen.pdf"
  },
  {
   "id": "neuro-farb-twister-boden",
@@ -505,7 +508,8 @@ const IDEEN = [
    "klebeband",
    "buntpapier"
   ],
-  "druck": "schneiden"
+  "druck": "schneiden",
+  "anleitungSW": "vorlagen/sw/farb-twister-boden.pdf"
  },
  {
   "id": "neuro-baelle-netzplan",
@@ -523,7 +527,8 @@ const IDEEN = [
    "rollen",
    "becher"
   ],
-  "druck": "schneiden"
+  "druck": "schneiden",
+  "anleitungSW": "vorlagen/sw/baelle-netzplan.pdf"
  },
  {
   "id": "neuro-sonnenstrahlen",
@@ -560,7 +565,8 @@ const IDEEN = [
    "schere",
    "geschirr"
   ],
-  "druck": "schneiden"
+  "druck": "schneiden",
+  "anleitungSW": "vorlagen/sw/stab-tippen-pfeil.pdf"
  },
  {
   "id": "neuro-wo-war-es",
@@ -593,7 +599,8 @@ const IDEEN = [
    "papier",
    "schere"
   ],
-  "druck": "schneiden"
+  "druck": "schneiden",
+  "anleitungSW": "vorlagen/sw/eisstiel-farbcode.pdf"
  },
  {
   "id": "neuro-kreisraster-muster",
@@ -610,7 +617,8 @@ const IDEEN = [
    "papier",
    "schere"
   ],
-  "druck": "schneiden"
+  "druck": "schneiden",
+  "anleitungSW": "vorlagen/sw/kreisraster-muster.pdf"
  },
  {
   "id": "neuro-flaschen-sortieren",
@@ -814,7 +822,8 @@ const IDEEN = [
    "papier",
    "stifte"
   ],
-  "druck": "blatt"
+  "druck": "blatt",
+  "anleitungSW": "vorlagen/sw/farbfolge-pfad.pdf"
  },
  {
   "id": "neuro-zahlenkreis",
@@ -847,7 +856,8 @@ const IDEEN = [
    "papier",
    "stifte"
   ],
-  "druck": "blatt"
+  "druck": "blatt",
+  "anleitungSW": "vorlagen/sw/wuerfel-farbcode.pdf"
  },
  {
   "id": "neuro-farb-hand-pfad",
@@ -863,7 +873,8 @@ const IDEEN = [
   "zubehoer": [
    "papier"
   ],
-  "druck": "blatt"
+  "druck": "blatt",
+  "anleitungSW": "vorlagen/sw/farb-hand-pfad.pdf"
  },
  {
   "id": "neuro-gesten-code",
@@ -879,7 +890,8 @@ const IDEEN = [
   "zubehoer": [
    "papier"
   ],
-  "druck": "blatt"
+  "druck": "blatt",
+  "anleitungSW": "vorlagen/sw/gesten-code.pdf"
  },
  {
   "id": "neuro-zickzack-spirale",
@@ -914,7 +926,8 @@ const IDEEN = [
    "papier",
    "stifte"
   ],
-  "druck": "blatt"
+  "druck": "blatt",
+  "anleitungSW": "vorlagen/sw/ringe-nachmalen.pdf"
  },
  {
   "id": "neuro-haende-leiter",
@@ -948,7 +961,8 @@ const IDEEN = [
    "papier",
    "stifte"
   ],
-  "druck": "blatt"
+  "druck": "blatt",
+  "anleitungSW": "vorlagen/sw/farbe-zeichen-code.pdf"
  },
  {
   "id": "neuro-muster-fortsetzen",
@@ -1016,7 +1030,8 @@ const IDEEN = [
    "papier",
    "kleinkram"
   ],
-  "druck": "blatt"
+  "druck": "blatt",
+  "anleitungSW": "vorlagen/sw/formen-suchraster.pdf"
  },
  {
   "id": "neuro-boden-raster",
@@ -1066,7 +1081,8 @@ const IDEEN = [
    "papier",
    "klebeband"
   ],
-  "druck": "blatt"
+  "druck": "blatt",
+  "anleitungSW": "vorlagen/sw/punkte-tippen.pdf"
  },
  {
   "id": "konz-becher-bauplan",
@@ -1083,7 +1099,8 @@ const IDEEN = [
    "papier",
    "becher"
   ],
-  "druck": "blatt"
+  "druck": "blatt",
+  "anleitungSW": "vorlagen/sw/becher-bauplan.pdf"
  },
  {
   "id": "konz-becher-pfeilweg",
@@ -1118,7 +1135,8 @@ const IDEEN = [
    "papier",
    "becher"
   ],
-  "druck": "schneiden"
+  "druck": "schneiden",
+  "anleitungSW": "vorlagen/sw/farb-ampel.pdf"
  },
  {
   "id": "konz-zahlencode",
@@ -1136,7 +1154,8 @@ const IDEEN = [
    "stifte",
    "perlen"
   ],
-  "druck": "blatt"
+  "druck": "blatt",
+  "anleitungSW": "vorlagen/sw/zahlencode.pdf"
  },
  {
   "id": "konz-symbol-raster",
@@ -1204,7 +1223,8 @@ const IDEEN = [
    "papier",
    "stifte"
   ],
-  "druck": "blatt"
+  "druck": "blatt",
+  "anleitungSW": "vorlagen/sw/farbpunkte.pdf"
  },
  {
   "id": "konz-beidhaendig",
@@ -1288,7 +1308,8 @@ const IDEEN = [
   "zubehoer": [
    "papier"
   ],
-  "druck": "blatt"
+  "druck": "blatt",
+  "anleitungSW": "vorlagen/sw/hand-twister.pdf"
  },
  {
   "id": "konz-farbwoerter",
