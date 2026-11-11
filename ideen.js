@@ -1,5 +1,113 @@
 const IDEEN = [
  {
+  "id": "konz-diy-karton-flipper",
+  "name": "Karton-Flipper",
+  "art": "Konzentration",
+  "ort": "drinnen",
+  "materialStufe": 2,
+  "abAlter": 6,
+  "beschreibung": "Einen Flipper aus Karton, Klopapierrollen und Gummiband bauen und Kugeln in Punkte-Löcher schießen.",
+  "material": "Karton, Klopapierrollen, Gummiband, Klammern, Murmeln",
+  "anleitung": "vorlagen/karton-flipper.pdf",
+  "quelle": "eigene Anleitung",
+  "zubehoer": [
+   "karton",
+   "rollen",
+   "klammern",
+   "gummi"
+  ]
+ },
+ {
+  "id": "konz-diy-kipp-kiste",
+  "name": "Kipp-Kiste mit Farblöchern",
+  "art": "Konzentration",
+  "ort": "drinnen",
+  "materialStufe": 2,
+  "abAlter": 5,
+  "beschreibung": "Eine Kiste so kippen, dass jeder Ball ins Loch seiner Farbe rollt – Feinmotorik und Geduld.",
+  "material": "Karton, Schere, Farben, bunte Bälle",
+  "anleitung": "vorlagen/kipp-kiste.pdf",
+  "quelle": "eigene Anleitung",
+  "zubehoer": [
+   "schere",
+   "karton",
+   "ball"
+  ]
+ },
+ {
+  "id": "konz-diy-glas-treffer",
+  "name": "Glas-Treffer mit Aufprall",
+  "art": "Konzentration",
+  "ort": "drinnen",
+  "materialStufe": 1,
+  "abAlter": 6,
+  "beschreibung": "Tischtennisbälle auftippen lassen, sodass sie ins Glas springen – wer schafft zuerst fünf?",
+  "material": "Plastikgläser oder Becher, Tischtennisbälle, 2 Schüsseln",
+  "anleitung": "vorlagen/glas-treffer.pdf",
+  "quelle": "eigene Anleitung",
+  "zubehoer": [
+   "becher",
+   "geschirr",
+   "ball"
+  ]
+ },
+ {
+  "id": "konz-diy-wuerfel-kugelbahn",
+  "name": "Würfel-Kugelbahn",
+  "art": "Konzentration",
+  "ort": "drinnen",
+  "materialStufe": 2,
+  "abAlter": 5,
+  "beschreibung": "Kugelbahn aus Karton mit Würfel- und Zahlenfächern: Würfelbild der passenden Zahl zuordnen.",
+  "material": "Karton, Schere, Kleber, Stifte, Bälle",
+  "anleitung": "vorlagen/wuerfel-kugelbahn.pdf",
+  "quelle": "eigene Anleitung",
+  "zubehoer": [
+   "stifte",
+   "schere",
+   "kleber",
+   "karton",
+   "ball"
+  ]
+ },
+ {
+  "id": "konz-diy-huetchen-kegeln",
+  "name": "Hütchen-Kegeln mit Ballrampe",
+  "art": "Konzentration",
+  "ort": "drinnen",
+  "materialStufe": 1,
+  "abAlter": 4,
+  "beschreibung": "Rampe ausrichten und genau das Hütchen in der angesagten Farbe umwerfen.",
+  "material": "Karton, Stuhl, Ball, Klopapierrollen oder Flaschen",
+  "anleitung": "vorlagen/huetchen-kegeln.pdf",
+  "quelle": "eigene Anleitung",
+  "zubehoer": [
+   "karton",
+   "rollen",
+   "glas",
+   "ball",
+   "stuehle"
+  ]
+ },
+ {
+  "id": "konz-diy-loch-teller",
+  "name": "Loch-Teller-Balance",
+  "art": "Konzentration",
+  "ort": "drinnen",
+  "materialStufe": 1,
+  "abAlter": 5,
+  "beschreibung": "Bälle auf einer Pappscheibe so kippen, dass sie einzeln durchs Loch in die Schüssel fallen.",
+  "material": "Pappteller oder Karton, Schere, kleine Bälle, Schüssel",
+  "anleitung": "vorlagen/loch-teller.pdf",
+  "quelle": "eigene Anleitung",
+  "zubehoer": [
+   "schere",
+   "karton",
+   "geschirr",
+   "ball"
+  ]
+ },
+ {
   "id": "lesen-lese-befehle",
   "name": "Lese-Befehle",
   "art": "Lesen",
