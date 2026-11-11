@@ -15,7 +15,8 @@ const IDEEN = [
    "rollen",
    "klammern",
    "gummi"
-  ]
+  ],
+  "druck": "anleitung"
  },
  {
   "id": "konz-diy-kipp-kiste",
@@ -32,7 +33,8 @@ const IDEEN = [
    "schere",
    "karton",
    "ball"
-  ]
+  ],
+  "druck": "anleitung"
  },
  {
   "id": "konz-diy-glas-treffer",
@@ -49,7 +51,8 @@ const IDEEN = [
    "becher",
    "geschirr",
    "ball"
-  ]
+  ],
+  "druck": "anleitung"
  },
  {
   "id": "konz-diy-wuerfel-kugelbahn",
@@ -68,7 +71,8 @@ const IDEEN = [
    "kleber",
    "karton",
    "ball"
-  ]
+  ],
+  "druck": "anleitung"
  },
  {
   "id": "konz-diy-huetchen-kegeln",
@@ -87,7 +91,8 @@ const IDEEN = [
    "glas",
    "ball",
    "stuehle"
-  ]
+  ],
+  "druck": "anleitung"
  },
  {
   "id": "konz-diy-loch-teller",
@@ -105,7 +110,8 @@ const IDEEN = [
    "karton",
    "geschirr",
    "ball"
-  ]
+  ],
+  "druck": "anleitung"
  },
  {
   "id": "lesen-lese-befehle",
@@ -121,7 +127,8 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "schere"
-  ]
+  ],
+  "druck": "schneiden"
  },
  {
   "id": "lesen-lese-schatzsuche",
@@ -137,7 +144,8 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "stifte"
-  ]
+  ],
+  "druck": "schneiden"
  },
  {
   "id": "lesen-geheimbotschaft",
@@ -153,7 +161,8 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "stifte"
-  ]
+  ],
+  "druck": "blatt"
  },
  {
   "id": "lesen-woerter-bingo",
@@ -170,7 +179,8 @@ const IDEEN = [
    "papier",
    "schere",
    "kleinkram"
-  ]
+  ],
+  "druck": "schneiden"
  },
  {
   "id": "lesen-silben-puzzle",
@@ -186,7 +196,8 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "schere"
-  ]
+  ],
+  "druck": "schneiden"
  },
  {
   "id": "lesen-quatsch-detektiv",
@@ -202,7 +213,8 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "stifte"
-  ]
+  ],
+  "druck": "blatt"
  },
  {
   "id": "lesen-satz-salat",
@@ -218,7 +230,8 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "schere"
-  ]
+  ],
+  "druck": "schneiden"
  },
  {
   "id": "lesen-lesen-und-malen",
@@ -234,7 +247,8 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "stifte"
-  ]
+  ],
+  "druck": "blatt"
  },
  {
   "id": "lesen-pantomime-lesekarten",
@@ -250,7 +264,8 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "schere"
-  ]
+  ],
+  "druck": "schneiden"
  },
  {
   "id": "lesen-raetsel-karten",
@@ -266,7 +281,8 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "schere"
-  ]
+  ],
+  "druck": "schneiden"
  },
  {
   "id": "lesen-woerter-klatsche",
@@ -283,7 +299,8 @@ const IDEEN = [
    "papier",
    "stifte",
    "klebeband"
-  ]
+  ],
+  "druck": "anleitung"
  },
  {
   "id": "lesen-rezept-vorlesen",
@@ -296,7 +313,8 @@ const IDEEN = [
   "material": "Rezept, Zutaten",
   "anleitung": "vorlagen/rezept-vorlesen.pdf",
   "quelle": "eigene Anleitung und Vorlage",
-  "zubehoer": []
+  "zubehoer": [],
+  "druck": "anleitung"
  },
  {
   "id": "lesen-einkaufs-detektiv",
@@ -309,7 +327,8 @@ const IDEEN = [
   "material": "Einkaufszettel",
   "anleitung": "vorlagen/einkaufs-detektiv.pdf",
   "quelle": "eigene Anleitung und Vorlage",
-  "zubehoer": []
+  "zubehoer": [],
+  "druck": "anleitung"
  },
  {
   "id": "lesen-lesehoehle",
@@ -326,7 +345,8 @@ const IDEEN = [
    "tuch",
    "kleinkram",
    "taschenlampe"
-  ]
+  ],
+  "druck": "anleitung"
  },
  {
   "id": "lesen-buchstaben-jagd",
@@ -341,7 +361,8 @@ const IDEEN = [
   "quelle": "eigene Anleitung und Vorlage",
   "zubehoer": [
    "filzstifte"
-  ]
+  ],
+  "druck": "anleitung"
  },
  {
   "id": "lesen-silben-huepfen",
@@ -357,7 +378,8 @@ const IDEEN = [
   "zubehoer": [
    "klebeband",
    "kreide"
-  ]
+  ],
+  "druck": "anleitung"
  },
  {
   "id": "konz-zahlenkarten-becher",
@@ -374,7 +396,8 @@ const IDEEN = [
    "papier",
    "becher",
    "wuerfel"
-  ]
+  ],
+  "druck": "schneiden"
  },
  {
   "id": "konz-becher-schnappen",
@@ -391,7 +414,8 @@ const IDEEN = [
    "papier",
    "becher",
    "wuerfel"
-  ]
+  ],
+  "druck": "anleitung"
  },
  {
   "id": "konz-becher-rennbahn",
@@ -408,7 +432,8 @@ const IDEEN = [
    "papier",
    "becher",
    "wuerfel"
-  ]
+  ],
+  "druck": "schneiden"
  },
  {
   "id": "konz-ballon-becher-multitasking",
@@ -424,7 +449,8 @@ const IDEEN = [
   "zubehoer": [
    "becher",
    "ballon"
-  ]
+  ],
+  "druck": "anleitung"
  },
  {
   "id": "konz-eierkarton-ping-pong",
@@ -442,7 +468,8 @@ const IDEEN = [
    "geschirr",
    "ball",
    "suess"
-  ]
+  ],
+  "druck": "anleitung"
  },
  {
   "id": "neuro-farbverbindung-kaertchen",
@@ -458,7 +485,8 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "schere"
-  ]
+  ],
+  "druck": "schneiden"
  },
  {
   "id": "neuro-farb-twister-boden",
@@ -476,7 +504,8 @@ const IDEEN = [
    "schere",
    "klebeband",
    "buntpapier"
-  ]
+  ],
+  "druck": "schneiden"
  },
  {
   "id": "neuro-baelle-netzplan",
@@ -493,7 +522,8 @@ const IDEEN = [
    "papier",
    "rollen",
    "becher"
-  ]
+  ],
+  "druck": "schneiden"
  },
  {
   "id": "neuro-sonnenstrahlen",
@@ -511,7 +541,8 @@ const IDEEN = [
    "stifte",
    "schere",
    "holzstaebe"
-  ]
+  ],
+  "druck": "schneiden"
  },
  {
   "id": "neuro-stab-tippen-pfeil",
@@ -528,7 +559,8 @@ const IDEEN = [
    "papier",
    "schere",
    "geschirr"
-  ]
+  ],
+  "druck": "schneiden"
  },
  {
   "id": "neuro-wo-war-es",
@@ -543,7 +575,8 @@ const IDEEN = [
   "quelle": "eigene Anleitung und Vorlage",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "druck": "anleitung"
  },
  {
   "id": "neuro-eisstiel-farbcode",
@@ -559,7 +592,8 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "schere"
-  ]
+  ],
+  "druck": "schneiden"
  },
  {
   "id": "neuro-kreisraster-muster",
@@ -575,7 +609,8 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "schere"
-  ]
+  ],
+  "druck": "schneiden"
  },
  {
   "id": "neuro-flaschen-sortieren",
@@ -593,7 +628,8 @@ const IDEEN = [
    "klebeband",
    "glas",
    "ball"
-  ]
+  ],
+  "druck": "anleitung"
  },
  {
   "id": "neuro-huetchen-sichtschutz",
@@ -610,7 +646,8 @@ const IDEEN = [
    "becher",
    "kleinkram",
    "ball"
-  ]
+  ],
+  "druck": "anleitung"
  },
  {
   "id": "neuro-becher-am-stab",
@@ -628,7 +665,8 @@ const IDEEN = [
    "becher",
    "geschirr",
    "ball"
-  ]
+  ],
+  "druck": "anleitung"
  },
  {
   "id": "konz-diy-zahlen-roulette",
@@ -647,7 +685,8 @@ const IDEEN = [
    "klebeband",
    "karton",
    "ball"
-  ]
+  ],
+  "druck": "anleitung"
  },
  {
   "id": "konz-diy-ball-aufzug",
@@ -664,7 +703,8 @@ const IDEEN = [
    "karton",
    "cutter",
    "ball"
-  ]
+  ],
+  "druck": "anleitung"
  },
  {
   "id": "konz-diy-eierkarton-puzzle",
@@ -682,7 +722,8 @@ const IDEEN = [
    "karton",
    "dosen",
    "suess"
-  ]
+  ],
+  "druck": "anleitung"
  },
  {
   "id": "konz-diy-eierkarton-duell",
@@ -701,7 +742,8 @@ const IDEEN = [
    "dosen",
    "ball",
    "suess"
-  ]
+  ],
+  "druck": "anleitung"
  },
  {
   "id": "konz-diy-ballon-becher-duell",
@@ -717,7 +759,8 @@ const IDEEN = [
   "zubehoer": [
    "becher",
    "ballon"
-  ]
+  ],
+  "druck": "anleitung"
  },
  {
   "id": "konz-diy-loeffel-parcours",
@@ -735,7 +778,8 @@ const IDEEN = [
    "cutter",
    "geschirr",
    "ball"
-  ]
+  ],
+  "druck": "anleitung"
  },
  {
   "id": "konz-diy-loch-bahn-duell",
@@ -752,7 +796,8 @@ const IDEEN = [
    "schere",
    "karton",
    "ball"
-  ]
+  ],
+  "druck": "anleitung"
  },
  {
   "id": "neuro-farbfolge-pfad",
@@ -768,7 +813,8 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "stifte"
-  ]
+  ],
+  "druck": "blatt"
  },
  {
   "id": "neuro-zahlenkreis",
@@ -783,7 +829,8 @@ const IDEEN = [
   "quelle": "eigene Anleitung und Vorlage",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "druck": "blatt"
  },
  {
   "id": "neuro-wuerfel-farbcode",
@@ -799,7 +846,8 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "stifte"
-  ]
+  ],
+  "druck": "blatt"
  },
  {
   "id": "neuro-farb-hand-pfad",
@@ -814,7 +862,8 @@ const IDEEN = [
   "quelle": "eigene Anleitung und Vorlage",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "druck": "blatt"
  },
  {
   "id": "neuro-gesten-code",
@@ -829,7 +878,8 @@ const IDEEN = [
   "quelle": "eigene Anleitung und Vorlage",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "druck": "blatt"
  },
  {
   "id": "neuro-zickzack-spirale",
@@ -846,7 +896,8 @@ const IDEEN = [
    "papier",
    "stifte",
    "klebeband"
-  ]
+  ],
+  "druck": "blatt"
  },
  {
   "id": "neuro-ringe-nachmalen",
@@ -862,7 +913,8 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "stifte"
-  ]
+  ],
+  "druck": "blatt"
  },
  {
   "id": "neuro-haende-leiter",
@@ -878,7 +930,8 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "klebeband"
-  ]
+  ],
+  "druck": "blatt"
  },
  {
   "id": "neuro-farbe-zeichen-code",
@@ -894,7 +947,8 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "stifte"
-  ]
+  ],
+  "druck": "blatt"
  },
  {
   "id": "neuro-muster-fortsetzen",
@@ -910,7 +964,8 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "stifte"
-  ]
+  ],
+  "druck": "blatt"
  },
  {
   "id": "neuro-formen-staebchen",
@@ -927,7 +982,8 @@ const IDEEN = [
    "papier",
    "stifte",
    "holzstaebe"
-  ]
+  ],
+  "druck": "schneiden"
  },
  {
   "id": "neuro-symmetrie-tippen",
@@ -942,7 +998,8 @@ const IDEEN = [
   "quelle": "eigene Anleitung und Vorlage",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "druck": "blatt"
  },
  {
   "id": "neuro-formen-suchraster",
@@ -958,7 +1015,8 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "kleinkram"
-  ]
+  ],
+  "druck": "blatt"
  },
  {
   "id": "neuro-boden-raster",
@@ -976,7 +1034,8 @@ const IDEEN = [
    "schere",
    "klebeband",
    "kreide"
-  ]
+  ],
+  "druck": "schneiden"
  },
  {
   "id": "neuro-fingerzeichen-spiegeln",
@@ -989,7 +1048,8 @@ const IDEEN = [
   "material": "nichts",
   "anleitung": "vorlagen/fingerzeichen-spiegeln.pdf",
   "quelle": "eigene Anleitung und Vorlage",
-  "zubehoer": []
+  "zubehoer": [],
+  "druck": "anleitung"
  },
  {
   "id": "konz-punkte-tippen",
@@ -1005,7 +1065,8 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "klebeband"
-  ]
+  ],
+  "druck": "blatt"
  },
  {
   "id": "konz-becher-bauplan",
@@ -1021,7 +1082,8 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "becher"
-  ]
+  ],
+  "druck": "blatt"
  },
  {
   "id": "konz-becher-pfeilweg",
@@ -1038,7 +1100,8 @@ const IDEEN = [
    "papier",
    "becher",
    "kleinkram"
-  ]
+  ],
+  "druck": "blatt"
  },
  {
   "id": "konz-farb-ampel",
@@ -1054,7 +1117,8 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "becher"
-  ]
+  ],
+  "druck": "schneiden"
  },
  {
   "id": "konz-zahlencode",
@@ -1071,7 +1135,8 @@ const IDEEN = [
    "papier",
    "stifte",
    "perlen"
-  ]
+  ],
+  "druck": "blatt"
  },
  {
   "id": "konz-symbol-raster",
@@ -1088,7 +1153,8 @@ const IDEEN = [
    "papier",
    "stifte",
    "schere"
-  ]
+  ],
+  "druck": "schneiden"
  },
  {
   "id": "konz-spiegelzahlen",
@@ -1104,7 +1170,8 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "kleinkram"
-  ]
+  ],
+  "druck": "blatt"
  },
  {
   "id": "konz-stifte-merken",
@@ -1119,7 +1186,8 @@ const IDEEN = [
   "quelle": "eigene Anleitung und Vorlage",
   "zubehoer": [
    "stifte"
-  ]
+  ],
+  "druck": "anleitung"
  },
  {
   "id": "konz-farbpunkte",
@@ -1135,7 +1203,8 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "stifte"
-  ]
+  ],
+  "druck": "blatt"
  },
  {
   "id": "konz-beidhaendig",
@@ -1152,7 +1221,8 @@ const IDEEN = [
    "papier",
    "stifte",
    "klebeband"
-  ]
+  ],
+  "druck": "blatt"
  },
  {
   "id": "konz-schwunguebungen",
@@ -1168,7 +1238,8 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "stifte"
-  ]
+  ],
+  "druck": "blatt"
  },
  {
   "id": "konz-handzeichen-kette",
@@ -1183,7 +1254,8 @@ const IDEEN = [
   "quelle": "eigene Anleitung und Vorlage",
   "zubehoer": [
    "ball"
-  ]
+  ],
+  "druck": "anleitung"
  },
  {
   "id": "konz-muster-nachlegen",
@@ -1199,7 +1271,8 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "schere"
-  ]
+  ],
+  "druck": "schneiden"
  },
  {
   "id": "konz-hand-twister",
@@ -1214,7 +1287,8 @@ const IDEEN = [
   "quelle": "eigene Anleitung und Vorlage",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "druck": "blatt"
  },
  {
   "id": "konz-farbwoerter",
@@ -1229,7 +1303,8 @@ const IDEEN = [
   "quelle": "eigene Anleitung und Vorlage",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "druck": "blatt"
  },
  {
   "id": "konz-w-was-fehlt",

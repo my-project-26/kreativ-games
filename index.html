@@ -104,6 +104,12 @@
   .vp-items .chip small { opacity: .65; margin-left: 4px; font-size: .75rem; }
   .missing { font-size: .82rem; margin: 0; color: #b4532a; }
   @media (prefers-color-scheme: dark) { .missing { color: #f0a070; } }
+  .druckpakete { margin-top: 30px; }
+  .druckpakete h2 { font-family: Fredoka, sans-serif; font-weight: 600; margin: 0 0 4px; }
+  .druckpakete p { color: var(--muted); margin: 0 0 12px; font-size: .92rem; }
+  .dp-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 12px; }
+  .dp-grid a { display: flex; flex-direction: column; gap: 2px; padding: 14px 16px; border-radius: 22px; background: var(--card); color: var(--text); text-decoration: none; font-weight: 700; box-shadow: 0 12px 26px -16px rgba(60,40,140,.45); }
+  .dp-grid a span { font-weight: 500; font-size: .82rem; color: var(--muted); }
   footer { text-align: center; font-size: .8rem; color: var(--muted); padding: 24px 16px 40px; }
 </style>
 
@@ -200,6 +206,9 @@
       <div class="group" data-key="alter">
         <span class="group-label">Alter des Kindes</span>
       </div>
+      <div class="group" data-key="druck">
+        <span class="group-label">Drucken?</span>
+      </div>
       <div class="group" data-key="vorrat">
         <span class="group-label">Was habe ich?</span>
         <button class="ghost vorrat-btn" id="vorratToggle">🧰 Meine Sachen</button>
@@ -219,6 +228,18 @@
   <button class="more" id="more" hidden>Mehr anzeigen</button>
 </main>
 
+<section class="wrap druckpakete">
+  <h2>🖨 Druckpakete</h2>
+  <p>Alle eigenen Vorlagen gesammelt in einer PDF pro Kategorie – einmal drucken, fertig. Jede Seite ist DIN A4.</p>
+  <div class="dp-grid">
+    <a href="vorlagen/druckpakete/schneiden-neuro.pdf" target="_blank">✂️ Neuro-Spiele zum Ausschneiden<span>12 Seiten</span></a>
+    <a href="vorlagen/druckpakete/schneiden-lesen.pdf" target="_blank">✂️ Lesespiele zum Ausschneiden<span>7 Seiten</span></a>
+    <a href="vorlagen/druckpakete/schneiden-konzentration.pdf" target="_blank">✂️ Zahlenkarten (Konzentration)<span>2 Seiten</span></a>
+    <a href="vorlagen/druckpakete/blatt-neuro.pdf" target="_blank">📝 Neuro-Arbeitsblätter<span>22 Seiten</span></a>
+    <a href="vorlagen/druckpakete/blatt-lesen.pdf" target="_blank">📝 Lese-Arbeitsblätter<span>3 Seiten</span></a>
+  </div>
+</section>
+
 <footer>
   Beschreibungen sind eigene Kurztexte. Anleitungen, Bilder und Videos liegen bei den verlinkten Quellen.<br>
   Altersangaben sind Richtwerte. Bei Kerzen, Feuer, Heißkleber und Messern hilft immer ein Erwachsener.<br>
@@ -226,7 +247,7 @@
   Material: 🙌 nichts nötig · 🏠 hat man meist zu Hause · ✂️ aus der Bastelkiste · 🛒 muss evtl. besorgt werden
 </footer>
 
-<script src="ideen.js?v=20261111-3"></script>
+<script src="ideen.js?v=20261111-4"></script>
 <script src="zubehoer.js?v=20261111-3"></script>
 <script>
 /* ---------- Filter-Definitionen ---------- */
@@ -266,6 +287,12 @@ const OPTIONEN = {
     { v: "8", t: "8 J." },
     { v: "10", t: "10+ J." }
   ],
+  druck: [
+    { v: "", t: "Egal" },
+    { v: "schneiden", t: "✂️ Zum Ausschneiden" },
+    { v: "blatt", t: "📝 Arbeitsblatt" },
+    { v: "anleitung", t: "📄 Nur Anleitung" }
+  ],
   vorrat: [
     { v: "", t: "Egal" },
     { v: "0", t: "✅ Habe ich alles" },
@@ -284,7 +311,7 @@ const STORE_FILTER = "kreativgames-filter";
 const SEITE = 60;
 
 /* ---------- Zustand ---------- */
-const standard = () => ({ art: "", thema: "", vorrat: "", ort: "", material: "", alter: "", extra: [] });
+const standard = () => ({ art: "", thema: "", druck: "", vorrat: "", ort: "", material: "", alter: "", extra: [] });
 let filter = { ...standard(), ...laden(STORE_FILTER, {}) };
 
 /* Thema für alle Ideen ableiten (Origami/Makramee auch bei Web-Ideen) */
@@ -336,7 +363,7 @@ function renderFilter() {
       g.appendChild(b);
     });
   });
-  const anzahl = ["art", "thema", "vorrat", "ort", "material", "alter"].filter(k => filter[k]).length + filter.extra.length;
+  const anzahl = ["art", "thema", "druck", "vorrat", "ort", "material", "alter"].filter(k => filter[k]).length + filter.extra.length;
   el("filterCount").textContent = anzahl;
   el("filter").hidden = !filterOffen;
 }
@@ -356,6 +383,7 @@ function gefiltert() {
     if (filter.art && i.art !== filter.art) return false;
     if (filter.thema === "buch" && !i.buch) return false;
     if (filter.thema && filter.thema !== "buch" && i.thema !== filter.thema) return false;
+    if (filter.druck && i.druck !== filter.druck) return false;
     if (filter.vorrat !== "") {
       if (!Array.isArray(i.zubehoer)) return false;
       if (fehlt(i).length > Number(filter.vorrat)) return false;
@@ -401,6 +429,7 @@ function karte(i) {
         <span class="tag">${esc(ORT_TAG[i.ort] || "")}</span>
         <span class="tag">${esc(matTag)}</span>
         ${i.sammlung ? `<span class="tag s">Sammlung</span>` : ""}
+        ${i.druck === "schneiden" ? `<span class="tag">✂️ Ausschneiden</span>` : i.druck === "blatt" ? `<span class="tag">📝 Arbeitsblatt</span>` : ""}
       </div>
       <p class="desc">${esc(i.beschreibung)}</p>
       ${i.buch ? `<div class="book">📘 <strong>Anleitung im Buch:</strong> ${esc(i.buch)}</div>` : ""}
