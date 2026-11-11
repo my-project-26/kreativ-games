@@ -237,8 +237,8 @@
     <a href="vorlagen/druckpakete/schneiden-konzentration.pdf" target="_blank">✂️ Zahlenkarten (Konzentration)<span>2 Seiten</span></a>
     <a href="vorlagen/druckpakete/blatt-neuro.pdf" target="_blank">📝 Neuro-Arbeitsblätter<span>22 Seiten</span></a>
     <a href="vorlagen/druckpakete/blatt-lesen.pdf" target="_blank">📝 Lese-Arbeitsblätter<span>3 Seiten</span></a>
-    <a href="vorlagen/druckpakete/sw-ausschneiden.pdf" target="_blank">⚫ Spar-Paket: alles zum Ausschneiden in S/W<span>21 Seiten · farbige Felder mit Buchstaben zum Bekleben</span></a>
-    <a href="vorlagen/druckpakete/sw-arbeitsblaetter.pdf" target="_blank">⚫ Spar-Paket: alle Arbeitsblätter in S/W<span>25 Seiten · nur „Farbwörter“ bleibt farbig</span></a>
+    <a href="vorlagen/druckpakete/sw-ausschneiden.pdf" target="_blank">⚫ Spar-Paket: alles zum Ausschneiden in S/W<span>21 Seiten · komplett schwarz-weiß, Farbfelder mit Buchstaben zum Bekleben</span></a>
+    <a href="vorlagen/druckpakete/sw-arbeitsblaetter.pdf" target="_blank">⚫ Spar-Paket: alle Arbeitsblätter in S/W<span>24 Seiten · komplett schwarz-weiß (ohne „Farbwörter“)</span></a>
   </div>
 </section>
 
@@ -249,7 +249,7 @@
   Material: 🙌 nichts nötig · 🏠 hat man meist zu Hause · ✂️ aus der Bastelkiste · 🛒 muss evtl. besorgt werden
 </footer>
 
-<script src="ideen.js?v=20261111-5"></script>
+<script src="ideen.js?v=20261111-6"></script>
 <script src="zubehoer.js?v=20261111-3"></script>
 <script>
 /* ---------- Filter-Definitionen ---------- */
@@ -439,7 +439,7 @@ function karte(i) {
       ${fehlt(i).length ? `<p class="missing">🧰 Fehlt dir: ${fehlt(i).map(k => esc(ZLABEL[k])).join(", ")}</p>` : ""}
       <div class="links">
         <a href="${esc(i.anleitung)}" target="_blank" rel="noopener noreferrer">${linkText(i)}</a>
-        ${i.anleitungSW ? `<a href="${esc(i.anleitungSW)}" target="_blank" rel="noopener noreferrer">⚫ S/W zum Bekleben ↗</a>` : ""}
+        ${i.anleitungSW ? `<a href="${esc(i.anleitungSW)}" target="_blank" rel="noopener noreferrer">⚫ S/W-Version ↗</a>` : ""}
         ${i.video ? `<a href="${esc(i.video)}" target="_blank" rel="noopener noreferrer">▶ Video ↗</a>` : ""}
       </div>
       ${i.alt ? `<p class="alt">Freie Alternative: ${esc(i.alt)} – nicht das Buchmodell.</p>` : ""}

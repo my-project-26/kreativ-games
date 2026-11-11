@@ -128,7 +128,8 @@ const IDEEN = [
    "papier",
    "schere"
   ],
-  "druck": "schneiden"
+  "druck": "schneiden",
+  "anleitungSW": "vorlagen/sw/lese-befehle.pdf"
  },
  {
   "id": "lesen-lese-schatzsuche",
@@ -145,7 +146,8 @@ const IDEEN = [
    "papier",
    "stifte"
   ],
-  "druck": "schneiden"
+  "druck": "schneiden",
+  "anleitungSW": "vorlagen/sw/lese-schatzsuche.pdf"
  },
  {
   "id": "lesen-geheimbotschaft",
@@ -162,7 +164,8 @@ const IDEEN = [
    "papier",
    "stifte"
   ],
-  "druck": "blatt"
+  "druck": "blatt",
+  "anleitungSW": "vorlagen/sw/geheimbotschaft.pdf"
  },
  {
   "id": "lesen-woerter-bingo",
@@ -180,7 +183,8 @@ const IDEEN = [
    "schere",
    "kleinkram"
   ],
-  "druck": "schneiden"
+  "druck": "schneiden",
+  "anleitungSW": "vorlagen/sw/woerter-bingo.pdf"
  },
  {
   "id": "lesen-silben-puzzle",
@@ -197,7 +201,8 @@ const IDEEN = [
    "papier",
    "schere"
   ],
-  "druck": "schneiden"
+  "druck": "schneiden",
+  "anleitungSW": "vorlagen/sw/silben-puzzle.pdf"
  },
  {
   "id": "lesen-quatsch-detektiv",
@@ -214,7 +219,8 @@ const IDEEN = [
    "papier",
    "stifte"
   ],
-  "druck": "blatt"
+  "druck": "blatt",
+  "anleitungSW": "vorlagen/sw/quatsch-detektiv.pdf"
  },
  {
   "id": "lesen-satz-salat",
@@ -231,7 +237,8 @@ const IDEEN = [
    "papier",
    "schere"
   ],
-  "druck": "schneiden"
+  "druck": "schneiden",
+  "anleitungSW": "vorlagen/sw/satz-salat.pdf"
  },
  {
   "id": "lesen-lesen-und-malen",
@@ -248,7 +255,8 @@ const IDEEN = [
    "papier",
    "stifte"
   ],
-  "druck": "blatt"
+  "druck": "blatt",
+  "anleitungSW": "vorlagen/sw/lesen-und-malen.pdf"
  },
  {
   "id": "lesen-pantomime-lesekarten",
@@ -265,7 +273,8 @@ const IDEEN = [
    "papier",
    "schere"
   ],
-  "druck": "schneiden"
+  "druck": "schneiden",
+  "anleitungSW": "vorlagen/sw/pantomime-lesekarten.pdf"
  },
  {
   "id": "lesen-raetsel-karten",
@@ -282,7 +291,8 @@ const IDEEN = [
    "papier",
    "schere"
   ],
-  "druck": "schneiden"
+  "druck": "schneiden",
+  "anleitungSW": "vorlagen/sw/raetsel-karten.pdf"
  },
  {
   "id": "lesen-woerter-klatsche",
@@ -547,7 +557,8 @@ const IDEEN = [
    "schere",
    "holzstaebe"
   ],
-  "druck": "schneiden"
+  "druck": "schneiden",
+  "anleitungSW": "vorlagen/sw/sonnenstrahlen.pdf"
  },
  {
   "id": "neuro-stab-tippen-pfeil",
@@ -839,7 +850,8 @@ const IDEEN = [
   "zubehoer": [
    "papier"
   ],
-  "druck": "blatt"
+  "druck": "blatt",
+  "anleitungSW": "vorlagen/sw/zahlenkreis.pdf"
  },
  {
   "id": "neuro-wuerfel-farbcode",
@@ -909,7 +921,8 @@ const IDEEN = [
    "stifte",
    "klebeband"
   ],
-  "druck": "blatt"
+  "druck": "blatt",
+  "anleitungSW": "vorlagen/sw/zickzack-spirale.pdf"
  },
  {
   "id": "neuro-ringe-nachmalen",
@@ -944,7 +957,8 @@ const IDEEN = [
    "papier",
    "klebeband"
   ],
-  "druck": "blatt"
+  "druck": "blatt",
+  "anleitungSW": "vorlagen/sw/haende-leiter.pdf"
  },
  {
   "id": "neuro-farbe-zeichen-code",
@@ -979,7 +993,8 @@ const IDEEN = [
    "papier",
    "stifte"
   ],
-  "druck": "blatt"
+  "druck": "blatt",
+  "anleitungSW": "vorlagen/sw/muster-fortsetzen.pdf"
  },
  {
   "id": "neuro-formen-staebchen",
@@ -997,7 +1012,8 @@ const IDEEN = [
    "stifte",
    "holzstaebe"
   ],
-  "druck": "schneiden"
+  "druck": "schneiden",
+  "anleitungSW": "vorlagen/sw/formen-staebchen.pdf"
  },
  {
   "id": "neuro-symmetrie-tippen",
@@ -1013,7 +1029,8 @@ const IDEEN = [
   "zubehoer": [
    "papier"
   ],
-  "druck": "blatt"
+  "druck": "blatt",
+  "anleitungSW": "vorlagen/sw/symmetrie-tippen.pdf"
  },
  {
   "id": "neuro-formen-suchraster",
@@ -1050,7 +1067,8 @@ const IDEEN = [
    "klebeband",
    "kreide"
   ],
-  "druck": "schneiden"
+  "druck": "schneiden",
+  "anleitungSW": "vorlagen/sw/boden-raster.pdf"
  },
  {
   "id": "neuro-fingerzeichen-spiegeln",
@@ -1118,7 +1136,8 @@ const IDEEN = [
    "becher",
    "kleinkram"
   ],
-  "druck": "blatt"
+  "druck": "blatt",
+  "anleitungSW": "vorlagen/sw/becher-pfeilweg.pdf"
  },
  {
   "id": "konz-farb-ampel",
@@ -1173,7 +1192,8 @@ const IDEEN = [
    "stifte",
    "schere"
   ],
-  "druck": "schneiden"
+  "druck": "schneiden",
+  "anleitungSW": "vorlagen/sw/symbol-raster.pdf"
  },
  {
   "id": "konz-spiegelzahlen",
@@ -1190,7 +1210,8 @@ const IDEEN = [
    "papier",
    "kleinkram"
   ],
-  "druck": "blatt"
+  "druck": "blatt",
+  "anleitungSW": "vorlagen/sw/spiegelzahlen.pdf"
  },
  {
   "id": "konz-stifte-merken",
@@ -1242,7 +1263,8 @@ const IDEEN = [
    "stifte",
    "klebeband"
   ],
-  "druck": "blatt"
+  "druck": "blatt",
+  "anleitungSW": "vorlagen/sw/beidhaendig.pdf"
  },
  {
   "id": "konz-schwunguebungen",
@@ -1259,7 +1281,8 @@ const IDEEN = [
    "papier",
    "stifte"
   ],
-  "druck": "blatt"
+  "druck": "blatt",
+  "anleitungSW": "vorlagen/sw/schwunguebungen.pdf"
  },
  {
   "id": "konz-handzeichen-kette",
@@ -1292,7 +1315,8 @@ const IDEEN = [
    "papier",
    "schere"
   ],
-  "druck": "schneiden"
+  "druck": "schneiden",
+  "anleitungSW": "vorlagen/sw/muster-nachlegen.pdf"
  },
  {
   "id": "konz-hand-twister",
