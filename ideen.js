@@ -1,5 +1,241 @@
 const IDEEN = [
  {
+  "id": "neuro-biene-hummel",
+  "name": "Biene und Hummel",
+  "art": "Neuro",
+  "ort": "drinnen",
+  "materialStufe": 0,
+  "abAlter": 3,
+  "beschreibung": "Schnell summen wie eine Biene oder langsam brummen wie eine Hummel – und bei Signalen blitzschnell umschalten.",
+  "material": "nichts",
+  "anleitung": "vorlagen/biene-hummel.pdf",
+  "quelle": "Idee: Bewegungskalender „Clever in Bewegung“ (BSJ/Kubesch)",
+  "stufe": 1,
+  "druck": "anleitung",
+  "zubehoer": []
+ },
+ {
+  "id": "neuro-stopp-roboter",
+  "name": "Stopp-Roboter",
+  "art": "Neuro",
+  "ort": "beides",
+  "materialStufe": 0,
+  "abAlter": 4,
+  "beschreibung": "Ein Kind ist Roboter, das andere steuert per Tippen auf Schultern und Rücken. Mit jeder Stufe kommen Knöpfe dazu.",
+  "material": "nichts",
+  "anleitung": "vorlagen/stopp-roboter.pdf",
+  "quelle": "Idee: Bewegungskalender „Clever in Bewegung“ (BSJ/Kubesch)",
+  "stufe": 1,
+  "druck": "anleitung",
+  "zubehoer": []
+ },
+ {
+  "id": "neuro-hipp-hopp-pause",
+  "name": "Hipp-Hopp-Pause",
+  "art": "Neuro",
+  "ort": "drinnen",
+  "materialStufe": 1,
+  "abAlter": 5,
+  "beschreibung": "Um den Stuhl links oder rechts herum oder hinsetzen – später ganze Befehlsketten merken und erst auf „Los!“ ausführen.",
+  "material": "Stühle",
+  "anleitung": "vorlagen/hipp-hopp-pause.pdf",
+  "quelle": "Idee: Bewegungskalender „Clever in Bewegung“ (BSJ/Kubesch)",
+  "stufe": 2,
+  "druck": "anleitung",
+  "zubehoer": [
+   "stuehle"
+  ]
+ },
+ {
+  "id": "neuro-schau-genau",
+  "name": "Schau genau – Bewegung merken",
+  "art": "Neuro",
+  "ort": "drinnen",
+  "materialStufe": 1,
+  "abAlter": 5,
+  "beschreibung": "Beim Tanzen heimlich Bewegungen des Erwachsenen merken und nach dem Musikstopp in der richtigen Reihenfolge nachmachen.",
+  "material": "Musik",
+  "anleitung": "vorlagen/schau-genau.pdf",
+  "quelle": "Idee: Bewegungskalender „Clever in Bewegung“ (BSJ/Kubesch)",
+  "stufe": 2,
+  "druck": "anleitung",
+  "zubehoer": [
+   "musik"
+  ]
+ },
+ {
+  "id": "neuro-einparken-ausparken",
+  "name": "Einparken – Ausparken",
+  "art": "Neuro",
+  "ort": "drinnen",
+  "materialStufe": 0,
+  "abAlter": 5,
+  "beschreibung": "Vor und zurück parken – aber in den höheren Stufen passen Schritt und Wort nicht mehr zusammen.",
+  "material": "nichts",
+  "anleitung": "vorlagen/einparken-ausparken.pdf",
+  "quelle": "Idee: Bewegungskalender „Clever in Bewegung“ (BSJ/Kubesch)",
+  "stufe": 2,
+  "druck": "anleitung",
+  "zubehoer": []
+ },
+ {
+  "id": "neuro-verwirrter-polizist",
+  "name": "Verwirrter Polizist",
+  "art": "Neuro",
+  "ort": "drinnen",
+  "materialStufe": 0,
+  "abAlter": 7,
+  "beschreibung": "Richtungen zeigen und sagen – bis Arm und Mund das Gegenteil machen müssen. Knifflig für Groß und Klein.",
+  "material": "nichts",
+  "anleitung": "vorlagen/verwirrter-polizist.pdf",
+  "quelle": "Idee: Bewegungskalender „Clever in Bewegung“ (BSJ/Kubesch)",
+  "stufe": 3,
+  "druck": "anleitung",
+  "zubehoer": []
+ },
+ {
+  "id": "neuro-mach-ich-noch-nicht",
+  "name": "Mach ich (noch) nicht!",
+  "art": "Neuro",
+  "ort": "beides",
+  "materialStufe": 0,
+  "abAlter": 6,
+  "beschreibung": "Immer die vorherige Bewegung machen, während man sich die neue merkt – ein Gedächtnistrainer zum Austoben.",
+  "material": "nichts",
+  "anleitung": "vorlagen/mach-ich-noch-nicht.pdf",
+  "quelle": "Idee: Bewegungskalender „Clever in Bewegung“ (BSJ/Kubesch)",
+  "stufe": 3,
+  "druck": "anleitung",
+  "zubehoer": []
+ },
+ {
+  "id": "neuro-im-richtigen-augenblick",
+  "name": "Im richtigen Augenblick",
+  "art": "Neuro",
+  "ort": "drinnen",
+  "materialStufe": 1,
+  "abAlter": 6,
+  "beschreibung": "Reihum zählen, ohne Absprache – stehen zwei gleichzeitig auf, geht es von vorn los. Ab 3 Personen.",
+  "material": "Stühle",
+  "anleitung": "vorlagen/im-richtigen-augenblick.pdf",
+  "quelle": "Idee: Bewegungskalender „Clever in Bewegung“ (BSJ/Kubesch)",
+  "stufe": 2,
+  "druck": "anleitung",
+  "zubehoer": [
+   "stuehle"
+  ]
+ },
+ {
+  "id": "neuro-kette-pass-auf",
+  "name": "Kette, pass auf!",
+  "art": "Neuro",
+  "ort": "beides",
+  "materialStufe": 0,
+  "abAlter": 4,
+  "beschreibung": "Als Hand-in-Hand-Kette durch den Raum und auf Zuruf Richtung wechseln, drehen oder hochspringen.",
+  "material": "nichts",
+  "anleitung": "vorlagen/kette-pass-auf.pdf",
+  "quelle": "Idee: Bewegungskalender „Clever in Bewegung“ (BSJ/Kubesch)",
+  "stufe": 1,
+  "druck": "anleitung",
+  "zubehoer": []
+ },
+ {
+  "id": "neuro-ochs-am-berg",
+  "name": "Ochs am Berg",
+  "art": "Neuro",
+  "ort": "beides",
+  "materialStufe": 1,
+  "abAlter": 4,
+  "beschreibung": "Anschleichen, solange der Ochs nicht guckt – mit Ball auf dem Kopf oder prellend wird es schwer.",
+  "material": "Ball oder Kuscheltier",
+  "anleitung": "vorlagen/ochs-am-berg.pdf",
+  "quelle": "Idee: Bewegungskalender „Clever in Bewegung“ (BSJ/Kubesch)",
+  "stufe": 1,
+  "druck": "anleitung",
+  "zubehoer": [
+   "ball"
+  ]
+ },
+ {
+  "id": "neuro-simon-sagt",
+  "name": "Simon sagt – mit Gegenteil",
+  "art": "Neuro",
+  "ort": "drinnen",
+  "materialStufe": 0,
+  "abAlter": 4,
+  "beschreibung": "Nur machen, wenn „Simon sagt“ davorsteht – und in der Profi-Runde genau das Gegenteil.",
+  "material": "nichts",
+  "anleitung": "vorlagen/simon-sagt.pdf",
+  "quelle": "Idee: Harvard Center on the Developing Child, Activities Guide",
+  "stufe": 2,
+  "druck": "anleitung",
+  "zubehoer": []
+ },
+ {
+  "id": "neuro-zauberwort",
+  "name": "Das Zauberwort",
+  "art": "Neuro",
+  "ort": "drinnen",
+  "materialStufe": 0,
+  "abAlter": 3,
+  "beschreibung": "Erst wenn das Zauberwort fällt, wird ausgeführt – warten fällt schwerer als man denkt.",
+  "material": "nichts",
+  "anleitung": "vorlagen/zauberwort.pdf",
+  "quelle": "Idee: Harvard Center on the Developing Child, Activities Guide",
+  "stufe": 1,
+  "druck": "anleitung",
+  "zubehoer": []
+ },
+ {
+  "id": "neuro-regel-erraten",
+  "name": "Regel erraten",
+  "art": "Neuro",
+  "ort": "beides",
+  "materialStufe": 0,
+  "abAlter": 7,
+  "beschreibung": "Einer denkt sich eine geheime Regel aus, die anderen testen mit Beispielen, bis sie sie knacken.",
+  "material": "nichts",
+  "anleitung": "vorlagen/regel-erraten.pdf",
+  "quelle": "Idee: Harvard Center on the Developing Child, Activities Guide",
+  "stufe": 3,
+  "druck": "anleitung",
+  "zubehoer": []
+ },
+ {
+  "id": "neuro-farb-mastermind",
+  "name": "Farb-Mastermind mit Buntstiften",
+  "art": "Neuro",
+  "ort": "drinnen",
+  "materialStufe": 1,
+  "abAlter": 7,
+  "beschreibung": "Einen geheimen Farbcode aus Buntstiften knacken – mit Daumen-Hinweisen nach jedem Versuch.",
+  "material": "Buntstifte, Tuch",
+  "anleitung": "vorlagen/farb-mastermind.pdf",
+  "quelle": "Idee: Harvard Center on the Developing Child, Activities Guide",
+  "stufe": 3,
+  "druck": "anleitung",
+  "zubehoer": [
+   "stifte",
+   "tuch"
+  ]
+ },
+ {
+  "id": "neuro-klatsch-rhythmus",
+  "name": "Klatsch-Rhythmus nachmachen",
+  "art": "Neuro",
+  "ort": "drinnen",
+  "materialStufe": 0,
+  "abAlter": 4,
+  "beschreibung": "Rhythmen klatschen, patschen und schnipsen – genau nachmachen oder rückwärts.",
+  "material": "nichts",
+  "anleitung": "vorlagen/klatsch-rhythmus.pdf",
+  "quelle": "Idee: Harvard Center on the Developing Child, Activities Guide",
+  "stufe": 2,
+  "druck": "anleitung",
+  "zubehoer": []
+ },
+ {
   "id": "konz-diy-karton-flipper",
   "name": "Karton-Flipper",
   "art": "Konzentration",
@@ -499,7 +735,8 @@ const IDEEN = [
    "schere"
   ],
   "druck": "schneiden",
-  "anleitungSW": "vorlagen/sw/farbverbindung-kaertchen.pdf"
+  "anleitungSW": "vorlagen/sw/farbverbindung-kaertchen.pdf",
+  "stufe": 2
  },
  {
   "id": "neuro-farb-twister-boden",
@@ -519,7 +756,8 @@ const IDEEN = [
    "buntpapier"
   ],
   "druck": "schneiden",
-  "anleitungSW": "vorlagen/sw/farb-twister-boden.pdf"
+  "anleitungSW": "vorlagen/sw/farb-twister-boden.pdf",
+  "stufe": 1
  },
  {
   "id": "neuro-baelle-netzplan",
@@ -538,7 +776,8 @@ const IDEEN = [
    "becher"
   ],
   "druck": "schneiden",
-  "anleitungSW": "vorlagen/sw/baelle-netzplan.pdf"
+  "anleitungSW": "vorlagen/sw/baelle-netzplan.pdf",
+  "stufe": 1
  },
  {
   "id": "neuro-sonnenstrahlen",
@@ -558,7 +797,8 @@ const IDEEN = [
    "holzstaebe"
   ],
   "druck": "schneiden",
-  "anleitungSW": "vorlagen/sw/sonnenstrahlen.pdf"
+  "anleitungSW": "vorlagen/sw/sonnenstrahlen.pdf",
+  "stufe": 1
  },
  {
   "id": "neuro-stab-tippen-pfeil",
@@ -577,7 +817,8 @@ const IDEEN = [
    "geschirr"
   ],
   "druck": "schneiden",
-  "anleitungSW": "vorlagen/sw/stab-tippen-pfeil.pdf"
+  "anleitungSW": "vorlagen/sw/stab-tippen-pfeil.pdf",
+  "stufe": 2
  },
  {
   "id": "neuro-wo-war-es",
@@ -593,7 +834,8 @@ const IDEEN = [
   "zubehoer": [
    "papier"
   ],
-  "druck": "anleitung"
+  "druck": "anleitung",
+  "stufe": 1
  },
  {
   "id": "neuro-eisstiel-farbcode",
@@ -611,7 +853,8 @@ const IDEEN = [
    "schere"
   ],
   "druck": "schneiden",
-  "anleitungSW": "vorlagen/sw/eisstiel-farbcode.pdf"
+  "anleitungSW": "vorlagen/sw/eisstiel-farbcode.pdf",
+  "stufe": 2
  },
  {
   "id": "neuro-kreisraster-muster",
@@ -629,7 +872,8 @@ const IDEEN = [
    "schere"
   ],
   "druck": "schneiden",
-  "anleitungSW": "vorlagen/sw/kreisraster-muster.pdf"
+  "anleitungSW": "vorlagen/sw/kreisraster-muster.pdf",
+  "stufe": 2
  },
  {
   "id": "neuro-flaschen-sortieren",
@@ -648,7 +892,8 @@ const IDEEN = [
    "glas",
    "ball"
   ],
-  "druck": "anleitung"
+  "druck": "anleitung",
+  "stufe": 1
  },
  {
   "id": "neuro-huetchen-sichtschutz",
@@ -666,7 +911,8 @@ const IDEEN = [
    "kleinkram",
    "ball"
   ],
-  "druck": "anleitung"
+  "druck": "anleitung",
+  "stufe": 1
  },
  {
   "id": "neuro-becher-am-stab",
@@ -685,7 +931,8 @@ const IDEEN = [
    "geschirr",
    "ball"
   ],
-  "druck": "anleitung"
+  "druck": "anleitung",
+  "stufe": 1
  },
  {
   "id": "konz-diy-zahlen-roulette",
@@ -834,7 +1081,8 @@ const IDEEN = [
    "stifte"
   ],
   "druck": "blatt",
-  "anleitungSW": "vorlagen/sw/farbfolge-pfad.pdf"
+  "anleitungSW": "vorlagen/sw/farbfolge-pfad.pdf",
+  "stufe": 2
  },
  {
   "id": "neuro-zahlenkreis",
@@ -851,7 +1099,8 @@ const IDEEN = [
    "papier"
   ],
   "druck": "blatt",
-  "anleitungSW": "vorlagen/sw/zahlenkreis.pdf"
+  "anleitungSW": "vorlagen/sw/zahlenkreis.pdf",
+  "stufe": 2
  },
  {
   "id": "neuro-wuerfel-farbcode",
@@ -869,7 +1118,8 @@ const IDEEN = [
    "stifte"
   ],
   "druck": "blatt",
-  "anleitungSW": "vorlagen/sw/wuerfel-farbcode.pdf"
+  "anleitungSW": "vorlagen/sw/wuerfel-farbcode.pdf",
+  "stufe": 2
  },
  {
   "id": "neuro-farb-hand-pfad",
@@ -886,7 +1136,8 @@ const IDEEN = [
    "papier"
   ],
   "druck": "blatt",
-  "anleitungSW": "vorlagen/sw/farb-hand-pfad.pdf"
+  "anleitungSW": "vorlagen/sw/farb-hand-pfad.pdf",
+  "stufe": 2
  },
  {
   "id": "neuro-gesten-code",
@@ -903,7 +1154,8 @@ const IDEEN = [
    "papier"
   ],
   "druck": "blatt",
-  "anleitungSW": "vorlagen/sw/gesten-code.pdf"
+  "anleitungSW": "vorlagen/sw/gesten-code.pdf",
+  "stufe": 3
  },
  {
   "id": "neuro-zickzack-spirale",
@@ -922,7 +1174,8 @@ const IDEEN = [
    "klebeband"
   ],
   "druck": "blatt",
-  "anleitungSW": "vorlagen/sw/zickzack-spirale.pdf"
+  "anleitungSW": "vorlagen/sw/zickzack-spirale.pdf",
+  "stufe": 3
  },
  {
   "id": "neuro-ringe-nachmalen",
@@ -940,7 +1193,8 @@ const IDEEN = [
    "stifte"
   ],
   "druck": "blatt",
-  "anleitungSW": "vorlagen/sw/ringe-nachmalen.pdf"
+  "anleitungSW": "vorlagen/sw/ringe-nachmalen.pdf",
+  "stufe": 1
  },
  {
   "id": "neuro-haende-leiter",
@@ -958,7 +1212,8 @@ const IDEEN = [
    "klebeband"
   ],
   "druck": "blatt",
-  "anleitungSW": "vorlagen/sw/haende-leiter.pdf"
+  "anleitungSW": "vorlagen/sw/haende-leiter.pdf",
+  "stufe": 1
  },
  {
   "id": "neuro-farbe-zeichen-code",
@@ -976,7 +1231,8 @@ const IDEEN = [
    "stifte"
   ],
   "druck": "blatt",
-  "anleitungSW": "vorlagen/sw/farbe-zeichen-code.pdf"
+  "anleitungSW": "vorlagen/sw/farbe-zeichen-code.pdf",
+  "stufe": 3
  },
  {
   "id": "neuro-muster-fortsetzen",
@@ -994,7 +1250,8 @@ const IDEEN = [
    "stifte"
   ],
   "druck": "blatt",
-  "anleitungSW": "vorlagen/sw/muster-fortsetzen.pdf"
+  "anleitungSW": "vorlagen/sw/muster-fortsetzen.pdf",
+  "stufe": 1
  },
  {
   "id": "neuro-formen-staebchen",
@@ -1013,7 +1270,8 @@ const IDEEN = [
    "holzstaebe"
   ],
   "druck": "schneiden",
-  "anleitungSW": "vorlagen/sw/formen-staebchen.pdf"
+  "anleitungSW": "vorlagen/sw/formen-staebchen.pdf",
+  "stufe": 1
  },
  {
   "id": "neuro-symmetrie-tippen",
@@ -1030,7 +1288,8 @@ const IDEEN = [
    "papier"
   ],
   "druck": "blatt",
-  "anleitungSW": "vorlagen/sw/symmetrie-tippen.pdf"
+  "anleitungSW": "vorlagen/sw/symmetrie-tippen.pdf",
+  "stufe": 2
  },
  {
   "id": "neuro-formen-suchraster",
@@ -1048,7 +1307,8 @@ const IDEEN = [
    "kleinkram"
   ],
   "druck": "blatt",
-  "anleitungSW": "vorlagen/sw/formen-suchraster.pdf"
+  "anleitungSW": "vorlagen/sw/formen-suchraster.pdf",
+  "stufe": 2
  },
  {
   "id": "neuro-boden-raster",
@@ -1068,7 +1328,8 @@ const IDEEN = [
    "kreide"
   ],
   "druck": "schneiden",
-  "anleitungSW": "vorlagen/sw/boden-raster.pdf"
+  "anleitungSW": "vorlagen/sw/boden-raster.pdf",
+  "stufe": 2
  },
  {
   "id": "neuro-fingerzeichen-spiegeln",
@@ -1082,7 +1343,8 @@ const IDEEN = [
   "anleitung": "vorlagen/fingerzeichen-spiegeln.pdf",
   "quelle": "eigene Anleitung und Vorlage",
   "zubehoer": [],
-  "druck": "anleitung"
+  "druck": "anleitung",
+  "stufe": 3
  },
  {
   "id": "konz-punkte-tippen",
@@ -1100,7 +1362,8 @@ const IDEEN = [
    "klebeband"
   ],
   "druck": "blatt",
-  "anleitungSW": "vorlagen/sw/punkte-tippen.pdf"
+  "anleitungSW": "vorlagen/sw/punkte-tippen.pdf",
+  "stufe": 1
  },
  {
   "id": "konz-becher-bauplan",
@@ -1118,7 +1381,8 @@ const IDEEN = [
    "becher"
   ],
   "druck": "blatt",
-  "anleitungSW": "vorlagen/sw/becher-bauplan.pdf"
+  "anleitungSW": "vorlagen/sw/becher-bauplan.pdf",
+  "stufe": 1
  },
  {
   "id": "konz-becher-pfeilweg",
@@ -1137,7 +1401,8 @@ const IDEEN = [
    "kleinkram"
   ],
   "druck": "blatt",
-  "anleitungSW": "vorlagen/sw/becher-pfeilweg.pdf"
+  "anleitungSW": "vorlagen/sw/becher-pfeilweg.pdf",
+  "stufe": 2
  },
  {
   "id": "konz-farb-ampel",
@@ -1155,7 +1420,8 @@ const IDEEN = [
    "becher"
   ],
   "druck": "schneiden",
-  "anleitungSW": "vorlagen/sw/farb-ampel.pdf"
+  "anleitungSW": "vorlagen/sw/farb-ampel.pdf",
+  "stufe": 1
  },
  {
   "id": "konz-zahlencode",
@@ -1174,7 +1440,8 @@ const IDEEN = [
    "perlen"
   ],
   "druck": "blatt",
-  "anleitungSW": "vorlagen/sw/zahlencode.pdf"
+  "anleitungSW": "vorlagen/sw/zahlencode.pdf",
+  "stufe": 2
  },
  {
   "id": "konz-symbol-raster",
@@ -1193,7 +1460,8 @@ const IDEEN = [
    "schere"
   ],
   "druck": "schneiden",
-  "anleitungSW": "vorlagen/sw/symbol-raster.pdf"
+  "anleitungSW": "vorlagen/sw/symbol-raster.pdf",
+  "stufe": 2
  },
  {
   "id": "konz-spiegelzahlen",
@@ -1211,7 +1479,8 @@ const IDEEN = [
    "kleinkram"
   ],
   "druck": "blatt",
-  "anleitungSW": "vorlagen/sw/spiegelzahlen.pdf"
+  "anleitungSW": "vorlagen/sw/spiegelzahlen.pdf",
+  "stufe": 2
  },
  {
   "id": "konz-stifte-merken",
@@ -1245,7 +1514,8 @@ const IDEEN = [
    "stifte"
   ],
   "druck": "blatt",
-  "anleitungSW": "vorlagen/sw/farbpunkte.pdf"
+  "anleitungSW": "vorlagen/sw/farbpunkte.pdf",
+  "stufe": 2
  },
  {
   "id": "konz-beidhaendig",
@@ -1264,7 +1534,8 @@ const IDEEN = [
    "klebeband"
   ],
   "druck": "blatt",
-  "anleitungSW": "vorlagen/sw/beidhaendig.pdf"
+  "anleitungSW": "vorlagen/sw/beidhaendig.pdf",
+  "stufe": 2
  },
  {
   "id": "konz-schwunguebungen",
@@ -1282,7 +1553,8 @@ const IDEEN = [
    "stifte"
   ],
   "druck": "blatt",
-  "anleitungSW": "vorlagen/sw/schwunguebungen.pdf"
+  "anleitungSW": "vorlagen/sw/schwunguebungen.pdf",
+  "stufe": 1
  },
  {
   "id": "konz-handzeichen-kette",
@@ -1316,7 +1588,8 @@ const IDEEN = [
    "schere"
   ],
   "druck": "schneiden",
-  "anleitungSW": "vorlagen/sw/muster-nachlegen.pdf"
+  "anleitungSW": "vorlagen/sw/muster-nachlegen.pdf",
+  "stufe": 2
  },
  {
   "id": "konz-hand-twister",
@@ -1333,7 +1606,8 @@ const IDEEN = [
    "papier"
   ],
   "druck": "blatt",
-  "anleitungSW": "vorlagen/sw/hand-twister.pdf"
+  "anleitungSW": "vorlagen/sw/hand-twister.pdf",
+  "stufe": 1
  },
  {
   "id": "konz-farbwoerter",
@@ -1349,7 +1623,8 @@ const IDEEN = [
   "zubehoer": [
    "papier"
   ],
-  "druck": "blatt"
+  "druck": "blatt",
+  "stufe": 3
  },
  {
   "id": "konz-w-was-fehlt",
@@ -1455,7 +1730,8 @@ const IDEEN = [
   "material": "nichts",
   "anleitung": "https://www.familie.at/dl/MLtpJKJNKLnJqx4kJK/_bungsbogen_pdf",
   "quelle": "familie.at – Übungsbogen (PDF)",
-  "zubehoer": []
+  "zubehoer": [],
+  "stufe": 1
  },
  {
   "id": "konz-w-brain-gym",
@@ -1469,7 +1745,8 @@ const IDEEN = [
   "anleitung": "https://ms-satteins.vobs.at/fileadmin/user_upload/Brain_Gym.pdf",
   "quelle": "MS Satteins (PDF)",
   "sammlung": true,
-  "zubehoer": []
+  "zubehoer": [],
+  "stufe": 2
  },
  {
   "id": "konz-w-kinesiologie",
@@ -1483,7 +1760,8 @@ const IDEEN = [
   "anleitung": "https://www.usmaudio.de/wp-content/uploads/2023/12/booklet_kinesiologie.pdf",
   "quelle": "USM Audio – Booklet (PDF)",
   "sammlung": true,
-  "zubehoer": []
+  "zubehoer": [],
+  "stufe": 1
  },
  {
   "id": "konz-w-stopp-tanz",

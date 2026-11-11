@@ -206,6 +206,9 @@
       <div class="group" data-key="alter">
         <span class="group-label">Alter des Kindes</span>
       </div>
+      <div class="group" data-key="schwierig">
+        <span class="group-label">Schwierigkeit</span>
+      </div>
       <div class="group" data-key="druck">
         <span class="group-label">Drucken?</span>
       </div>
@@ -249,7 +252,7 @@
   Material: 🙌 nichts nötig · 🏠 hat man meist zu Hause · ✂️ aus der Bastelkiste · 🛒 muss evtl. besorgt werden
 </footer>
 
-<script src="ideen.js?v=20261111-6"></script>
+<script src="ideen.js?v=20261111-7"></script>
 <script src="zubehoer.js?v=20261111-3"></script>
 <script>
 /* ---------- Filter-Definitionen ---------- */
@@ -289,6 +292,12 @@ const OPTIONEN = {
     { v: "8", t: "8 J." },
     { v: "10", t: "10+ J." }
   ],
+  schwierig: [
+    { v: "", t: "Alle" },
+    { v: "1", t: "●○○ Einsteiger" },
+    { v: "2", t: "●●○ Fortgeschritten" },
+    { v: "3", t: "●●● Profi" }
+  ],
   druck: [
     { v: "", t: "Egal" },
     { v: "schneiden", t: "✂️ Zum Ausschneiden" },
@@ -313,7 +322,7 @@ const STORE_FILTER = "kreativgames-filter";
 const SEITE = 60;
 
 /* ---------- Zustand ---------- */
-const standard = () => ({ art: "", thema: "", druck: "", vorrat: "", ort: "", material: "", alter: "", extra: [] });
+const standard = () => ({ art: "", thema: "", schwierig: "", druck: "", vorrat: "", ort: "", material: "", alter: "", extra: [] });
 let filter = { ...standard(), ...laden(STORE_FILTER, {}) };
 
 /* Thema für alle Ideen ableiten (Origami/Makramee auch bei Web-Ideen) */
@@ -365,7 +374,7 @@ function renderFilter() {
       g.appendChild(b);
     });
   });
-  const anzahl = ["art", "thema", "druck", "vorrat", "ort", "material", "alter"].filter(k => filter[k]).length + filter.extra.length;
+  const anzahl = ["art", "thema", "schwierig", "druck", "vorrat", "ort", "material", "alter"].filter(k => filter[k]).length + filter.extra.length;
   el("filterCount").textContent = anzahl;
   el("filter").hidden = !filterOffen;
 }
@@ -385,6 +394,7 @@ function gefiltert() {
     if (filter.art && i.art !== filter.art) return false;
     if (filter.thema === "buch" && !i.buch) return false;
     if (filter.thema && filter.thema !== "buch" && i.thema !== filter.thema) return false;
+    if (filter.schwierig && String(i.stufe) !== filter.schwierig) return false;
     if (filter.druck && i.druck !== filter.druck) return false;
     if (filter.vorrat !== "") {
       if (!Array.isArray(i.zubehoer)) return false;
@@ -411,6 +421,7 @@ function gefiltert() {
 function linkText(i) {
   if (i.id.startsWith("eigen-")) return "🖼 Eigene Faltanleitung ↗";
   if (i.id.startsWith("konz-w-")) return i.anleitung.toLowerCase().includes(".pdf") || i.anleitung.includes("_pdf") ? "📄 Anleitung (PDF) ↗" : "📖 Anleitung & Bilder ↗";
+  if (i.art === "Neuro" && (i.quelle || "").startsWith("Idee:")) return "📄 Anleitung mit Stufen (PDF) ↗";
   if (i.id.startsWith("konz-") || i.id.startsWith("neuro-") || i.id.startsWith("lesen-")) return "🖨 Anleitung + Vorlage (PDF) ↗";
   if (i.buch) return i.anleitung.includes("youtube.com/results") ? "🔎 Ähnliche Videos ↗" : "🔗 Ähnliche Anleitung ↗";
   return "📖 Anleitung & Bilder ↗";
@@ -430,6 +441,7 @@ function karte(i) {
         <span class="tag">ab ${esc(i.abAlter)} J.</span>
         <span class="tag">${esc(ORT_TAG[i.ort] || "")}</span>
         <span class="tag">${esc(matTag)}</span>
+        ${i.stufe ? `<span class="tag">${["", "●○○ Einsteiger", "●●○ Fortgeschritten", "●●● Profi"][i.stufe]}</span>` : ""}
         ${i.sammlung ? `<span class="tag s">Sammlung</span>` : ""}
         ${i.druck === "schneiden" ? `<span class="tag">✂️ Ausschneiden</span>` : i.druck === "blatt" ? `<span class="tag">📝 Arbeitsblatt</span>` : ""}
       </div>
@@ -448,7 +460,8 @@ function karte(i) {
 }
 
 function render() {
-  const liste = gefiltert();
+  let liste = gefiltert();
+  if (filter.art === "Neuro" || filter.schwierig) liste = liste.map((x, k) => [x, k]).sort((p, q) => (p[0].stufe || 9) - (q[0].stufe || 9) || p[1] - q[1]).map(p => p[0]);
   const ohneAngabe = filter.vorrat !== "" ? IDEEN.filter(i => !Array.isArray(i.zubehoer)).length : 0;
   el("count").textContent = `${liste.length} von ${IDEEN.length} Ideen` + (ohneAngabe ? ` · ${ohneAngabe} ohne Materialangabe ausgeblendet` : "");
   el("grid").innerHTML = liste.length
