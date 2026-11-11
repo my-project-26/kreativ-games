@@ -1,5 +1,315 @@
 const IDEEN = [
  {
+  "id": "neuro-farbverbindung-kaertchen",
+  "name": "Farbverbindungs-Kärtchen",
+  "art": "Neuro",
+  "ort": "drinnen",
+  "materialStufe": 2,
+  "abAlter": 6,
+  "beschreibung": "Kärtchen so zusammenlegen, dass die Farbstreifen an jeder Kante weiterlaufen – ein kleines Logik-Puzzle.",
+  "material": "Ausdruck, Schere",
+  "anleitung": "vorlagen/farbverbindung-kaertchen.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "schere"
+  ]
+ },
+ {
+  "id": "neuro-farb-twister-boden",
+  "name": "Farb-Twister am Boden",
+  "art": "Neuro",
+  "ort": "drinnen",
+  "materialStufe": 2,
+  "abAlter": 3,
+  "beschreibung": "Bunte Kreise liegen am Boden – eine Karte geht hoch, und blitzschnell wird aufs passende Feld gesprungen.",
+  "material": "buntes Papier, Klebeband, Ausdruck, Schere",
+  "anleitung": "vorlagen/farb-twister-boden.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "schere",
+   "klebeband",
+   "buntpapier"
+  ]
+ },
+ {
+  "id": "neuro-baelle-netzplan",
+  "name": "Bälle nach Netzplan",
+  "art": "Neuro",
+  "ort": "drinnen",
+  "materialStufe": 2,
+  "abAlter": 4,
+  "beschreibung": "Bälle, Obst oder Knöpfe genau nach Plankarte auf ein Stern-Netz legen.",
+  "material": "Ausdruck, Becher oder Klopapierrollen, kleine bunte Dinge",
+  "anleitung": "vorlagen/baelle-netzplan.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "rollen",
+   "becher"
+  ]
+ },
+ {
+  "id": "neuro-sonnenstrahlen",
+  "name": "Sonnenstrahlen-Zählen",
+  "art": "Neuro",
+  "ort": "drinnen",
+  "materialStufe": 2,
+  "abAlter": 3,
+  "beschreibung": "Punkte-Streifen zählen und an den passenden Sonnenstrahl legen – Mengen erkennen mit Spaß.",
+  "material": "Ausdruck, Schere (oder Eisstiele und Stift)",
+  "anleitung": "vorlagen/sonnenstrahlen.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "schere",
+   "holzstaebe"
+  ]
+ },
+ {
+  "id": "neuro-stab-tippen-pfeil",
+  "name": "Stab-Tippen nach Pfeil",
+  "art": "Neuro",
+  "ort": "drinnen",
+  "materialStufe": 2,
+  "abAlter": 5,
+  "beschreibung": "Zwei Kochlöffel, ein Punktefeld und Pfeilkarten: Welche Hand tippt welche Farbe?",
+  "material": "Ausdruck, Schere, 2 Kochlöffel",
+  "anleitung": "vorlagen/stab-tippen-pfeil.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "schere",
+   "geschirr"
+  ]
+ },
+ {
+  "id": "neuro-wo-war-es",
+  "name": "Wo war der Gegenstand?",
+  "art": "Neuro",
+  "ort": "drinnen",
+  "materialStufe": 1,
+  "abAlter": 3,
+  "beschreibung": "Ein Gegenstand liegt kurz auf einem von mehreren Zetteln – nach dem Klatschen zeigen, wo er war.",
+  "material": "Papier, kleiner Gegenstand",
+  "anleitung": "vorlagen/wo-war-es.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier"
+  ]
+ },
+ {
+  "id": "neuro-eisstiel-farbcode",
+  "name": "Eisstiel-Farbcode",
+  "art": "Neuro",
+  "ort": "drinnen",
+  "materialStufe": 2,
+  "abAlter": 5,
+  "beschreibung": "Eine Farbfolge vom Code-Streifen ablesen und genau so auf dem Punktefeld antippen.",
+  "material": "Ausdruck, Schere",
+  "anleitung": "vorlagen/eisstiel-farbcode.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "schere"
+  ]
+ },
+ {
+  "id": "neuro-kreisraster-muster",
+  "name": "Kreisraster-Muster",
+  "art": "Neuro",
+  "ort": "drinnen",
+  "materialStufe": 2,
+  "abAlter": 4,
+  "beschreibung": "Farbchips nach Musterkarte in ein Kreisraster legen – Positionen genau übertragen.",
+  "material": "Ausdruck, Schere",
+  "anleitung": "vorlagen/kreisraster-muster.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "schere"
+  ]
+ },
+ {
+  "id": "neuro-flaschen-sortieren",
+  "name": "Flaschen-Farbsortieren",
+  "art": "Neuro",
+  "ort": "drinnen",
+  "materialStufe": 1,
+  "abAlter": 3,
+  "beschreibung": "Bunte Kugeln so schnell wie möglich in die Flasche ihrer Farbe stecken.",
+  "material": "Plastikflaschen, Klebeband, bunte Bälle oder Papierkugeln",
+  "anleitung": "vorlagen/flaschen-sortieren.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "klebeband",
+   "glas",
+   "ball"
+  ]
+ },
+ {
+  "id": "neuro-huetchen-sichtschutz",
+  "name": "Hütchenspiel mit Sichtschutz",
+  "art": "Neuro",
+  "ort": "drinnen",
+  "materialStufe": 1,
+  "abAlter": 4,
+  "beschreibung": "Becher werden hinter einer Mappe getauscht – unter welchem liegt der Ball?",
+  "material": "3 Becher, kleiner Ball, Mappe oder Buch",
+  "anleitung": "vorlagen/huetchen-sichtschutz.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "becher",
+   "kleinkram",
+   "ball"
+  ]
+ },
+ {
+  "id": "neuro-becher-am-stab",
+  "name": "Becher fangen am Stab",
+  "art": "Neuro",
+  "ort": "beides",
+  "materialStufe": 1,
+  "abAlter": 4,
+  "beschreibung": "Ein Becher am Kochlöffel wird zum Fangnetz für kleine Bälle.",
+  "material": "Becher, Kochlöffel, Klebeband, kleiner Ball",
+  "anleitung": "vorlagen/becher-am-stab.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "klebeband",
+   "becher",
+   "geschirr",
+   "ball"
+  ]
+ },
+ {
+  "id": "konz-diy-zahlen-roulette",
+  "name": "Zahlen-Roulette mit Ballbahn",
+  "art": "Konzentration",
+  "ort": "drinnen",
+  "materialStufe": 2,
+  "abAlter": 5,
+  "beschreibung": "Aus Karton ein Zahlenrad bauen, Ball hineinrollen und Punkte zusammenzählen.",
+  "material": "Karton, Schere, Klebeband, Stifte, Ball",
+  "anleitung": "vorlagen/zahlen-roulette.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "stifte",
+   "schere",
+   "klebeband",
+   "karton",
+   "ball"
+  ]
+ },
+ {
+  "id": "konz-diy-ball-aufzug",
+  "name": "Ball-Aufzug (Lochbrett)",
+  "art": "Konzentration",
+  "ort": "drinnen",
+  "materialStufe": 2,
+  "abAlter": 5,
+  "beschreibung": "Zu zweit einen Ball auf einem Stab an Löchern vorbei bis ins Ziel balancieren – Teamwork pur.",
+  "material": "großer Karton, Cutter, Stab, Tischtennisball",
+  "anleitung": "vorlagen/ball-aufzug.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "karton",
+   "cutter",
+   "ball"
+  ]
+ },
+ {
+  "id": "konz-diy-eierkarton-puzzle",
+  "name": "Eierkarton-Puzzle",
+  "art": "Konzentration",
+  "ort": "drinnen",
+  "materialStufe": 2,
+  "abAlter": 4,
+  "beschreibung": "Bunte Eierkarton-Stücke wie Tetris in die Palette einpassen.",
+  "material": "2 Eierkartons, Schere, Farbe",
+  "anleitung": "vorlagen/eierkarton-puzzle.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "schere",
+   "karton",
+   "dosen",
+   "suess"
+  ]
+ },
+ {
+  "id": "konz-diy-eierkarton-duell",
+  "name": "Eierkarton-Duell",
+  "art": "Konzentration",
+  "ort": "drinnen",
+  "materialStufe": 1,
+  "abAlter": 4,
+  "beschreibung": "Ball-Muster im Eierkarton blitzschnell nachbauen – wer ist schneller?",
+  "material": "2 Eierkartons, bunte Bälle oder Papierkugeln",
+  "anleitung": "vorlagen/eierkarton-duell.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "karton",
+   "dosen",
+   "ball",
+   "suess"
+  ]
+ },
+ {
+  "id": "konz-diy-ballon-becher-duell",
+  "name": "Ballon-Becher-Duell",
+  "art": "Konzentration",
+  "ort": "drinnen",
+  "materialStufe": 1,
+  "abAlter": 5,
+  "beschreibung": "Mit der Luft aus dem Luftballon nur die Becher der eigenen Farbe umpusten.",
+  "material": "Luftballons, 20 Becher",
+  "anleitung": "vorlagen/ballon-becher-duell.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "becher",
+   "ballon"
+  ]
+ },
+ {
+  "id": "konz-diy-loeffel-parcours",
+  "name": "Löffel-Parcours",
+  "art": "Konzentration",
+  "ort": "drinnen",
+  "materialStufe": 2,
+  "abAlter": 5,
+  "beschreibung": "Einen Ball auf dem Löffel durch einen Zickzack-Schlitz im Karton balancieren.",
+  "material": "Karton, Cutter, Löffel, Ball, 2 Schüsseln",
+  "anleitung": "vorlagen/loeffel-parcours.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "karton",
+   "cutter",
+   "geschirr",
+   "ball"
+  ]
+ },
+ {
+  "id": "konz-diy-loch-bahn-duell",
+  "name": "Loch-Bahn-Duell",
+  "art": "Konzentration",
+  "ort": "drinnen",
+  "materialStufe": 2,
+  "abAlter": 5,
+  "beschreibung": "Den Ball über eine Kartonbahn voller Löcher schieben, ohne dass er hineinfällt.",
+  "material": "Karton, Schere, Tischtennisbälle, Bücher",
+  "anleitung": "vorlagen/loch-bahn-duell.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "schere",
+   "karton",
+   "ball"
+  ]
+ },
+ {
   "id": "neuro-farbfolge-pfad",
   "name": "Farbfolge-Pfad",
   "art": "Neuro",
