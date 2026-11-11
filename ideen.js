@@ -1,5 +1,342 @@
 const IDEEN = [
  {
+  "id": "lesen-lese-befehle",
+  "name": "Lese-Befehle",
+  "art": "Lesen",
+  "ort": "drinnen",
+  "materialStufe": 1,
+  "abAlter": 6,
+  "beschreibung": "Für Klasse 1 und 3: Karte ziehen, still lesen, sofort ausführen – die anderen raten, was draufstand. Leichte und schwere Karten.",
+  "material": "Ausdruck, Schere",
+  "anleitung": "vorlagen/lese-befehle.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "schere"
+  ]
+ },
+ {
+  "id": "lesen-lese-schatzsuche",
+  "name": "Lese-Schatzsuche",
+  "art": "Lesen",
+  "ort": "drinnen",
+  "materialStufe": 1,
+  "abAlter": 6,
+  "beschreibung": "Für Klasse 1 und 3: Hinweiszettel führen von Versteck zu Versteck bis zum Schatz – lesen wird zur Detektivarbeit.",
+  "material": "Ausdruck, Stift, kleiner Schatz",
+  "anleitung": "vorlagen/lese-schatzsuche.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "stifte"
+  ]
+ },
+ {
+  "id": "lesen-geheimbotschaft",
+  "name": "Geheimbotschaften knacken",
+  "art": "Lesen",
+  "ort": "drinnen",
+  "materialStufe": 1,
+  "abAlter": 7,
+  "beschreibung": "Für Klasse 3–4: Zahlen-Code in Buchstaben übersetzen und eine Spiegelschrift-Botschaft lesen.",
+  "material": "Ausdruck, Stift, Spiegel",
+  "anleitung": "vorlagen/geheimbotschaft.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "stifte"
+  ]
+ },
+ {
+  "id": "lesen-woerter-bingo",
+  "name": "Wörter-Bingo",
+  "art": "Lesen",
+  "ort": "drinnen",
+  "materialStufe": 1,
+  "abAlter": 6,
+  "beschreibung": "Für Klasse 1–2: Bingo mit einfachen Wörtern – wer zuerst vier in einer Reihe hat, ruft BINGO.",
+  "material": "Ausdruck, Schere, Knöpfe",
+  "anleitung": "vorlagen/woerter-bingo.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "schere",
+   "kleinkram"
+  ]
+ },
+ {
+  "id": "lesen-silben-puzzle",
+  "name": "Silben-Puzzle",
+  "art": "Lesen",
+  "ort": "drinnen",
+  "materialStufe": 2,
+  "abAlter": 6,
+  "beschreibung": "Für Klasse 1–2: Silbenkärtchen zu Wörtern legen (Ba-na-ne) – und Quatschwörter erfinden.",
+  "material": "Ausdruck, Schere",
+  "anleitung": "vorlagen/silben-puzzle.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "schere"
+  ]
+ },
+ {
+  "id": "lesen-quatsch-detektiv",
+  "name": "Quatsch-Detektiv",
+  "art": "Lesen",
+  "ort": "drinnen",
+  "materialStufe": 1,
+  "abAlter": 7,
+  "beschreibung": "Für Klasse 1 und 3: Welche Sätze stimmen, welche sind Quatsch? Genau lesen und lachen.",
+  "material": "Ausdruck, Stifte",
+  "anleitung": "vorlagen/quatsch-detektiv.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "stifte"
+  ]
+ },
+ {
+  "id": "lesen-satz-salat",
+  "name": "Satz-Salat",
+  "art": "Lesen",
+  "ort": "drinnen",
+  "materialStufe": 1,
+  "abAlter": 7,
+  "beschreibung": "Für Klasse 3–4: Durcheinandergeratene Wörter wieder zu einem richtigen Satz legen.",
+  "material": "Ausdruck, Schere",
+  "anleitung": "vorlagen/satz-salat.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "schere"
+  ]
+ },
+ {
+  "id": "lesen-lesen-und-malen",
+  "name": "Lesen und Malen",
+  "art": "Lesen",
+  "ort": "drinnen",
+  "materialStufe": 2,
+  "abAlter": 6,
+  "beschreibung": "Für Klasse 1 und 3: Kurze Aufträge lesen und ins Bild malen: Sonne oben rechts, Katze unter den Baum …",
+  "material": "Ausdruck, Buntstifte",
+  "anleitung": "vorlagen/lesen-und-malen.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "stifte"
+  ]
+ },
+ {
+  "id": "lesen-pantomime-lesekarten",
+  "name": "Pantomime-Lesekarten",
+  "art": "Lesen",
+  "ort": "drinnen",
+  "materialStufe": 1,
+  "abAlter": 6,
+  "beschreibung": "Für Klasse 1 und 3: Karte heimlich lesen und ohne Worte vorspielen – kurze Wörter für Klasse 1, ganze Sätze für Klasse 3.",
+  "material": "Ausdruck, Schere",
+  "anleitung": "vorlagen/pantomime-lesekarten.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "schere"
+  ]
+ },
+ {
+  "id": "lesen-raetsel-karten",
+  "name": "Rätsel-Karten zum Vorlesen",
+  "art": "Lesen",
+  "ort": "drinnen",
+  "materialStufe": 1,
+  "abAlter": 7,
+  "beschreibung": "Für Klasse 3–4: Rätsel vorlesen und die anderen raten lassen – die Lösung steht kopfüber auf der Karte.",
+  "material": "Ausdruck, Schere",
+  "anleitung": "vorlagen/raetsel-karten.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "schere"
+  ]
+ },
+ {
+  "id": "lesen-woerter-klatsche",
+  "name": "Wörter-Klatsche",
+  "art": "Lesen",
+  "ort": "drinnen",
+  "materialStufe": 1,
+  "abAlter": 6,
+  "beschreibung": "Für Klasse 1–2: Wörter hängen an der Wand – wer klatscht zuerst mit der Fliegenklatsche aufs gerufene Wort?",
+  "material": "Papier, Stift, Klebeband, Fliegenklatsche oder Zeitung",
+  "anleitung": "vorlagen/woerter-klatsche.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "stifte",
+   "klebeband"
+  ]
+ },
+ {
+  "id": "lesen-rezept-vorlesen",
+  "name": "Rezept-Vorleser in der Küche",
+  "art": "Lesen",
+  "ort": "drinnen",
+  "materialStufe": 1,
+  "abAlter": 8,
+  "beschreibung": "Für Klasse 3–4: Das Kind ist Chefkoch und liest das Rezept vor – die Großen machen nur, was gelesen wurde.",
+  "material": "Rezept, Zutaten",
+  "anleitung": "vorlagen/rezept-vorlesen.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": []
+ },
+ {
+  "id": "lesen-einkaufs-detektiv",
+  "name": "Einkaufs-Detektiv",
+  "art": "Lesen",
+  "ort": "draußen",
+  "materialStufe": 0,
+  "abAlter": 6,
+  "beschreibung": "Für Klasse 1 und 3: Im Supermarkt den Einkaufszettel lesen und Schilder und Packungen entschlüsseln.",
+  "material": "Einkaufszettel",
+  "anleitung": "vorlagen/einkaufs-detektiv.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": []
+ },
+ {
+  "id": "lesen-lesehoehle",
+  "name": "Lesehöhle mit Taschenlampe",
+  "art": "Lesen",
+  "ort": "drinnen",
+  "materialStufe": 1,
+  "abAlter": 6,
+  "beschreibung": "Für Klasse 1 und 3: Decken-Höhle, Licht aus, Taschenlampe an – abwechselnd vorlesen mit lustigen Stimmen.",
+  "material": "Decken, Kissen, Taschenlampe, Buch",
+  "anleitung": "vorlagen/lesehoehle.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "tuch",
+   "kleinkram",
+   "taschenlampe"
+  ]
+ },
+ {
+  "id": "lesen-buchstaben-jagd",
+  "name": "Buchstaben-Jagd",
+  "art": "Lesen",
+  "ort": "drinnen",
+  "materialStufe": 1,
+  "abAlter": 5,
+  "beschreibung": "Für Klasse 1–2: Den Buchstaben des Tages in Zeitung oder Prospekt suchen und markieren – wer findet die meisten?",
+  "material": "alte Zeitung oder Prospekt, Textmarker",
+  "anleitung": "vorlagen/buchstaben-jagd.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "filzstifte"
+  ]
+ },
+ {
+  "id": "lesen-silben-huepfen",
+  "name": "Silben-Hüpfen",
+  "art": "Lesen",
+  "ort": "beides",
+  "materialStufe": 1,
+  "abAlter": 5,
+  "beschreibung": "Für Klasse 1–2: Für jede Silbe ein Feld weiterhüpfen und laut sprechen: Scho-ko-la-de!",
+  "material": "Kreide oder Klebeband",
+  "anleitung": "vorlagen/silben-huepfen.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "klebeband",
+   "kreide"
+  ]
+ },
+ {
+  "id": "konz-zahlenkarten-becher",
+  "name": "Zahlenkarten-Becher-Stapeln",
+  "art": "Konzentration",
+  "ort": "drinnen",
+  "materialStufe": 1,
+  "abAlter": 5,
+  "beschreibung": "Karte aufdecken, Zahl lesen und blitzschnell so viele Becher stapeln – aber nur, wenn die Kartenfarbe zu dir gehört.",
+  "material": "UNO-Karten oder Ausdruck, 20 Becher",
+  "anleitung": "vorlagen/zahlenkarten-becher.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "becher",
+   "wuerfel"
+  ]
+ },
+ {
+  "id": "konz-becher-schnappen",
+  "name": "Becher-Schnappen mit Zahlenkarten",
+  "art": "Konzentration",
+  "ort": "drinnen",
+  "materialStufe": 1,
+  "abAlter": 5,
+  "beschreibung": "Gleiche Zahl oder gleiche Farbe wie die Karte davor? Dann zuerst den Becher schnappen!",
+  "material": "UNO-Karten oder Ausdruck, 1 Becher",
+  "anleitung": "vorlagen/becher-schnappen.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "becher",
+   "wuerfel"
+  ]
+ },
+ {
+  "id": "konz-becher-rennbahn",
+  "name": "Becher-Rennbahn mit Zahlenkarten",
+  "art": "Konzentration",
+  "ort": "drinnen",
+  "materialStufe": 1,
+  "abAlter": 4,
+  "beschreibung": "Becher als Spielfigur auf einer Kreisbahn so viele Felder weiterziehen, wie die Karte zeigt.",
+  "material": "Ausdruck, Becher, UNO-Karten oder Ausdruck",
+  "anleitung": "vorlagen/becher-rennbahn.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "papier",
+   "becher",
+   "wuerfel"
+  ]
+ },
+ {
+  "id": "konz-ballon-becher-multitasking",
+  "name": "Ballon hoch, Becher stapeln",
+  "art": "Konzentration",
+  "ort": "drinnen",
+  "materialStufe": 1,
+  "abAlter": 5,
+  "beschreibung": "Luftballon in der Luft halten und gleichzeitig die eigenen Becher stapeln – Multitasking mit viel Gelächter.",
+  "material": "Luftballons, 20 Becher",
+  "anleitung": "vorlagen/ballon-becher-multitasking.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "becher",
+   "ballon"
+  ]
+ },
+ {
+  "id": "konz-eierkarton-ping-pong",
+  "name": "Eierkarton-Ping-Pong-Wurf",
+  "art": "Konzentration",
+  "ort": "drinnen",
+  "materialStufe": 1,
+  "abAlter": 6,
+  "beschreibung": "Tischtennisbälle in die Eierpalette tippen – wer zuerst drei in einer Reihe hat, gewinnt.",
+  "material": "Eierpalette, Tischtennisbälle, Becher, 2 Schüsseln",
+  "anleitung": "vorlagen/eierkarton-ping-pong.pdf",
+  "quelle": "eigene Anleitung und Vorlage",
+  "zubehoer": [
+   "becher",
+   "geschirr",
+   "ball",
+   "suess"
+  ]
+ },
+ {
   "id": "neuro-farbverbindung-kaertchen",
   "name": "Farbverbindungs-Kärtchen",
   "art": "Neuro",
