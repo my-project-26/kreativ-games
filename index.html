@@ -115,6 +115,9 @@
   @media (prefers-color-scheme: dark) { .bild { background: linear-gradient(135deg, #3a2a4f, #4a2c49); } }
   .bild .m { font-size:58px; line-height:1; filter: drop-shadow(0 6px 6px rgba(60,40,140,.25)); }
   .bild .m.zwei { font-size:46px; } .bild .m.drei { font-size:38px; }
+  .bild.foto { height:150px; overflow:hidden; padding:0; }
+  .bild img { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; border-radius:22px; background:#fff; }
+  .bild .t { z-index:1; }
   .bild .t { position:absolute; right:10px; bottom:8px; width:34px; height:34px; border-radius:50%; background:var(--card);
     display:flex; align-items:center; justify-content:center; font-size:19px; box-shadow:0 4px 10px -4px rgba(60,40,140,.4); }
   footer { text-align: center; font-size: .8rem; color: var(--muted); padding: 24px 16px 40px; }
@@ -259,7 +262,7 @@
   Material: 🙌 nichts nötig · 🏠 hat man meist zu Hause · ✂️ aus der Bastelkiste · 🛒 muss evtl. besorgt werden
 </footer>
 
-<script src="ideen.js?v=20261114-1"></script>
+<script src="ideen.js?v=20261114-2"></script>
 <script src="zubehoer.js?v=20261111-3"></script>
 <script>
 /* ---------- Filter-Definitionen ---------- */
@@ -439,7 +442,8 @@ function bildHtml(i) {
   if (!i.bild) return "";
   const n = [...new Intl.Segmenter().segment(i.bild)].length;
   const t = i.bildTechnik ? `<span class="t" title="${esc(TECHNIK_TEXT[i.bildTechnik] || "")}">${i.bildTechnik}</span>` : "";
-  return `<div class="bild" role="img" aria-label="${esc(i.name)}"><span class="m ${n === 2 ? "zwei" : n > 2 ? "drei" : ""}">${i.bild}</span>${t}</div>`;
+  const img = i.foto ? `<img src="${esc(i.foto)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"${i.fotoGross ? ` data-gross="${esc(i.fotoGross)}"` : ""} onerror="if(this.dataset.gross){this.src=this.dataset.gross;this.removeAttribute('data-gross')}else{this.parentNode.classList.remove('foto');this.remove()}">` : "";
+  return `<div class="bild${i.foto ? " foto" : ""}" role="img" aria-label="${esc(i.name)}"><span class="m ${n === 2 ? "zwei" : n > 2 ? "drei" : ""}">${i.bild}</span>${img}${t}</div>`;
 }
 
 function karte(i) {

@@ -2091,7 +2091,8 @@ const IDEEN = [
    "faltpapier"
   ],
   "bild": "🕊️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/890/890-origami-kranich-falten-anleitung-mit-fotos-und-video-feat-2.jpg"
  },
  {
   "id": "buch-o-kraehe",
@@ -2113,7 +2114,8 @@ const IDEEN = [
    "faltpapier"
   ],
   "bild": "🐦‍⬛",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/903/903-vogel-aus-papier-basteln-origami-anleitung-fuer-einen-papagei-feat.jpg"
  },
  {
   "id": "buch-o-schmetterling",
@@ -2135,7 +2137,8 @@ const IDEEN = [
    "faltpapier"
   ],
   "bild": "🦋",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/5602/5602-origami-schmetterling-falten-einfache-schritt-fuer-schritt-anleitung-mit-fotos-und-video-feat.jpg"
  },
  {
   "id": "buch-o-eisbaer",
@@ -2157,7 +2160,8 @@ const IDEEN = [
    "faltpapier"
   ],
   "bild": "🐻‍❄️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/963/963-baer-aus-papier-zum-falten-einfaches-origami-fuer-kinder-ab-3-jahren-feat.jpg"
  },
  {
   "id": "buch-o-dinosaurier",
@@ -2179,7 +2183,8 @@ const IDEEN = [
    "faltpapier"
   ],
   "bild": "🦖",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/904/904-origami-dinosaurier-anleitung-zum-falten-eines-t-rex-feat.jpg"
  },
  {
   "id": "buch-o-pferd",
@@ -2281,7 +2286,8 @@ const IDEEN = [
    "faltpapier"
   ],
   "bild": "🦢",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/39825/887-origami-schwan-schritt-fuer-schritt-anleitung-zum-falten-eines-schwans-aus-papier-feat.jpg"
  },
  {
   "id": "buch-o-mantarochen",
@@ -2343,7 +2349,8 @@ const IDEEN = [
    "faltpapier"
   ],
   "bild": "🦊",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/901/901-origami-fuchs-falten-leichte-anleitung-feat-2.jpg"
  },
  {
   "id": "buch-o-fledermaus",
@@ -2385,7 +2392,8 @@ const IDEEN = [
    "faltpapier"
   ],
   "bild": "🐟",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/6878/6878-3d-origami-fisch-einfache-faltanleitung-mit-fotos-und-video-feat.jpg"
  },
  {
   "id": "buch-o-nashorn",
@@ -2447,7 +2455,8 @@ const IDEEN = [
    "faltpapier"
   ],
   "bild": "🐰",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/900/900-origami-hase-anleitung-schritt-fuer-schritt-feat.jpg"
  },
  {
   "id": "buch-o-schwein",
@@ -2469,7 +2478,8 @@ const IDEEN = [
    "faltpapier"
   ],
   "bild": "🐷",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/1142/1142-origami-schwein-faltanleitung-mit-video-und-bildern-feat.jpg"
  },
  {
   "id": "buch-o-maus",
@@ -5012,7 +5022,8 @@ const IDEEN = [
    "buntpapier"
   ],
   "bild": "🐥",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/3471/3471-bewegliches-kueken-bastelanleitung-mit-video-und-fotos-fuer-kinder-feat.jpg"
  },
  {
   "id": "papierbecher",
@@ -5035,7 +5046,8 @@ const IDEEN = [
    "buntpapier"
   ],
   "bild": "🥤",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/3472/3472-diy-papierbecher-bastelanleitung-mit-video-und-fotos-fuer-kinder-feat.jpg"
  },
  {
   "id": "tk-1134",
@@ -5062,7 +5074,8 @@ const IDEEN = [
    "natur"
   ],
   "bild": "🌸",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/1134/1134-bastele-schoene-3d-blumen-mit-deinem-kind-eine-schritt-fuer-schritt-anleitung-feat.jpg"
  },
  {
   "id": "tk-4125",
@@ -5087,7 +5100,8 @@ const IDEEN = [
    "karton"
   ],
   "bild": "🌸💌",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/4125/4125-diy-3d-karte-zum-8-maerz-einzigartige-blumenkarte-fuer-mama-zum-frauentag-feat.jpg"
  },
  {
   "id": "tk-1030",
@@ -5112,7 +5126,8 @@ const IDEEN = [
    "kaffeefilter"
   ],
   "bild": "🌸",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/1030/1030-einfache-bastelei-fuer-kinder-3d-blumenstrauss-aus-papier-feat.jpg"
  },
  {
   "id": "tk-3486",
@@ -5137,7 +5152,8 @@ const IDEEN = [
    "heisskleber"
   ],
   "bild": "💝",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/3486/3486-3d-herz-dekoration-zum-valentinstag-anleitung-mit-fotos-und-video-feat.jpg"
  },
  {
   "id": "tk-3487",
@@ -5162,7 +5178,8 @@ const IDEEN = [
    "buntpapier"
   ],
   "bild": "💝💌",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/3487/3487-3d-valentinstag-karte-schritt-fuer-schritt-anleitung-mit-fotos-und-video-feat.jpg"
  },
  {
   "id": "tk-1031",
@@ -5187,7 +5204,8 @@ const IDEEN = [
    "zirkel"
   ],
   "bild": "🌸",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/1031/1031-3d-papierblume-schritt-fuer-schritt-anleitung-mit-fotos-videos-und-beschreibung-feat.jpg"
  },
  {
   "id": "tk-1033",
@@ -5213,7 +5231,8 @@ const IDEEN = [
    "zirkel"
   ],
   "bild": "🌸",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/1033/1033-3d-papierblume-schritt-fuer-schritt-anleitung-mit-fotos-und-video-feat.jpg"
  },
  {
   "id": "tk-1135",
@@ -5236,7 +5255,8 @@ const IDEEN = [
    "zirkel"
   ],
   "bild": "🦋",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/1135/1135-3d-schmetterling-aus-papier-eine-schritt-fuer-schritt-anleitung-mit-fotos-und-video-feat.jpg"
  },
  {
   "id": "tk-940",
@@ -5262,7 +5282,8 @@ const IDEEN = [
    "karton"
   ],
   "bild": "🎄",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/940/940-3d-weihnachtsbaum-aus-papier-eine-weihnachtsbastele-mit-kindern-feat.jpg"
  },
  {
   "id": "tk-2416",
@@ -5287,7 +5308,8 @@ const IDEEN = [
    "styropor"
   ],
   "bild": "🎄💌",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/2416/2416-3d-weihnachtskarte-basteln-schritt-fuer-schritt-mit-deinem-kind-feat.jpg"
  },
  {
   "id": "tk-954",
@@ -5308,7 +5330,8 @@ const IDEEN = [
    "natur"
   ],
   "bild": "🐜",
-  "bildTechnik": "🌰"
+  "bildTechnik": "🌰",
+  "foto": "https://www.tutkit.com/storage/media/help/41872/954-ameise-aus-eicheln-einfaches-basteln-mit-kindern-feat.jpg"
  },
  {
   "id": "tk-6869",
@@ -5332,7 +5355,8 @@ const IDEEN = [
    "watte"
   ],
   "bild": "🍍",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/6869/6869-kawaii-ananas-paper-squishy-basteln-einfache-diy-anleitung-mit-fotos-und-video-feat.jpg"
  },
  {
   "id": "tk-937",
@@ -5346,7 +5370,8 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "bild": "🍴"
+  "bild": "🍴",
+  "foto": "https://www.tutkit.com/storage/media/help/937/937-bestecktaschen-fuer-tischbesteck-eine-einfache-weihnachtsbastele-mit-kindern-feat.jpg"
  },
  {
   "id": "tk-4143",
@@ -5371,7 +5396,8 @@ const IDEEN = [
    "wackelaugen"
   ],
   "bild": "🐰",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/4143/4143-lustigen-papier-hasen-basteln-einfache-diy-anleitung-fuer-kinder-feat.jpg"
  },
  {
   "id": "tk-4158",
@@ -5393,7 +5419,8 @@ const IDEEN = [
    "kleber"
   ],
   "bild": "🎲",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/4158/4158-bisokchigi-aus-squid-game-basteln-einfache-diy-anleitung-fuer-kinder-feat.jpg"
  },
  {
   "id": "tk-3931",
@@ -5414,7 +5441,8 @@ const IDEEN = [
    "schere"
   ],
   "bild": "✈️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/3931/3931-papierflieger-bumerang-basteln-rueckkehrender-flieger-mit-video-und-fotos-feat.jpg"
  },
  {
   "id": "tk-4151",
@@ -5439,7 +5467,8 @@ const IDEEN = [
    "buntpapier"
   ],
   "bild": "🪁",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/4151/4151-bunte-papierdrachen-basteln-einfache-diy-anleitung-fuer-kinder-feat.jpg"
  },
  {
   "id": "tk-4135",
@@ -5464,7 +5493,8 @@ const IDEEN = [
    "elektro"
   ],
   "bild": "🏮",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/4135/4135-diy-bunte-papierlaterne-leuchtende-bastelfreude-fuer-kinder-feat.jpg"
  },
  {
   "id": "tk-3509",
@@ -5479,7 +5509,8 @@ const IDEEN = [
   "ort": "drinnen",
   "materialStufe": 2,
   "bild": "🐍",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/3509/3509-papier-schlange-bunte-diy-bastelidee-fuer-kinder-ab-5-jahren-feat.jpg"
  },
  {
   "id": "tk-944",
@@ -5498,7 +5529,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "✈️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/944/944-concorde-aus-papier-falten-flugzeug-aus-papier-falten-origami-anleitung-feat.jpg"
  },
  {
   "id": "tk-6873",
@@ -5523,7 +5555,8 @@ const IDEEN = [
    "watte"
   ],
   "bild": "🟩",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/6873/6873-minecraft-creeper-stift-paper-squishy-basteln-kreative-schreibutensilien-im-pixelstil-feat.jpg"
  },
  {
   "id": "tk-13484",
@@ -5546,7 +5579,8 @@ const IDEEN = [
    "gummi"
   ],
   "bild": "✈️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/85962/13484-papier-dart-flieger-basteln-mit-gummiband-und-zielspass-feat.jpg"
  },
  {
   "id": "tk-3382",
@@ -5565,7 +5599,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "🎲",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/3382/3382-ddakji-origami-eine-vollstaendige-faltanleitung-mit-video-und-fotos-feat.jpg"
  },
  {
   "id": "tk-3515",
@@ -5586,7 +5621,8 @@ const IDEEN = [
    "faltpapier"
   ],
   "bild": "🎲",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/3515/3515-ddakji-origami-version-2-anleitung-mit-video-fotos-feat.jpg"
  },
  {
   "id": "tk-3468",
@@ -5613,7 +5649,8 @@ const IDEEN = [
    "glas"
   ],
   "bild": "🌸",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/3468/3468-diy-blume-bastelanleitung-mit-video-und-fotos-fuer-kinder-feat.jpg"
  },
  {
   "id": "tk-4163",
@@ -5635,7 +5672,8 @@ const IDEEN = [
    "suess"
   ],
   "bild": "🐰",
-  "bildTechnik": "🧻"
+  "bildTechnik": "🧻",
+  "foto": "https://www.tutkit.com/storage/media/help/4163/4163-oster-eierhase-niedliche-tischdekoration-mit-foto-und-videoanleitung-feat.jpg"
  },
  {
   "id": "tk-4132",
@@ -5660,7 +5698,8 @@ const IDEEN = [
    "elektro"
   ],
   "bild": "🏮",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/4132/4132-diy-papierlaterne-einfache-bastelidee-fuer-kinder-feat.jpg"
  },
  {
   "id": "tk-1151",
@@ -5679,7 +5718,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "✈️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/1151/1151-einfacher-papierflieger-schritt-fuer-schritt-anleitung-mit-fotos-und-video-feat.jpg"
  },
  {
   "id": "tk-4148",
@@ -5699,7 +5739,8 @@ const IDEEN = [
    "lineal"
   ],
   "bild": "✈️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/4148/4148-einfacher-papierflieger-schnell-gefaltet-fliegt-gut-feat.jpg"
  },
  {
   "id": "tk-1144",
@@ -5718,7 +5759,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "✈️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/1144/1144-einfacher-papierflieger-faltanleitung-mit-video-und-bildern-feat.jpg"
  },
  {
   "id": "tk-4596",
@@ -5744,7 +5786,8 @@ const IDEEN = [
    "cutter"
   ],
   "bild": "😀✏️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/4596/4596-emoji-stiftaufsatz-basteln-lustige-diy-idee-fuer-kinder-feat.jpg"
  },
  {
   "id": "tk-947",
@@ -5763,7 +5806,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "✈️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/947/947-eurofighter-aus-papier-eine-schritt-fuer-schritt-anleitung-mit-fotos-und-video-feat.jpg"
  },
  {
   "id": "tk-948",
@@ -5782,7 +5826,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "✈️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/948/948-f-15-eagle-aus-papier-anleitung-zum-papierflieger-basteln-mit-fotos-und-video-feat.jpg"
  },
  {
   "id": "tk-1145",
@@ -5801,7 +5846,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "✈️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/1145/1145-f15-origami-kampfjet-faltanleitung-mit-video-und-bildern-feat.jpg"
  },
  {
   "id": "tk-943",
@@ -5820,7 +5866,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "✈️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/943/943-f16-kampfjet-aus-papier-falten-eine-spannende-origami-anleitung-feat.jpg"
  },
  {
   "id": "tk-987",
@@ -5839,7 +5886,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "✈️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/987/987-f-22-raptor-flugzeug-aus-papier-falten-anleitung-mit-fotos-und-video-feat.jpg"
  },
  {
   "id": "tk-988",
@@ -5858,7 +5906,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "✈️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/988/988-falken-papierflugzeug-falten-anleitung-mit-fotos-und-video-feat.jpg"
  },
  {
   "id": "tk-13486",
@@ -5873,7 +5922,8 @@ const IDEEN = [
   "ort": "drinnen",
   "materialStufe": 1,
   "bild": "🎲",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/13486/13486-diy-faltspiel-fuer-kinder-einfache-bastelidee-mit-papier-feat.jpg"
  },
  {
   "id": "tk-3840",
@@ -5899,7 +5949,8 @@ const IDEEN = [
    "natur"
   ],
   "bild": "🦇",
-  "bildTechnik": "🌰"
+  "bildTechnik": "🌰",
+  "foto": "https://www.tutkit.com/storage/media/help/3840/3840-fledermaus-aus-kastanien-bastelanleitung-mit-video-fotos-und-beschreibung-feat.jpg"
  },
  {
   "id": "tk-3933",
@@ -5919,7 +5970,8 @@ const IDEEN = [
    "filzstifte"
   ],
   "bild": "🦇✈️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/3933/3933-fliegende-fledermaus-papierflieger-fluegel-modell-mit-video-und-fotoanleitung-feat.jpg"
  },
  {
   "id": "tk-949",
@@ -5938,7 +5990,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "🦇✈️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/949/949-fledermaus-gleiter-aus-papier-batman-flieger-basteln-mit-anleitung-feat.jpg"
  },
  {
   "id": "tk-9171",
@@ -5957,7 +6010,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "🎲",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/9171/9171-origami-fliegender-wuerfel-mit-fluegeln-anleitung-mit-fotos-und-video-feat.jpg"
  },
  {
   "id": "tk-990",
@@ -5976,7 +6030,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "✈️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/990/990-modulares-flugzeug-aus-vier-blaettern-anleitung-mit-fotos-und-video-feat.jpg"
  },
  {
   "id": "tk-3381",
@@ -5995,7 +6050,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "🎲",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/3381/3381-origami-gong-gi-wuerfel-vollstaendige-anleitung-mit-video-und-fotosteps-feat.jpg"
  },
  {
   "id": "tk-3922",
@@ -6016,7 +6072,8 @@ const IDEEN = [
    "elektro"
   ],
   "bild": "🌙",
-  "bildTechnik": "🫙"
+  "bildTechnik": "🫙",
+  "foto": "https://www.tutkit.com/storage/media/help/3922/3922-leuchtender-halloween-nachtlicht-im-glas-bastelanleitung-mit-video-und-fotos-feat.jpg"
  },
  {
   "id": "tk-13490",
@@ -6039,7 +6096,8 @@ const IDEEN = [
    "farbe"
   ],
   "bild": "🐰✈️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/13490/13490-hase-auf-papierflieger-lustige-bastelidee-fuer-kinder-mit-anleitung-feat.jpg"
  },
  {
   "id": "tk-974",
@@ -6058,7 +6116,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "🐰",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/974/974-hase-zum-falten-einfaches-origami-fuer-kinder-ab-3-jahren-feat.jpg"
  },
  {
   "id": "tk-4162",
@@ -6078,7 +6137,8 @@ const IDEEN = [
    "kaffeefilter"
   ],
   "bild": "🐰",
-  "bildTechnik": "🧻"
+  "bildTechnik": "🧻",
+  "foto": "https://www.tutkit.com/storage/media/help/4162/4162-oster-diy-niedliche-servietten-hasen-fuer-den-festlichen-tisch-falten-feat.jpg"
  },
  {
   "id": "tk-4164",
@@ -6102,7 +6162,8 @@ const IDEEN = [
    "heisskleber"
   ],
   "bild": "🐰",
-  "bildTechnik": "🧻"
+  "bildTechnik": "🧻",
+  "foto": "https://www.tutkit.com/storage/media/help/4164/4164-osterhasen-koerbchen-aus-klopapierrollen-suesse-bastelprojekte-fuer-kinder-feat.jpg"
  },
  {
   "id": "tk-13459",
@@ -6121,7 +6182,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "🚁",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/85665/13459-helikopter-pfeil-aus-papier-einfach-schnell-gemacht-feat.jpg"
  },
  {
   "id": "tk-3510",
@@ -6145,7 +6207,8 @@ const IDEEN = [
    "buntpapier"
   ],
   "bild": "💖🪽",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/3510/3510-diy-herz-mit-fluegeln-anleitung-mit-video-fotos-fuer-valentinstag-muttertag-feat.jpg"
  },
  {
   "id": "tk-1155",
@@ -6164,7 +6227,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "✈️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/1155/1155-hondajet-papierflugzeug-anleitung-mit-fotos-und-video-feat.jpg"
  },
  {
   "id": "tk-13511",
@@ -6186,7 +6250,8 @@ const IDEEN = [
    "buntpapier"
   ],
   "bild": "🌸",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/13511/13511-huebsche-papierblume-anleitung-einfache-dekoidee-mit-papier-feat.jpg"
  },
  {
   "id": "tk-968",
@@ -6207,7 +6272,8 @@ const IDEEN = [
    "natur"
   ],
   "bild": "🦔",
-  "bildTechnik": "🌲"
+  "bildTechnik": "🌲",
+  "foto": "https://www.tutkit.com/storage/media/help/968/968-igel-aus-einem-zapfen-einfaches-bastelprojekt-fuer-kleinkinder-feat.jpg"
  },
  {
   "id": "tk-953",
@@ -6228,7 +6294,8 @@ const IDEEN = [
    "natur"
   ],
   "bild": "🦔",
-  "bildTechnik": "🌰"
+  "bildTechnik": "🌰",
+  "foto": "https://www.tutkit.com/storage/media/help/953/953-igel-aus-kastanien-basteln-mit-kindern-feat.jpg"
  },
  {
   "id": "tk-9058",
@@ -6253,7 +6320,8 @@ const IDEEN = [
    "buntpapier"
   ],
   "bild": "🧊",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/9058/9058-infinity-cube-basteln-bunte-diy-anleitung-mit-video-fotos-feat.jpg"
  },
  {
   "id": "tk-969",
@@ -6274,7 +6342,8 @@ const IDEEN = [
    "natur"
   ],
   "bild": "🕷️",
-  "bildTechnik": "🌰"
+  "bildTechnik": "🌰",
+  "foto": "https://www.tutkit.com/storage/media/help/969/969-kastanienspinne-einfache-herbstbastelei-fuer-kleinkinder-feat.jpg"
  },
  {
   "id": "tk-4356",
@@ -6299,7 +6368,8 @@ const IDEEN = [
    "karton"
   ],
   "bild": "🐰",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/4356/4356-kegel-hasen-aus-papier-basteln-niedliche-diy-idee-feat.jpg"
  },
  {
   "id": "tk-4156",
@@ -6321,7 +6391,8 @@ const IDEEN = [
    "kleber"
   ],
   "bild": "🧹",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/4156/4156-kehrschaufel-mit-besen-aus-papier-basteln-lustige-diy-anleitung-fuer-kinder-feat.jpg"
  },
  {
   "id": "tk-989",
@@ -6344,7 +6415,8 @@ const IDEEN = [
    "wolle",
    "glitzer"
   ],
-  "bild": "🏠"
+  "bild": "🏠",
+  "foto": "https://www.tutkit.com/storage/media/help/42339/989-diy-anleitung-weihnachtsbaumschmuck-in-form-eines-korkhauses-feat.jpg"
  },
  {
   "id": "tk-4165",
@@ -6370,7 +6442,8 @@ const IDEEN = [
    "heisskleber"
   ],
   "bild": "🐥",
-  "bildTechnik": "🧻"
+  "bildTechnik": "🧻",
+  "foto": "https://www.tutkit.com/storage/media/help/4165/4165-osterkoerbchen-in-kueken-form-niedliche-osterdekoration-zum-selbermachen-feat.jpg"
  },
  {
   "id": "tk-3924",
@@ -6390,7 +6463,8 @@ const IDEEN = [
    "natur"
   ],
   "bild": "🎃",
-  "bildTechnik": "🌰"
+  "bildTechnik": "🌰",
+  "foto": "https://www.tutkit.com/storage/media/help/3924/3924-halloween-kuerbisgesicht-aus-naturmaterialien-anleitung-mit-video-und-fotos-feat.jpg"
  },
  {
   "id": "tk-3925",
@@ -6410,7 +6484,8 @@ const IDEEN = [
    "geschirr",
    "elektro"
   ],
-  "bild": "🎃"
+  "bild": "🎃",
+  "foto": "https://www.tutkit.com/storage/media/help/3925/3925-kuerbiskopf-schnitzen-fuer-halloween-leuchtende-dekoanleitung-mit-video-und-fotos-feat.jpg"
  },
  {
   "id": "tk-3905",
@@ -6435,7 +6510,8 @@ const IDEEN = [
    "rollen"
   ],
   "bild": "🎃",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/3905/3905-kuerbislaterne-aus-papier-einfache-halloween-bastelanleitung-mit-video-und-fotos-feat.jpg"
  },
  {
   "id": "tk-13496",
@@ -6449,7 +6525,8 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 3,
-  "bild": "🌺"
+  "bild": "🌺",
+  "foto": "https://www.tutkit.com/storage/media/help/13496/13496-diy-lilienblume-aus-chenilledraht-einfache-bastelidee-fuer-zuhause-geschenke-feat.jpg"
  },
  {
   "id": "tk-4145",
@@ -6475,7 +6552,8 @@ const IDEEN = [
    "karton"
   ],
   "bild": "🐰",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/4145/4145-lustiger-papierhase-zum-basteln-einfache-idee-fuer-kinder-feat.jpg"
  },
  {
   "id": "tk-5672",
@@ -6500,7 +6578,8 @@ const IDEEN = [
    "wackelaugen"
   ],
   "bild": "🐞",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/5672/5672-marienkaefer-aus-papier-basteln-einfache-schritt-fuer-schritt-anleitung-mit-fotos-und-video-feat.jpg"
  },
  {
   "id": "tk-946",
@@ -6519,7 +6598,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "✈️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/946/946-militaerflugzeug-aus-papier-eine-schritt-fuer-schritt-anleitung-feat.jpg"
  },
  {
   "id": "tk-4176",
@@ -6538,7 +6618,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "🐝",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/4176/4176-minecraft-biene-basteln-foto-video-anleitung-schritt-fuer-schritt-feat.jpg"
  },
  {
   "id": "tk-4175",
@@ -6558,7 +6639,8 @@ const IDEEN = [
    "filzstifte"
   ],
   "bild": "🟩",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/4175/4175-minecraft-creeper-box-basteln-foto-video-anleitung-feat.jpg"
  },
  {
   "id": "tk-4177",
@@ -6585,7 +6667,8 @@ const IDEEN = [
    "natur"
   ],
   "bild": "🟩",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/4177/4177-minecraft-creeper-figur-basteln-foto-video-anleitung-feat.jpg"
  },
  {
   "id": "tk-6882",
@@ -6609,7 +6692,8 @@ const IDEEN = [
    "lineal"
   ],
   "bild": "🟩",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/6882/6882-minecraft-papiertuete-basteln-coole-diy-geschenktuete-fuer-kinder-feat.jpg"
  },
  {
   "id": "tk-4178",
@@ -6631,7 +6715,8 @@ const IDEEN = [
    "karton"
   ],
   "bild": "🟩",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/4178/4178-minecraft-stifteboxen-basteln-foto-video-anleitung-schritt-fuer-schritt-feat.jpg"
  },
  {
   "id": "tk-6872",
@@ -6654,7 +6739,8 @@ const IDEEN = [
    "lineal"
   ],
   "bild": "🟩",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/6872/6872-minecraft-tnt-paper-squishy-basteln-pixelige-spielspass-zum-selbermachen-feat.jpg"
  },
  {
   "id": "tk-13494",
@@ -6669,7 +6755,8 @@ const IDEEN = [
   "ort": "drinnen",
   "materialStufe": 1,
   "bild": "🧼",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/13494/13494-diy-mini-papierseife-basteln-mit-foto-und-video-anleitung-fuer-kinder-feat.jpg"
  },
  {
   "id": "tk-13506",
@@ -6692,7 +6779,8 @@ const IDEEN = [
    "buntpapier"
   ],
   "bild": "🌸",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/13506/13506-niedliche-papierblumen-basteln-einfache-dekoidee-fuer-kinder-erwachsene-feat.jpg"
  },
  {
   "id": "tk-3480",
@@ -6711,7 +6799,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "✈️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/3480/3480-origami-f-15-eagle-faltanleitung-mit-video-und-fotos-feat.jpg"
  },
  {
   "id": "tk-9173",
@@ -6733,7 +6822,8 @@ const IDEEN = [
    "schere"
   ],
   "bild": "💃",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/9173/9173-origami-tanzender-mensch-einfache-papier-figur-mit-fotos-und-video-feat.jpg"
  },
  {
   "id": "tk-3479",
@@ -6752,7 +6842,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "🏀",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/3479/3479-origami-basketball-faltanleitung-mit-video-und-fotos-feat.jpg"
  },
  {
   "id": "tk-3385",
@@ -6771,7 +6862,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "👉",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/3385/3385-origami-fingerfalle-anleitung-mit-video-fotos-und-beschreibung-feat.jpg"
  },
  {
   "id": "tk-6874",
@@ -6790,7 +6882,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "✈️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/6874/6874-origami-flugzeug-anleitung-mit-fotos-und-video-feat.jpg"
  },
  {
   "id": "tk-3493",
@@ -6809,7 +6902,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "✈️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/3493/3493-origami-flugzeug-anleitung-mit-video-fotos-und-beschreibung-feat.jpg"
  },
  {
   "id": "tk-6875",
@@ -6829,7 +6923,8 @@ const IDEEN = [
    "schere"
   ],
   "bild": "✈️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/6875/6875-fortgeschrittenes-origami-flugzeug-einfache-schritt-fuer-schritt-anleitung-mit-fotos-und-video-feat.jpg"
  },
  {
   "id": "tk-3495",
@@ -6848,7 +6943,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "⚽",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/3495/3495-origami-fussballspiel-anleitung-mit-video-fotos-und-beschreibung-feat.jpg"
  },
  {
   "id": "tk-3873",
@@ -6871,7 +6967,8 @@ const IDEEN = [
    "buntpapier"
   ],
   "bild": "👻",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/3873/3873-origami-geisterhaus-fuer-halloween-anleitung-mit-video-fotos-und-text-feat.jpg"
  },
  {
   "id": "tk-3926",
@@ -6892,7 +6989,8 @@ const IDEEN = [
    "schere"
   ],
   "bild": "👻",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/3926/3926-origami-gespenster-fuer-halloween-einfache-bastelanleitung-mit-video-und-fotos-feat.jpg"
  },
  {
   "id": "tk-4120",
@@ -6915,7 +7013,8 @@ const IDEEN = [
    "buntpapier"
   ],
   "bild": "💖",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/4120/4120-diy-origami-herz-mit-grussbotschaft-perfektes-geschenk-zum-8-maerz-feat.jpg"
  },
  {
   "id": "tk-3512",
@@ -6937,7 +7036,8 @@ const IDEEN = [
    "schere"
   ],
   "bild": "🚁",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/3512/3512-origami-hubschrauber-anleitung-mit-video-fotos-feat.jpg"
  },
  {
   "id": "tk-4146",
@@ -6956,7 +7056,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "✈️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/4146/4146-cooler-origami-jet-aus-papier-bastelidee-fuer-kinder-feat.jpg"
  },
  {
   "id": "tk-6881",
@@ -6977,7 +7078,8 @@ const IDEEN = [
    "buntpapier"
   ],
   "bild": "🐱📦",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/6881/6881-origami-katze-in-box-suesse-papier-ueberraschung-basteln-mit-kindern-feat.jpg"
  },
  {
   "id": "tk-3504",
@@ -6996,7 +7098,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "🐱✉️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/3504/3504-origami-katzenumschlag-anleitung-mit-video-fotos-und-beschreibung-feat.jpg"
  },
  {
   "id": "tk-3505",
@@ -7015,7 +7118,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "🌀",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/3505/3505-origami-kreisel-anleitung-mit-video-fotos-und-beschreibung-feat.jpg"
  },
  {
   "id": "tk-3923",
@@ -7038,7 +7142,8 @@ const IDEEN = [
    "buntpapier"
   ],
   "bild": "🎃",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/3923/3923-origami-kuerbisgesichter-fuer-halloween-bastelanleitung-mit-video-fotos-und-text-feat.jpg"
  },
  {
   "id": "tk-13512",
@@ -7057,7 +7162,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "🌺",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/13512/13512-origami-lilie-falten-schoene-papierblume-fuer-kinder-anfaenger-mit-anleitung-feat.jpg"
  },
  {
   "id": "tk-9172",
@@ -7077,7 +7183,8 @@ const IDEEN = [
    "schere"
   ],
   "bild": "🎵",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/9172/9172-origami-pfeife-einfache-papier-bastelanleitung-mit-fotos-und-video-feat.jpg"
  },
  {
   "id": "tk-992",
@@ -7096,7 +7203,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "🚀",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/992/992-origami-raumschiff-anleitung-mit-fotos-und-video-feat.jpg"
  },
  {
   "id": "tk-1138",
@@ -7115,7 +7223,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "🚀",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/1138/1138-origami-flugzeugraumschiff-anleitung-mit-fotos-und-video-feat.jpg"
  },
  {
   "id": "tk-1693",
@@ -7134,7 +7243,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "⛄",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/1693/1693-origami-schneemann-anleitung-mit-video-fotos-und-beschreibung-feat.jpg"
  },
  {
   "id": "tk-905",
@@ -7153,7 +7263,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "⭐",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/905/905-origami-stern-falten-aus-papier-feat.jpg"
  },
  {
   "id": "tk-891",
@@ -7172,7 +7283,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "🎄",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/891/891-origami-tannenbaum-falten-einfache-anleitung-feat.jpg"
  },
  {
   "id": "tk-7827",
@@ -7196,7 +7308,8 @@ const IDEEN = [
    "ball"
   ],
   "bild": "🎾",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/7827/7827-origami-tennis-einfache-anleitung-mit-fotos-und-video-fuer-kinder-feat.jpg"
  },
  {
   "id": "tk-4153",
@@ -7216,7 +7329,8 @@ const IDEEN = [
    "filzstifte"
   ],
   "bild": "💀",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/4153/4153-origami-totenkopf-falten-einfache-anleitung-fuer-kinder-feat.jpg"
  },
  {
   "id": "tk-7779",
@@ -7239,7 +7353,8 @@ const IDEEN = [
    "natur"
   ],
   "bild": "🌷",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/7779/7779-tulpe-aus-papier-origami-tulpe-anleitung-mit-fotos-und-video-fuer-kinder-feat.jpg"
  },
  {
   "id": "tk-13503",
@@ -7260,7 +7375,8 @@ const IDEEN = [
    "kleber"
   ],
   "bild": "🌷",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/13503/13503-origami-tulpen-basteln-papierblumen-fuer-fruehling-geschenke-feat.jpg"
  },
  {
   "id": "tk-4122",
@@ -7281,7 +7397,8 @@ const IDEEN = [
    "natur"
   ],
   "bild": "🌷🐝",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/4122/4122-diy-origami-tulpen-und-biene-niedliches-geschenk-zum-8-maerz-oder-geschenk-zum-muttertag-feat.jpg"
  },
  {
   "id": "tk-1692",
@@ -7300,7 +7417,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "🧤",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/1692/1692-origami-weihnachtshandschuh-anleitung-mit-video-fotos-und-beschreibung-feat.jpg"
  },
  {
   "id": "tk-1691",
@@ -7319,7 +7437,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "🧦",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/1691/1691-origami-weihnachtssocke-anleitung-mit-video-fotos-und-beschreibung-feat.jpg"
  },
  {
   "id": "tk-4140",
@@ -7344,7 +7463,8 @@ const IDEEN = [
    "buntpapier"
   ],
   "bild": "🐰",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/4140/4140-niedliche-osterhasen-basteln-einfache-diy-anleitung-fuer-kinder-feat.jpg"
  },
  {
   "id": "tk-4141",
@@ -7370,7 +7490,8 @@ const IDEEN = [
    "suess"
   ],
   "bild": "🐰",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/4141/4141-osterhasen-fuer-lutscher-basteln-einfache-diy-anleitung-fuer-kinder-feat.jpg"
  },
  {
   "id": "tk-4161",
@@ -7390,7 +7511,8 @@ const IDEEN = [
    "kaffeefilter"
   ],
   "bild": "🐰",
-  "bildTechnik": "🧻"
+  "bildTechnik": "🧻",
+  "foto": "https://www.tutkit.com/storage/media/help/4161/4161-osterhasen-serviette-falten-einfache-anleitung-fuer-festliche-tische-feat.jpg"
  },
  {
   "id": "tk-1042",
@@ -7414,7 +7536,8 @@ const IDEEN = [
    "karton"
   ],
   "bild": "🌼",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/1042/1042-papier-feldblumen-basteln-anleitung-mit-fotos-und-video-feat.jpg"
  },
  {
   "id": "tk-13492",
@@ -7439,7 +7562,8 @@ const IDEEN = [
    "strohhalm"
   ],
   "bild": "🌼",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/13492/13492-papier-gaensebluemchen-basteln-einfache-diy-blumen-fuer-geschenke-feat.jpg"
  },
  {
   "id": "tk-4149",
@@ -7460,7 +7584,8 @@ const IDEEN = [
    "lineal"
   ],
   "bild": "🚁",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/4149/4149-papier-helikopter-basteln-drehende-rotorblaetter-aus-papier-feat.jpg"
  },
  {
   "id": "tk-13502",
@@ -7481,7 +7606,8 @@ const IDEEN = [
    "schere"
   ],
   "bild": "🚁",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/86030/13502-papier-helicopter-bumerang-basteln-diy-mit-videoanleitung-feat.jpg"
  },
  {
   "id": "tk-13497",
@@ -7504,7 +7630,8 @@ const IDEEN = [
    "buntpapier"
   ],
   "bild": "🌺",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/13497/13497-papier-lilie-basteln-einfache-blumenidee-fuer-kinder-anfaenger-feat.jpg"
  },
  {
   "id": "tk-13509",
@@ -7529,7 +7656,8 @@ const IDEEN = [
    "glitzer"
   ],
   "bild": "🌸",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/13509/13509-papierblume-fuer-deko-basteln-leichte-diy-bastelidee-mit-foto-und-videoanleitung-feat.jpg"
  },
  {
   "id": "tk-4127",
@@ -7554,7 +7682,8 @@ const IDEEN = [
    "suess"
   ],
   "bild": "🌸🍭",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/4127/4127-diy-papierblume-mit-lolli-suesses-geschenk-zum-muttertag-oder-geschenk-fuer-oma-feat.jpg"
  },
  {
   "id": "tk-13495",
@@ -7580,7 +7709,8 @@ const IDEEN = [
    "strohhalm"
   ],
   "bild": "🌸",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/13495/13495-papierblumen-basteln-in-5-minuten-einfache-anleitung-mit-video-feat.jpg"
  },
  {
   "id": "tk-3499",
@@ -7605,7 +7735,8 @@ const IDEEN = [
    "strohhalm"
   ],
   "bild": "💝",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/3499/3499-papierblumen-zum-valentinstag-diy-anleitung-feat.jpg"
  },
  {
   "id": "tk-895",
@@ -7630,7 +7761,8 @@ const IDEEN = [
    "heisskleber"
   ],
   "bild": "👼",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/895/895-ein-weihnachtsbaumschmuck-engel-aus-papier-mit-den-eigenen-haenden-herstellen-feat.jpg"
  },
  {
   "id": "tk-6880",
@@ -7656,7 +7788,8 @@ const IDEEN = [
    "wackelaugen"
   ],
   "bild": "🐟",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/6880/6880-papierfisch-basteln-einfache-anleitung-mit-fotos-und-video-feat.jpg"
  },
  {
   "id": "tk-945",
@@ -7675,7 +7808,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "✈️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/945/945-papierflieger-kampfjet-falten-eine-detaillierte-anleitung-feat.jpg"
  },
  {
   "id": "tk-3501",
@@ -7694,7 +7828,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "✈️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/3501/3501-papierflieger-bauen-in-5-minuten-anleitung-mit-video-fotos-und-beschreibung-feat.jpg"
  },
  {
   "id": "tk-991",
@@ -7713,7 +7848,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "✈️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/991/991-origami-flugzeug-northrop-yf-17-cobra-anleitung-mit-fotos-und-video-feat.jpg"
  },
  {
   "id": "tk-942",
@@ -7732,7 +7868,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "✈️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/942/942-anleitung-papierflieger-bomber-anleitung-mit-fotos-und-video-feat.jpg"
  },
  {
   "id": "tk-6876",
@@ -7755,7 +7892,8 @@ const IDEEN = [
    "gummi"
   ],
   "bild": "✈️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/6876/6876-papierflugzeug-launcher-mit-gummiband-einfache-anleitung-mit-fotos-und-video-feat.jpg"
  },
  {
   "id": "tk-7844",
@@ -7776,7 +7914,8 @@ const IDEEN = [
    "schere"
   ],
   "bild": "✈️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/7844/7844-einfaches-papierflugzeug-fuer-anfaenger-anleitung-mit-fotos-und-video-fuer-kinder-feat.jpg"
  },
  {
   "id": "tk-8959",
@@ -7796,7 +7935,8 @@ const IDEEN = [
    "stifte"
   ],
   "bild": "✈️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/8959/8959-papierflugzeug-basteln-anleitung-mit-video-fotos-tipps-feat.jpg"
  },
  {
   "id": "tk-7843",
@@ -7815,7 +7955,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "✈️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/7843/7843-papierflugzeug-rochen-einfache-anleitung-mit-fotos-und-video-fuer-kinder-feat.jpg"
  },
  {
   "id": "tk-4593",
@@ -7841,7 +7982,8 @@ const IDEEN = [
    "karton"
   ],
   "bild": "🐔",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/4593/4593-einfache-papierhenne-basteln-kreative-bastelidee-fuer-kinder-feat.jpg"
  },
  {
   "id": "tk-1032",
@@ -7865,7 +8007,8 @@ const IDEEN = [
    "buntpapier"
   ],
   "bild": "🌸",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/1032/1032-korb-aus-papier-mit-blumen-schritt-fuer-schritt-anleitung-mit-fotos-videos-und-beschreibung-feat.jpg"
  },
  {
   "id": "tk-3858",
@@ -7888,7 +8031,8 @@ const IDEEN = [
    "buntpapier"
   ],
   "bild": "🎃",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/3858/3858-papierkuerbis-fuer-halloween-einfache-bastelanleitung-mit-video-fotos-und-text-feat.jpg"
  },
  {
   "id": "tk-4129",
@@ -7912,7 +8056,8 @@ const IDEEN = [
    "natur"
   ],
   "bild": "🌹",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/4129/4129-diy-papierrosen-strauss-wunderschoenes-geschenk-zum-muttertag-oder-geschenk-fuer-oma-feat.jpg"
  },
  {
   "id": "tk-7845",
@@ -7937,7 +8082,8 @@ const IDEEN = [
    "buntpapier"
   ],
   "bild": "🐍",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/7845/7845-papier-schlange-basteln-einfache-anleitung-mit-fotos-und-video-fuer-kinder-feat.jpg"
  },
  {
   "id": "tk-939",
@@ -7952,7 +8098,8 @@ const IDEEN = [
   "ort": "drinnen",
   "materialStufe": 2,
   "bild": "🎄",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/939/939-weihnachtliche-papiertanne-eine-einfache-bastelei-fuer-die-kleinsten-feat.jpg"
  },
  {
   "id": "tk-13499",
@@ -7966,7 +8113,8 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "bild": "🌸"
+  "bild": "🌸",
+  "foto": "https://www.tutkit.com/storage/media/help/13499/13499-pfeifenputzer-blumen-basteln-diy-idee-mit-anleitung-feat.jpg"
  },
  {
   "id": "tk-951",
@@ -7987,7 +8135,8 @@ const IDEEN = [
    "natur"
   ],
   "bild": "🐴",
-  "bildTechnik": "🌰"
+  "bildTechnik": "🌰",
+  "foto": "https://www.tutkit.com/storage/media/help/951/951-pferd-aus-kastanien-herbstliches-basteln-mit-kindern-feat.jpg"
  },
  {
   "id": "tk-970",
@@ -8008,7 +8157,8 @@ const IDEEN = [
    "natur"
   ],
   "bild": "🍄",
-  "bildTechnik": "🌰"
+  "bildTechnik": "🌰",
+  "foto": "https://www.tutkit.com/storage/media/help/970/970-pilze-aus-kastanien-einfache-bastelei-fuer-kinder-ab-3-jahren-feat.jpg"
  },
  {
   "id": "tk-4157",
@@ -8030,7 +8180,8 @@ const IDEEN = [
    "buntpapier"
   ],
   "bild": "🍟",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/4157/4157-pommes-schachtel-aus-papier-basteln-einfache-diy-anleitung-fuer-kinder-feat.jpg"
  },
  {
   "id": "tk-3388",
@@ -8049,7 +8200,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "🏀",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/3388/3388-pop-it-origami-basketball-anleitung-mit-video-fotos-und-beschreibung-feat.jpg"
  },
  {
   "id": "tk-4126",
@@ -8073,7 +8225,8 @@ const IDEEN = [
    "karton"
   ],
   "bild": "🌸💌",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/4126/4126-diy-pop-up-blumenkarte-liebevolles-geschenk-zum-muttertag-oder-geschenk-fuer-oma-feat.jpg"
  },
  {
   "id": "tk-3511",
@@ -8098,7 +8251,8 @@ const IDEEN = [
    "buntpapier"
   ],
   "bild": "💌",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/3511/3511-diy-pop-up-karte-anleitung-mit-video-fotos-fuer-valentinstag-feat.jpg"
  },
  {
   "id": "tk-9054",
@@ -8119,7 +8273,8 @@ const IDEEN = [
    "lineal"
   ],
   "bild": "🚀",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/9054/9054-papier-raketenflieger-basteln-anleitung-mit-fotos-video-feat.jpg"
  },
  {
   "id": "tk-4133",
@@ -8143,7 +8298,8 @@ const IDEEN = [
    "wolle"
   ],
   "bild": "🌈🏮",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/4133/4133-diy-regenbogen-papierlaterne-farbenfrohe-bastelidee-fuer-kinder-feat.jpg"
  },
  {
   "id": "tk-6879",
@@ -8170,7 +8326,8 @@ const IDEEN = [
    "karton"
   ],
   "bild": "🧍",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/6879/6879-roblox-figur-aus-papier-basteln-einfache-anleitung-mit-fotos-und-video-feat.jpg"
  },
  {
   "id": "tk-4128",
@@ -8195,7 +8352,8 @@ const IDEEN = [
    "kaffeefilter"
   ],
   "bild": "🌹",
-  "bildTechnik": "🧻"
+  "bildTechnik": "🧻",
+  "foto": "https://www.tutkit.com/storage/media/help/4128/4128-diy-rosen-am-gartenzaun-kreatives-geschenk-zum-muttertag-oder-geschenk-fuer-oma-feat.jpg"
  },
  {
   "id": "tk-4121",
@@ -8218,7 +8376,8 @@ const IDEEN = [
    "heisskleber"
   ],
   "bild": "💖",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/4121/4121-diy-papier-rosen-herz-wunderschoenes-geschenk-zum-8-maerz-oder-geschenk-zum-muttertag-feat.jpg"
  },
  {
   "id": "tk-955",
@@ -8240,7 +8399,8 @@ const IDEEN = [
    "natur"
   ],
   "bild": "🐑",
-  "bildTechnik": "🌰"
+  "bildTechnik": "🌰",
+  "foto": "https://www.tutkit.com/storage/media/help/41882/955-schaf-aus-kastanien-und-watte-herbstliche-bastelei-fuer-kinder-feat.jpg"
  },
  {
   "id": "tk-4134",
@@ -8261,7 +8421,8 @@ const IDEEN = [
    "glas",
    "elektro"
   ],
-  "bild": "🐑"
+  "bild": "🐑",
+  "foto": "https://www.tutkit.com/storage/media/help/4134/4134-diy-schaf-nachtlampe-kuschelige-bastelidee-fuer-kinder-feat.jpg"
  },
  {
   "id": "tk-957",
@@ -8276,7 +8437,8 @@ const IDEEN = [
   "ort": "drinnen",
   "materialStufe": 2,
   "bild": "🐢",
-  "bildTechnik": "🥜"
+  "bildTechnik": "🥜",
+  "foto": "https://www.tutkit.com/storage/media/help/41898/957-schildkroete-herbstliche-bastelei-fuer-kinder-feat.jpg"
  },
  {
   "id": "tk-4160",
@@ -8301,7 +8463,8 @@ const IDEEN = [
    "styropor"
   ],
   "bild": "🦋",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/4160/4160-schmetterlingsklammer-aus-moosgummi-basteln-einfache-diy-anleitung-fuer-kinder-feat.jpg"
  },
  {
   "id": "tk-952",
@@ -8321,7 +8484,8 @@ const IDEEN = [
    "natur"
   ],
   "bild": "🐌",
-  "bildTechnik": "🌰"
+  "bildTechnik": "🌰",
+  "foto": "https://www.tutkit.com/storage/media/help/952/952-schnecke-aus-kastanien-herbstliches-basteln-mit-kindern-feat.jpg"
  },
  {
   "id": "tk-2415",
@@ -8347,7 +8511,8 @@ const IDEEN = [
    "zirkel"
   ],
   "bild": "❄️💌",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/2415/2415-weihnachtskarte-als-schneemann-ein-bastelprojekt-mit-deinem-kind-feat.jpg"
  },
  {
   "id": "tk-950",
@@ -8373,7 +8538,8 @@ const IDEEN = [
    "wolle"
   ],
   "bild": "⛄",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/950/950-idee-fuer-eine-weihnachtsbastelei-mit-kindern-schneemann-aus-papier-feat.jpg"
  },
  {
   "id": "tk-898",
@@ -8392,7 +8558,8 @@ const IDEEN = [
    "farbe"
   ],
   "bild": "⛄",
-  "bildTechnik": "🥜"
+  "bildTechnik": "🥜",
+  "foto": "https://www.tutkit.com/storage/media/help/898/898-weihnachtsbasteln-schneemann-ornaments-aus-einer-nuss-feat.jpg"
  },
  {
   "id": "tk-13507",
@@ -8415,7 +8582,8 @@ const IDEEN = [
    "buntpapier"
   ],
   "bild": "🌸",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/13507/13507-schoene-papierblume-basteln-einfache-diy-anleitung-fuer-kinder-feat.jpg"
  },
  {
   "id": "tk-4131",
@@ -8439,7 +8607,8 @@ const IDEEN = [
    "glitzer"
   ],
   "bild": "💌",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/4131/4131-diy-scrapbook-karte-persoenliches-geschenk-zum-muttertag-oder-geschenk-fuer-oma-feat.jpg"
  },
  {
   "id": "tk-896",
@@ -8454,7 +8623,8 @@ const IDEEN = [
   "ort": "drinnen",
   "materialStufe": 1,
   "bild": "🍽️",
-  "bildTechnik": "🧻"
+  "bildTechnik": "🧻",
+  "foto": "https://www.tutkit.com/storage/media/help/896/896-diy-serviettendekoration-eine-tolle-idee-fuer-weihnachten-feat.jpg"
  },
  {
   "id": "tk-6870",
@@ -8478,7 +8648,8 @@ const IDEEN = [
    "watte"
   ],
   "bild": "🧌",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/6870/6870-shrek-paper-squishy-basteln-einfache-diy-anleitung-mit-fotos-und-video-feat.jpg"
  },
  {
   "id": "tk-4595",
@@ -8503,7 +8674,8 @@ const IDEEN = [
    "farbe"
   ],
   "bild": "🧌💌",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/4595/4595-shrek-tuerkarte-basteln-kreative-bastelidee-fuer-kinder-feat.jpg"
  },
  {
   "id": "tk-4144",
@@ -8523,7 +8695,8 @@ const IDEEN = [
    "kleber",
    "wolle"
   ],
-  "bild": "🐰"
+  "bild": "🐰",
+  "foto": "https://www.tutkit.com/storage/media/help/4144/4144-niedlichen-sockenhasen-basteln-einfache-diy-anleitung-fuer-kinder-feat.jpg"
  },
  {
   "id": "tk-956",
@@ -8542,7 +8715,8 @@ const IDEEN = [
    "natur"
   ],
   "bild": "🕷️",
-  "bildTechnik": "🌰"
+  "bildTechnik": "🌰",
+  "foto": "https://www.tutkit.com/storage/media/help/41888/956-spinne-aus-kastanien-herbstliche-bastelei-fuer-kinder-feat.jpg"
  },
  {
   "id": "tk-7842",
@@ -8564,7 +8738,8 @@ const IDEEN = [
    "schere"
   ],
   "bild": "🕷️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/7842/7842-springender-origami-spinne-anleitung-mit-fotos-und-video-fuer-kinder-feat.jpg"
  },
  {
   "id": "tk-4152",
@@ -8584,7 +8759,8 @@ const IDEEN = [
    "filzstifte"
   ],
   "bild": "🐙",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/4152/4152-springenden-origami-oktopus-basteln-einfache-anleitung-fuer-kinder-feat.jpg"
  },
  {
   "id": "tk-893",
@@ -8606,7 +8782,8 @@ const IDEEN = [
    "wolle",
    "heisskleber"
   ],
-  "bild": "⭐"
+  "bild": "⭐",
+  "foto": "https://www.tutkit.com/storage/media/help/893/893-bastelidee-weihnachtsbaumschmuck-in-form-eines-sterns-feat.jpg"
  },
  {
   "id": "tk-13493",
@@ -8632,7 +8809,8 @@ const IDEEN = [
    "kerze"
   ],
   "bild": "🚗",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/85999/13493-diy-streichholzschachtel-autospiel-einfaches-rennspielzeug-basteln-feat.jpg"
  },
  {
   "id": "tk-13508",
@@ -8653,7 +8831,8 @@ const IDEEN = [
    "kleber"
   ],
   "bild": "✈️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/13508/13508-superschneller-papierflieger-schritt-fuer-schritt-faltanleitung-mit-foto-video-feat.jpg"
  },
  {
   "id": "tk-13504",
@@ -8678,7 +8857,8 @@ const IDEEN = [
    "glitzer"
   ],
   "bild": "🌸",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/13504/13504-suesse-papierblumen-basteln-deko-und-geschenkideen-mit-foto-und-videoanleitung-feat.jpg"
  },
  {
   "id": "tk-897",
@@ -8692,7 +8872,8 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 1,
-  "bild": "🎁"
+  "bild": "🎁",
+  "foto": "https://www.tutkit.com/storage/media/help/897/897-geschenke-basteln-mit-kindern-tolle-diy-idee-mit-suessigkeiten-feat-2.jpg"
  },
  {
   "id": "tk-889",
@@ -8718,7 +8899,8 @@ const IDEEN = [
    "heisskleber"
   ],
   "bild": "🎄",
-  "bildTechnik": "🧶"
+  "bildTechnik": "🧶",
+  "foto": "https://www.tutkit.com/storage/media/help/39874/889-weihnachtsbastelideen-ein-selbstgemachter-tannenbaum-als-baumschmuck-feat.jpg"
  },
  {
   "id": "tk-2417",
@@ -8742,7 +8924,8 @@ const IDEEN = [
    "buntpapier"
   ],
   "bild": "🎄💌",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/2417/2417-weihnachtskarte-in-tannenbaum-form-basteln-eine-kreative-idee-fuer-kinder-feat.jpg"
  },
  {
   "id": "tk-4130",
@@ -8767,7 +8950,8 @@ const IDEEN = [
    "buntpapier"
   ],
   "bild": "🫖💌",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/4130/4130-diy-teekanne-karte-mit-ueberraschung-geschenk-zum-muttertag-oder-geschenk-fuer-oma-feat.jpg"
  },
  {
   "id": "tk-3934",
@@ -8788,7 +8972,8 @@ const IDEEN = [
    "buntpapier"
   ],
   "bild": "✈️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/3934/3934-papier-pfeilflieger-fuer-tische-startflieger-mit-video-und-fotoanleitung-feat.jpg"
  },
  {
   "id": "tk-13510",
@@ -8809,7 +8994,8 @@ const IDEEN = [
    "kleber"
   ],
   "bild": "✈️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/13510/13510-turbo-papierflieger-basteln-schnell-einfach-mit-anleitung-feat.jpg"
  },
  {
   "id": "tk-13462",
@@ -8833,7 +9019,8 @@ const IDEEN = [
    "buntpapier"
   ],
   "bild": "♾️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/85778/13462-twist-spielzeug-aus-papier-basteln-diy-mit-video-anleitung-feat.jpg"
  },
  {
   "id": "tk-3470",
@@ -8856,7 +9043,8 @@ const IDEEN = [
    "buntpapier"
   ],
   "bild": "🤗💌",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/3470/3470-diy-umarmungskarte-bastelanleitung-fuer-den-frauentag-und-muttertag-mit-video-und-fotos-feat.jpg"
  },
  {
   "id": "tk-941",
@@ -8881,7 +9069,8 @@ const IDEEN = [
    "buntpapier"
   ],
   "bild": "🎄💌",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/941/941-umschlag-fuer-weihnachtskarten-eine-bastelanleitung-fuer-kinder-feat.jpg"
  },
  {
   "id": "tk-13461",
@@ -8904,7 +9093,8 @@ const IDEEN = [
    "buntpapier"
   ],
   "bild": "♾️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/85720/13461-unendliches-papier-rad-basteln-mit-anleitung-video-feat.jpg"
  },
  {
   "id": "tk-3500",
@@ -8919,7 +9109,8 @@ const IDEEN = [
   "ort": "drinnen",
   "materialStufe": 1,
   "bild": "💝🍬",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/3500/3500-suesse-valentinstagskarte-mit-ueberraschung-anleitung-mit-video-fotos-und-beschreibung-feat.jpg"
  },
  {
   "id": "tk-4594",
@@ -8943,7 +9134,8 @@ const IDEEN = [
    "styropor"
   ],
   "bild": "🐦",
-  "bildTechnik": "🧶"
+  "bildTechnik": "🧶",
+  "foto": "https://www.tutkit.com/storage/media/help/4594/4594-voegel-aus-wolle-basteln-kreative-bastelidee-fuer-kinder-feat.jpg"
  },
  {
   "id": "tk-13501",
@@ -8964,7 +9156,8 @@ const IDEEN = [
    "schere"
   ],
   "bild": "✈️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/13501/13501-wave-glider-papierflieger-basteln-einfache-anleitung-fuer-kinder-feat.jpg"
  },
  {
   "id": "tk-1154",
@@ -8989,7 +9182,8 @@ const IDEEN = [
    "styropor"
   ],
   "bild": "🏠🎄",
-  "bildTechnik": "🧻"
+  "bildTechnik": "🧻",
+  "foto": "https://www.tutkit.com/storage/media/help/1154/1154-weihnachtshaus-anleitung-mit-fotos-und-video-feat.jpg"
  },
  {
   "id": "tk-894",
@@ -9012,7 +9206,8 @@ const IDEEN = [
    "glitzer",
    "styropor"
   ],
-  "bild": "🎄"
+  "bild": "🎄",
+  "foto": "https://www.tutkit.com/storage/media/help/894/894-weihnachtskugel-aus-schnur-fuer-den-tannenbaum-wir-basteln-gemeinsam-mit-dem-kind-schritt-fuer-schritt-feat.jpg"
  },
  {
   "id": "tk-938",
@@ -9026,7 +9221,8 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "bild": "🎅"
+  "bild": "🎅",
+  "foto": "https://www.tutkit.com/storage/media/help/938/938-basteln-mit-kindern-zu-weihnachten-weihnachtsmann-wackelfigur-schritt-fuer-schritt-anleitung-feat.jpg"
  },
  {
   "id": "tk-13505",
@@ -9045,7 +9241,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "✈️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/13505/13505-weitfliegender-papierflieger-basteln-einfache-diy-mit-foto-und-videoanleitung-feat.jpg"
  },
  {
   "id": "tk-3932",
@@ -9065,7 +9262,8 @@ const IDEEN = [
    "klammern"
   ],
   "bild": "✈️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/3932/3932-weitfliegender-papierflieger-basteln-anleitung-mit-video-und-fotos-feat.jpg"
  },
  {
   "id": "tk-4147",
@@ -9085,7 +9283,8 @@ const IDEEN = [
    "lineal"
   ],
   "bild": "✈️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/4147/4147-weltrekord-papierflieger-basteln-einfacher-jet-aus-papier-feat.jpg"
  },
  {
   "id": "tk-4159",
@@ -9109,7 +9308,8 @@ const IDEEN = [
    "holzstaebe"
   ],
   "bild": "🌸",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/4159/4159-wunderschoene-papierblumen-basteln-einfache-diy-anleitung-fuer-kinder-feat.jpg"
  },
  {
   "id": "tk-4335",
@@ -9134,7 +9334,8 @@ const IDEEN = [
    "karton"
   ],
   "bild": "🐰",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/4335/4335-ziehharmonika-papierhase-basteln-eine-einfache-diy-idee-fuer-kinder-vor-ostern-feat.jpg"
  },
  {
   "id": "tk-3469",
@@ -9158,7 +9359,8 @@ const IDEEN = [
    "buntpapier"
   ],
   "bild": "🎁💖",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.tutkit.com/storage/media/help/3469/3469-diy-ueberraschungsbox-origami-bastelanleitung-mit-video-und-fotos-fuer-kinder-feat.jpg"
  },
  {
   "id": "ksw-affe",
@@ -9179,7 +9381,9 @@ const IDEEN = [
    "kaffeefilter"
   ],
   "bild": "🐒",
-  "bildTechnik": "🥤"
+  "bildTechnik": "🥤",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/01/affe-vorn12-266x400.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/01/affe-vorn12-918x1378.jpg"
  },
  {
   "id": "ksw-alle-voegel-fliegen-hoch",
@@ -9208,7 +9412,9 @@ const IDEEN = [
   "zubehoer": [
    "buntpapier"
   ],
-  "bild": "🍎"
+  "bild": "🍎",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2009/11/apfel1-400x266.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2009/11/apfel1-1378x918.jpg"
  },
  {
   "id": "ksw-apfel-flechten",
@@ -9301,7 +9507,9 @@ const IDEEN = [
    "kaffeefilter"
   ],
   "bild": "🍎",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2013/09/apfellicht1-266x400.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2013/09/apfellicht1-918x1378.jpg"
  },
  {
   "id": "ksw-armer-schwarzer-kater",
@@ -9438,7 +9646,8 @@ const IDEEN = [
    "holzstaebe",
    "natur"
   ],
-  "bild": "🌰"
+  "bild": "🌰",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2013/09/kastanienraupe3-267x400.jpg"
  },
  {
   "id": "ksw-basteln-mit-papptellern",
@@ -9451,7 +9660,8 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": null,
-  "bild": "🍽️"
+  "bild": "🍽️",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2015/06/pappteller-fische01-400x268.jpg"
  },
  {
   "id": "ksw-basteln-fruehling",
@@ -9545,7 +9755,9 @@ const IDEEN = [
    "krepp"
   ],
   "bild": "🐝",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/05/biene1-400x266.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/05/biene1-1378x918.jpg"
  },
  {
   "id": "ksw-bienen-basteln",
@@ -9566,7 +9778,9 @@ const IDEEN = [
    "krepp"
   ],
   "bild": "🐝",
-  "bildTechnik": "🧻"
+  "bildTechnik": "🧻",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2015/08/biene3-400x266.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2015/08/biene3-1378x918.jpg"
  },
  {
   "id": "ksw-blindekuh-partyspiele",
@@ -9599,7 +9813,9 @@ const IDEEN = [
    "krepp"
   ],
   "bild": "🌸",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/02/blume11-400x266.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/02/blume11-1378x918.jpg"
  },
  {
   "id": "ksw-blumen-aus-klorollen-basteln",
@@ -9636,7 +9852,9 @@ const IDEEN = [
   "zubehoer": [
    "buntpapier"
   ],
-  "bild": "🌸"
+  "bild": "🌸",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/02/blume21-400x268.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/02/blume21-1378x922.jpg"
  },
  {
   "id": "ksw-blumen-falten",
@@ -9690,7 +9908,8 @@ const IDEEN = [
    "buntpapier"
   ],
   "bild": "🤡",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/12/clown-267x400.jpg"
  },
  {
   "id": "ksw-cowboy-basteln",
@@ -9708,7 +9927,9 @@ const IDEEN = [
    "buntpapier",
    "wolle"
   ],
-  "bild": "🤠"
+  "bild": "🤠",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2011/06/cowboy-spiele-400x283.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2011/06/cowboy-spiele-1378x974.jpg"
  },
  {
   "id": "ksw-das-prell-quiz",
@@ -9849,7 +10070,9 @@ const IDEEN = [
   "zubehoer": [
    "buntpapier"
   ],
-  "bild": "🦖"
+  "bild": "🦖",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/01/dino311-400x266.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/01/dino311-1378x918.jpg"
  },
  {
   "id": "ksw-dosenlauf",
@@ -9888,7 +10111,8 @@ const IDEEN = [
    "krepp"
   ],
   "bild": "🐉",
-  "bildTechnik": "🧶"
+  "bildTechnik": "🧶",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/09/drachen02-400x267.jpg"
  },
  {
   "id": "ksw-drachen-aus-papier",
@@ -9908,7 +10132,8 @@ const IDEEN = [
    "krepp"
   ],
   "bild": "🪁",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/06/drachen-400x267.jpg"
  },
  {
   "id": "ksw-drachen-basteln",
@@ -9929,7 +10154,9 @@ const IDEEN = [
    "elektro"
   ],
   "bild": "🪁",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/09/drachen02-400x266.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/09/drachen02-1378x918.jpg"
  },
  {
   "id": "ksw-dreibeinlauf",
@@ -10089,7 +10316,9 @@ const IDEEN = [
   "zubehoer": [
    "buntpapier"
   ],
-  "bild": "🚂"
+  "bild": "🚂",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2011/11/einladung-eisenbahn-400x217.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2011/11/einladung-eisenbahn-1378x749.jpg"
  },
  {
   "id": "ksw-elefant-basteln",
@@ -10106,7 +10335,8 @@ const IDEEN = [
    "filzstifte",
    "buntpapier"
   ],
-  "bild": "🐘"
+  "bild": "🐘",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/01/elefant1.jpg"
  },
  {
   "id": "ksw-elefant-kochloeffel-basteln",
@@ -10128,7 +10358,9 @@ const IDEEN = [
    "geschirr"
   ],
   "bild": "🐘",
-  "bildTechnik": "🥄"
+  "bildTechnik": "🥄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/01/kochloffelelefant1-268x400.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/01/kochloffelelefant1-922x1378.jpg"
  },
  {
   "id": "ksw-engel-basteln",
@@ -10153,7 +10385,9 @@ const IDEEN = [
    "elektro"
   ],
   "bild": "👼",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2013/11/engel-400x288.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2013/11/engel-1378x991.jpg"
  },
  {
   "id": "ksw-engel-mit-tontopf",
@@ -10176,7 +10410,8 @@ const IDEEN = [
    "natur"
   ],
   "bild": "👼",
-  "bildTechnik": "🪴"
+  "bildTechnik": "🪴",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2009/05/engel3-400x267.jpg"
  },
  {
   "id": "ksw-eule-basteln",
@@ -10238,7 +10473,8 @@ const IDEEN = [
    "styropor"
   ],
   "bild": "🦉",
-  "bildTechnik": "🧶"
+  "bildTechnik": "🧶",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2011/10/eulenlaterne-400x267.jpg"
  },
  {
   "id": "ksw-eulen-basteln-aus-papier",
@@ -10259,7 +10495,8 @@ const IDEEN = [
    "natur"
   ],
   "bild": "🦉",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2011/10/eulenlaterne-400x267.jpg"
  },
  {
   "id": "ksw-eulen-handabdruck",
@@ -10326,7 +10563,9 @@ const IDEEN = [
    "kerze"
   ],
   "bild": "🔥",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2009/11/feuerlicht1-400x268.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2009/11/feuerlicht1-1378x922.jpg"
  },
  {
   "id": "ksw-feuerwehr",
@@ -10363,7 +10602,8 @@ const IDEEN = [
    "faltpapier"
   ],
   "bild": "🐟",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/05/fisch1-267x400.jpg"
  },
  {
   "id": "ksw-fische-basteln",
@@ -10388,7 +10628,9 @@ const IDEEN = [
    "folie"
   ],
   "bild": "🐟",
-  "bildTechnik": "🍽️"
+  "bildTechnik": "🍽️",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2015/06/pappteller-fische01-400x268.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2015/06/pappteller-fische01-1378x922.jpg"
  },
  {
   "id": "ksw-fische-drucken",
@@ -10407,7 +10649,9 @@ const IDEEN = [
    "farbe"
   ],
   "bild": "🐟",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2013/07/Fische-400x281.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2013/07/Fische-1378x967.jpg"
  },
  {
   "id": "ksw-flaschen-drehen",
@@ -10440,7 +10684,8 @@ const IDEEN = [
    "buntpapier"
   ],
   "bild": "🦇",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2011/10/fledermaus5-400x267.jpg"
  },
  {
   "id": "ksw-fledermaeuse-basteln",
@@ -10462,7 +10707,8 @@ const IDEEN = [
    "krepp"
   ],
   "bild": "🦇",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2011/10/fledermausgirlande1-400x267.jpg"
  },
  {
   "id": "ksw-fleissige-bienen-spiel",
@@ -10496,7 +10742,9 @@ const IDEEN = [
    "elektro"
   ],
   "bild": "🐞",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2009/08/fliegende-marienkaefer-400x266.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2009/08/fliegende-marienkaefer-1378x918.jpg"
  },
  {
   "id": "ksw-flugsaurier-basteln",
@@ -10513,7 +10761,9 @@ const IDEEN = [
    "buntpapier",
    "klammern"
   ],
-  "bild": "🦕"
+  "bild": "🦕",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/01/flugsaurier2-400x314.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/01/flugsaurier2-1378x1082.jpg"
  },
  {
   "id": "ksw-flusterpost",
@@ -10538,7 +10788,8 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": 2,
-  "bild": "🐓🐷🐭"
+  "bild": "🐓🐷🐭",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/06/freunde111-400x244.jpg"
  },
  {
   "id": "ksw-frosch-falten",
@@ -10558,7 +10809,9 @@ const IDEEN = [
    "faltpapier"
   ],
   "bild": "🐸",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/05/frosch8-400x266.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/05/frosch8-1378x918.jpg"
  },
  {
   "id": "ksw-froschkoenig-basteln",
@@ -10579,7 +10832,9 @@ const IDEEN = [
    "styropor"
   ],
   "bild": "🐸👑",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/06/froschkoenig1-400x266.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/06/froschkoenig1-1378x918.jpg"
  },
  {
   "id": "ksw-fruehlingsspiel",
@@ -10626,7 +10881,9 @@ const IDEEN = [
    "pfeifenputzer"
   ],
   "bild": "🕯️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/07/geburtstagsmaennchen11-400x268.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/07/geburtstagsmaennchen11-1378x922.jpg"
  },
  {
   "id": "ksw-gefaellt-dir-dein-platz",
@@ -10675,7 +10932,8 @@ const IDEEN = [
    "farbe"
   ],
   "bild": "👻",
-  "bildTechnik": "🖐️"
+  "bildTechnik": "🖐️",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2011/10/gespenster1-307x400.jpg"
  },
  {
   "id": "ksw-gespenster-basteln",
@@ -10697,7 +10955,9 @@ const IDEEN = [
    "holzstaebe"
   ],
   "bild": "👻",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2011/10/gespenster1-307x400.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2011/10/gespenster1-1058x1378.jpg"
  },
  {
   "id": "ksw-gespenster-schatten-tanz",
@@ -10750,7 +11010,9 @@ const IDEEN = [
    "wolle",
    "folie"
   ],
-  "bild": "👑"
+  "bild": "👑",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/06/kronengirlande21-400x266.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/06/kronengirlande21-1378x918.jpg"
  },
  {
   "id": "ksw-gluecksstein",
@@ -10786,7 +11048,9 @@ const IDEEN = [
    "krepp"
   ],
   "bild": "🌼",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/02/gaensebluemchen1-400x266.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/02/gaensebluemchen1-1378x918.jpg"
  },
  {
   "id": "ksw-hahn-handabdruck",
@@ -10806,7 +11070,9 @@ const IDEEN = [
    "farbe"
   ],
   "bild": "🐓",
-  "bildTechnik": "🖐️"
+  "bildTechnik": "🖐️",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/07/huhnhandabdruck2-300x400.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/07/huhnhandabdruck2-1033x1378.jpg"
  },
  {
   "id": "ksw-hahn-basteln",
@@ -10826,7 +11092,9 @@ const IDEEN = [
    "locher",
    "styropor"
   ],
-  "bild": "🐓"
+  "bild": "🐓",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2014/04/hahn1-400x325.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2014/04/hahn1-1378x1120.jpg"
  },
  {
   "id": "ksw-hahnenkampf",
@@ -10902,7 +11170,8 @@ const IDEEN = [
    "styropor"
   ],
   "bild": "⛄",
-  "bildTechnik": "🖐️"
+  "bildTechnik": "🖐️",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/12/schneemann14-267x400.jpg"
  },
  {
   "id": "ksw-hase",
@@ -10926,7 +11195,9 @@ const IDEEN = [
    "styropor"
   ],
   "bild": "🐰",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/02/Hase-400x266.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/02/Hase-1378x918.jpg"
  },
  {
   "id": "ksw-hase-basteln",
@@ -10949,7 +11220,9 @@ const IDEEN = [
    "natur"
   ],
   "bild": "🐰",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/02/hase11-400x266.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/02/hase11-1378x918.jpg"
  },
  {
   "id": "ksw-hase-falten",
@@ -10969,7 +11242,9 @@ const IDEEN = [
    "faltpapier"
   ],
   "bild": "🐰",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/03/falthase1-400x266.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/03/falthase1-1378x918.jpg"
  },
  {
   "id": "ksw-hase-und-jaeger",
@@ -11006,7 +11281,8 @@ const IDEEN = [
    "natur"
   ],
   "bild": "🐰",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/02/hasen1.jpg"
  },
  {
   "id": "ksw-himmel-und-hoelle-falten",
@@ -11019,7 +11295,9 @@ const IDEEN = [
   "ort": "drinnen",
   "materialStufe": 1,
   "bild": "🎲",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/05/himmelundhoelle6-400x266.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/05/himmelundhoelle6-1378x918.jpg"
  },
  {
   "id": "ksw-huhn-aus-papier",
@@ -11057,7 +11335,8 @@ const IDEEN = [
    "geschirr"
   ],
   "bild": "🐔",
-  "bildTechnik": "🍽️"
+  "bildTechnik": "🍽️",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/03/huhn11-400x267.jpg"
  },
  {
   "id": "ksw-haenschen-piep-einmal",
@@ -11167,7 +11446,8 @@ const IDEEN = [
    "styropor"
   ],
   "bild": "🦔",
-  "bildTechnik": "🍽️"
+  "bildTechnik": "🍽️",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2009/11/Igellaterne-400x300.jpg"
  },
  {
   "id": "ksw-igel-basteln",
@@ -11186,7 +11466,9 @@ const IDEEN = [
    "buntpapier",
    "cutter"
   ],
-  "bild": "🦔"
+  "bild": "🦔",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2009/11/igel11-400x321.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2009/11/igel11-1378x1107.jpg"
  },
  {
   "id": "ksw-igel-basteln-kindergarten",
@@ -11208,7 +11490,8 @@ const IDEEN = [
    "heisskleber"
   ],
   "bild": "🦔",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2009/11/igel31-400x252.jpg"
  },
  {
   "id": "ksw-igel-basteln-mit-naturmaterialien",
@@ -11231,7 +11514,8 @@ const IDEEN = [
    "natur"
   ],
   "bild": "🦔",
-  "bildTechnik": "🌲"
+  "bildTechnik": "🌲",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2011/10/kastanienigel11-400x267.jpg"
  },
  {
   "id": "ksw-igel-mit-blaettern-basteln",
@@ -11377,7 +11661,9 @@ const IDEEN = [
   "zubehoer": [
    "buntpapier"
   ],
-  "bild": "🕯️"
+  "bild": "🕯️",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2009/12/kerze1-278x400.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2009/12/kerze1-958x1378.jpg"
  },
  {
   "id": "ksw-kindergarten-spiele",
@@ -11497,7 +11783,9 @@ const IDEEN = [
    "faltpapier"
   ],
   "bild": "🌷",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/03/krokus1-400x266.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/03/krokus1-1378x918.jpg"
  },
  {
   "id": "ksw-krone-basteln",
@@ -11514,7 +11802,9 @@ const IDEEN = [
    "buntpapier",
    "folie"
   ],
-  "bild": "👑"
+  "bild": "👑",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/05/krone1-400x266.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/05/krone1-1378x918.jpg"
  },
  {
   "id": "ksw-krone-prinzessin",
@@ -11532,7 +11822,9 @@ const IDEEN = [
    "buntpapier"
   ],
   "bild": "👑",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/06/krone211-306x400.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/06/krone211-1055x1378.jpg"
  },
  {
   "id": "ksw-kaeferrennen-spiel",
@@ -11583,7 +11875,9 @@ const IDEEN = [
    "farbe"
   ],
   "bild": "🐥",
-  "bildTechnik": "👆"
+  "bildTechnik": "👆",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/07/kuekenfingerabdruck-400x284.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/07/kuekenfingerabdruck-1378x977.jpg"
  },
  {
   "id": "ksw-kueken-aus-fotokarton-basteln",
@@ -11600,7 +11894,8 @@ const IDEEN = [
    "filzstifte",
    "buntpapier"
   ],
-  "bild": "🐥"
+  "bild": "🐥",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/02/kueken11-296x400.jpg"
  },
  {
   "id": "ksw-kueken-basteln",
@@ -11621,7 +11916,8 @@ const IDEEN = [
    "locher",
    "natur"
   ],
-  "bild": "🐥"
+  "bild": "🐥",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/02/kueken11.jpg"
  },
  {
   "id": "ksw-kueken-mit-tontopf",
@@ -11642,7 +11938,9 @@ const IDEEN = [
    "geschirr"
   ],
   "bild": "🐥",
-  "bildTechnik": "🪴"
+  "bildTechnik": "🪴",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2014/04/kuekentontopf-400x266.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2014/04/kuekentontopf-1378x918.jpg"
  },
  {
   "id": "ksw-lampen-basteln",
@@ -11661,7 +11959,8 @@ const IDEEN = [
    "natur",
    "kerze"
   ],
-  "bild": "💡"
+  "bild": "💡",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/06/blaetterlampe2-400x267.jpg"
  },
  {
   "id": "ksw-laternen-basteln",
@@ -11683,7 +11982,8 @@ const IDEEN = [
    "styropor"
   ],
   "bild": "🏮",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/10/igellaterne21-400x267.jpg"
  },
  {
   "id": "ksw-licht-an",
@@ -11813,7 +12113,9 @@ const IDEEN = [
    "heisskleber",
    "holzstaebe"
   ],
-  "bild": "🌸"
+  "bild": "🌸",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/01/luftballonstecker1-268x400.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/01/luftballonstecker1-922x1378.jpg"
  },
  {
   "id": "ksw-luftballons-aufpusten",
@@ -11846,7 +12148,9 @@ const IDEEN = [
    "wolle",
    "cutter"
   ],
-  "bild": "🎈"
+  "bild": "🎈",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/04/luftballons-400x268.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/04/luftballons-1378x922.jpg"
  },
  {
   "id": "ksw-luftballons-platzen",
@@ -11929,7 +12233,9 @@ const IDEEN = [
    "kaffeefilter"
   ],
   "bild": "🦁",
-  "bildTechnik": "🥤"
+  "bildTechnik": "🥤",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/01/loewe11-298x400.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/01/loewe11-1025x1378.jpg"
  },
  {
   "id": "ksw-malen-mit-taschenlampen",
@@ -11983,7 +12289,8 @@ const IDEEN = [
    "geschirr"
   ],
   "bild": "🐞",
-  "bildTechnik": "🍽️"
+  "bildTechnik": "🍽️",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/02/marienkaefer011-400x267.jpg"
  },
  {
   "id": "ksw-marienkaefer-aus-steinen",
@@ -12001,7 +12308,9 @@ const IDEEN = [
    "natur"
   ],
   "bild": "🐞",
-  "bildTechnik": "🪨"
+  "bildTechnik": "🪨",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/02/marienkaefer13-400x266.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/02/marienkaefer13-1378x918.jpg"
  },
  {
   "id": "ksw-marienkaefer-basteln",
@@ -12040,7 +12349,9 @@ const IDEEN = [
    "farbe"
   ],
   "bild": "🐞",
-  "bildTechnik": "👆"
+  "bildTechnik": "👆",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/02/marienkaeferdruck1-400x266.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/02/marienkaeferdruck1-1378x918.jpg"
  },
  {
   "id": "ksw-marterpfahl-basteln",
@@ -12098,7 +12409,9 @@ const IDEEN = [
    "locher",
    "styropor"
   ],
-  "bild": "🐭"
+  "bild": "🐭",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/06/maus12-266x400.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/06/maus12-918x1378.jpg"
  },
  {
   "id": "ksw-meerestiere-basteln",
@@ -12182,7 +12495,8 @@ const IDEEN = [
    "wuerfel",
    "natur"
   ],
-  "bild": "🥢"
+  "bild": "🥢",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2011/08/mikado13-400x268.jpg"
  },
  {
   "id": "ksw-mord-im-dunkeln",
@@ -12375,7 +12689,8 @@ const IDEEN = [
    "krepp"
   ],
   "bild": "🪁",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/05/papierdrachenfalten1.jpg"
  },
  {
   "id": "ksw-papierflieger-falten",
@@ -12392,7 +12707,8 @@ const IDEEN = [
    "papier"
   ],
   "bild": "✈️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/06/papierflieger1.jpg"
  },
  {
   "id": "ksw-papierhut-falten",
@@ -12410,7 +12726,9 @@ const IDEEN = [
    "buntpapier"
   ],
   "bild": "🎩",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/06/papierhut1-400x266.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/06/papierhut1-1378x918.jpg"
  },
  {
   "id": "ksw-papierschiff-falten",
@@ -12427,7 +12745,9 @@ const IDEEN = [
    "papier"
   ],
   "bild": "⛵",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/06/papierschiff-falten-400x266.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/06/papierschiff-falten-1378x918.jpg"
  },
  {
   "id": "ksw-pappteller-blumen",
@@ -12477,7 +12797,9 @@ const IDEEN = [
    "styropor"
   ],
   "bild": "🐴",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/05/faltpferde1-400x266.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/05/faltpferde1-1378x918.jpg"
  },
  {
   "id": "ksw-pippi-langstrumpf-basteln",
@@ -12497,7 +12819,8 @@ const IDEEN = [
    "styropor"
   ],
   "bild": "👧",
-  "bildTechnik": "🧶"
+  "bildTechnik": "🧶",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2014/02/marshmallow-pippi21-323x400.jpg"
  },
  {
   "id": "ksw-prinzessinnen-spiele",
@@ -12529,7 +12852,9 @@ const IDEEN = [
    "strohhalm"
   ],
   "bild": "🎨",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/05/pustetechnik-400x286.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/05/pustetechnik-1378x986.jpg"
  },
  {
   "id": "ksw-qualle-basteln",
@@ -12568,7 +12893,9 @@ const IDEEN = [
   "zubehoer": [
    "buntpapier"
   ],
-  "bild": "🐦‍⬛"
+  "bild": "🐦‍⬛",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/01/rabe41-400x266.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/01/rabe41-1378x918.jpg"
  },
  {
   "id": "ksw-raben-basteln",
@@ -12584,7 +12911,9 @@ const IDEEN = [
   "zubehoer": [
    "buntpapier"
   ],
-  "bild": "🐦‍⬛"
+  "bild": "🐦‍⬛",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/01/rabe31-400x266.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/01/rabe31-1378x918.jpg"
  },
  {
   "id": "ksw-raben-falten",
@@ -12622,7 +12951,9 @@ const IDEEN = [
    "wolle"
   ],
   "bild": "👸",
-  "bildTechnik": "🧶"
+  "bildTechnik": "🧶",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/06/rapunzel11-266x400.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/06/rapunzel11-918x1378.jpg"
  },
  {
   "id": "ksw-rasseln-basteln",
@@ -12642,7 +12973,9 @@ const IDEEN = [
    "natur"
   ],
   "bild": "🪇",
-  "bildTechnik": "🪨"
+  "bildTechnik": "🪨",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/01/rassel11-268x400.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/01/rassel11-922x1378.jpg"
  },
  {
   "id": "ksw-raupe",
@@ -12661,7 +12994,8 @@ const IDEEN = [
    "buntpapier"
   ],
   "bild": "🐛",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/02/raupe1-400x335.jpg"
  },
  {
   "id": "ksw-raupe-mit-handabdruecken",
@@ -12680,7 +13014,9 @@ const IDEEN = [
    "farbe"
   ],
   "bild": "🐛",
-  "bildTechnik": "🖐️"
+  "bildTechnik": "🖐️",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/02/raupehandabdruck1-400x250.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/02/raupehandabdruck1-1378x861.jpg"
  },
  {
   "id": "ksw-raupe-nimmersatt-basteln",
@@ -12697,7 +13033,9 @@ const IDEEN = [
    "papier"
   ],
   "bild": "🐛🍎",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2014/04/raupe-reistechnik-400x266.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2014/04/raupe-reistechnik-1378x918.jpg"
  },
  {
   "id": "ksw-raupen-basteln",
@@ -12721,7 +13059,8 @@ const IDEEN = [
    "suess"
   ],
   "bild": "🐛",
-  "bildTechnik": "🥚"
+  "bildTechnik": "🥚",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/02/raupe1-400x335.jpg"
  },
  {
   "id": "ksw-regenmacher-basteln",
@@ -12744,7 +13083,9 @@ const IDEEN = [
    "elektro"
   ],
   "bild": "🌧️",
-  "bildTechnik": "🪨"
+  "bildTechnik": "🪨",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2011/11/Regenmacher21-400x268.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2011/11/Regenmacher21-1378x922.jpg"
  },
  {
   "id": "ksw-reise-nach-jerusalem",
@@ -12819,7 +13160,9 @@ const IDEEN = [
    "elektro"
   ],
   "bild": "🌹",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2013/07/rose1-400x266.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2013/07/rose1-1378x918.jpg"
  },
  {
   "id": "ksw-schaf-aus-quarkbecher-basteln",
@@ -12840,7 +13183,8 @@ const IDEEN = [
    "kleinkram"
   ],
   "bild": "🐑",
-  "bildTechnik": "🥤"
+  "bildTechnik": "🥤",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/02/schaf1-267x400.jpg"
  },
  {
   "id": "ksw-schafe-basteln",
@@ -12858,7 +13202,9 @@ const IDEEN = [
    "wolle",
    "watte"
   ],
-  "bild": "🐑"
+  "bild": "🐑",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/02/schaf1-266x400.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/02/schaf1-918x1378.jpg"
  },
  {
   "id": "ksw-schattenfange",
@@ -12923,7 +13269,9 @@ const IDEEN = [
    "locher"
   ],
   "bild": "🕵️",
-  "bildTechnik": "🧢"
+  "bildTechnik": "🧢",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/05/schildmuetze-detektiv1-400x268.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/05/schildmuetze-detektiv1-1378x922.jpg"
  },
  {
   "id": "ksw-schildmuetze-elefant",
@@ -12943,7 +13291,9 @@ const IDEEN = [
    "locher"
   ],
   "bild": "🐘",
-  "bildTechnik": "🧢"
+  "bildTechnik": "🧢",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/05/schildmuetzeelefant1-400x266.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/05/schildmuetzeelefant1-1378x918.jpg"
  },
  {
   "id": "ksw-schildmuetze-loewe",
@@ -12962,7 +13312,9 @@ const IDEEN = [
    "locher"
   ],
   "bild": "🦁",
-  "bildTechnik": "🧢"
+  "bildTechnik": "🧢",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/05/schildmuetzeloewe1-400x266.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/05/schildmuetzeloewe1-1378x918.jpg"
  },
  {
   "id": "ksw-schildmuetze-rabe",
@@ -12982,7 +13334,9 @@ const IDEEN = [
    "locher"
   ],
   "bild": "🐦‍⬛",
-  "bildTechnik": "🧢"
+  "bildTechnik": "🧢",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/05/schildmuetzerabe1-400x266.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/05/schildmuetzerabe1-1378x918.jpg"
  },
  {
   "id": "ksw-schildmuetze-raupe",
@@ -13004,7 +13358,9 @@ const IDEEN = [
    "locher"
   ],
   "bild": "🐛",
-  "bildTechnik": "🧢"
+  "bildTechnik": "🧢",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/05/schildmuetzeraupe1-400x268.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/05/schildmuetzeraupe1-1378x922.jpg"
  },
  {
   "id": "ksw-schlange-basteln",
@@ -13023,7 +13379,9 @@ const IDEEN = [
    "buntpapier"
   ],
   "bild": "🐍",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/01/schlange11-400x266.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/01/schlange11-1378x918.jpg"
  },
  {
   "id": "ksw-schlangenschwanzfange",
@@ -13057,7 +13415,9 @@ const IDEEN = [
    "folie"
   ],
   "bild": "🏰",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/06/schloss31-266x400.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/06/schloss31-918x1378.jpg"
  },
  {
   "id": "ksw-schluesselkoenig",
@@ -13090,7 +13450,9 @@ const IDEEN = [
    "buntpapier"
   ],
   "bild": "🦋",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/02/schmetterling31-400x266.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/02/schmetterling31-1378x918.jpg"
  },
  {
   "id": "ksw-schmetterling-falten",
@@ -13109,7 +13471,8 @@ const IDEEN = [
    "faltpapier"
   ],
   "bild": "🦋",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/03/faltschmetterling12-400x267.jpg"
  },
  {
   "id": "ksw-schmetterling-handabdruck",
@@ -13127,7 +13490,9 @@ const IDEEN = [
    "farbe"
   ],
   "bild": "🦋",
-  "bildTechnik": "🖐️"
+  "bildTechnik": "🖐️",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/07/schmetterlinghandabdruck-400x266.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/07/schmetterlinghandabdruck-1378x918.jpg"
  },
  {
   "id": "ksw-schmetterling-klatschtechnik",
@@ -13146,7 +13511,9 @@ const IDEEN = [
    "farbe"
   ],
   "bild": "🦋",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2014/04/schmetterling2-400x268.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2014/04/schmetterling2-1378x922.jpg"
  },
  {
   "id": "ksw-schmetterling-du-kleines-ding",
@@ -13181,7 +13548,8 @@ const IDEEN = [
    "geschirr"
   ],
   "bild": "🦋",
-  "bildTechnik": "🍽️"
+  "bildTechnik": "🍽️",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2015/08/schmetterling05-400x267.jpg"
  },
  {
   "id": "ksw-schmetterlinge-basteln",
@@ -13194,7 +13562,8 @@ const IDEEN = [
   "art": "Basteln",
   "ort": "drinnen",
   "materialStufe": null,
-  "bild": "🦋"
+  "bild": "🦋",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2014/04/schmetterling2-400x268.jpg"
  },
  {
   "id": "ksw-schnecke-basteln",
@@ -13213,7 +13582,9 @@ const IDEEN = [
    "buntpapier"
   ],
   "bild": "🐌",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/02/schnecke11-400x273.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/02/schnecke11-1378x942.jpg"
  },
  {
   "id": "ksw-schnecken-basteln",
@@ -13235,7 +13606,9 @@ const IDEEN = [
    "geschirr"
   ],
   "bild": "🐌",
-  "bildTechnik": "🍽️"
+  "bildTechnik": "🍽️",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2014/04/papptellerschnecke-400x266.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2014/04/papptellerschnecke-1378x918.jpg"
  },
  {
   "id": "ksw-schneeballschlacht-im-glas",
@@ -13276,7 +13649,9 @@ const IDEEN = [
    "buntpapier"
   ],
   "bild": "🌷",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/03/schneegloeckchen11-400x266.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/03/schneegloeckchen11-1378x918.jpg"
  },
  {
   "id": "ksw-schneegloeckchen-basteln-aus-eierkarton",
@@ -13298,7 +13673,8 @@ const IDEEN = [
    "suess"
   ],
   "bild": "🌷",
-  "bildTechnik": "🥚"
+  "bildTechnik": "🥚",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/03/schneegloeckchen11-400x267.jpg"
  },
  {
   "id": "ksw-schokokuesse-essen",
@@ -13364,7 +13740,9 @@ const IDEEN = [
    "pfeifenputzer",
    "locher"
   ],
-  "bild": "🐷"
+  "bild": "🐷",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/06/schwein11-266x400.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/06/schwein11-918x1378.jpg"
  },
  {
   "id": "ksw-schwaenzchenfange",
@@ -13399,7 +13777,8 @@ const IDEEN = [
    "buntpapier"
   ],
   "bild": "🪷",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2013/07/seerosenbluete1-400x325.jpg"
  },
  {
   "id": "ksw-seilschnappen",
@@ -13450,7 +13829,8 @@ const IDEEN = [
    "geschirr"
   ],
   "bild": "☀️",
-  "bildTechnik": "🍽️"
+  "bildTechnik": "🍽️",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/07/sonne1-400x267.jpg"
  },
  {
   "id": "ksw-sonne-basteln",
@@ -13469,7 +13849,9 @@ const IDEEN = [
    "krepp"
   ],
   "bild": "☀️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/07/sonne1-400x266.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/07/sonne1-1378x918.jpg"
  },
  {
   "id": "ksw-sonnenblume-basteln",
@@ -13487,7 +13869,9 @@ const IDEEN = [
    "buntpapier",
    "karton"
   ],
-  "bild": "🌻"
+  "bild": "🌻",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2013/07/sonnenblume1-400x368.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2013/07/sonnenblume1-1378x1267.jpg"
  },
  {
   "id": "ksw-sonnenblume-handabdruck",
@@ -13505,7 +13889,9 @@ const IDEEN = [
    "farbe"
   ],
   "bild": "🌻",
-  "bildTechnik": "🖐️"
+  "bildTechnik": "🖐️",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/06/sonnenblumenhandabdruck11-400x304.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/06/sonnenblumenhandabdruck11-1378x1048.jpg"
  },
  {
   "id": "ksw-sonnenblume-mit-kartoffeldruck",
@@ -13523,7 +13909,9 @@ const IDEEN = [
    "farbe"
   ],
   "bild": "🌻",
-  "bildTechnik": "🥔"
+  "bildTechnik": "🥔",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/05/sonnenblumendruck1-291x400.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/05/sonnenblumendruck1-1003x1378.jpg"
  },
  {
   "id": "ksw-sonnenblume-mit-schnipseltechnik",
@@ -13542,7 +13930,8 @@ const IDEEN = [
    "krepp"
   ],
   "bild": "🌻",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2013/07/sonnenblume2-267x400.jpg"
  },
  {
   "id": "ksw-sonnenblumen-basteln",
@@ -13558,7 +13947,9 @@ const IDEEN = [
   "zubehoer": [
    "buntpapier"
   ],
-  "bild": "🌻"
+  "bild": "🌻",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2013/07/sonnenblume2-266x400.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2013/07/sonnenblume2-918x1378.jpg"
  },
  {
   "id": "ksw-spiele-fuer-unterwegs",
@@ -13632,7 +14023,8 @@ const IDEEN = [
    "locher"
   ],
   "bild": "🕷️",
-  "bildTechnik": "🧻"
+  "bildTechnik": "🧻",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2011/10/spinnenteelicht1-400x268.jpg"
  },
  {
   "id": "ksw-spinnen-basteln",
@@ -13653,7 +14045,9 @@ const IDEEN = [
    "locher",
    "geschirr"
   ],
-  "bild": "🕷️"
+  "bild": "🕷️",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/01/Spinne-400x266.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/01/Spinne-1378x918.jpg"
  },
  {
   "id": "ksw-spinnen-fingerabdruck",
@@ -13671,7 +14065,8 @@ const IDEEN = [
    "farbe"
   ],
   "bild": "🕷️",
-  "bildTechnik": "👆"
+  "bildTechnik": "👆",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/06/spinnennetz1-326x400.jpg"
  },
  {
   "id": "ksw-spinnen-lolli-basteln",
@@ -13709,7 +14104,9 @@ const IDEEN = [
    "glas"
   ],
   "bild": "🕷️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/01/spinnenlicht1-400x291.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/01/spinnenlicht1-1378x1001.jpg"
  },
  {
   "id": "ksw-spinnenrennen",
@@ -13744,7 +14141,9 @@ const IDEEN = [
    "buntpapier",
    "folie"
   ],
-  "bild": "⭐"
+  "bild": "⭐",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2009/12/stern1-400x268.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2009/12/stern1-1378x922.jpg"
  },
  {
   "id": "ksw-sterne-falten",
@@ -13761,7 +14160,8 @@ const IDEEN = [
    "folie"
   ],
   "bild": "⭐",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2009/12/faltstern1-400x268.jpg"
  },
  {
   "id": "ksw-sternenlicht-basteln",
@@ -13778,7 +14178,9 @@ const IDEEN = [
    "glas",
    "folie"
   ],
-  "bild": "⭐"
+  "bild": "⭐",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2009/11/sternenlicht11-266x400.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2009/11/sternenlicht11-918x1378.jpg"
  },
  {
   "id": "ksw-stoppball",
@@ -14001,7 +14403,8 @@ const IDEEN = [
    "filzstifte",
    "buntpapier"
   ],
-  "bild": "⛺"
+  "bild": "⛺",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/06/tipi1.jpg"
  },
  {
   "id": "ksw-tischdeko-basteln",
@@ -14067,7 +14470,8 @@ const IDEEN = [
    "faltpapier"
   ],
   "bild": "🌷",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/03/tulpen2-400x362.jpg"
  },
  {
   "id": "ksw-verliebt-verlobt-verheiratet",
@@ -14131,7 +14535,8 @@ const IDEEN = [
    "kleinkram"
   ],
   "bild": "🐦",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/02/vogel1-400x268.jpg"
  },
  {
   "id": "ksw-vogel-basteln",
@@ -14155,7 +14560,9 @@ const IDEEN = [
    "geschirr"
   ],
   "bild": "🐦",
-  "bildTechnik": "🍽️"
+  "bildTechnik": "🍽️",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/02/vogel1-400x268.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/02/vogel1-1378x922.jpg"
  },
  {
   "id": "ksw-von-einer-nase-zur-anderen",
@@ -14189,7 +14596,8 @@ const IDEEN = [
    "folie"
   ],
   "bild": "🌋",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/01/vulkan62-300x400.jpg"
  },
  {
   "id": "ksw-wal-basteln",
@@ -14347,7 +14755,8 @@ const IDEEN = [
    "natur",
    "kerze"
   ],
-  "bild": "🕯️"
+  "bild": "🕯️",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2013/07/windlichtmeer2-268x400.jpg"
  },
  {
   "id": "ksw-windlicht-fussball",
@@ -14367,7 +14776,9 @@ const IDEEN = [
    "kerze"
   ],
   "bild": "🕯️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2011/06/windlicht-fussball1-337x400.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2011/06/windlicht-fussball1-1160x1378.jpg"
  },
  {
   "id": "ksw-windlicht-meer",
@@ -14385,7 +14796,9 @@ const IDEEN = [
    "natur",
    "kerze"
   ],
-  "bild": "🕯️"
+  "bild": "🕯️",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2013/07/windlichtmeer2-268x400.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2013/07/windlichtmeer2-922x1378.jpg"
  },
  {
   "id": "ksw-windlicht-sommer",
@@ -14404,7 +14817,9 @@ const IDEEN = [
    "natur"
   ],
   "bild": "🕯️",
-  "bildTechnik": "🪨"
+  "bildTechnik": "🪨",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2013/07/windlichtsommer1-266x400.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2013/07/windlichtsommer1-918x1378.jpg"
  },
  {
   "id": "ksw-windlicht-weihnachten",
@@ -14425,7 +14840,9 @@ const IDEEN = [
    "kerze"
   ],
   "bild": "🕯️",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2011/10/windlichtsternrot-268x400.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2011/10/windlichtsternrot-922x1378.jpg"
  },
  {
   "id": "ksw-windlichter-basteln",
@@ -14444,7 +14861,8 @@ const IDEEN = [
    "natur",
    "kerze"
   ],
-  "bild": "🕯️"
+  "bild": "🕯️",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2013/07/windlichtmeer2-268x400.jpg"
  },
  {
   "id": "ksw-windrad-basteln",
@@ -14462,7 +14880,9 @@ const IDEEN = [
    "buntpapier"
   ],
   "bild": "🌀",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/09/windradklein02-400x266.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/09/windradklein02-1378x918.jpg"
  },
  {
   "id": "ksw-windrad-falten",
@@ -14480,7 +14900,8 @@ const IDEEN = [
    "buntpapier"
   ],
   "bild": "🌀",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/09/windradgefaltet01-400x267.jpg"
  },
  {
   "id": "ksw-suessigkeiten-verstecke",
@@ -14556,7 +14977,9 @@ const IDEEN = [
    "papier"
   ],
   "bild": "🎁",
-  "bildTechnik": "📄"
+  "bildTechnik": "📄",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/08/zaubertuetefalten011-400x266.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/08/zaubertuetefalten011-1378x918.jpg"
  },
  {
   "id": "ksw-zeitungstanz",
@@ -14592,7 +15015,9 @@ const IDEEN = [
    "natur"
   ],
   "bild": "👑",
-  "bildTechnik": "🪨"
+  "bildTechnik": "🪨",
+  "foto": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/06/zepter31-400x266.jpg",
+  "fotoGross": "https://www.kinderspiele-welt.de/wp-content/uploads/2010/06/zepter31-1378x918.jpg"
  },
  {
   "id": "ksw-zick-zack-mitmachgeschichte",
