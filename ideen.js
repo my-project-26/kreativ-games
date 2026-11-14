@@ -2089,7 +2089,9 @@ const IDEEN = [
   "hatVideo": true,
   "zubehoer": [
    "faltpapier"
-  ]
+  ],
+  "bild": "🕊️",
+  "bildTechnik": "📄"
  },
  {
   "id": "buch-o-kraehe",
@@ -2109,7 +2111,9 @@ const IDEEN = [
   "hatVideo": true,
   "zubehoer": [
    "faltpapier"
-  ]
+  ],
+  "bild": "🐦‍⬛",
+  "bildTechnik": "📄"
  },
  {
   "id": "buch-o-schmetterling",
@@ -2129,7 +2133,9 @@ const IDEEN = [
   "hatVideo": true,
   "zubehoer": [
    "faltpapier"
-  ]
+  ],
+  "bild": "🦋",
+  "bildTechnik": "📄"
  },
  {
   "id": "buch-o-eisbaer",
@@ -2149,7 +2155,9 @@ const IDEEN = [
   "hatVideo": true,
   "zubehoer": [
    "faltpapier"
-  ]
+  ],
+  "bild": "🐻‍❄️",
+  "bildTechnik": "📄"
  },
  {
   "id": "buch-o-dinosaurier",
@@ -2169,7 +2177,9 @@ const IDEEN = [
   "hatVideo": true,
   "zubehoer": [
    "faltpapier"
-  ]
+  ],
+  "bild": "🦖",
+  "bildTechnik": "📄"
  },
  {
   "id": "buch-o-pferd",
@@ -2187,7 +2197,9 @@ const IDEEN = [
   "quelle": "Buch + familie.de",
   "zubehoer": [
    "faltpapier"
-  ]
+  ],
+  "bild": "🐴",
+  "bildTechnik": "📄"
  },
  {
   "id": "buch-o-hahn",
@@ -2205,7 +2217,9 @@ const IDEEN = [
   "quelle": "Buch + YouTube-Suche nach Hahn-Anleitungen",
   "zubehoer": [
    "faltpapier"
-  ]
+  ],
+  "bild": "🐓",
+  "bildTechnik": "📄"
  },
  {
   "id": "buch-o-seepferdchen",
@@ -2223,7 +2237,9 @@ const IDEEN = [
   "quelle": "Buch + YouTube-Suche nach Seepferdchen-Anleitungen",
   "zubehoer": [
    "faltpapier"
-  ]
+  ],
+  "bild": "🐴🌊",
+  "bildTechnik": "📄"
  },
  {
   "id": "buch-o-schildkroete",
@@ -2241,7 +2257,9 @@ const IDEEN = [
   "quelle": "Buch + toggoeltern.de",
   "zubehoer": [
    "faltpapier"
-  ]
+  ],
+  "bild": "🐢",
+  "bildTechnik": "📄"
  },
  {
   "id": "buch-o-schwan",
@@ -2261,7 +2279,9 @@ const IDEEN = [
   "hatVideo": true,
   "zubehoer": [
    "faltpapier"
-  ]
+  ],
+  "bild": "🦢",
+  "bildTechnik": "📄"
  },
  {
   "id": "buch-o-mantarochen",
@@ -2279,7 +2299,9 @@ const IDEEN = [
   "quelle": "Buch + YouTube-Suche nach Mantarochen-Anleitungen",
   "zubehoer": [
    "faltpapier"
-  ]
+  ],
+  "bild": "🐟",
+  "bildTechnik": "📄"
  },
  {
   "id": "buch-o-eule",
@@ -2297,7 +2319,9 @@ const IDEEN = [
   "quelle": "Buch + Eule als PDF vom WWF Österreich",
   "zubehoer": [
    "faltpapier"
-  ]
+  ],
+  "bild": "🦉",
+  "bildTechnik": "📄"
  },
  {
   "id": "buch-o-fuchs",
@@ -2317,7 +2341,9 @@ const IDEEN = [
   "hatVideo": true,
   "zubehoer": [
    "faltpapier"
-  ]
+  ],
+  "bild": "🦊",
+  "bildTechnik": "📄"
  },
  {
   "id": "buch-o-fledermaus",
@@ -2335,7 +2361,9 @@ const IDEEN = [
   "quelle": "Buch + Fledermaus als PDF vom aha-Museum",
   "zubehoer": [
    "faltpapier"
-  ]
+  ],
+  "bild": "🦇",
+  "bildTechnik": "📄"
  },
  {
   "id": "buch-o-fisch",
@@ -2355,7 +2383,9 @@ const IDEEN = [
   "hatVideo": true,
   "zubehoer": [
    "faltpapier"
-  ]
+  ],
+  "bild": "🐟",
+  "bildTechnik": "📄"
  },
  {
   "id": "buch-o-nashorn",
@@ -2373,7 +2403,9 @@ const IDEEN = [
   "quelle": "Buch + YouTube-Suche nach Nashorn-Anleitungen",
   "zubehoer": [
    "faltpapier"
-  ]
+  ],
+  "bild": "🦏",
+  "bildTechnik": "📄"
  },
  {
   "id": "buch-o-drache",
@@ -2391,7 +2423,9 @@ const IDEEN = [
   "quelle": "Buch + YouTube-Suche nach Drachen-Anleitungen",
   "zubehoer": [
    "faltpapier"
-  ]
+  ],
+  "bild": "🐉",
+  "bildTechnik": "📄"
  },
  {
   "id": "buch-o-kaninchen",
@@ -2411,7 +2445,9 @@ const IDEEN = [
   "hatVideo": true,
   "zubehoer": [
    "faltpapier"
-  ]
+  ],
+  "bild": "🐰",
+  "bildTechnik": "📄"
  },
  {
   "id": "buch-o-schwein",
@@ -2431,7 +2467,9 @@ const IDEEN = [
   "hatVideo": true,
   "zubehoer": [
    "faltpapier"
-  ]
+  ],
+  "bild": "🐷",
+  "bildTechnik": "📄"
  },
  {
   "id": "buch-o-maus",
@@ -2449,7 +2487,9 @@ const IDEEN = [
   "quelle": "Buch + YouTube-Suche nach Maus-Anleitungen",
   "zubehoer": [
    "faltpapier"
-  ]
+  ],
+  "bild": "🐭",
+  "bildTechnik": "📄"
  },
  {
   "id": "buch-m-taschenanhaenger",
@@ -2467,7 +2507,9 @@ const IDEEN = [
   "quelle": "Buch + lieblingsgarn.de",
   "zubehoer": [
    "makramee"
-  ]
+  ],
+  "bild": "🔑",
+  "bildTechnik": "🪢"
  },
  {
   "id": "buch-m-zopfgummi",
@@ -2485,7 +2527,9 @@ const IDEEN = [
   "quelle": "Buch + YouTube-Suche nach Makramee-Haargummis",
   "zubehoer": [
    "makramee"
-  ]
+  ],
+  "bild": "🎀",
+  "bildTechnik": "🪢"
  },
  {
   "id": "buch-m-ohrstecker",
@@ -2503,7 +2547,9 @@ const IDEEN = [
   "quelle": "Buch + vbs-hobby.at",
   "zubehoer": [
    "makramee"
-  ]
+  ],
+  "bild": "💎",
+  "bildTechnik": "🪢"
  },
  {
   "id": "buch-m-sommerliches-armband",
@@ -2521,7 +2567,9 @@ const IDEEN = [
   "quelle": "Buch + utopia.de",
   "zubehoer": [
    "makramee"
-  ]
+  ],
+  "bild": "📿",
+  "bildTechnik": "🪢"
  },
  {
   "id": "buch-m-verspieltes-armband",
@@ -2539,7 +2587,9 @@ const IDEEN = [
   "quelle": "Buch + Sammlung freier Armband-Anleitungen auf heimwerker.de",
   "zubehoer": [
    "makramee"
-  ]
+  ],
+  "bild": "📿",
+  "bildTechnik": "🪢"
  },
  {
   "id": "buch-m-filigrane-ohrringe",
@@ -2557,7 +2607,9 @@ const IDEEN = [
   "quelle": "Buch + vbs-hobby.at",
   "zubehoer": [
    "makramee"
-  ]
+  ],
+  "bild": "💎",
+  "bildTechnik": "🪢"
  },
  {
   "id": "buch-m-makramee-uhr",
@@ -2575,7 +2627,9 @@ const IDEEN = [
   "quelle": "Buch + YouTube-Suche nach Makramee-Uhrarmbändern",
   "zubehoer": [
    "makramee"
-  ]
+  ],
+  "bild": "⌚",
+  "bildTechnik": "🪢"
  },
  {
   "id": "buch-m-haarreif",
@@ -2593,7 +2647,9 @@ const IDEEN = [
   "quelle": "Buch + YouTube-Suche nach Makramee-Haarreifen",
   "zubehoer": [
    "makramee"
-  ]
+  ],
+  "bild": "🎀",
+  "bildTechnik": "🪢"
  },
  {
   "id": "buch-m-boho-guertel",
@@ -2611,7 +2667,8 @@ const IDEEN = [
   "quelle": "Buch + Gürtel-Anleitungen auf heimwerker.de",
   "zubehoer": [
    "makramee"
-  ]
+  ],
+  "bild": "🪢"
  },
  {
   "id": "buch-m-zweifarbiges-armband",
@@ -2629,7 +2686,9 @@ const IDEEN = [
   "quelle": "Buch + utopia.de",
   "zubehoer": [
    "makramee"
-  ]
+  ],
+  "bild": "📿",
+  "bildTechnik": "🪢"
  },
  {
   "id": "buch-m-lange-kette",
@@ -2647,7 +2706,9 @@ const IDEEN = [
   "quelle": "Buch + vbs-hobby.at",
   "zubehoer": [
    "makramee"
-  ]
+  ],
+  "bild": "📿",
+  "bildTechnik": "🪢"
  },
  {
   "id": "buch-m-haarspange",
@@ -2665,7 +2726,9 @@ const IDEEN = [
   "quelle": "Buch + YouTube-Suche nach Makramee-Haarspangen",
   "zubehoer": [
    "makramee"
-  ]
+  ],
+  "bild": "🎀",
+  "bildTechnik": "🪢"
  },
  {
   "id": "buch-m-creolen",
@@ -2683,7 +2746,9 @@ const IDEEN = [
   "quelle": "Buch + YouTube-Suche nach Makramee-Creolen",
   "zubehoer": [
    "makramee"
-  ]
+  ],
+  "bild": "💎",
+  "bildTechnik": "🪢"
  },
  {
   "id": "buch-m-schmuckset-pipa",
@@ -2701,7 +2766,9 @@ const IDEEN = [
   "quelle": "Buch + YouTube-Suche zum Pipa-Knoten",
   "zubehoer": [
    "makramee"
-  ]
+  ],
+  "bild": "💎",
+  "bildTechnik": "🪢"
  },
  {
   "id": "buch-m-statement-kette",
@@ -2719,7 +2786,9 @@ const IDEEN = [
   "quelle": "Buch + Statement-Halskette u. a. auf heimwerker.de",
   "zubehoer": [
    "makramee"
-  ]
+  ],
+  "bild": "📿",
+  "bildTechnik": "🪢"
  },
  {
   "id": "buch-m-armreif-mit-kreuzknoten",
@@ -2737,7 +2806,9 @@ const IDEEN = [
   "quelle": "Buch + Kreuzknoten-Grundlagen bei utopia.de",
   "zubehoer": [
    "makramee"
-  ]
+  ],
+  "bild": "📿",
+  "bildTechnik": "🪢"
  },
  {
   "id": "buch-m-armreif-mit-gedrehtem-strang",
@@ -2755,7 +2826,9 @@ const IDEEN = [
   "quelle": "Buch + gedrehtes Armband u. a. auf heimwerker.de",
   "zubehoer": [
    "makramee"
-  ]
+  ],
+  "bild": "📿",
+  "bildTechnik": "🪢"
  },
  {
   "id": "eigen-hund",
@@ -2772,7 +2845,9 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "stifte"
-  ]
+  ],
+  "bild": "🐶",
+  "bildTechnik": "📄"
  },
  {
   "id": "eigen-katze",
@@ -2789,7 +2864,9 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "stifte"
-  ]
+  ],
+  "bild": "🐱",
+  "bildTechnik": "📄"
  },
  {
   "id": "mo-badebomben-selber-machen",
@@ -4933,7 +5010,9 @@ const IDEEN = [
    "schere",
    "kleber",
    "buntpapier"
-  ]
+  ],
+  "bild": "🐥",
+  "bildTechnik": "📄"
  },
  {
   "id": "papierbecher",
@@ -4954,7 +5033,9 @@ const IDEEN = [
    "schere",
    "kleber",
    "buntpapier"
-  ]
+  ],
+  "bild": "🥤",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-1134",
@@ -4979,7 +5060,9 @@ const IDEEN = [
    "buntpapier",
    "karton",
    "natur"
-  ]
+  ],
+  "bild": "🌸",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-4125",
@@ -5002,7 +5085,9 @@ const IDEEN = [
    "kleber",
    "buntpapier",
    "karton"
-  ]
+  ],
+  "bild": "🌸💌",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-1030",
@@ -5025,7 +5110,9 @@ const IDEEN = [
    "buntpapier",
    "karton",
    "kaffeefilter"
-  ]
+  ],
+  "bild": "🌸",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-3486",
@@ -5048,7 +5135,9 @@ const IDEEN = [
    "buntpapier",
    "wolle",
    "heisskleber"
-  ]
+  ],
+  "bild": "💝",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-3487",
@@ -5071,7 +5160,9 @@ const IDEEN = [
    "kleber",
    "lineal",
    "buntpapier"
-  ]
+  ],
+  "bild": "💝💌",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-1031",
@@ -5094,7 +5185,9 @@ const IDEEN = [
    "lineal",
    "buntpapier",
    "zirkel"
-  ]
+  ],
+  "bild": "🌸",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-1033",
@@ -5118,7 +5211,9 @@ const IDEEN = [
    "buntpapier",
    "karton",
    "zirkel"
-  ]
+  ],
+  "bild": "🌸",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-1135",
@@ -5139,7 +5234,9 @@ const IDEEN = [
    "schere",
    "buntpapier",
    "zirkel"
-  ]
+  ],
+  "bild": "🦋",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-940",
@@ -5163,7 +5260,9 @@ const IDEEN = [
    "lineal",
    "buntpapier",
    "karton"
-  ]
+  ],
+  "bild": "🎄",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-2416",
@@ -5186,7 +5285,9 @@ const IDEEN = [
    "lineal",
    "buntpapier",
    "styropor"
-  ]
+  ],
+  "bild": "🎄💌",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-954",
@@ -5205,7 +5306,9 @@ const IDEEN = [
    "knete",
    "huetchen",
    "natur"
-  ]
+  ],
+  "bild": "🐜",
+  "bildTechnik": "🌰"
  },
  {
   "id": "tk-6869",
@@ -5227,7 +5330,9 @@ const IDEEN = [
    "schere",
    "klebeband",
    "watte"
-  ]
+  ],
+  "bild": "🍍",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-937",
@@ -5240,7 +5345,8 @@ const IDEEN = [
   "quelle": "tutkit.com",
   "art": "Basteln",
   "ort": "drinnen",
-  "materialStufe": 1
+  "materialStufe": 1,
+  "bild": "🍴"
  },
  {
   "id": "tk-4143",
@@ -5263,7 +5369,9 @@ const IDEEN = [
    "kleber",
    "buntpapier",
    "wackelaugen"
-  ]
+  ],
+  "bild": "🐰",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-4158",
@@ -5283,7 +5391,9 @@ const IDEEN = [
    "filzstifte",
    "schere",
    "kleber"
-  ]
+  ],
+  "bild": "🎲",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-3931",
@@ -5302,7 +5412,9 @@ const IDEEN = [
    "papier",
    "stifte",
    "schere"
-  ]
+  ],
+  "bild": "✈️",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-4151",
@@ -5325,7 +5437,9 @@ const IDEEN = [
    "kleber",
    "lineal",
    "buntpapier"
-  ]
+  ],
+  "bild": "🪁",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-4135",
@@ -5348,7 +5462,9 @@ const IDEEN = [
    "wolle",
    "glas",
    "elektro"
-  ]
+  ],
+  "bild": "🏮",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-3509",
@@ -5361,7 +5477,9 @@ const IDEEN = [
   "quelle": "tutkit.com",
   "art": "Basteln",
   "ort": "drinnen",
-  "materialStufe": 2
+  "materialStufe": 2,
+  "bild": "🐍",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-944",
@@ -5378,7 +5496,9 @@ const IDEEN = [
   "material": "Papier",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "✈️",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-6873",
@@ -5401,7 +5521,9 @@ const IDEEN = [
    "klebeband",
    "lineal",
    "watte"
-  ]
+  ],
+  "bild": "🟩",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-13484",
@@ -5422,7 +5544,9 @@ const IDEEN = [
    "schere",
    "cutter",
    "gummi"
-  ]
+  ],
+  "bild": "✈️",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-3382",
@@ -5439,7 +5563,9 @@ const IDEEN = [
   "material": "Papier",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "🎲",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-3515",
@@ -5458,7 +5584,9 @@ const IDEEN = [
    "papier",
    "filzstifte",
    "faltpapier"
-  ]
+  ],
+  "bild": "🎲",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-3468",
@@ -5483,7 +5611,9 @@ const IDEEN = [
    "heisskleber",
    "holzstaebe",
    "glas"
-  ]
+  ],
+  "bild": "🌸",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-4163",
@@ -5503,7 +5633,9 @@ const IDEEN = [
    "wolle",
    "kaffeefilter",
    "suess"
-  ]
+  ],
+  "bild": "🐰",
+  "bildTechnik": "🧻"
  },
  {
   "id": "tk-4132",
@@ -5526,7 +5658,9 @@ const IDEEN = [
    "buntpapier",
    "cutter",
    "elektro"
-  ]
+  ],
+  "bild": "🏮",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-1151",
@@ -5543,7 +5677,9 @@ const IDEEN = [
   "material": "Papier",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "✈️",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-4148",
@@ -5561,7 +5697,9 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "lineal"
-  ]
+  ],
+  "bild": "✈️",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-1144",
@@ -5578,7 +5716,9 @@ const IDEEN = [
   "material": "Papier",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "✈️",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-4596",
@@ -5602,7 +5742,9 @@ const IDEEN = [
    "buntpapier",
    "karton",
    "cutter"
-  ]
+  ],
+  "bild": "😀✏️",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-947",
@@ -5619,7 +5761,9 @@ const IDEEN = [
   "material": "Papier",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "✈️",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-948",
@@ -5636,7 +5780,9 @@ const IDEEN = [
   "material": "Papier",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "✈️",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-1145",
@@ -5653,7 +5799,9 @@ const IDEEN = [
   "material": "Papier",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "✈️",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-943",
@@ -5670,7 +5818,9 @@ const IDEEN = [
   "material": "Papier",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "✈️",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-987",
@@ -5687,7 +5837,9 @@ const IDEEN = [
   "material": "Papier",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "✈️",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-988",
@@ -5704,7 +5856,9 @@ const IDEEN = [
   "material": "Papier",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "✈️",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-13486",
@@ -5717,7 +5871,9 @@ const IDEEN = [
   "quelle": "tutkit.com",
   "art": "Basteln",
   "ort": "drinnen",
-  "materialStufe": 1
+  "materialStufe": 1,
+  "bild": "🎲",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-3840",
@@ -5741,7 +5897,9 @@ const IDEEN = [
    "knete",
    "geschirr",
    "natur"
-  ]
+  ],
+  "bild": "🦇",
+  "bildTechnik": "🌰"
  },
  {
   "id": "tk-3933",
@@ -5759,7 +5917,9 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "filzstifte"
-  ]
+  ],
+  "bild": "🦇✈️",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-949",
@@ -5776,7 +5936,9 @@ const IDEEN = [
   "material": "Papier",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "🦇✈️",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-9171",
@@ -5793,7 +5955,9 @@ const IDEEN = [
   "material": "Ein quadratisches Blatt Papier (idealerweise 15 x 15 cm); Das war's schon!",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "🎲",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-990",
@@ -5810,7 +5974,9 @@ const IDEEN = [
   "material": "Papier",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "✈️",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-3381",
@@ -5827,7 +5993,9 @@ const IDEEN = [
   "material": "Papier",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "🎲",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-3922",
@@ -5846,7 +6014,9 @@ const IDEEN = [
    "farbe",
    "glas",
    "elektro"
-  ]
+  ],
+  "bild": "🌙",
+  "bildTechnik": "🫙"
  },
  {
   "id": "tk-13490",
@@ -5867,7 +6037,9 @@ const IDEEN = [
    "schere",
    "kleber",
    "farbe"
-  ]
+  ],
+  "bild": "🐰✈️",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-974",
@@ -5884,7 +6056,9 @@ const IDEEN = [
   "material": "Papier",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "🐰",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-4162",
@@ -5902,7 +6076,9 @@ const IDEEN = [
   "zubehoer": [
    "wolle",
    "kaffeefilter"
-  ]
+  ],
+  "bild": "🐰",
+  "bildTechnik": "🧻"
  },
  {
   "id": "tk-4164",
@@ -5924,7 +6100,9 @@ const IDEEN = [
    "farbe",
    "wolle",
    "heisskleber"
-  ]
+  ],
+  "bild": "🐰",
+  "bildTechnik": "🧻"
  },
  {
   "id": "tk-13459",
@@ -5941,7 +6119,9 @@ const IDEEN = [
   "material": "Papier",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "🚁",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-3510",
@@ -5963,7 +6143,9 @@ const IDEEN = [
    "schere",
    "kleber",
    "buntpapier"
-  ]
+  ],
+  "bild": "💖🪽",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-1155",
@@ -5980,7 +6162,9 @@ const IDEEN = [
   "material": "Papier",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "✈️",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-13511",
@@ -6000,7 +6184,9 @@ const IDEEN = [
    "schere",
    "kleber",
    "buntpapier"
-  ]
+  ],
+  "bild": "🌸",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-968",
@@ -6019,7 +6205,9 @@ const IDEEN = [
    "schere",
    "knete",
    "natur"
-  ]
+  ],
+  "bild": "🦔",
+  "bildTechnik": "🌲"
  },
  {
   "id": "tk-953",
@@ -6038,7 +6226,9 @@ const IDEEN = [
    "knete",
    "geschirr",
    "natur"
-  ]
+  ],
+  "bild": "🦔",
+  "bildTechnik": "🌰"
  },
  {
   "id": "tk-9058",
@@ -6061,7 +6251,9 @@ const IDEEN = [
    "kleber",
    "lineal",
    "buntpapier"
-  ]
+  ],
+  "bild": "🧊",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-969",
@@ -6080,7 +6272,9 @@ const IDEEN = [
    "karton",
    "knete",
    "natur"
-  ]
+  ],
+  "bild": "🕷️",
+  "bildTechnik": "🌰"
  },
  {
   "id": "tk-4356",
@@ -6103,7 +6297,9 @@ const IDEEN = [
    "kleber",
    "buntpapier",
    "karton"
-  ]
+  ],
+  "bild": "🐰",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-4156",
@@ -6123,7 +6319,9 @@ const IDEEN = [
    "filzstifte",
    "schere",
    "kleber"
-  ]
+  ],
+  "bild": "🧹",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-989",
@@ -6145,7 +6343,8 @@ const IDEEN = [
    "farbe",
    "wolle",
    "glitzer"
-  ]
+  ],
+  "bild": "🏠"
  },
  {
   "id": "tk-4165",
@@ -6169,7 +6368,9 @@ const IDEEN = [
    "farbe",
    "wackelaugen",
    "heisskleber"
-  ]
+  ],
+  "bild": "🐥",
+  "bildTechnik": "🧻"
  },
  {
   "id": "tk-3924",
@@ -6187,7 +6388,9 @@ const IDEEN = [
   "zubehoer": [
    "knete",
    "natur"
-  ]
+  ],
+  "bild": "🎃",
+  "bildTechnik": "🌰"
  },
  {
   "id": "tk-3925",
@@ -6206,7 +6409,8 @@ const IDEEN = [
    "stifte",
    "geschirr",
    "elektro"
-  ]
+  ],
+  "bild": "🎃"
  },
  {
   "id": "tk-3905",
@@ -6229,7 +6433,9 @@ const IDEEN = [
    "lineal",
    "buntpapier",
    "rollen"
-  ]
+  ],
+  "bild": "🎃",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-13496",
@@ -6242,7 +6448,8 @@ const IDEEN = [
   "quelle": "tutkit.com",
   "art": "Basteln",
   "ort": "drinnen",
-  "materialStufe": 3
+  "materialStufe": 3,
+  "bild": "🌺"
  },
  {
   "id": "tk-4145",
@@ -6266,7 +6473,9 @@ const IDEEN = [
    "lineal",
    "buntpapier",
    "karton"
-  ]
+  ],
+  "bild": "🐰",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-5672",
@@ -6289,7 +6498,9 @@ const IDEEN = [
    "kleber",
    "buntpapier",
    "wackelaugen"
-  ]
+  ],
+  "bild": "🐞",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-946",
@@ -6306,7 +6517,9 @@ const IDEEN = [
   "material": "Papier",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "✈️",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-4176",
@@ -6323,7 +6536,9 @@ const IDEEN = [
   "material": "Die Bastelvorlage (wichtig: Diese musst du vorher ausdrucken!); 1 Blatt gelbes A4-Papier (für den Bienenkörper); 1 Blatt hellblaues oder weißes A4-Papier (für die Flügel); Schwarze…",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "🐝",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-4175",
@@ -6341,7 +6556,9 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "filzstifte"
-  ]
+  ],
+  "bild": "🟩",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-4177",
@@ -6366,7 +6583,9 @@ const IDEEN = [
    "lineal",
    "karton",
    "natur"
-  ]
+  ],
+  "bild": "🟩",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-6882",
@@ -6388,7 +6607,9 @@ const IDEEN = [
    "schere",
    "klebeband",
    "lineal"
-  ]
+  ],
+  "bild": "🟩",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-4178",
@@ -6408,7 +6629,9 @@ const IDEEN = [
    "filzstifte",
    "buntpapier",
    "karton"
-  ]
+  ],
+  "bild": "🟩",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-6872",
@@ -6429,7 +6652,9 @@ const IDEEN = [
    "filzstifte",
    "klebeband",
    "lineal"
-  ]
+  ],
+  "bild": "🟩",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-13494",
@@ -6442,7 +6667,9 @@ const IDEEN = [
   "quelle": "tutkit.com",
   "art": "Basteln",
   "ort": "drinnen",
-  "materialStufe": 1
+  "materialStufe": 1,
+  "bild": "🧼",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-13506",
@@ -6463,7 +6690,9 @@ const IDEEN = [
    "schere",
    "kleber",
    "buntpapier"
-  ]
+  ],
+  "bild": "🌸",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-3480",
@@ -6480,7 +6709,9 @@ const IDEEN = [
   "material": "Papier",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "✈️",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-9173",
@@ -6500,7 +6731,9 @@ const IDEEN = [
    "stifte",
    "filzstifte",
    "schere"
-  ]
+  ],
+  "bild": "💃",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-3479",
@@ -6517,7 +6750,9 @@ const IDEEN = [
   "material": "Papier",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "🏀",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-3385",
@@ -6534,7 +6769,9 @@ const IDEEN = [
   "material": "Papier",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "👉",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-6874",
@@ -6551,7 +6788,9 @@ const IDEEN = [
   "material": "1 Blatt Papier (A4-Format)",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "✈️",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-3493",
@@ -6568,7 +6807,9 @@ const IDEEN = [
   "material": "Papier",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "✈️",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-6875",
@@ -6586,7 +6827,9 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "schere"
-  ]
+  ],
+  "bild": "✈️",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-3495",
@@ -6603,7 +6846,9 @@ const IDEEN = [
   "material": "Papier",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "⚽",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-3873",
@@ -6624,7 +6869,9 @@ const IDEEN = [
    "filzstifte",
    "schere",
    "buntpapier"
-  ]
+  ],
+  "bild": "👻",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-3926",
@@ -6643,7 +6890,9 @@ const IDEEN = [
    "papier",
    "filzstifte",
    "schere"
-  ]
+  ],
+  "bild": "👻",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-4120",
@@ -6664,7 +6913,9 @@ const IDEEN = [
    "filzstifte",
    "schere",
    "buntpapier"
-  ]
+  ],
+  "bild": "💖",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-3512",
@@ -6684,7 +6935,9 @@ const IDEEN = [
    "stifte",
    "filzstifte",
    "schere"
-  ]
+  ],
+  "bild": "🚁",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-4146",
@@ -6701,7 +6954,9 @@ const IDEEN = [
   "material": "Ein Blatt Papier; Lust zu falten; Ein bisschen Geduld",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "✈️",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-6881",
@@ -6720,7 +6975,9 @@ const IDEEN = [
    "papier",
    "filzstifte",
    "buntpapier"
-  ]
+  ],
+  "bild": "🐱📦",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-3504",
@@ -6737,7 +6994,9 @@ const IDEEN = [
   "material": "Papier",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "🐱✉️",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-3505",
@@ -6754,7 +7013,9 @@ const IDEEN = [
   "material": "Papier",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "🌀",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-3923",
@@ -6775,7 +7036,9 @@ const IDEEN = [
    "schere",
    "kleber",
    "buntpapier"
-  ]
+  ],
+  "bild": "🎃",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-13512",
@@ -6792,7 +7055,9 @@ const IDEEN = [
   "material": "Papier",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "🌺",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-9172",
@@ -6810,7 +7075,9 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "schere"
-  ]
+  ],
+  "bild": "🎵",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-992",
@@ -6827,7 +7094,9 @@ const IDEEN = [
   "material": "Papier",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "🚀",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-1138",
@@ -6844,7 +7113,9 @@ const IDEEN = [
   "material": "Papier",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "🚀",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-1693",
@@ -6861,7 +7132,9 @@ const IDEEN = [
   "material": "Papier",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "⛄",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-905",
@@ -6878,7 +7151,9 @@ const IDEEN = [
   "material": "Papier",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "⭐",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-891",
@@ -6895,7 +7170,9 @@ const IDEEN = [
   "material": "Papier",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "🎄",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-7827",
@@ -6917,7 +7194,9 @@ const IDEEN = [
    "schere",
    "lineal",
    "ball"
-  ]
+  ],
+  "bild": "🎾",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-4153",
@@ -6935,7 +7214,9 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "filzstifte"
-  ]
+  ],
+  "bild": "💀",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-7779",
@@ -6956,7 +7237,9 @@ const IDEEN = [
    "kleber",
    "huetchen",
    "natur"
-  ]
+  ],
+  "bild": "🌷",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-13503",
@@ -6975,7 +7258,9 @@ const IDEEN = [
    "papier",
    "schere",
    "kleber"
-  ]
+  ],
+  "bild": "🌷",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-4122",
@@ -6994,7 +7279,9 @@ const IDEEN = [
    "papier",
    "buntpapier",
    "natur"
-  ]
+  ],
+  "bild": "🌷🐝",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-1692",
@@ -7011,7 +7298,9 @@ const IDEEN = [
   "material": "Papier",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "🧤",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-1691",
@@ -7028,7 +7317,9 @@ const IDEEN = [
   "material": "Papier",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "🧦",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-4140",
@@ -7051,7 +7342,9 @@ const IDEEN = [
    "kleber",
    "lineal",
    "buntpapier"
-  ]
+  ],
+  "bild": "🐰",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-4141",
@@ -7075,7 +7368,9 @@ const IDEEN = [
    "lineal",
    "buntpapier",
    "suess"
-  ]
+  ],
+  "bild": "🐰",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-4161",
@@ -7093,7 +7388,9 @@ const IDEEN = [
   "zubehoer": [
    "wackelaugen",
    "kaffeefilter"
-  ]
+  ],
+  "bild": "🐰",
+  "bildTechnik": "🧻"
  },
  {
   "id": "tk-1042",
@@ -7115,7 +7412,9 @@ const IDEEN = [
    "kleber",
    "buntpapier",
    "karton"
-  ]
+  ],
+  "bild": "🌼",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-13492",
@@ -7138,7 +7437,9 @@ const IDEEN = [
    "kleber",
    "buntpapier",
    "strohhalm"
-  ]
+  ],
+  "bild": "🌼",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-4149",
@@ -7157,7 +7458,9 @@ const IDEEN = [
    "papier",
    "schere",
    "lineal"
-  ]
+  ],
+  "bild": "🚁",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-13502",
@@ -7176,7 +7479,9 @@ const IDEEN = [
    "papier",
    "stifte",
    "schere"
-  ]
+  ],
+  "bild": "🚁",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-13497",
@@ -7197,7 +7502,9 @@ const IDEEN = [
    "schere",
    "lineal",
    "buntpapier"
-  ]
+  ],
+  "bild": "🌺",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-13509",
@@ -7220,7 +7527,9 @@ const IDEEN = [
    "buntpapier",
    "perlen",
    "glitzer"
-  ]
+  ],
+  "bild": "🌸",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-4127",
@@ -7243,7 +7552,9 @@ const IDEEN = [
    "lineal",
    "holzstaebe",
    "suess"
-  ]
+  ],
+  "bild": "🌸🍭",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-13495",
@@ -7267,7 +7578,9 @@ const IDEEN = [
    "buntpapier",
    "holzstaebe",
    "strohhalm"
-  ]
+  ],
+  "bild": "🌸",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-3499",
@@ -7290,7 +7603,9 @@ const IDEEN = [
    "heisskleber",
    "holzstaebe",
    "strohhalm"
-  ]
+  ],
+  "bild": "💝",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-895",
@@ -7313,7 +7628,9 @@ const IDEEN = [
    "lineal",
    "wolle",
    "heisskleber"
-  ]
+  ],
+  "bild": "👼",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-6880",
@@ -7337,7 +7654,9 @@ const IDEEN = [
    "lineal",
    "buntpapier",
    "wackelaugen"
-  ]
+  ],
+  "bild": "🐟",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-945",
@@ -7354,7 +7673,9 @@ const IDEEN = [
   "material": "Papier",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "✈️",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-3501",
@@ -7371,7 +7692,9 @@ const IDEEN = [
   "material": "Papier",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "✈️",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-991",
@@ -7388,7 +7711,9 @@ const IDEEN = [
   "material": "Papier",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "✈️",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-942",
@@ -7405,7 +7730,9 @@ const IDEEN = [
   "material": "Papier",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "✈️",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-6876",
@@ -7426,7 +7753,9 @@ const IDEEN = [
    "schere",
    "lineal",
    "gummi"
-  ]
+  ],
+  "bild": "✈️",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-7844",
@@ -7445,7 +7774,9 @@ const IDEEN = [
    "papier",
    "stifte",
    "schere"
-  ]
+  ],
+  "bild": "✈️",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-8959",
@@ -7463,7 +7794,9 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "stifte"
-  ]
+  ],
+  "bild": "✈️",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-7843",
@@ -7480,7 +7813,9 @@ const IDEEN = [
   "material": "Ein Blatt Papier (A4); Eine ebene Fläche zum Arbeiten; Etwas Geduld und Konzentration",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "✈️",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-4593",
@@ -7504,7 +7839,9 @@ const IDEEN = [
    "lineal",
    "buntpapier",
    "karton"
-  ]
+  ],
+  "bild": "🐔",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-1032",
@@ -7526,7 +7863,9 @@ const IDEEN = [
    "kleber",
    "lineal",
    "buntpapier"
-  ]
+  ],
+  "bild": "🌸",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-3858",
@@ -7547,7 +7886,9 @@ const IDEEN = [
    "schere",
    "kleber",
    "buntpapier"
-  ]
+  ],
+  "bild": "🎃",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-4129",
@@ -7569,7 +7910,9 @@ const IDEEN = [
    "glas",
    "kaffeefilter",
    "natur"
-  ]
+  ],
+  "bild": "🌹",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-7845",
@@ -7592,7 +7935,9 @@ const IDEEN = [
    "kleber",
    "lineal",
    "buntpapier"
-  ]
+  ],
+  "bild": "🐍",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-939",
@@ -7605,7 +7950,9 @@ const IDEEN = [
   "quelle": "tutkit.com",
   "art": "Basteln",
   "ort": "drinnen",
-  "materialStufe": 2
+  "materialStufe": 2,
+  "bild": "🎄",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-13499",
@@ -7618,7 +7965,8 @@ const IDEEN = [
   "quelle": "tutkit.com",
   "art": "Basteln",
   "ort": "drinnen",
-  "materialStufe": 2
+  "materialStufe": 2,
+  "bild": "🌸"
  },
  {
   "id": "tk-951",
@@ -7637,7 +7985,9 @@ const IDEEN = [
    "wolle",
    "geschirr",
    "natur"
-  ]
+  ],
+  "bild": "🐴",
+  "bildTechnik": "🌰"
  },
  {
   "id": "tk-970",
@@ -7656,7 +8006,9 @@ const IDEEN = [
    "karton",
    "knete",
    "natur"
-  ]
+  ],
+  "bild": "🍄",
+  "bildTechnik": "🌰"
  },
  {
   "id": "tk-4157",
@@ -7676,7 +8028,9 @@ const IDEEN = [
    "schere",
    "kleber",
    "buntpapier"
-  ]
+  ],
+  "bild": "🍟",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-3388",
@@ -7693,7 +8047,9 @@ const IDEEN = [
   "material": "Papier",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "🏀",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-4126",
@@ -7715,7 +8071,9 @@ const IDEEN = [
    "kleber",
    "lineal",
    "karton"
-  ]
+  ],
+  "bild": "🌸💌",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-3511",
@@ -7738,7 +8096,9 @@ const IDEEN = [
    "kleber",
    "klebeband",
    "buntpapier"
-  ]
+  ],
+  "bild": "💌",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-9054",
@@ -7757,7 +8117,9 @@ const IDEEN = [
    "papier",
    "schere",
    "lineal"
-  ]
+  ],
+  "bild": "🚀",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-4133",
@@ -7779,7 +8141,9 @@ const IDEEN = [
    "klebeband",
    "buntpapier",
    "wolle"
-  ]
+  ],
+  "bild": "🌈🏮",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-6879",
@@ -7804,7 +8168,9 @@ const IDEEN = [
    "lineal",
    "buntpapier",
    "karton"
-  ]
+  ],
+  "bild": "🧍",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-4128",
@@ -7827,7 +8193,9 @@ const IDEEN = [
    "karton",
    "glas",
    "kaffeefilter"
-  ]
+  ],
+  "bild": "🌹",
+  "bildTechnik": "🧻"
  },
  {
   "id": "tk-4121",
@@ -7848,7 +8216,9 @@ const IDEEN = [
    "karton",
    "wolle",
    "heisskleber"
-  ]
+  ],
+  "bild": "💖",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-955",
@@ -7868,7 +8238,9 @@ const IDEEN = [
    "wolle",
    "watte",
    "natur"
-  ]
+  ],
+  "bild": "🐑",
+  "bildTechnik": "🌰"
  },
  {
   "id": "tk-4134",
@@ -7888,7 +8260,8 @@ const IDEEN = [
    "watte",
    "glas",
    "elektro"
-  ]
+  ],
+  "bild": "🐑"
  },
  {
   "id": "tk-957",
@@ -7901,7 +8274,9 @@ const IDEEN = [
   "quelle": "tutkit.com",
   "art": "Basteln",
   "ort": "drinnen",
-  "materialStufe": 2
+  "materialStufe": 2,
+  "bild": "🐢",
+  "bildTechnik": "🥜"
  },
  {
   "id": "tk-4160",
@@ -7924,7 +8299,9 @@ const IDEEN = [
    "holzstaebe",
    "natur",
    "styropor"
-  ]
+  ],
+  "bild": "🦋",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-952",
@@ -7942,7 +8319,9 @@ const IDEEN = [
   "zubehoer": [
    "knete",
    "natur"
-  ]
+  ],
+  "bild": "🐌",
+  "bildTechnik": "🌰"
  },
  {
   "id": "tk-2415",
@@ -7966,7 +8345,9 @@ const IDEEN = [
    "buntpapier",
    "wolle",
    "zirkel"
-  ]
+  ],
+  "bild": "❄️💌",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-950",
@@ -7990,7 +8371,9 @@ const IDEEN = [
    "lineal",
    "buntpapier",
    "wolle"
-  ]
+  ],
+  "bild": "⛄",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-898",
@@ -8007,7 +8390,9 @@ const IDEEN = [
   "material": "Eine Nuss (am besten eignet sich eine Walnuss) – als Basis für den Schneemann; Weiße Farbe – um die \"Schnee\"-Farbe zu erzeugen; Pinsel oder Schwamm – zum Auftragen der Farbe; Farbi…",
   "zubehoer": [
    "farbe"
-  ]
+  ],
+  "bild": "⛄",
+  "bildTechnik": "🥜"
  },
  {
   "id": "tk-13507",
@@ -8028,7 +8413,9 @@ const IDEEN = [
    "schere",
    "kleber",
    "buntpapier"
-  ]
+  ],
+  "bild": "🌸",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-4131",
@@ -8050,7 +8437,9 @@ const IDEEN = [
    "buntpapier",
    "wolle",
    "glitzer"
-  ]
+  ],
+  "bild": "💌",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-896",
@@ -8063,7 +8452,9 @@ const IDEEN = [
   "quelle": "tutkit.com",
   "art": "Basteln",
   "ort": "drinnen",
-  "materialStufe": 1
+  "materialStufe": 1,
+  "bild": "🍽️",
+  "bildTechnik": "🧻"
  },
  {
   "id": "tk-6870",
@@ -8085,7 +8476,9 @@ const IDEEN = [
    "schere",
    "klebeband",
    "watte"
-  ]
+  ],
+  "bild": "🧌",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-4595",
@@ -8108,7 +8501,9 @@ const IDEEN = [
    "kleber",
    "karton",
    "farbe"
-  ]
+  ],
+  "bild": "🧌💌",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-4144",
@@ -8127,7 +8522,8 @@ const IDEEN = [
    "schere",
    "kleber",
    "wolle"
-  ]
+  ],
+  "bild": "🐰"
  },
  {
   "id": "tk-956",
@@ -8144,7 +8540,9 @@ const IDEEN = [
   "material": "Zwei Kastanien: eine große für den Körper und eine kleine für den Kopf; Acht dünne Zweige für die Beine; Zapfen, Eicheln, Blätter und andere Naturelemente zur Dekoration",
   "zubehoer": [
    "natur"
-  ]
+  ],
+  "bild": "🕷️",
+  "bildTechnik": "🌰"
  },
  {
   "id": "tk-7842",
@@ -8164,7 +8562,9 @@ const IDEEN = [
    "stifte",
    "filzstifte",
    "schere"
-  ]
+  ],
+  "bild": "🕷️",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-4152",
@@ -8182,7 +8582,9 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "filzstifte"
-  ]
+  ],
+  "bild": "🐙",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-893",
@@ -8203,7 +8605,8 @@ const IDEEN = [
    "karton",
    "wolle",
    "heisskleber"
-  ]
+  ],
+  "bild": "⭐"
  },
  {
   "id": "tk-13493",
@@ -8227,7 +8630,9 @@ const IDEEN = [
    "cutter",
    "dosen",
    "kerze"
-  ]
+  ],
+  "bild": "🚗",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-13508",
@@ -8246,7 +8651,9 @@ const IDEEN = [
    "papier",
    "schere",
    "kleber"
-  ]
+  ],
+  "bild": "✈️",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-13504",
@@ -8269,7 +8676,9 @@ const IDEEN = [
    "buntpapier",
    "perlen",
    "glitzer"
-  ]
+  ],
+  "bild": "🌸",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-897",
@@ -8282,7 +8691,8 @@ const IDEEN = [
   "quelle": "tutkit.com",
   "art": "Basteln",
   "ort": "drinnen",
-  "materialStufe": 1
+  "materialStufe": 1,
+  "bild": "🎁"
  },
  {
   "id": "tk-889",
@@ -8306,7 +8716,9 @@ const IDEEN = [
    "wolle",
    "perlen",
    "heisskleber"
-  ]
+  ],
+  "bild": "🎄",
+  "bildTechnik": "🧶"
  },
  {
   "id": "tk-2417",
@@ -8328,7 +8740,9 @@ const IDEEN = [
    "schere",
    "kleber",
    "buntpapier"
-  ]
+  ],
+  "bild": "🎄💌",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-4130",
@@ -8351,7 +8765,9 @@ const IDEEN = [
    "kleber",
    "lineal",
    "buntpapier"
-  ]
+  ],
+  "bild": "🫖💌",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-3934",
@@ -8370,7 +8786,9 @@ const IDEEN = [
    "papier",
    "filzstifte",
    "buntpapier"
-  ]
+  ],
+  "bild": "✈️",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-13510",
@@ -8389,7 +8807,9 @@ const IDEEN = [
    "papier",
    "schere",
    "kleber"
-  ]
+  ],
+  "bild": "✈️",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-13462",
@@ -8411,7 +8831,9 @@ const IDEEN = [
    "kleber",
    "lineal",
    "buntpapier"
-  ]
+  ],
+  "bild": "♾️",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-3470",
@@ -8432,7 +8854,9 @@ const IDEEN = [
    "schere",
    "kleber",
    "buntpapier"
-  ]
+  ],
+  "bild": "🤗💌",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-941",
@@ -8455,7 +8879,9 @@ const IDEEN = [
    "kleber",
    "lineal",
    "buntpapier"
-  ]
+  ],
+  "bild": "🎄💌",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-13461",
@@ -8476,7 +8902,9 @@ const IDEEN = [
    "kleber",
    "lineal",
    "buntpapier"
-  ]
+  ],
+  "bild": "♾️",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-3500",
@@ -8489,7 +8917,9 @@ const IDEEN = [
   "quelle": "tutkit.com",
   "art": "Basteln",
   "ort": "drinnen",
-  "materialStufe": 1
+  "materialStufe": 1,
+  "bild": "💝🍬",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-4594",
@@ -8511,7 +8941,9 @@ const IDEEN = [
    "wackelaugen",
    "kleinkram",
    "styropor"
-  ]
+  ],
+  "bild": "🐦",
+  "bildTechnik": "🧶"
  },
  {
   "id": "tk-13501",
@@ -8530,7 +8962,9 @@ const IDEEN = [
    "papier",
    "stifte",
    "schere"
-  ]
+  ],
+  "bild": "✈️",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-1154",
@@ -8553,7 +8987,9 @@ const IDEEN = [
    "cutter",
    "kaffeefilter",
    "styropor"
-  ]
+  ],
+  "bild": "🏠🎄",
+  "bildTechnik": "🧻"
  },
  {
   "id": "tk-894",
@@ -8575,7 +9011,8 @@ const IDEEN = [
    "perlen",
    "glitzer",
    "styropor"
-  ]
+  ],
+  "bild": "🎄"
  },
  {
   "id": "tk-938",
@@ -8588,7 +9025,8 @@ const IDEEN = [
   "quelle": "tutkit.com",
   "art": "Basteln",
   "ort": "drinnen",
-  "materialStufe": 2
+  "materialStufe": 2,
+  "bild": "🎅"
  },
  {
   "id": "tk-13505",
@@ -8605,7 +9043,9 @@ const IDEEN = [
   "material": "Papier",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "✈️",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-3932",
@@ -8623,7 +9063,9 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "klammern"
-  ]
+  ],
+  "bild": "✈️",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-4147",
@@ -8641,7 +9083,9 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "lineal"
-  ]
+  ],
+  "bild": "✈️",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-4159",
@@ -8663,7 +9107,9 @@ const IDEEN = [
    "buntpapier",
    "heisskleber",
    "holzstaebe"
-  ]
+  ],
+  "bild": "🌸",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-4335",
@@ -8686,7 +9132,9 @@ const IDEEN = [
    "lineal",
    "buntpapier",
    "karton"
-  ]
+  ],
+  "bild": "🐰",
+  "bildTechnik": "📄"
  },
  {
   "id": "tk-3469",
@@ -8708,7 +9156,9 @@ const IDEEN = [
    "kleber",
    "lineal",
    "buntpapier"
-  ]
+  ],
+  "bild": "🎁💖",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-affe",
@@ -8727,7 +9177,9 @@ const IDEEN = [
    "krepp",
    "becher",
    "kaffeefilter"
-  ]
+  ],
+  "bild": "🐒",
+  "bildTechnik": "🥤"
  },
  {
   "id": "ksw-alle-voegel-fliegen-hoch",
@@ -8755,7 +9207,8 @@ const IDEEN = [
   "material": "roten Fotokarton braunen Fotokarton grünen Fotokarton",
   "zubehoer": [
    "buntpapier"
-  ]
+  ],
+  "bild": "🍎"
  },
  {
   "id": "ksw-apfel-flechten",
@@ -8773,7 +9226,9 @@ const IDEEN = [
    "buntpapier",
    "cutter",
    "huetchen"
-  ]
+  ],
+  "bild": "🍎",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-apfel-mit-transparentpapier",
@@ -8790,7 +9245,9 @@ const IDEEN = [
    "papier",
    "buntpapier",
    "krepp"
-  ]
+  ],
+  "bild": "🍎",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-apfel-mit-wurm",
@@ -8805,7 +9262,8 @@ const IDEEN = [
   "material": "Roter Fotokarton Brauner Fotokarton Grüner Fotokarton",
   "zubehoer": [
    "buntpapier"
-  ]
+  ],
+  "bild": "🍎"
  },
  {
   "id": "ksw-apfel-und-birne-basteln-mit-papier-und-wolle",
@@ -8822,7 +9280,9 @@ const IDEEN = [
    "buntpapier",
    "wolle",
    "pfeifenputzer"
-  ]
+  ],
+  "bild": "🍎🍐",
+  "bildTechnik": "🧶"
  },
  {
   "id": "ksw-apfellampe-basteln",
@@ -8839,7 +9299,9 @@ const IDEEN = [
    "farbe",
    "glas",
    "kaffeefilter"
-  ]
+  ],
+  "bild": "🍎",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-armer-schwarzer-kater",
@@ -8975,7 +9437,8 @@ const IDEEN = [
    "heisskleber",
    "holzstaebe",
    "natur"
-  ]
+  ],
+  "bild": "🌰"
  },
  {
   "id": "ksw-basteln-mit-papptellern",
@@ -8987,7 +9450,8 @@ const IDEEN = [
   "sammlung": true,
   "art": "Basteln",
   "ort": "drinnen",
-  "materialStufe": null
+  "materialStufe": null,
+  "bild": "🍽️"
  },
  {
   "id": "ksw-basteln-fruehling",
@@ -9005,7 +9469,8 @@ const IDEEN = [
    "farbe",
    "wolle",
    "strohhalm"
-  ]
+  ],
+  "bild": "🌸🐣"
  },
  {
   "id": "ksw-bello-dein-knochen-ist-weg",
@@ -9078,7 +9543,9 @@ const IDEEN = [
    "buntpapier",
    "pfeifenputzer",
    "krepp"
-  ]
+  ],
+  "bild": "🐝",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-bienen-basteln",
@@ -9097,7 +9564,9 @@ const IDEEN = [
    "farbe",
    "pfeifenputzer",
    "krepp"
-  ]
+  ],
+  "bild": "🐝",
+  "bildTechnik": "🧻"
  },
  {
   "id": "ksw-blindekuh-partyspiele",
@@ -9128,7 +9597,9 @@ const IDEEN = [
   "zubehoer": [
    "buntpapier",
    "krepp"
-  ]
+  ],
+  "bild": "🌸",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-blumen-aus-klorollen-basteln",
@@ -9146,7 +9617,9 @@ const IDEEN = [
    "farbe",
    "krepp",
    "holzstaebe"
-  ]
+  ],
+  "bild": "🌸",
+  "bildTechnik": "🧻"
  },
  {
   "id": "ksw-blumen-basteln",
@@ -9162,7 +9635,8 @@ const IDEEN = [
   "material": "farbiger Fotokarton gelber Fotokarton",
   "zubehoer": [
    "buntpapier"
-  ]
+  ],
+  "bild": "🌸"
  },
  {
   "id": "ksw-blumen-falten",
@@ -9180,7 +9654,9 @@ const IDEEN = [
    "papier",
    "buntpapier",
    "faltpapier"
-  ]
+  ],
+  "bild": "🌸",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-brezeln-essen-partyspiele",
@@ -9212,7 +9688,9 @@ const IDEEN = [
    "papier",
    "filzstifte",
    "buntpapier"
-  ]
+  ],
+  "bild": "🤡",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-cowboy-basteln",
@@ -9229,7 +9707,8 @@ const IDEEN = [
   "zubehoer": [
    "buntpapier",
    "wolle"
-  ]
+  ],
+  "bild": "🤠"
  },
  {
   "id": "ksw-das-prell-quiz",
@@ -9353,7 +9832,8 @@ const IDEEN = [
   "zubehoer": [
    "stifte",
    "buntpapier"
-  ]
+  ],
+  "bild": "🕵️"
  },
  {
   "id": "ksw-dinosaurier-basteln",
@@ -9368,7 +9848,8 @@ const IDEEN = [
   "material": "bunter Fotokarton bunte Holzstifte",
   "zubehoer": [
    "buntpapier"
-  ]
+  ],
+  "bild": "🦖"
  },
  {
   "id": "ksw-dosenlauf",
@@ -9405,7 +9886,9 @@ const IDEEN = [
    "buntpapier",
    "wolle",
    "krepp"
-  ]
+  ],
+  "bild": "🐉",
+  "bildTechnik": "🧶"
  },
  {
   "id": "ksw-drachen-aus-papier",
@@ -9423,7 +9906,9 @@ const IDEEN = [
    "buntpapier",
    "wolle",
    "krepp"
-  ]
+  ],
+  "bild": "🪁",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-drachen-basteln",
@@ -9442,7 +9927,9 @@ const IDEEN = [
    "wolle",
    "krepp",
    "elektro"
-  ]
+  ],
+  "bild": "🪁",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-dreibeinlauf",
@@ -9601,7 +10088,8 @@ const IDEEN = [
   "material": "farbiger Fotokarton",
   "zubehoer": [
    "buntpapier"
-  ]
+  ],
+  "bild": "🚂"
  },
  {
   "id": "ksw-elefant-basteln",
@@ -9617,7 +10105,8 @@ const IDEEN = [
   "zubehoer": [
    "filzstifte",
    "buntpapier"
-  ]
+  ],
+  "bild": "🐘"
  },
  {
   "id": "ksw-elefant-kochloeffel-basteln",
@@ -9637,7 +10126,9 @@ const IDEEN = [
    "wolle",
    "heisskleber",
    "geschirr"
-  ]
+  ],
+  "bild": "🐘",
+  "bildTechnik": "🥄"
  },
  {
   "id": "ksw-engel-basteln",
@@ -9660,7 +10151,9 @@ const IDEEN = [
    "kaffeefilter",
    "natur",
    "elektro"
-  ]
+  ],
+  "bild": "👼",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-engel-mit-tontopf",
@@ -9681,7 +10174,9 @@ const IDEEN = [
    "geschirr",
    "folie",
    "natur"
-  ]
+  ],
+  "bild": "👼",
+  "bildTechnik": "🪴"
  },
  {
   "id": "ksw-eule-basteln",
@@ -9699,7 +10194,9 @@ const IDEEN = [
    "buntpapier",
    "karton",
    "wackelaugen"
-  ]
+  ],
+  "bild": "🦉",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-eulen-aus-klopapierrollen",
@@ -9717,7 +10214,9 @@ const IDEEN = [
    "filzstifte",
    "buntpapier",
    "rollen"
-  ]
+  ],
+  "bild": "🦉",
+  "bildTechnik": "🧻"
  },
  {
   "id": "ksw-eulen-basteln",
@@ -9737,7 +10236,9 @@ const IDEEN = [
    "watte",
    "natur",
    "styropor"
-  ]
+  ],
+  "bild": "🦉",
+  "bildTechnik": "🧶"
  },
  {
   "id": "ksw-eulen-basteln-aus-papier",
@@ -9756,7 +10257,9 @@ const IDEEN = [
    "filzstifte",
    "buntpapier",
    "natur"
-  ]
+  ],
+  "bild": "🦉",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-eulen-handabdruck",
@@ -9774,7 +10277,9 @@ const IDEEN = [
    "filzstifte",
    "buntpapier",
    "farbe"
-  ]
+  ],
+  "bild": "🦉",
+  "bildTechnik": "🖐️"
  },
  {
   "id": "ksw-familie-maier-im-zoo",
@@ -9819,7 +10324,9 @@ const IDEEN = [
    "krepp",
    "glas",
    "kerze"
-  ]
+  ],
+  "bild": "🔥",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-feuerwehr",
@@ -9854,7 +10361,9 @@ const IDEEN = [
    "stifte",
    "buntpapier",
    "faltpapier"
-  ]
+  ],
+  "bild": "🐟",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-fische-basteln",
@@ -9877,7 +10386,9 @@ const IDEEN = [
    "heisskleber",
    "geschirr",
    "folie"
-  ]
+  ],
+  "bild": "🐟",
+  "bildTechnik": "🍽️"
  },
  {
   "id": "ksw-fische-drucken",
@@ -9894,7 +10405,9 @@ const IDEEN = [
    "papier",
    "karton",
    "farbe"
-  ]
+  ],
+  "bild": "🐟",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-flaschen-drehen",
@@ -9925,7 +10438,9 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "buntpapier"
-  ]
+  ],
+  "bild": "🦇",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-fledermaeuse-basteln",
@@ -9945,7 +10460,9 @@ const IDEEN = [
    "buntpapier",
    "faltpapier",
    "krepp"
-  ]
+  ],
+  "bild": "🦇",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-fleissige-bienen-spiel",
@@ -9977,7 +10494,9 @@ const IDEEN = [
    "buntpapier",
    "klammern",
    "elektro"
-  ]
+  ],
+  "bild": "🐞",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-flugsaurier-basteln",
@@ -9993,7 +10512,8 @@ const IDEEN = [
   "zubehoer": [
    "buntpapier",
    "klammern"
-  ]
+  ],
+  "bild": "🦕"
  },
  {
   "id": "ksw-flusterpost",
@@ -10017,7 +10537,8 @@ const IDEEN = [
   "quelle": "kinderspiele-welt.de",
   "art": "Basteln",
   "ort": "drinnen",
-  "materialStufe": 2
+  "materialStufe": 2,
+  "bild": "🐓🐷🐭"
  },
  {
   "id": "ksw-frosch-falten",
@@ -10035,7 +10556,9 @@ const IDEEN = [
    "stifte",
    "buntpapier",
    "faltpapier"
-  ]
+  ],
+  "bild": "🐸",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-froschkoenig-basteln",
@@ -10054,7 +10577,9 @@ const IDEEN = [
    "buntpapier",
    "folie",
    "styropor"
-  ]
+  ],
+  "bild": "🐸👑",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-fruehlingsspiel",
@@ -10099,7 +10624,9 @@ const IDEEN = [
    "buntpapier",
    "karton",
    "pfeifenputzer"
-  ]
+  ],
+  "bild": "🕯️",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-gefaellt-dir-dein-platz",
@@ -10146,7 +10673,9 @@ const IDEEN = [
    "filzstifte",
    "buntpapier",
    "farbe"
-  ]
+  ],
+  "bild": "👻",
+  "bildTechnik": "🖐️"
  },
  {
   "id": "ksw-gespenster-basteln",
@@ -10166,7 +10695,9 @@ const IDEEN = [
    "wolle",
    "watte",
    "holzstaebe"
-  ]
+  ],
+  "bild": "👻",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-gespenster-schatten-tanz",
@@ -10218,7 +10749,8 @@ const IDEEN = [
    "buntpapier",
    "wolle",
    "folie"
-  ]
+  ],
+  "bild": "👑"
  },
  {
   "id": "ksw-gluecksstein",
@@ -10252,7 +10784,9 @@ const IDEEN = [
   "zubehoer": [
    "buntpapier",
    "krepp"
-  ]
+  ],
+  "bild": "🌼",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-hahn-handabdruck",
@@ -10270,7 +10804,9 @@ const IDEEN = [
    "filzstifte",
    "buntpapier",
    "farbe"
-  ]
+  ],
+  "bild": "🐓",
+  "bildTechnik": "🖐️"
  },
  {
   "id": "ksw-hahn-basteln",
@@ -10289,7 +10825,8 @@ const IDEEN = [
    "pfeifenputzer",
    "locher",
    "styropor"
-  ]
+  ],
+  "bild": "🐓"
  },
  {
   "id": "ksw-hahnenkampf",
@@ -10363,7 +10900,9 @@ const IDEEN = [
    "buntpapier",
    "farbe",
    "styropor"
-  ]
+  ],
+  "bild": "⛄",
+  "bildTechnik": "🖐️"
  },
  {
   "id": "ksw-hase",
@@ -10385,7 +10924,9 @@ const IDEEN = [
    "wackelaugen",
    "natur",
    "styropor"
-  ]
+  ],
+  "bild": "🐰",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-hase-basteln",
@@ -10406,7 +10947,9 @@ const IDEEN = [
    "watte",
    "locher",
    "natur"
-  ]
+  ],
+  "bild": "🐰",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-hase-falten",
@@ -10424,7 +10967,9 @@ const IDEEN = [
    "filzstifte",
    "buntpapier",
    "faltpapier"
-  ]
+  ],
+  "bild": "🐰",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-hase-und-jaeger",
@@ -10459,7 +11004,9 @@ const IDEEN = [
    "buntpapier",
    "watte",
    "natur"
-  ]
+  ],
+  "bild": "🐰",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-himmel-und-hoelle-falten",
@@ -10470,7 +11017,9 @@ const IDEEN = [
   "quelle": "kinderspiele-welt.de",
   "art": "Basteln",
   "ort": "drinnen",
-  "materialStufe": 1
+  "materialStufe": 1,
+  "bild": "🎲",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-huhn-aus-papier",
@@ -10487,7 +11036,9 @@ const IDEEN = [
    "papier",
    "stifte",
    "buntpapier"
-  ]
+  ],
+  "bild": "🐔",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-huhn-aus-pappteller",
@@ -10504,7 +11055,9 @@ const IDEEN = [
    "filzstifte",
    "buntpapier",
    "geschirr"
-  ]
+  ],
+  "bild": "🐔",
+  "bildTechnik": "🍽️"
  },
  {
   "id": "ksw-haenschen-piep-einmal",
@@ -10612,7 +11165,9 @@ const IDEEN = [
    "farbe",
    "geschirr",
    "styropor"
-  ]
+  ],
+  "bild": "🦔",
+  "bildTechnik": "🍽️"
  },
  {
   "id": "ksw-igel-basteln",
@@ -10630,7 +11185,8 @@ const IDEEN = [
    "filzstifte",
    "buntpapier",
    "cutter"
-  ]
+  ],
+  "bild": "🦔"
  },
  {
   "id": "ksw-igel-basteln-kindergarten",
@@ -10650,7 +11206,9 @@ const IDEEN = [
    "kleber",
    "buntpapier",
    "heisskleber"
-  ]
+  ],
+  "bild": "🦔",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-igel-basteln-mit-naturmaterialien",
@@ -10671,7 +11229,9 @@ const IDEEN = [
    "buntpapier",
    "wackelaugen",
    "natur"
-  ]
+  ],
+  "bild": "🦔",
+  "bildTechnik": "🌲"
  },
  {
   "id": "ksw-igel-mit-blaettern-basteln",
@@ -10690,7 +11250,9 @@ const IDEEN = [
    "filzstifte",
    "buntpapier",
    "natur"
-  ]
+  ],
+  "bild": "🦔",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-restaurant-spiel",
@@ -10720,7 +11282,9 @@ const IDEEN = [
    "papier",
    "farbe",
    "tuch"
-  ]
+  ],
+  "bild": "🥔👑",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-kartoffellauf",
@@ -10768,7 +11332,9 @@ const IDEEN = [
    "buntpapier",
    "farbe",
    "pfeifenputzer"
-  ]
+  ],
+  "bild": "🐱",
+  "bildTechnik": "🖐️"
  },
  {
   "id": "ksw-kennenlernspiele",
@@ -10810,7 +11376,8 @@ const IDEEN = [
   "material": "roter Fotokarton schwarzer Fotokarton gelber Fotokarton",
   "zubehoer": [
    "buntpapier"
-  ]
+  ],
+  "bild": "🕯️"
  },
  {
   "id": "ksw-kindergarten-spiele",
@@ -10885,7 +11452,9 @@ const IDEEN = [
    "filzstifte",
    "farbe",
    "wackelaugen"
-  ]
+  ],
+  "bild": "🐙",
+  "bildTechnik": "🧻"
  },
  {
   "id": "ksw-krebs-basteln",
@@ -10905,7 +11474,9 @@ const IDEEN = [
    "farbe",
    "pfeifenputzer",
    "geschirr"
-  ]
+  ],
+  "bild": "🦀",
+  "bildTechnik": "🍽️"
  },
  {
   "id": "ksw-krokus-falten",
@@ -10924,7 +11495,9 @@ const IDEEN = [
    "filzstifte",
    "buntpapier",
    "faltpapier"
-  ]
+  ],
+  "bild": "🌷",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-krone-basteln",
@@ -10940,7 +11513,8 @@ const IDEEN = [
   "zubehoer": [
    "buntpapier",
    "folie"
-  ]
+  ],
+  "bild": "👑"
  },
  {
   "id": "ksw-krone-prinzessin",
@@ -10956,7 +11530,9 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "buntpapier"
-  ]
+  ],
+  "bild": "👑",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-kaeferrennen-spiel",
@@ -11005,7 +11581,9 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "farbe"
-  ]
+  ],
+  "bild": "🐥",
+  "bildTechnik": "👆"
  },
  {
   "id": "ksw-kueken-aus-fotokarton-basteln",
@@ -11021,7 +11599,8 @@ const IDEEN = [
   "zubehoer": [
    "filzstifte",
    "buntpapier"
-  ]
+  ],
+  "bild": "🐥"
  },
  {
   "id": "ksw-kueken-basteln",
@@ -11041,7 +11620,8 @@ const IDEEN = [
    "wolle",
    "locher",
    "natur"
-  ]
+  ],
+  "bild": "🐥"
  },
  {
   "id": "ksw-kueken-mit-tontopf",
@@ -11060,7 +11640,9 @@ const IDEEN = [
    "buntpapier",
    "farbe",
    "geschirr"
-  ]
+  ],
+  "bild": "🐥",
+  "bildTechnik": "🪴"
  },
  {
   "id": "ksw-lampen-basteln",
@@ -11078,7 +11660,8 @@ const IDEEN = [
    "glas",
    "natur",
    "kerze"
-  ]
+  ],
+  "bild": "💡"
  },
  {
   "id": "ksw-laternen-basteln",
@@ -11098,7 +11681,9 @@ const IDEEN = [
    "krepp",
    "elektro",
    "styropor"
-  ]
+  ],
+  "bild": "🏮",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-licht-an",
@@ -11227,7 +11812,8 @@ const IDEEN = [
    "wolle",
    "heisskleber",
    "holzstaebe"
-  ]
+  ],
+  "bild": "🌸"
  },
  {
   "id": "ksw-luftballons-aufpusten",
@@ -11259,7 +11845,8 @@ const IDEEN = [
    "buntpapier",
    "wolle",
    "cutter"
-  ]
+  ],
+  "bild": "🎈"
  },
  {
   "id": "ksw-luftballons-platzen",
@@ -11340,7 +11927,9 @@ const IDEEN = [
    "krepp",
    "becher",
    "kaffeefilter"
-  ]
+  ],
+  "bild": "🦁",
+  "bildTechnik": "🥤"
  },
  {
   "id": "ksw-malen-mit-taschenlampen",
@@ -11392,7 +11981,9 @@ const IDEEN = [
    "pfeifenputzer",
    "heisskleber",
    "geschirr"
-  ]
+  ],
+  "bild": "🐞",
+  "bildTechnik": "🍽️"
  },
  {
   "id": "ksw-marienkaefer-aus-steinen",
@@ -11408,7 +11999,9 @@ const IDEEN = [
   "zubehoer": [
    "farbe",
    "natur"
-  ]
+  ],
+  "bild": "🐞",
+  "bildTechnik": "🪨"
  },
  {
   "id": "ksw-marienkaefer-basteln",
@@ -11426,7 +12019,8 @@ const IDEEN = [
    "stifte",
    "buntpapier",
    "pfeifenputzer"
-  ]
+  ],
+  "bild": "🐞"
  },
  {
   "id": "ksw-marienkaefer-fingerabdruecke",
@@ -11444,7 +12038,9 @@ const IDEEN = [
    "stifte",
    "buntpapier",
    "farbe"
-  ]
+  ],
+  "bild": "🐞",
+  "bildTechnik": "👆"
  },
  {
   "id": "ksw-marterpfahl-basteln",
@@ -11461,7 +12057,9 @@ const IDEEN = [
    "buntpapier",
    "farbe",
    "kaffeefilter"
-  ]
+  ],
+  "bild": "🪶",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-martinsgans-basteln",
@@ -11478,7 +12076,9 @@ const IDEEN = [
    "stifte",
    "buntpapier",
    "krepp"
-  ]
+  ],
+  "bild": "🪿",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-maus-basteln",
@@ -11497,7 +12097,8 @@ const IDEEN = [
    "pfeifenputzer",
    "locher",
    "styropor"
-  ]
+  ],
+  "bild": "🐭"
  },
  {
   "id": "ksw-meerestiere-basteln",
@@ -11516,7 +12117,9 @@ const IDEEN = [
    "farbe",
    "geschirr",
    "folie"
-  ]
+  ],
+  "bild": "🐠🐙",
+  "bildTechnik": "🍽️"
  },
  {
   "id": "ksw-mehlschneiden",
@@ -11578,7 +12181,8 @@ const IDEEN = [
    "staerke",
    "wuerfel",
    "natur"
-  ]
+  ],
+  "bild": "🥢"
  },
  {
   "id": "ksw-mord-im-dunkeln",
@@ -11624,7 +12228,9 @@ const IDEEN = [
    "wolle",
    "heisskleber",
    "natur"
-  ]
+  ],
+  "bild": "🐭",
+  "bildTechnik": "🧶"
  },
  {
   "id": "ksw-neckball",
@@ -11677,7 +12283,9 @@ const IDEEN = [
    "heisskleber",
    "geschirr",
    "natur"
-  ]
+  ],
+  "bild": "🐰",
+  "bildTechnik": "🍽️"
  },
  {
   "id": "ksw-osterkartenspiel",
@@ -11711,7 +12319,8 @@ const IDEEN = [
    "buntpapier",
    "karton",
    "milchoel"
-  ]
+  ],
+  "bild": "🪺"
  },
  {
   "id": "ksw-pantomime",
@@ -11743,7 +12352,9 @@ const IDEEN = [
   "zubehoer": [
    "buntpapier",
    "wolle"
-  ]
+  ],
+  "bild": "🪁",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-papierdrachen-falten",
@@ -11762,7 +12373,9 @@ const IDEEN = [
    "faltpapier",
    "wolle",
    "krepp"
-  ]
+  ],
+  "bild": "🪁",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-papierflieger-falten",
@@ -11777,7 +12390,9 @@ const IDEEN = [
   "material": "ein Blatt DINA4-Papier",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "✈️",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-papierhut-falten",
@@ -11793,7 +12408,9 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "buntpapier"
-  ]
+  ],
+  "bild": "🎩",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-papierschiff-falten",
@@ -11808,7 +12425,9 @@ const IDEEN = [
   "material": "ein Papierrechteck z.B. ein DINA4-Blatt",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "⛵",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-pappteller-blumen",
@@ -11825,7 +12444,9 @@ const IDEEN = [
    "buntpapier",
    "farbe",
    "geschirr"
-  ]
+  ],
+  "bild": "🌸",
+  "bildTechnik": "🍽️"
  },
  {
   "id": "ksw-partyspiele",
@@ -11854,7 +12475,9 @@ const IDEEN = [
    "papier",
    "buntpapier",
    "styropor"
-  ]
+  ],
+  "bild": "🐴",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-pippi-langstrumpf-basteln",
@@ -11872,7 +12495,9 @@ const IDEEN = [
    "buntpapier",
    "wolle",
    "styropor"
-  ]
+  ],
+  "bild": "👧",
+  "bildTechnik": "🧶"
  },
  {
   "id": "ksw-prinzessinnen-spiele",
@@ -11902,7 +12527,9 @@ const IDEEN = [
    "wasser",
    "farbe",
    "strohhalm"
-  ]
+  ],
+  "bild": "🎨",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-qualle-basteln",
@@ -11923,7 +12550,9 @@ const IDEEN = [
    "wackelaugen",
    "dosen",
    "suess"
-  ]
+  ],
+  "bild": "🪼",
+  "bildTechnik": "🥚"
  },
  {
   "id": "ksw-rabe-basteln",
@@ -11938,7 +12567,8 @@ const IDEEN = [
   "material": "schwarzer Fotokarton gelber Fotokarton ein weißer Holzstift",
   "zubehoer": [
    "buntpapier"
-  ]
+  ],
+  "bild": "🐦‍⬛"
  },
  {
   "id": "ksw-raben-basteln",
@@ -11953,7 +12583,8 @@ const IDEEN = [
   "material": "schwarzer Fotokarton gelber Fotokarton ein weißer Holzstift",
   "zubehoer": [
    "buntpapier"
-  ]
+  ],
+  "bild": "🐦‍⬛"
  },
  {
   "id": "ksw-raben-falten",
@@ -11970,7 +12601,9 @@ const IDEEN = [
    "papier",
    "buntpapier",
    "wackelaugen"
-  ]
+  ],
+  "bild": "🐦‍⬛",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-rapunzel-basteln",
@@ -11987,7 +12620,9 @@ const IDEEN = [
    "papier",
    "buntpapier",
    "wolle"
-  ]
+  ],
+  "bild": "👸",
+  "bildTechnik": "🧶"
  },
  {
   "id": "ksw-rasseln-basteln",
@@ -12005,7 +12640,9 @@ const IDEEN = [
    "krepp",
    "becher",
    "natur"
-  ]
+  ],
+  "bild": "🪇",
+  "bildTechnik": "🪨"
  },
  {
   "id": "ksw-raupe",
@@ -12022,7 +12659,9 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "buntpapier"
-  ]
+  ],
+  "bild": "🐛",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-raupe-mit-handabdruecken",
@@ -12039,7 +12678,9 @@ const IDEEN = [
    "papier",
    "karton",
    "farbe"
-  ]
+  ],
+  "bild": "🐛",
+  "bildTechnik": "🖐️"
  },
  {
   "id": "ksw-raupe-nimmersatt-basteln",
@@ -12054,7 +12695,9 @@ const IDEEN = [
   "material": "Glanzpapier in rot, grün, schwarz und gelb Weißes Papier als Hintergrund",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "🐛🍎",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-raupen-basteln",
@@ -12076,7 +12719,9 @@ const IDEEN = [
    "pfeifenputzer",
    "dosen",
    "suess"
-  ]
+  ],
+  "bild": "🐛",
+  "bildTechnik": "🥚"
  },
  {
   "id": "ksw-regenmacher-basteln",
@@ -12097,7 +12742,9 @@ const IDEEN = [
    "dosen",
    "natur",
    "elektro"
-  ]
+  ],
+  "bild": "🌧️",
+  "bildTechnik": "🪨"
  },
  {
   "id": "ksw-reise-nach-jerusalem",
@@ -12170,7 +12817,9 @@ const IDEEN = [
    "wolle",
    "krepp",
    "elektro"
-  ]
+  ],
+  "bild": "🌹",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-schaf-aus-quarkbecher-basteln",
@@ -12189,7 +12838,9 @@ const IDEEN = [
    "watte",
    "becher",
    "kleinkram"
-  ]
+  ],
+  "bild": "🐑",
+  "bildTechnik": "🥤"
  },
  {
   "id": "ksw-schafe-basteln",
@@ -12206,7 +12857,8 @@ const IDEEN = [
    "buntpapier",
    "wolle",
    "watte"
-  ]
+  ],
+  "bild": "🐑"
  },
  {
   "id": "ksw-schattenfange",
@@ -12250,7 +12902,9 @@ const IDEEN = [
    "farbe",
    "wackelaugen",
    "geschirr"
-  ]
+  ],
+  "bild": "🐢",
+  "bildTechnik": "🍽️"
  },
  {
   "id": "ksw-schildmuetze-detektiv",
@@ -12267,7 +12921,9 @@ const IDEEN = [
    "stifte",
    "buntpapier",
    "locher"
-  ]
+  ],
+  "bild": "🕵️",
+  "bildTechnik": "🧢"
  },
  {
   "id": "ksw-schildmuetze-elefant",
@@ -12285,7 +12941,9 @@ const IDEEN = [
    "buntpapier",
    "krepp",
    "locher"
-  ]
+  ],
+  "bild": "🐘",
+  "bildTechnik": "🧢"
  },
  {
   "id": "ksw-schildmuetze-loewe",
@@ -12302,7 +12960,9 @@ const IDEEN = [
    "stifte",
    "buntpapier",
    "locher"
-  ]
+  ],
+  "bild": "🦁",
+  "bildTechnik": "🧢"
  },
  {
   "id": "ksw-schildmuetze-rabe",
@@ -12320,7 +12980,9 @@ const IDEEN = [
    "pfeifenputzer",
    "wackelaugen",
    "locher"
-  ]
+  ],
+  "bild": "🐦‍⬛",
+  "bildTechnik": "🧢"
  },
  {
   "id": "ksw-schildmuetze-raupe",
@@ -12340,7 +13002,9 @@ const IDEEN = [
    "pfeifenputzer",
    "wackelaugen",
    "locher"
-  ]
+  ],
+  "bild": "🐛",
+  "bildTechnik": "🧢"
  },
  {
   "id": "ksw-schlange-basteln",
@@ -12357,7 +13021,9 @@ const IDEEN = [
    "papier",
    "filzstifte",
    "buntpapier"
-  ]
+  ],
+  "bild": "🐍",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-schlangenschwanzfange",
@@ -12389,7 +13055,9 @@ const IDEEN = [
    "buntpapier",
    "kaffeefilter",
    "folie"
-  ]
+  ],
+  "bild": "🏰",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-schluesselkoenig",
@@ -12420,7 +13088,9 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "buntpapier"
-  ]
+  ],
+  "bild": "🦋",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-schmetterling-falten",
@@ -12437,7 +13107,9 @@ const IDEEN = [
    "papier",
    "buntpapier",
    "faltpapier"
-  ]
+  ],
+  "bild": "🦋",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-schmetterling-handabdruck",
@@ -12453,7 +13125,9 @@ const IDEEN = [
   "zubehoer": [
    "buntpapier",
    "farbe"
-  ]
+  ],
+  "bild": "🦋",
+  "bildTechnik": "🖐️"
  },
  {
   "id": "ksw-schmetterling-klatschtechnik",
@@ -12470,7 +13144,9 @@ const IDEEN = [
    "papier",
    "buntpapier",
    "farbe"
-  ]
+  ],
+  "bild": "🦋",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-schmetterling-du-kleines-ding",
@@ -12503,7 +13179,9 @@ const IDEEN = [
    "pfeifenputzer",
    "heisskleber",
    "geschirr"
-  ]
+  ],
+  "bild": "🦋",
+  "bildTechnik": "🍽️"
  },
  {
   "id": "ksw-schmetterlinge-basteln",
@@ -12515,7 +13193,8 @@ const IDEEN = [
   "sammlung": true,
   "art": "Basteln",
   "ort": "drinnen",
-  "materialStufe": null
+  "materialStufe": null,
+  "bild": "🦋"
  },
  {
   "id": "ksw-schnecke-basteln",
@@ -12532,7 +13211,9 @@ const IDEEN = [
    "papier",
    "stifte",
    "buntpapier"
-  ]
+  ],
+  "bild": "🐌",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-schnecken-basteln",
@@ -12552,7 +13233,9 @@ const IDEEN = [
    "pfeifenputzer",
    "krepp",
    "geschirr"
-  ]
+  ],
+  "bild": "🐌",
+  "bildTechnik": "🍽️"
  },
  {
   "id": "ksw-schneeballschlacht-im-glas",
@@ -12571,7 +13254,9 @@ const IDEEN = [
    "klebeband",
    "glas",
    "natur"
-  ]
+  ],
+  "bild": "❄️",
+  "bildTechnik": "🫙"
  },
  {
   "id": "ksw-schneegloeckchen-basteln",
@@ -12589,7 +13274,9 @@ const IDEEN = [
    "stifte",
    "filzstifte",
    "buntpapier"
-  ]
+  ],
+  "bild": "🌷",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-schneegloeckchen-basteln-aus-eierkarton",
@@ -12609,7 +13296,9 @@ const IDEEN = [
    "perlen",
    "dosen",
    "suess"
-  ]
+  ],
+  "bild": "🌷",
+  "bildTechnik": "🥚"
  },
  {
   "id": "ksw-schokokuesse-essen",
@@ -12674,7 +13363,8 @@ const IDEEN = [
    "buntpapier",
    "pfeifenputzer",
    "locher"
-  ]
+  ],
+  "bild": "🐷"
  },
  {
   "id": "ksw-schwaenzchenfange",
@@ -12707,7 +13397,9 @@ const IDEEN = [
    "papier",
    "wasser",
    "buntpapier"
-  ]
+  ],
+  "bild": "🪷",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-seilschnappen",
@@ -12756,7 +13448,9 @@ const IDEEN = [
   "zubehoer": [
    "farbe",
    "geschirr"
-  ]
+  ],
+  "bild": "☀️",
+  "bildTechnik": "🍽️"
  },
  {
   "id": "ksw-sonne-basteln",
@@ -12773,7 +13467,9 @@ const IDEEN = [
    "papier",
    "buntpapier",
    "krepp"
-  ]
+  ],
+  "bild": "☀️",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-sonnenblume-basteln",
@@ -12790,7 +13486,8 @@ const IDEEN = [
   "zubehoer": [
    "buntpapier",
    "karton"
-  ]
+  ],
+  "bild": "🌻"
  },
  {
   "id": "ksw-sonnenblume-handabdruck",
@@ -12806,7 +13503,9 @@ const IDEEN = [
   "zubehoer": [
    "buntpapier",
    "farbe"
-  ]
+  ],
+  "bild": "🌻",
+  "bildTechnik": "🖐️"
  },
  {
   "id": "ksw-sonnenblume-mit-kartoffeldruck",
@@ -12822,7 +13521,9 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "farbe"
-  ]
+  ],
+  "bild": "🌻",
+  "bildTechnik": "🥔"
  },
  {
   "id": "ksw-sonnenblume-mit-schnipseltechnik",
@@ -12839,7 +13540,9 @@ const IDEEN = [
    "papier",
    "buntpapier",
    "krepp"
-  ]
+  ],
+  "bild": "🌻",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-sonnenblumen-basteln",
@@ -12854,7 +13557,8 @@ const IDEEN = [
   "material": "gelber Fotokarton brauner Fotokarton grüner Fotokarton",
   "zubehoer": [
    "buntpapier"
-  ]
+  ],
+  "bild": "🌻"
  },
  {
   "id": "ksw-spiele-fuer-unterwegs",
@@ -12926,7 +13630,9 @@ const IDEEN = [
    "rollen",
    "farbe",
    "locher"
-  ]
+  ],
+  "bild": "🕷️",
+  "bildTechnik": "🧻"
  },
  {
   "id": "ksw-spinnen-basteln",
@@ -12946,7 +13652,8 @@ const IDEEN = [
    "pfeifenputzer",
    "locher",
    "geschirr"
-  ]
+  ],
+  "bild": "🕷️"
  },
  {
   "id": "ksw-spinnen-fingerabdruck",
@@ -12962,7 +13669,9 @@ const IDEEN = [
   "zubehoer": [
    "buntpapier",
    "farbe"
-  ]
+  ],
+  "bild": "🕷️",
+  "bildTechnik": "👆"
  },
  {
   "id": "ksw-spinnen-lolli-basteln",
@@ -12978,7 +13687,8 @@ const IDEEN = [
   "zubehoer": [
    "pfeifenputzer",
    "wackelaugen"
-  ]
+  ],
+  "bild": "🕷️🍭"
  },
  {
   "id": "ksw-spinnenlampe-basteln",
@@ -12997,7 +13707,9 @@ const IDEEN = [
    "filzstifte",
    "buntpapier",
    "glas"
-  ]
+  ],
+  "bild": "🕷️",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-spinnenrennen",
@@ -13031,7 +13743,8 @@ const IDEEN = [
   "zubehoer": [
    "buntpapier",
    "folie"
-  ]
+  ],
+  "bild": "⭐"
  },
  {
   "id": "ksw-sterne-falten",
@@ -13046,7 +13759,9 @@ const IDEEN = [
   "material": "Gold- oder Silberfolie",
   "zubehoer": [
    "folie"
-  ]
+  ],
+  "bild": "⭐",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-sternenlicht-basteln",
@@ -13062,7 +13777,8 @@ const IDEEN = [
   "zubehoer": [
    "glas",
    "folie"
-  ]
+  ],
+  "bild": "⭐"
  },
  {
   "id": "ksw-stoppball",
@@ -13094,7 +13810,8 @@ const IDEEN = [
    "filzstifte",
    "buntpapier",
    "farbe"
-  ]
+  ],
+  "bild": "🐦"
  },
  {
   "id": "ksw-summende-biene-spiel",
@@ -13232,7 +13949,9 @@ const IDEEN = [
   "sammlung": true,
   "art": "Basteln",
   "ort": "drinnen",
-  "materialStufe": null
+  "materialStufe": null,
+  "bild": "🐾",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-tiere-zeichnen",
@@ -13281,7 +14000,8 @@ const IDEEN = [
   "zubehoer": [
    "filzstifte",
    "buntpapier"
-  ]
+  ],
+  "bild": "⛺"
  },
  {
   "id": "ksw-tischdeko-basteln",
@@ -13293,7 +14013,8 @@ const IDEEN = [
   "sammlung": true,
   "art": "Basteln",
   "ort": "drinnen",
-  "materialStufe": null
+  "materialStufe": null,
+  "bild": "🍽️"
  },
  {
   "id": "ksw-topfschlagen-partyspiele",
@@ -13344,7 +14065,9 @@ const IDEEN = [
    "filzstifte",
    "buntpapier",
    "faltpapier"
-  ]
+  ],
+  "bild": "🌷",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-verliebt-verlobt-verheiratet",
@@ -13406,7 +14129,9 @@ const IDEEN = [
    "wolle",
    "locher",
    "kleinkram"
-  ]
+  ],
+  "bild": "🐦",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-vogel-basteln",
@@ -13428,7 +14153,9 @@ const IDEEN = [
    "wackelaugen",
    "heisskleber",
    "geschirr"
-  ]
+  ],
+  "bild": "🐦",
+  "bildTechnik": "🍽️"
  },
  {
   "id": "ksw-von-einer-nase-zur-anderen",
@@ -13460,7 +14187,9 @@ const IDEEN = [
   "zubehoer": [
    "farbe",
    "folie"
-  ]
+  ],
+  "bild": "🌋",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-wal-basteln",
@@ -13482,7 +14211,9 @@ const IDEEN = [
    "wackelaugen",
    "dosen",
    "suess"
-  ]
+  ],
+  "bild": "🐳",
+  "bildTechnik": "🥚"
  },
  {
   "id": "ksw-waldspiele",
@@ -13615,7 +14346,8 @@ const IDEEN = [
    "glas",
    "natur",
    "kerze"
-  ]
+  ],
+  "bild": "🕯️"
  },
  {
   "id": "ksw-windlicht-fussball",
@@ -13633,7 +14365,9 @@ const IDEEN = [
    "glas",
    "natur",
    "kerze"
-  ]
+  ],
+  "bild": "🕯️",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-windlicht-meer",
@@ -13650,7 +14384,8 @@ const IDEEN = [
    "glas",
    "natur",
    "kerze"
-  ]
+  ],
+  "bild": "🕯️"
  },
  {
   "id": "ksw-windlicht-sommer",
@@ -13667,7 +14402,9 @@ const IDEEN = [
    "wasser",
    "glas",
    "natur"
-  ]
+  ],
+  "bild": "🕯️",
+  "bildTechnik": "🪨"
  },
  {
   "id": "ksw-windlicht-weihnachten",
@@ -13686,7 +14423,9 @@ const IDEEN = [
    "glas",
    "natur",
    "kerze"
-  ]
+  ],
+  "bild": "🕯️",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-windlichter-basteln",
@@ -13704,7 +14443,8 @@ const IDEEN = [
    "glas",
    "natur",
    "kerze"
-  ]
+  ],
+  "bild": "🕯️"
  },
  {
   "id": "ksw-windrad-basteln",
@@ -13720,7 +14460,9 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "buntpapier"
-  ]
+  ],
+  "bild": "🌀",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-windrad-falten",
@@ -13736,7 +14478,9 @@ const IDEEN = [
   "zubehoer": [
    "papier",
    "buntpapier"
-  ]
+  ],
+  "bild": "🌀",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-suessigkeiten-verstecke",
@@ -13810,7 +14554,9 @@ const IDEEN = [
   "material": "ein farbiges, rechteckiges Papier z.B. im DINA5-Format",
   "zubehoer": [
    "papier"
-  ]
+  ],
+  "bild": "🎁",
+  "bildTechnik": "📄"
  },
  {
   "id": "ksw-zeitungstanz",
@@ -13844,7 +14590,9 @@ const IDEEN = [
    "holzstaebe",
    "folie",
    "natur"
-  ]
+  ],
+  "bild": "👑",
+  "bildTechnik": "🪨"
  },
  {
   "id": "ksw-zick-zack-mitmachgeschichte",

@@ -110,6 +110,13 @@
   .dp-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 12px; }
   .dp-grid a { display: flex; flex-direction: column; gap: 2px; padding: 14px 16px; border-radius: 22px; background: var(--card); color: var(--text); text-decoration: none; font-weight: 700; box-shadow: 0 12px 26px -16px rgba(60,40,140,.45); }
   .dp-grid a span { font-weight: 500; font-size: .82rem; color: var(--muted); }
+  .bild { position:relative; height:104px; border-radius:22px; display:flex; align-items:center; justify-content:center; gap:4px;
+    background: linear-gradient(135deg, #fff1f8, #ffe0ef); box-shadow: inset 0 2px 10px rgba(255,255,255,.8), inset 0 -6px 14px rgba(255,150,200,.25); }
+  @media (prefers-color-scheme: dark) { .bild { background: linear-gradient(135deg, #3a2a4f, #4a2c49); } }
+  .bild .m { font-size:58px; line-height:1; filter: drop-shadow(0 6px 6px rgba(60,40,140,.25)); }
+  .bild .m.zwei { font-size:46px; } .bild .m.drei { font-size:38px; }
+  .bild .t { position:absolute; right:10px; bottom:8px; width:34px; height:34px; border-radius:50%; background:var(--card);
+    display:flex; align-items:center; justify-content:center; font-size:19px; box-shadow:0 4px 10px -4px rgba(60,40,140,.4); }
   footer { text-align: center; font-size: .8rem; color: var(--muted); padding: 24px 16px 40px; }
 </style>
 
@@ -252,7 +259,7 @@
   Material: 🙌 nichts nötig · 🏠 hat man meist zu Hause · ✂️ aus der Bastelkiste · 🛒 muss evtl. besorgt werden
 </footer>
 
-<script src="ideen.js?v=20261111-7"></script>
+<script src="ideen.js?v=20261114-1"></script>
 <script src="zubehoer.js?v=20261111-3"></script>
 <script>
 /* ---------- Filter-Definitionen ---------- */
@@ -427,11 +434,20 @@ function linkText(i) {
   return "📖 Anleitung & Bilder ↗";
 }
 
+const TECHNIK_TEXT = { "📄":"aus Papier", "🪢":"Makramee-Knoten", "🖐️":"mit Handabdruck", "👆":"mit Fingerabdruck", "🥔":"Kartoffeldruck", "🌰":"aus Kastanien/Eicheln", "🥜":"aus Nüssen", "🌲":"mit Zapfen/Naturmaterial", "🧻":"aus Klorolle/Serviette", "🍽️":"aus Pappteller", "🥤":"aus Becher", "🪴":"mit Tontopf", "🥚":"aus Eierkarton", "🧶":"mit Wolle", "🪨":"mit Steinen", "🫙":"im Glas", "🥄":"mit Kochlöffel", "🧢":"auf Schildmütze" };
+function bildHtml(i) {
+  if (!i.bild) return "";
+  const n = [...new Intl.Segmenter().segment(i.bild)].length;
+  const t = i.bildTechnik ? `<span class="t" title="${esc(TECHNIK_TEXT[i.bildTechnik] || "")}">${i.bildTechnik}</span>` : "";
+  return `<div class="bild" role="img" aria-label="${esc(i.name)}"><span class="m ${n === 2 ? "zwei" : n > 2 ? "drei" : ""}">${i.bild}</span>${t}</div>`;
+}
+
 function karte(i) {
   const fav = favoriten.has(i.id);
   const matTag = i.materialStufe in MATERIAL_TAG ? MATERIAL_TAG[i.materialStufe] : "Material: verschieden";
   return `
     <article class="card" data-art="${esc(i.art)}" id="card-${esc(i.id)}">
+      ${bildHtml(i)}
       <div class="card-head">
         <h2>${esc(i.name)}</h2>
         <button class="fav ${fav ? "on" : ""}" data-id="${esc(i.id)}" aria-label="Favorit">${fav ? "★" : "☆"}</button>
