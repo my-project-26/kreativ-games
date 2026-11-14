@@ -120,6 +120,7 @@
   .bild .t { z-index:1; }
   .bild .t { position:absolute; right:10px; bottom:8px; width:34px; height:34px; border-radius:50%; background:var(--card);
     display:flex; align-items:center; justify-content:center; font-size:19px; box-shadow:0 4px 10px -4px rgba(60,40,140,.4); }
+  .nr { display:inline-flex; align-items:center; justify-content:center; min-width:30px; height:30px; padding:0 7px; margin-right:8px; border-radius:999px; background:var(--accent); color:#fff; font-size:.85rem; font-weight:700; vertical-align:2px; }
   footer { text-align: center; font-size: .8rem; color: var(--muted); padding: 24px 16px 40px; }
 </style>
 
@@ -446,14 +447,14 @@ function bildHtml(i) {
   return `<div class="bild${i.foto ? " foto" : ""}" role="img" aria-label="${esc(i.name)}"><span class="m ${n === 2 ? "zwei" : n > 2 ? "drei" : ""}">${i.bild}</span>${img}${t}</div>`;
 }
 
-function karte(i) {
+function karte(i, nr) {
   const fav = favoriten.has(i.id);
   const matTag = i.materialStufe in MATERIAL_TAG ? MATERIAL_TAG[i.materialStufe] : "Material: verschieden";
   return `
     <article class="card" data-art="${esc(i.art)}" id="card-${esc(i.id)}">
       ${bildHtml(i)}
       <div class="card-head">
-        <h2>${esc(i.name)}</h2>
+        <h2>${nr ? `<span class="nr">${nr}</span>` : ""}${esc(i.name)}</h2>
         <button class="fav ${fav ? "on" : ""}" data-id="${esc(i.id)}" aria-label="Favorit">${fav ? "★" : "☆"}</button>
       </div>
       <div class="tags">
@@ -485,9 +486,10 @@ function render() {
   const ohneAngabe = filter.vorrat !== "" ? IDEEN.filter(i => !Array.isArray(i.zubehoer)).length : 0;
   el("count").textContent = `${liste.length} von ${IDEEN.length} Ideen` + (ohneAngabe ? ` · ${ohneAngabe} ohne Materialangabe ausgeblendet` : "");
   el("grid").innerHTML = liste.length
-    ? liste.slice(0, sichtbar).map(karte).join("")
+    ? liste.slice(0, sichtbar).map((x, k) => karte(x, k + 1)).join("")
     : `<div class="empty">Keine Idee passt zu diesen Filtern. Einen Filter lockern?</div>`;
   el("more").hidden = liste.length <= sichtbar;
+  el("more").textContent = `Mehr anzeigen (${Math.min(sichtbar, liste.length)} von ${liste.length} gezeigt)`;
   el("grid").querySelectorAll(".fav").forEach(b =>
     b.addEventListener("click", () => {
       const id = b.dataset.id;
