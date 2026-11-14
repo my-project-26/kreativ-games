@@ -208,6 +208,9 @@
       <div class="group" data-key="thema">
         <span class="group-label">Thema</span>
       </div>
+      <div class="group" data-key="zeit">
+        <span class="group-label">Jahreszeit (Basteln)</span>
+      </div>
       <div class="group" data-key="ort">
         <span class="group-label">Wo?</span>
       </div>
@@ -263,7 +266,7 @@
   Material: 🙌 nichts nötig · 🏠 hat man meist zu Hause · ✂️ aus der Bastelkiste · 🛒 muss evtl. besorgt werden
 </footer>
 
-<script src="ideen.js?v=20261114-2"></script>
+<script src="ideen.js?v=20261114-3"></script>
 <script src="zubehoer.js?v=20261111-3"></script>
 <script>
 /* ---------- Filter-Definitionen ---------- */
@@ -282,6 +285,14 @@ const OPTIONEN = {
     { v: "origami", t: "📄 Origami" },
     { v: "makramee", t: "🪢 Makramee" },
     { v: "buch", t: "📘 Aus meinen Büchern" }
+  ],
+  zeit: [
+    { v: "", t: "Egal" },
+    { v: "frühling", t: "🌷 Frühling / Ostern" },
+    { v: "sommer", t: "☀️ Sommer" },
+    { v: "herbst", t: "🍂 Herbst / Halloween / St. Martin" },
+    { v: "winter", t: "⛄ Winter / Weihnachten / Fasching" },
+    { v: "ganzjährig", t: "🔄 Ganzjährig" }
   ],
   ort: [
     { v: "", t: "Egal" },
@@ -333,7 +344,7 @@ const STORE_FILTER = "kreativgames-filter";
 const SEITE = 60;
 
 /* ---------- Zustand ---------- */
-const standard = () => ({ art: "", thema: "", schwierig: "", druck: "", vorrat: "", ort: "", material: "", alter: "", extra: [] });
+const standard = () => ({ art: "", thema: "", zeit: "", schwierig: "", druck: "", vorrat: "", ort: "", material: "", alter: "", extra: [] });
 let filter = { ...standard(), ...laden(STORE_FILTER, {}) };
 
 /* Thema für alle Ideen ableiten (Origami/Makramee auch bei Web-Ideen) */
@@ -385,7 +396,7 @@ function renderFilter() {
       g.appendChild(b);
     });
   });
-  const anzahl = ["art", "thema", "schwierig", "druck", "vorrat", "ort", "material", "alter"].filter(k => filter[k]).length + filter.extra.length;
+  const anzahl = ["art", "thema", "zeit", "schwierig", "druck", "vorrat", "ort", "material", "alter"].filter(k => filter[k]).length + filter.extra.length;
   el("filterCount").textContent = anzahl;
   el("filter").hidden = !filterOffen;
 }
@@ -405,6 +416,7 @@ function gefiltert() {
     if (filter.art && i.art !== filter.art) return false;
     if (filter.thema === "buch" && !i.buch) return false;
     if (filter.thema && filter.thema !== "buch" && i.thema !== filter.thema) return false;
+    if (filter.zeit && !(i.zeit || []).includes(filter.zeit)) return false;
     if (filter.schwierig && String(i.stufe) !== filter.schwierig) return false;
     if (filter.druck && i.druck !== filter.druck) return false;
     if (filter.vorrat !== "") {
